@@ -1,0 +1,34 @@
+---
+title: Pobočky
+slug: pobocky
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 30
+---
+{% extends parent %}
+
+{% block main %}
+
+{% consume data from "https://registr.svobodni-praha.cz/bodies.json" %}
+<table class="table table-striped">
+<thead>
+  <tr><th>Název pobočky</th><th>Koordinátor</th><th>Noví členové</th></tr>
+</thead>
+<tbody>
+  {% for body in data.bodies %}
+    {% if body.id == 15 %}
+      {% for branch in body.organization.branches %}
+      <tr>
+        <td>{{ branch.name }}</td>
+        <td>{{ branch.coordinator.name }}</td>
+        <td>{{ branch.recruiter.name }}</td>
+      </tr>
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+</tbody>
+</table>
+{% endconsume %}
+{% endblock %}

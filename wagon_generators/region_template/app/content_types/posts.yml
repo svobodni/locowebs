@@ -1,0 +1,52 @@
+---
+name: Posts
+description: Uveřejňované články
+slug: posts
+label_field_name: title
+order_by: posted_at
+order_direction: desc
+fields:
+- title:
+    label: Title
+    type: string
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- posted_at:
+    label: Posted at
+    type: date_time
+    hint: A description of the field for the editors
+    required: true
+    unique: false
+    localized: false
+- tags:
+    label: Tags
+    type: tags
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+- teaser:
+    label: Teaser
+    type: text
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+    text_formatting: none
+- featured_image:
+    label: Featured image
+    type: file
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+- body:
+    label: Body
+    type: text
+    hint: A description of the field for the editors
+    required: false
+    unique: false
+    localized: false
+    text_formatting: none

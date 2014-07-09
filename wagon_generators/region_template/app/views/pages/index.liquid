@@ -1,5 +1,7 @@
 ---
 title: Svobodní Praha
+redirect_url: "/predsednictvo"
+redirect_type: 301
 listed: false
 published: true
 cache_strategy: none
@@ -45,7 +47,6 @@ position: 0
 		<div class="row">
 			<div class="col-md-12 col-wb">
 				<div class="header-logo"><a href="/"></a></div>
-
 				<ul>
 					<!--
 					<li><a class="btn btn-default" href="/registrace/prispet-financne" title="Přispět finančně Straně svobodných občanů">Přispět</a></li>
@@ -55,9 +56,7 @@ position: 0
 					<li><a class="btn btn-social btn-t" href="https://twitter.com/svobodni" title="Sledujte Svobodné na Twitteru"></a></li>
 					<li><a class="btn btn-social btn-y" href="http://www.youtube.com/user/svobodni?gl=CZ&amp;hl=cs" title="Sledujte videa Svobodných na YouTube"></a></li>-->
 
-									</ul>
-
-<h1>PRAHA</h1>
+				</ul>
 			</div>
 		</div>
 	</div>
@@ -76,55 +75,34 @@ position: 0
 					</a>
 				</div>
 				<div class="collapse navbar-collapse">
-
-			<ul class="nav navbar-nav">
-	<li class="">
-		<a href="/">Úvod</a>
-
-	</li>
-	{% nav 'site', no_wrapper: true, active_class: "active" %}
-
-		</ul>
-
-
+					<ul class="nav navbar-nav">
+						<li class=""><a href="/">Úvod</a></li>
+						{% nav 'site', no_wrapper: true, active_class: "active" %}
+					</ul>
 				</div><!--/.nav-collapse -->
 				</div>
 			</div>
 
+	
 
 	<div class="container content-container">
 		<div class="row row-title">
 			<div class="col-md-12">
 				<div class="page-header">
 					<div class="pull-right">
-
-
-
-
-<ul class="breadcrumb">
-
-	<li><a href="http://web.svobodni.cz/">Svobodní</a></li>
-
-
-
-
-	<li><a href="http://praha.svobodni.cz/">Praha</a></li>
-
-
-
-
-	<li>Praha 7</li>
-
-</ul>
+						<ul class="breadcrumb">
+							<li><a href="http://web.svobodni.cz/">Svobodní</a></li>
+							<li>Praha</li>
+						</ul>
 					</div>
-					<h1>{{ page.title }}</h1>
+                  <h1>{{ site.name }}</h1>
 				</div>
 			</div>
 		</div>
 
 		<div class="row">
 <div class="col-md-12">
-
+	<h2>{{ page.title }}</h2>
 	{% block main %}
 	<div class="row">
 	<div class="col-md-8">
@@ -134,7 +112,7 @@ position: 0
 
 
 			<div class="col-md-12 col-dark col-head">
-				<h2><a href="//clanky">Aktuálně</a></h2>
+				<h2><a href="/clanky">Aktuálně</a></h2>
 
 			</div>
 		</div>
@@ -151,7 +129,7 @@ position: 0
 			Praha, 170 00<br />
 			<abbr title="Telefon">Tel.:</abbr> (+420) 234 099 340<br />
 			<abbr title="E-mail">E-mail.:</abbr> kubicek@svobodni.cz
-
+			
 		</address>
 
 		<script type="text/javascript"
@@ -183,16 +161,6 @@ position: 0
 		</script>
 		<div id="map-canvas" style="width: 100%; height: 200px;"></div>
 
-		<div class="page-header">
-			<h2>Facebook</h2>
-		</div>
-
-		<div class="fb_iframe_widget">
-					<span>
-						<iframe id="iframe-likebox" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsvobodni.praha7&amp;width=590&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" style="border:none; overflow:hidden; width:940px; height:258px; background-color:transparent;"></iframe>
-						<!--[if lt IE 9]><script> $("#iframe-likebox").attr("allowTransparency", "true"); </script><![endif]-->
-					</span>
-		</div>
 	</div>
 </div>
 
@@ -229,7 +197,7 @@ position: 0
 				<div class="col-md-4 col-sm-12">
 						<div class="fb_iframe_widget">
 					<span>
-						<iframe id="iframe-likebox" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsvobodni&amp;width=590&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" style="border:none; overflow:hidden; width:940px; height:258px; background-color:transparent;"></iframe>
+						<iframe id="iframe-likebox" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsvobodni.praha&amp;width=590&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" style="border:none; overflow:hidden; width:940px; height:258px; background-color:transparent;"></iframe>
 						<!--[if lt IE 9]><script> $("#iframe-likebox").attr("allowTransparency", "true"); </script><![endif]-->
 					</span>
 						</div>
@@ -245,8 +213,8 @@ position: 0
 			</p>
 
 			<p class="pull-right">
-				Powered by <a href="http://www.venne.cz">Locomotive CMS</a> &nbsp;
-				· &nbsp; <a rel="nofollow" href="/admin">Github</a>
+				Powered by <a href="http://www.locomotivecms.com">Locomotive CMS</a> &nbsp;
+				· &nbsp; <a rel="nofollow" href="/locomotive">Admin</a>
 			</p>
 
 	</div>

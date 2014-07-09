@@ -1,0 +1,58 @@
+---
+title: Předsednictvo
+slug: predsednictvo
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 20
+editable_elements:
+  main/clenove_predsednictva: "<div class=\"col-md-8\">\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>Kontakt:&nbsp;Jiř&iacute;
+    Kub&iacute;ček, Kamenick&aacute; 26, 170 00 Praha 7<br /> č. &uacute;čtu:&nbsp;<a
+    style=\"line-height: 1.6em;\" href=\"https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2700382803\">2700382803/2010</a></p>\r\n<hr
+    /></div>"
+---
+{% extends 'parent' %}
+
+{% block main %}
+
+
+{% consume data from "https://registr.svobodni.cz/regions/<%= @region_id %>.json" %}
+<div class="col-md-8">
+  
+<h2>Předseda</h2>
+<p><img alt="{{ data.region.presidium.president.name }}" src="{{ data.region.presidium.president.photo_url }}"><br>
+{{ vicepresident.name }}<br>
+E-mail:&nbsp;{{ data.region.presidium.president.email }}&nbsp;<br>
+Telefon:&nbsp;{{ data.region.presidium.president.phone }}&nbsp;<br>
+{% if data.region.presidium.president.fb_page_url != "" %}
+<a href="{{ data.region.presidium.president.fb_page_url }}" target="_blank"><img alt="fb" src="http://www.svobodni.cz/styles/images/ico-fb-page.png"></a>&nbsp;
+{% endif %}
+{% if data.region.presidium.president.fb_profile_url != "" %}
+<a href="{{ data.region.presidium.president.fb_profile_url }}" target="_blank"><img alt="fb" src="http://www.svobodni.cz/styles/images/ico-fb-profile.png"></a></p>
+{% endif %}
+<div>&nbsp;</div>
+
+<h2>Místopředsedové</h2>
+{% for vicepresident in  data.region.presidium.vicepresidents %}
+<p><img alt="{{ vicepresident.name }}" src="{{ vicepresident.photo_url }}"><br>
+{{ vicepresident.name }}<br>
+E-mail:&nbsp;{{ vicepresident.email }}&nbsp;<br>
+Telefon:&nbsp;{{ vicepresident.phone }}&nbsp;<br>
+{% if vicepresident.fb_page_url != "" %}
+<a href="{{ vicepresident.fb_page_url }}" target="_blank"><img alt="fb" src="http://www.svobodni.cz/styles/images/ico-fb-page.png"></a>&nbsp;
+{% endif %}
+{% if vicepresident.fb_profile_url != "" %}
+<a href="{{ vicepresident.fb_profile_url }}" target="_blank"><img alt="fb" src="http://www.svobodni.cz/styles/images/ico-fb-profile.png"></a></p>
+{% endif %}
+<div>&nbsp;</div>
+{% endfor %}
+
+{% endconsume %}
+
+{% editable_text "clenove_predsednictva", hint: "Členové předsednictva." %}
+<p>Kontakt:&nbsp;Jiří Kubíček, Kamenická 26, 170 00 Praha 7<br>
+č. účtu:&nbsp;<a href="https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2700382803" style="line-height: 1.6em;">2700382803/2010</a></p>
+{% endeditable_text %}
+</div>
+{% endblock %}

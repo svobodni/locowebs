@@ -11,23 +11,21 @@ position: 30
 
 {% block main %}
 
-{% consume data from "https://registr.svobodni-praha.cz/bodies.json" %}
+{% consume data from "https://registr.svobodni.cz/regions/<%= @region_id %>.json" %}
 <table class="table table-striped">
 <thead>
   <tr><th>Název pobočky</th><th>Koordinátor</th><th>Noví členové</th></tr>
 </thead>
 <tbody>
-  {% for body in data.bodies %}
-    {% if body.id == 15 %}
-      {% for branch in body.organization.branches %}
+
+      {% for branch in data.region.branches %}
       <tr>
         <td>{{ branch.name }}</td>
         <td>{{ branch.coordinator.name }}</td>
         <td>{{ branch.recruiter.name }}</td>
       </tr>
       {% endfor %}
-    {% endif %}
-  {% endfor %}
+
 </tbody>
 </table>
 {% endconsume %}

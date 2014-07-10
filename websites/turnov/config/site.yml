@@ -1,0 +1,9 @@
+---
+name: Svobodní Turnov
+locales: [cs]
+subdomain: turnov
+domains: [turnov.svobodni.cz]
+seo_title: Svobodní Turnov
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

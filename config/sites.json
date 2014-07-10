@@ -1,5 +1,6 @@
 [
 	{"name":"praha9","title":"Svobodní Praha 9","short_title":"Praha 9","branch_id":105, "fb_page_name":"svobodni.p9"},
 	{"name":"praha4","title":"Svobodní Praha 4","short_title":"Praha 4","branch_id":101, "fb_page_name":"svobodni.praha4"},
-	{"name":"praha3","title":"Svobodní Praha 3","short_title":"Praha 3","branch_id":102, "fb_page_name":"svobodni.praha3"}
+	{"name":"praha3","title":"Svobodní Praha 3","short_title":"Praha 3","branch_id":102, "fb_page_name":"svobodni.praha3"},
+	{"name":"turnov","title":"Svobodní Turnov","short_title":"Turnov","fb_page_name":"svobodni"}
 ]

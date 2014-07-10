@@ -1,0 +1,28 @@
+Svobodní CMS
+============
+
+Svobodní CMS je nouzový systém pro rychlé zprovoznění krajských a pobočkových webů. Pomocí šablony umožňuje nagenerovat web a ten vystavit pomocí Locomotive CMS engine.
+
+Weby na požádání zakládá Jiří Kubíček (kubicek@svobodni.cz)
+
+Generování krajského webu
+=========================
+
+    $ cd websites
+    $ wagon init praha -t region_template --lib ../wagon_generators/region_template.rb 
+    $ git add .
+    $ git commit -am "Přidán web pro Prahu"
+    $ git push origin master
+    $ wagon push hosting 
+
+
+Generování pobočkového webu
+=========================
+
+    $ cd websites
+    $ wagon init praha9 -t branch_template --lib ../wagon_generators/branch_template.rb 
+    $ git add .
+    $ git commit -am "Přidán web pro Prahu 9"
+    $ git push origin master
+    $ wagon push hosting 
+

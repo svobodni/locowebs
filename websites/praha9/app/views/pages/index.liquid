@@ -1,7 +1,5 @@
 ---
-title: Svobodní Praha
-redirect_url: "/predsednictvo"
-redirect_type: 301
+title: Svobodní Praha 9
 listed: false
 published: true
 cache_strategy: none
@@ -90,7 +88,8 @@ position: 0
 					<div class="pull-right">
 						<ul class="breadcrumb">
 							<li><a href="http://web.svobodni.cz/">Svobodní</a></li>
-							<li>Praha</li>
+  						    <li><a href="http://praha.svobodni.cz/">Praha</a></li>	
+                            <li>Praha 9</li>
 						</ul>
 					</div>
                   <h1>{{ site.name }}</h1>
@@ -105,59 +104,29 @@ position: 0
 	<div class="row">
 	<div class="col-md-8">
 		<div class="row">
-			<div class="col-md-12">
-			</div>
-
 
 			<div class="col-md-12 col-dark col-head">
 				<h2><a href="/clanky">Aktuálně</a></h2>
 
+						<div class="fb_iframe_widget">
+					<span>
+					<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&appId=153517771344555&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="fb-like-box" data-href="https://www.facebook.com/svobodni.p9" data-width="750" data-height="1000" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+					</span>
+						</div>
 			</div>
 		</div>
 	</div>
 
 	<div class="col-md-4 col-head">
-		<div class="page-header">
-			<h2>Kontakty</h2>
-		</div>
-
-		<address>
-			<strong>Praha 7</strong><br />
-			Kamenická 26<br />
-			Praha, 170 00<br />
-			<abbr title="Telefon">Tel.:</abbr> (+420) 234 099 340<br />
-			<abbr title="E-mail">E-mail.:</abbr> kubicek@svobodni.cz
-		</address>
-
-		<script type="text/javascript"
-				src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBlh24-Q-psVFwE0COKjhbA9vyJVPzwXtI&sensor=false">
-		</script>
-		<script type="text/javascript">
-			function initialize() {
-				geocoder = new google.maps.Geocoder();
-				geocoder.geocode({
-					'address': 'Kamenická 26, Praha'
-				}, function(results, status) {
-					if (status == google.maps.GeocoderStatus.OK) {
-						var mapOptions = {
-							center: results[0].geometry.location,
-							zoom: 12
-						};
-						var map = new google.maps.Map(document.getElementById("map-canvas"), mapOptions);
-
-						marker = new google.maps.Marker({
-							position: results[0].geometry.location,
-							title: 'test'
-						});
-						marker.setMap(map);
-					}
-				});
-
-			}
-			google.maps.event.addDomListener(window, 'load', initialize);
-		</script>
-		<div id="map-canvas" style="width: 100%; height: 200px;"></div>
-
+		
 	</div>
 </div>
 
@@ -177,7 +146,8 @@ position: 0
 					<h4>Důležité odkazy</h4>
 
 					<ul class="list-unstyled">
-						<li><a href="http://www.svobodni.cz"><i class="glyphicon glyphicon-globe"></i> Republikový web
+						<li><a href="http://www.svobodni.cz"><i class="glyphicon glyphicon-globe"></i> Republikový web</a></li>
+						<li><a href="http://praha.svobodni.cz"><i class="glyphicon glyphicon-globe"></i> Krajský web</a></li>
 						<li><a href="http://eshop.svobodni.cz"><i class="fa fa-shopping-cart"></i> E-shop</a></li>
 					</ul>
 				</div>
@@ -185,7 +155,7 @@ position: 0
 					<h4>Svobodní na sociálních sítích</h4>
 
 					<ul class="list-unstyled">
-						<li><a href="https://www.facebook.com/svobodni.praha"><i class="fa fa-facebook"></i> Facebook</a></li>
+						<li><a href="https://www.facebook.com/svobodni.p9"><i class="fa fa-facebook"></i> Facebook</a></li>
 					</ul>
 				</div>
 				<div class="col-md-2 col-sm-4">
@@ -194,7 +164,7 @@ position: 0
 				<div class="col-md-4 col-sm-12">
 						<div class="fb_iframe_widget">
 					<span>
-						<iframe id="iframe-likebox" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsvobodni.praha&amp;width=590&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" style="border:none; overflow:hidden; width:940px; height:258px; background-color:transparent;"></iframe>
+						<iframe id="iframe-likebox" src="//www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fsvobodni.p9&amp;width=590&amp;height=258&amp;colorscheme=light&amp;show_faces=true&amp;header=false&amp;stream=false&amp;show_border=false" style="border:none; overflow:hidden; width:940px; height:258px; background-color:transparent;"></iframe>
 						<!--[if lt IE 9]><script> $("#iframe-likebox").attr("allowTransparency", "true"); </script><![endif]-->
 					</span>
 						</div>

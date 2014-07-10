@@ -1,7 +1,5 @@
 ---
 title: <%= @title %>
-redirect_url: "/kontakt"
-redirect_type: 301
 listed: false
 published: true
 cache_strategy: none
@@ -106,13 +104,24 @@ position: 0
 	<div class="row">
 	<div class="col-md-8">
 		<div class="row">
-			<div class="col-md-12">
-			</div>
-
 
 			<div class="col-md-12 col-dark col-head">
 				<h2><a href="/clanky">Aktuálně</a></h2>
-
+<% if @fb_page_name %>
+						<div class="fb_iframe_widget">
+					<span>
+					<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&appId=153517771344555&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+						<div class="fb-like-box" data-href="https://www.facebook.com/<%= @fb_page_name %>" data-width="750" data-height="1000" data-colorscheme="light" data-show-faces="false" data-header="false" data-stream="true" data-show-border="true"></div>
+					</span>
+						</div>
+<% end -%>
 			</div>
 		</div>
 	</div>

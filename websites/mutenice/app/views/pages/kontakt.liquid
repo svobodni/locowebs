@@ -11,20 +11,8 @@ position: 2
 
 {% block main %}
 
-{% consume data from "https://registr.svobodni.cz/branches/.json" %}
-<h2>Pobočka {{ data.branch.name }}</h2>
-{% assign person = data.branch.coordinator %}
-<h2>Koordinátor pobočky</h2>
-{% include 'person' with person %}
+{% editable_text "kontakt", hint: "Kontaktní údaje." %}
 
-
-{% if data.branch.recruiter.name %}
-{% if data.branch.coordinator.name != data.branch.recruiter.name %}
-<h2>Kontakt pro zájemce o členství</h2>
-{% assign person = data.branch.recruiter %}
-{% include 'person' with person %}
-{% endif %}
-{% endif %}
-{% endconsume %}
+{% endeditable_text %}
 
 {% endblock %}

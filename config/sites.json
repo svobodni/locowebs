@@ -4,5 +4,6 @@
 	{"name":"praha3","title":"Svobodní Praha 3","short_title":"Praha 3","branch_id":102, "fb_page_name":"SvobodniPraha3"},
 	{"name":"turnov","title":"Svobodní Turnov","short_title":"Turnov","fb_page_name":"svobodni"},
 	{"name":"hodonin","title":"Svobodní Hodnínsko","short_title":"Hodonínsko","branch_id":130,"fb_page_name":"svobodni.hodoninsko"},
-	{"name":"vimperk","title":"Svobodní Vimperk","short_title":"Vimperk","branch_id":146,"fb_page_name":"svobodniVimperk"}
+	{"name":"vimperk","title":"Svobodní Vimperk","short_title":"Vimperk","branch_id":146,"fb_page_name":"svobodniVimperk"},
+	{"name":"mutenice","title":"Svobodní Mutěnice","short_title":"Mutěnice","fb_page_name":"mutenice.svobodni"}
 ]

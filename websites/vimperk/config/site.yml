@@ -1,0 +1,9 @@
+---
+name: Svobodní Vimperk
+locales: [cs]
+subdomain: vimperk
+domains: [vimperk.svobodni.cz]
+seo_title: Svobodní Vimperk
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

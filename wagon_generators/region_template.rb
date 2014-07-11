@@ -5,6 +5,7 @@ class RegionTemplate < Locomotive::Wagon::Generators::Site::Base
 
   def copy_sources
     @region_id = ask('ID kraje v registru Svobodných?')
+    @fb_page_name = ask('Název stránky na facebooku? (např. svobodni.praha)')
     super
     File.symlink('../../../config/deploy.yml', File.join(destination,'config/deploy.yml')) unless File.exist?(File.join(destination,'config/deploy.yml'))
   end

@@ -1,0 +1,9 @@
+---
+name: Svobodní Hodnínsko
+locales: [cs]
+subdomain: hodonin
+domains: [hodonin.svobodni.cz]
+seo_title: Svobodní Hodnínsko
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

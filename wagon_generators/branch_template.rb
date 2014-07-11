@@ -11,7 +11,7 @@ class BranchTemplate < Locomotive::Wagon::Generators::Site::Base
 	site = websites.detect{|site| site['name']==name}
 	if site
 		@title = site['title'].force_encoding("ASCII-8BIT")
-		@short_title = site['short_title']
+		@short_title = site['short_title'].force_encoding("ASCII-8BIT")
 		@branch_id = site['branch_id']
 		@fb_page_name = site['fb_page_name']
 	else

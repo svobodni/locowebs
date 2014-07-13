@@ -11,6 +11,10 @@ position: 2
 
 {% block main %}
 
+{% editable_text "kontakt", hint: "Kontaktní údaje." %}
+{% endeditable_text %}
+
+
 {% consume data from "https://registr.svobodni.cz/branches/146.json" %}
 <h2>Pobočka {{ data.branch.name }}</h2>
 {% assign person = data.branch.coordinator %}
@@ -26,5 +30,6 @@ position: 2
 {% endif %}
 {% endif %}
 {% endconsume %}
+
 
 {% endblock %}

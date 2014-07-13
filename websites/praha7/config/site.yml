@@ -1,0 +1,9 @@
+---
+name: Svobodní Praha 7
+locales: [cs]
+subdomain: praha7
+domains: [praha7.svobodni.cz]
+seo_title: Svobodní Praha 7
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

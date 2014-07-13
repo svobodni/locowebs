@@ -24,6 +24,14 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"praha7",
+		"title":"Svobodní Praha 7",
+		"short_title":"Praha 7",
+		"branch_id":104,
+		"fb_page_name":"svobodni.praha7",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
 		"name":"turnov",
 		"title":"Svobodní Turnov",
 		"short_title":"Turnov",

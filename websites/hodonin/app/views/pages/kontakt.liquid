@@ -5,7 +5,7 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 2
+position: 90
 ---
 {% extends parent %}
 
@@ -20,7 +20,6 @@ position: 2
 {% assign person = data.branch.coordinator %}
 <h2>Koordinátor pobočky</h2>
 {% include 'person' with person %}
-
 
 {% if data.branch.recruiter.name %}
 {% if data.branch.coordinator.name != data.branch.recruiter.name %}

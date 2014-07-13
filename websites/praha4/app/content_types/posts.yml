@@ -34,7 +34,7 @@ fields:
     required: false
     unique: false
     localized: false
-    text_formatting: none
+    text_formatting: html
 - featured_image:
     label: Featured image
     type: file
@@ -49,4 +49,4 @@ fields:
     required: false
     unique: false
     localized: false
-    text_formatting: none
+    text_formatting: html

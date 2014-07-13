@@ -15,7 +15,7 @@ class BranchTemplate < Locomotive::Wagon::Generators::Site::Base
 		@branch_id = site['branch_id']
 		@fb_page_name = site['fb_page_name']
 		@region_name = site['region_name'].force_encoding("ASCII-8BIT")
-		@region_url = site['region_name']
+		@region_url = site['region_url']
 	else
 		@title = ask('Název webu? (např. Svobodní Praha 9)')
 		@short_title = ask('Název pobočky? (např. Praha 9)')

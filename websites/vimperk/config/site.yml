@@ -4,6 +4,7 @@ locales: [cs]
 subdomain: vimperk
 domains: [vimperk.svobodni.cz]
 seo_title: Svobodní Vimperk
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: svobodni, vimperk, politika, volby
+meta_description: 'Svobodní kandidují v komunálních volbách 2014 ve Vimperku. Hlavním
+  cílem je svoboda, odpovědnost a prosperita. '
 timezone: Prague

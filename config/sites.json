@@ -32,6 +32,14 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"praha10",
+		"title":"Svobodní Praha 10",
+		"short_title":"Praha 10",
+		"branch_id":135,
+		"fb_page_name":"svobodni.praha10",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
 		"name":"praha21",
 		"title":"Svobodní Praha 21",
 		"short_title":"Praha 21",

@@ -1,0 +1,9 @@
+---
+name: Svobodní Praha 10
+locales: [cs]
+subdomain: praha10
+domains: [praha10.svobodni.cz]
+seo_title: Svobodní Praha 10
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

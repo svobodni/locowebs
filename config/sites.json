@@ -78,6 +78,14 @@
 		"region_name": "Kraj Vysočina",
 		"region_url": "http://vysocina.svobodni.cz"
 	},{
+		"name":"slany",
+		"title":"Svobodní Slaný",
+		"short_title":"Slaný",
+		"branch_id":123,
+		"fb_page_name":"svobodni",
+		"region_name": "Středočeský kraj",
+		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
+	},{
 		"name":"mladaboleslav",
 		"title":"Svobodní Mladá Boleslav",
 		"short_title":"Mladá Boleslav",

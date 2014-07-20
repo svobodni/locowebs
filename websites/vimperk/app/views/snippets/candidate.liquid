@@ -35,6 +35,11 @@
 			<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
 			<dd><a href="{{ person.fb_page_url }}">stránka</a></dd>
 			{% endif %}
+          	{% if person.political_party != blank %}
+          <dt>Politická <p> příslušnost</p></dt>
+          <dd><p></p><p>{{ person.political_party }}</p></dd>
+			{% endif %}
+          	
          </dl>
 	</div>
 </div>

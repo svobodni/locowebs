@@ -5,7 +5,7 @@ listed: true
 published: false
 cache_strategy: none
 response_type: text/html
-position: 60
+position: 2
 ---
 {% extends parent %}
 
@@ -14,6 +14,7 @@ position: 60
 {% for candidate in contents.candidates %}
 {% assign person = candidate %}
 {% include 'candidate' with person, position: forloop.index %}
+
 {% endfor %}
 
 {% endblock %}

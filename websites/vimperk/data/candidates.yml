@@ -1,0 +1,92 @@
+---
+- Maxim Kysil:
+    _slug: maxim-kysil
+    photo_url: http://kysil.blog.idnes.cz/bloger/16842/bloger_859.jpg
+    occupation: Student Národohospodářské fakulty VŠE
+    political_party: Strana svobodných občanů
+    age: 22
+    email: MaksymKysil@gmail.com
+    phone: '774950444'
+    fb_profile_url: https://www.facebook.com/maxim.kysil
+- Jan Hanžl:
+    _slug: jan-hanzl
+    occupation: Pekař
+    political_party: bez politické příslušnosti
+    age: 66
+- Jiřina Sochová:
+    _slug: jirina-sochova
+    occupation: Exkluzivní poradce České spořitelny
+    political_party: Strana svobodných občanů
+    age: 42
+- Zdeněk Jungvirt:
+    _slug: zdenek-jungvirt
+    occupation: IT specialista
+    political_party: Strana svobodných občanů
+    age: 28
+    email: jungvirt@602.cz
+    phone: '739298358'
+    fb_profile_url: https://www.facebook.com/Savrik
+- Mgr. Pavel Reichart:
+    _slug: mgr-pavel-reichart
+    occupation: Oblastní manažer ČPP servis
+    political_party: bez politické příslušnosti
+    age: 35
+- Michal Jaroš:
+    _slug: michal-jaros
+    occupation: Regionální manažer
+    political_party: bez politické příslušnosti
+    age: 39
+- Michal Hrubý:
+    _slug: michal-hruby
+    occupation: Podnikatel-firemní foto Google
+    political_party: bez politické příslušnosti
+    age: 27
+- Josef Šísl:
+    _slug: josef-sisl
+    occupation: Podnikatel
+    political_party: bez politické příslušnosti
+    age: 60
+- Jan Kraml:
+    _slug: jan-kraml
+    occupation: Administrátor sítě
+    political_party: bez politické příslušnosti
+    age: 29
+- Ing. Hana Kubovcová:
+    _slug: ing-hana-kubovcova
+    occupation: Customer operations representative
+    political_party: bez politické příslušnosti
+    age: 26
+- Bc. František Doule:
+    _slug: bc-frantisek-doule
+    occupation: Policista
+    political_party: bez politické příslušnosti
+    age: 31
+- Lenka Šenkýřová:
+    _slug: lenka-senkyrova
+    occupation: "Účetní"
+    political_party: bez politické příslušnosti
+    age: 45
+- Jaroslav Sova:
+    _slug: jaroslav-sova
+    occupation: Důchodce
+    political_party: bez politické příslušnosti
+- Sabina Vaňková:
+    _slug: sabina-vankova
+    occupation: Studentka
+    political_party: bez politické příslušnosti
+    age: 20
+- Světlana Kysilová:
+    _slug: svetlana-kysilova
+    occupation: Mateřská dovolená
+    political_party: bez politické příslušnosti
+    age: 42
+- Ing. Tomáš Frček:
+    _slug: ing-tomas-frcek
+    occupation: Student VŠ
+    political_party: bez politické příslušnosti
+    age: 24
+- Jan Vávra:
+    _slug: jan-vavra
+    occupation: "Řidič, automechanik"
+    political_party: bez politické příslušnosti
+    age: 23

@@ -1,0 +1,23 @@
+---
+- Bc. Jan Matyásko:
+    _slug: bc-jan-matyasko
+    occupation: Energetický analytik
+    political_party: Strana svobodných občanů
+    age: 26
+    email: jan.matyasko@svobodni.cz
+- Ing. David Bucek:
+    _slug: ing-david-bucek
+    occupation: Programátor
+    political_party: Strana svobodných občanů
+    age: 35
+    email: davidbucek@svobodni.cz
+- Lukáš Abík:
+    _slug: lukas-abik
+    occupation: "Řemeslník"
+- Ivana Burešová:
+    _slug: ivana-buresova
+    occupation: "Živnostník"
+    political_party: Strana svobodných občanů
+- Zdeněk Zajíček:
+    _slug: zdenek-zajicek
+    political_party: Strana svobodných občanů

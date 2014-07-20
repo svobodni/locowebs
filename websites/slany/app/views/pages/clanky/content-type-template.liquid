@@ -11,10 +11,15 @@ content_type: posts
 {% extends parent %}
 
 {% block main %}
-{% for crumb in page.breadcrumbs %}{{ crumb.title }},{% endfor %}
+  <div class="row">
+  <div class="col-md-8">
+    <div class="row">
+
+      <div class="col-md-12 col-dark col-head">
+
 <article class="post">
   <h3 class="posted-at">
-    Posted at {{ post.posted_at | localized_date: '%-I:%M %p' }} on {{ post.posted_at | localized_date: '%B, %-d %Y' }}
+    Zveřejněno  {{ post.posted_at | localized_date: '%d.%m.%Y' }}
   </h3>
 
   {% if post.tags %}
@@ -30,4 +35,5 @@ content_type: posts
   </div>
 </article>
 
+          </div></div></div></div>
 {% endblock %}

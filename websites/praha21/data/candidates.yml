@@ -1,0 +1,93 @@
+---
+- Ing. Jakub Voneš:
+    _slug: ing-jakub-vones
+    seo_title: '1'
+    photo_url: http://vones.cz/images/kuba6.jpg
+    occupation: ekonom
+    political_party: Strana svobodných občanů
+    age: 26
+    email: jakub@vones.cz
+    fb_profile_url: http://www.facebook.com/jakub.vones
+- MUDr. Jaroslav Jeníček, CSc.:
+    _slug: mudr-jaroslav-jenicek-csc
+    seo_title: '2'
+    occupation: lékař
+    political_party: Strana svobodných občanů
+    age: 49
+- Mgr. Martin Košut:
+    _slug: mgr-martin-kosut
+    seo_title: '3'
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 43
+- Tomáš Stoklasa:
+    _slug: tomas-stoklasa
+    seo_title: '4'
+    occupation: obchodní zástupce
+    political_party: bez politické příslušnosti
+    age: 39
+- Bc. Václav Hub:
+    _slug: bc-vaclav-hub
+    occupation: bankovní úředník
+    political_party: bez politické příslušnosti
+    age: 43
+- Radek Vinš:
+    _slug: radek-vins
+    occupation: zaměstnanec soukromé společnosti
+    political_party: bez politické příslušnosti
+    age: 27
+- MUDr. Jitka Krejčí:
+    _slug: mudr-jitka-krejci
+    occupation: monitor klinických studií
+    political_party: bez politické příslušnosti
+    age: 44
+- Patrik Mádr:
+    _slug: patrik-madr
+    occupation: provozní
+    political_party: bez politické příslušnosti
+    age: 37
+- Lucie Větrovcová:
+    _slug: lucie-vetrovcov
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 23
+- Ing. Veronika Vonešová:
+    _slug: ing-veronika-vonesova
+    occupation: zahradní architekt
+    political_party: bez politické příslušnosti
+    age: 28
+- Bc. Martin Košut:
+    _slug: bc-martin-kosut
+    occupation: ekonom
+    political_party: bez politické příslušnosti
+    age: 23
+- Jana Walker:
+    _slug: jana-walker
+    occupation: finanční účetní
+    political_party: bez politické příslušnosti
+    age: 35
+- David Košut:
+    _slug: david-kosut
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 20
+- Luboš Walter:
+    _slug: lubos-walter
+    occupation: výtvarník
+    political_party: bez politické příslušnosti
+    age: 63
+- Ing. Radoslava Kohoutová:
+    _slug: ing-radoslava-kohoutova
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 49
+- MUDr. Radoslava Jeníčková:
+    _slug: mudr-radoslava-jenickov
+    occupation: lékař
+    political_party: bez politické příslušnosti
+    age: 48
+- Michal Kmínek:
+    _slug: michal-kminek
+    occupation: technolog analytik
+    political_party: Strana svobodných občanů
+    age: 42

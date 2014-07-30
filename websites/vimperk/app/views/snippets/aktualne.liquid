@@ -1,0 +1,14 @@
+<div class="media">
+    {% for post in contents.posts %}
+      <div class="media">
+      	<h4><a href="/clanky/{{ post._slug }}">{{ post.title | escape }}</a></h4>
+        {% if post.featured_image.url %}
+      	<a class="pull-left" href="/clanky/{{ post._slug }}">
+			<img class="media-object" alt="{{ post.title | escape }}"  src="{{ post.featured_image.url | resize: '350x150#' }}"/>
+		</a>
+		{% endif %}        
+        <p>{{ post.teaser }}</p>
+		<small class="muted">&nbsp; · &nbsp; <span class="glyphicon glyphicon-calendar"></span> {{ post.posted_at | date: "%d.%m.%Y"  }}</small>
+      </div>
+    {% endfor %}
+  </div>

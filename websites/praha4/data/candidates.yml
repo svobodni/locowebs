@@ -1,1 +1,49 @@
---- []
+---
+- Damir Špoljarič:
+    _slug: damir-spoljari
+    obvod: 1
+    photo_url: https://www.svobodni.cz/Controls/AvatarImageFetch.ashx?MemberID=cb357819-8298-45e3-9e41-15ea2af94e1a
+    occupation: IT podnikatel, specialista v oblasti dopravy
+    political_party: Strana svobodných občanů
+    age: 26
+    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 1</p>"
+- Tomáš Vochozka:
+    _slug: tomas-vochozka
+    obvod: 2
+    photo_url: https://www.svobodni.cz/Controls/AvatarImageFetch.ashx?MemberID=7c157364-56a2-4271-b735-29b40b07b245
+    occupation: zakladatel občanského sdružení, odborník na realitní obchody, marketér,
+      donátor nadačního fondu proti korupci, investor a signatář ZRUŠME KOMUNISTY
+    political_party: Strana svobodných občanů
+    age: 33
+    email: tomvochozka@yahoo.com
+    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 2</p>"
+- Bc. Alois Sečkár:
+    _slug: bc-alois-seckar
+    obvod: 3
+    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c7656d30-f1f7-45a9-8cd5-104e0dc26ca1
+    occupation: Programátor
+    political_party: Strana svobodných občanů
+    age: 26
+    email: seckar@seznam.cz
+    phone: 721 302 700
+    homepage_url: http://ellrohir.mzf.cz/
+    fb_profile_url: https://www.facebook.com/alois.seckar
+    fb_page_url: https://www.facebook.com/AloisSeckarSvobodni
+    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 3</p>"
+- Ing. Jan Skalický:
+    _slug: jan-skalicky
+    obvod: 4
+    photo_url: https://www.svobodni.cz/Controls/AvatarImageFetch.ashx?MemberID=6c847f71-5643-4dac-ac2f-df891c5d6640
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 53
+    email: j.skalicky@seznam.cz
+    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 4</p>"
+- Ing. Jaroslav Marsa, MBA:
+    _slug: jaroslav-marsa
+    obvod: 5
+    photo_url: https://fbcdn-profile-a.akamaihd.net/hprofile-ak-xaf1/v/t1.0-1/c50.50.621.621/s160x160/526431_596310733731691_410034638_n.jpg?oh=a852b4bddfd6fc9e910cc25a97d06995&oe=5450C3B5&__gda__=1414350886_f252e29b2c023d625c2ea35dce5addc6
+    occupation: OSVČ
+    political_party: Bez politické příslušnosti
+    age: 54
+    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 5</p>"

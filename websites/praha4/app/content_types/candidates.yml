@@ -6,6 +6,13 @@ label_field_name: name
 order_by: manually
 order_direction: asc
 fields:
+- obvod:
+    label: obvod
+    type: integer
+    hint: Volební obvod v rámci Prahy 4
+    required: false
+    unique: false
+    localized: false
 - photo_url:
     label: photo_url
     type: string
@@ -72,3 +79,10 @@ fields:
     required: false
     unique: false
     localized: false
+- personal_text:
+    label: personal_text
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html

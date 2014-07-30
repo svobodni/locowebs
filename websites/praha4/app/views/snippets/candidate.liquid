@@ -7,6 +7,10 @@
 	</a>
 	<div class="media-body">
 		<dl class="dl-horizontal">
+            {% if person.obvod != blank %}
+			<dt>Volební obvod</dt>
+			<dd>{{ person.obvod }}</dd>
+			{% endif %}
 			{% if person.age != blank %}
 			<dt>Věk</dt>
 			<dd>{{ person.age }}</dd>
@@ -38,6 +42,10 @@
 			{% if person.political_party != blank %}
 			<dt>Politická <p> příslušnost</p></dt>
          	<dd><p></p><p>{{ person.political_party }}</p></dd>
+			{% endif %}
+            {% if person.political_party != blank %}
+			<dt>Osobní <p> text</p></dt>
+         	<dd><p></p><p>{{ person.personal_text }}</p></dd>
 			{% endif %}
          </dl>
 	</div>

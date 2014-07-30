@@ -5,8 +5,30 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 4
+position: 3
+seo_title: Podpora Svobodných ve Vimperku
+meta_keywords: zapojte se, kampan, pomoc, svobodni, vimperk
 editable_elements:
-  main/uvod: "\r\n\t\t\t\t"
+  main/Obsah: "<p><strong style=\"line-height: 1.5em;\">Pokud chcete pomoci či podpořit
+    Svobodn&eacute; ve Vimperku, tak m&aacute;te možnost n&aacute;sleduj&iacute;c&iacute;mi
+    způsoby:</strong></p>\r\n<p>- jestliže m&aacute;te n&aacute;pady, podněty na program
+    nebo chcete pomoc s kampan&iacute; (roznos let&aacute;ků, kontaktn&iacute; kampaň,
+    plocha na plachtu či billboard), tak n&aacute;s nev&aacute;hejte&nbsp;<a href=\"http://vimperk.svobodni.cz/kontakt\"
+    target=\"_blank\">kontaktovat</a></p>\r\n<p>- zakoupen&iacute;m propagačn&iacute;ho
+    materi&aacute;lu v republikov&eacute;m&nbsp;<a href=\"http://eshop.svobodni.cz\"
+    target=\"_blank\">eshopu</a></p>\r\n<p>- finančn&iacute;m př&iacute;spěvkem na
+    republikov&yacute;&nbsp;<a href=\"http://web.svobodni.cz/registrace/prispet-financne\"
+    target=\"_blank\">transparentn&iacute; &uacute;čet</a></p>\r\n<p>- st&aacute;t
+    se&nbsp;<a href=\"http://web.svobodni.cz/registrace/stat-se-clenem\" target=\"_blank\">členem</a>&nbsp;či&nbsp;<a
+    href=\"http://web.svobodni.cz/registrace/stat-se-priznivcem\" target=\"_blank\">přiznivcem</a></p>\r\n<p>&nbsp;<img
+    src=\"/samples/assets/_eton-300x225.jpg\" alt=\"\" /></p>"
 ---
-{% extends 'parent' %}
+{% extends parent %}
+
+{% block 'main' %}
+
+{% editable_text "Obsah" %}    
+
+{% endeditable_text %}
+
+{% endblock %}

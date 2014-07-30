@@ -1,1 +1,35 @@
---- []
+---
+- hello:
+    _slug: hello
+    _visible: false
+    posted_at: 25. 07. 2014 00:00
+    teaser: ''
+    body: "<p>sfsfsdf</p>"
+- Předávání kandidátní listiny:
+    _slug: predavani-kandidatky
+    posted_at: 23. 07. 2014 18:00
+    teaser: "<p>Dnes jsme před&aacute;vali na Městsk&eacute;m &uacute;řadě ve Vimperku
+      kandid&aacute;tn&iacute; listinu Svobodn&yacute;ch do &nbsp; &nbsp; &nbsp; komun&aacute;ln&iacute;ch
+      voleb 2014. Před&aacute;n&iacute; se z&uacute;častnila na&scaron;e zmocněnkyně
+      Romana Z&iacute;dkov&aacute;, l&iacute;dr Svobodn&yacute;ch ve Vimperku Maxim
+      Kysil a kandid&aacute;tka č. 3 Jiřina Sochov&aacute;.</p>"
+    featured_image: "/samples/posts/predavani-kandidatky/IMG_6814.png"
+    body: "<p>Dnes jsme před&aacute;vali na Městsk&eacute;m &uacute;řadě ve Vimperku
+      kandid&aacute;tn&iacute; listinu Svobodn&yacute;ch do komun&aacute;ln&iacute;ch
+      voleb 2014. Před&aacute;n&iacute; se z&uacute;častnila na&scaron;e zmocněnkyně
+      Romana Z&iacute;dkov&aacute;, l&iacute;dr Svobodn&yacute;ch ve Vimperku Maxim
+      Kysil a kandid&aacute;tka č. 3 Jiřina Sochov&aacute;.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<div
+      class=\"row\">\r\n<div class=\"thumbnails\">\r\n<div class=\"col-md-4\">\r\n<div
+      class=\"thumbnail\"><a href=\"/samples/assets/IMG_6826.png\" rel=\"lightbox\"><img
+      src=\"/samples/assets/IMG_6826.png\" alt=\"\" /></a></div>\r\n</div>\r\n<div
+      class=\"col-md-4\">\r\n<div class=\"thumbnail\"><a href=\"/samples/assets/IMG_6832.png\"
+      rel=\"lightbox\"><img src=\"/samples/assets/IMG_6832.png\" alt=\"\" /></a></div>\r\n</div>\r\n<div
+      class=\"col-md-4\">\r\n<div class=\"thumbnail\"><a href=\"/samples/assets/IMG_6838.png\"
+      rel=\"lightbox\"><img src=\"/samples/assets/IMG_6838.png\" alt=\"\" /></a></div>\r\n</div>\r\n</div>\r\n</div>\r\n<div
+      class=\"row\">\r\n<div class=\"thumbnails\">\r\n<div class=\"col-md-4\">\r\n<div
+      class=\"thumbnail\"><a href=\"/samples/assets/IMG_6845.png\" rel=\"lightbox\"><img
+      src=\"/samples/assets/IMG_6845.png\" alt=\"\" /></a></div>\r\n</div>\r\n<div
+      class=\"col-md-4\">\r\n<div class=\"thumbnail\"><a href=\"/samples/assets/IMG_6814.png\"
+      rel=\"lightbox\"><img src=\"/samples/assets/IMG_6814.png\" alt=\"\" /></a></div>\r\n</div>\r\n<div
+      class=\"col-md-4\">\r\n<div class=\"thumbnail\"><a href=\"/samples/assets/IMG_6858.png\"
+      rel=\"lightbox\"><img src=\"/samples/assets/IMG_6858.png\" alt=\"\" /></a></div>\r\n</div>\r\n</div>\r\n</div>"

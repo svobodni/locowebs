@@ -1,8 +1,24 @@
+<script type="text/javascript">
+function toggle(it) {
+ 
+    it.width = 300;
+  	it.height = 390;
+  }
+
+function untoggle(it) {
+  
+    it.width = 110;
+  	it.height = 132;
+  }
+    
+ 
+</script>
+
 <div class="media">
 	<h3>{{ position }}. {{ person.name }}</h3>
 	<a class="pull-left" href="#">
       {% if person.photo_url != blank %}
-		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}" width="110" height="132">
+		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}" width="110" height="132" onmouseover="toggle(this)" onMouseOut="untoggle(this)">
       {% endif %}
 	</a>
 	<div class="media-body">

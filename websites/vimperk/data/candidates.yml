@@ -1,7 +1,9 @@
 ---
 - Maxim Kysil:
     _slug: maxim-kysil
-    photo_url: http://kysil.blog.idnes.cz/bloger/16842/bloger_859.jpg
+    meta_keywords: maxim kysil, kysil
+    meta_description: Lídr Svobodných do komunálních voleb ve Vimperku
+    photo_url: http://img9.rajce.idnes.cz/d0903/10/10148/10148618_9d06e96c3357c51d5ec1a87a98205a1c/images/10380855_10201986720051787_1208648861051868207_o.jpg
     occupation: Student Národohospodářské fakulty VŠE
     political_party: Strana svobodných občanů
     age: 22
@@ -38,7 +40,7 @@
     age: 39
 - Michal Hrubý:
     _slug: michal-hruby
-    occupation: Podnikatel-firemní foto Google
+    occupation: Podnikatel-firemní foto Google, Coach marketing Libertagia
     political_party: bez politické příslušnosti
     age: 27
 - Josef Šísl:
@@ -70,6 +72,7 @@
     _slug: jaroslav-sova
     occupation: Důchodce
     political_party: bez politické příslušnosti
+    age: 60
 - Sabina Vaňková:
     _slug: sabina-vankova
     occupation: Studentka

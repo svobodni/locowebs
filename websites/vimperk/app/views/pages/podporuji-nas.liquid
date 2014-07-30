@@ -4,9 +4,17 @@ slug: podporuji-nas
 listed: true
 published: false
 cache_strategy: none
-response_type: application/rss+xml
-position: 3
+response_type: text/html
+position: 5
 editable_elements:
-  main/uvod: "\r\n\t\t\t\t"
+  main/volebni_program: "<h1 style=\"font-size: 10em; color: pink;\">hello world</h1>\r\n<p>\r\nldsfjls\r\n</p>"
 ---
-{% extends 'parent' %}
+{% extends parent %}
+
+{% block 'main' %}
+
+{% editable_text "volebni_program", hint: "Text volebního programu." %}    
+
+{% endeditable_text %}
+
+{% endblock %}

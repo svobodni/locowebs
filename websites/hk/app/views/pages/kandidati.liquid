@@ -1,0 +1,19 @@
+---
+title: Kandidáti
+slug: kandidati
+listed: true
+published: false
+cache_strategy: none
+response_type: text/html
+position: 41
+---
+{% extends parent %}
+
+{% block main %}
+
+{% for candidate in contents.candidates %}
+{% assign person = candidate %}
+{% include 'candidate' with person, position: forloop.index %}
+{% endfor %}
+
+{% endblock %}

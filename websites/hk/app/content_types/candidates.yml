@@ -1,0 +1,68 @@
+---
+name: Candidates
+description: Kandidáti do voleb
+slug: candidates
+label_field_name: name
+order_by: manually
+order_direction: asc
+fields:
+- photo_url:
+    label: photo_url
+    type: string
+    required: false
+    unique: false
+    localized: false
+- name:
+    label: name
+    type: string
+    required: true
+    unique: false
+    localized: false
+- occupation:
+    label: occupation
+    type: string
+    required: false
+    unique: false
+    localized: false
+- political_party:
+    label: political_party
+    type: string
+    required: false
+    unique: false
+    localized: false
+- age:
+    label: age
+    type: integer
+    required: false
+    unique: false
+    localized: false
+- email:
+    label: email
+    type: string
+    required: false
+    unique: false
+    localized: false
+- phone:
+    label: phone
+    type: string
+    required: false
+    unique: false
+    localized: false
+- homepage_url:
+    label: homepage_url
+    type: string
+    required: false
+    unique: false
+    localized: false
+- fb_profile_url:
+    label: fb_profile_url
+    type: string
+    required: false
+    unique: false
+    localized: false
+- fb_page_url:
+    label: fb_page_url
+    type: string
+    required: false
+    unique: false
+    localized: false

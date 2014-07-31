@@ -1,0 +1,292 @@
+---
+- Mgr. Jakub Frydrych:
+    :_slug: jakub-frydrych
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=def3a1d4-211b-4b73-8361-298e2825a297
+    :political_party: Strana svobodných občanů
+    :age: 31
+    :email: ''
+    :phone: ''
+    :homepage_url: http://czpremysl.wordpress.com
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Vít Jedlička:
+    :_slug: vit-jedlicka
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=2b4a82c6-3714-44fa-a4d2-ae8fc3807071
+    :political_party: Strana svobodných občanů
+    :age: 30
+    :email: ''
+    :phone: ''
+    :homepage_url: http://www.reformy.cz/
+    :fb_profile_url: http://www.facebook.com/profile.php?id=1245451008
+    :fb_page_url: https://www.facebook.com/klub.reformy.cz?fref=ts
+- Natálie Vachatová:
+    :_slug: natalie-vachatova
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=98597df6-2d9e-43de-883e-f8001970ca0b
+    :political_party: Strana svobodných občanů
+    :age: 29
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Helena Hejhálková:
+    :_slug: helena-hejhalkova
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=6ad85579-c351-454b-a8f9-77ecc0ab3876
+    :political_party: Strana svobodných občanů
+    :age: 53
+    :email: ''
+    :phone: ''
+    :homepage_url: 
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Mgr.  Hynek Dostál, Ph.D.:
+    :_slug: hynek-dostal
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=236131fb-7cbe-4e8c-8251-e49109ba07f8
+    :political_party: Bez politické příslušnosti
+    :age: 41
+    :email: ''
+    :phone: ''
+    :homepage_url: http://www.chemikszs.cz
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- RNDr. Jiří Hejhálek:
+    :_slug: jiri-hejhalek
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=9c62461a-b858-4485-b563-17f89106c52d
+    :political_party: Strana svobodných občanů
+    :age: 57
+    :email: ''
+    :phone: ''
+    :homepage_url: 
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jan Husák:
+    :_slug: jan-husak
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=49b79ce0-64f4-49e8-9550-67ca6a299186
+    :political_party: Strana svobodných občanů
+    :age: 34
+    :email: ''
+    :phone: ''
+    :homepage_url: http://alesco.cz
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Alois Langer:
+    :_slug: alois-langer
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=9cde657f-cdde-46a2-9397-acea4e449d6b
+    :political_party: Strana svobodných občanů
+    :age: 46
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Miroslav Petrů:
+    :_slug: miroslav-petru
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=89603309-3ca1-4956-96bf-377f7d863a15
+    :political_party: Strana svobodných občanů
+    :age: 29
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Mgr. Jaroslav Tachovský:
+    :_slug: 'jaroslav-tachovsky'
+- Jan Cicvárek:
+    :_slug: jan-cicvarek
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=2f73f6cf-1065-43e3-9641-3c6d6c43aca5
+    :political_party: Bez politické příslušnosti
+    :age: 21
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Ing. Svatopluk Tomšů:
+    :_slug: svatopluk-tomsu
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=ffe46a3a-ad9d-457f-a0df-4f33d3e7cfbb
+    :political_party: Bez politické příslušnosti
+    :age: 41
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- JUDr. Ph.D. Jan Bureš:
+    _slug: jan-bures
+    occupation: právník
+- Mgr. Lukáš Horák, Ph.D.:
+    :_slug: lukas-horak
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=e389ca50-7659-48a2-b3ea-caa6e68548d9
+    :political_party: Bez politické příslušnosti
+    :age: 32
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Miroslav Christ:
+    :_slug: miroslav-christ
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=65be3da4-3160-4a81-9f85-8e3173ff8859
+    :political_party: Strana svobodných občanů
+    :age: 22
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Ing. Tomáš Stehlík:
+    _slug: tomas-stehlik
+    occupation: finanční poradce    
+- Vanda Marešová:
+    :_slug: vanda-maresova
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=200caa74-96d2-4230-be1f-9e23decae684
+    :political_party: Bez politické příslušnosti
+    :age: 24
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Ing. Pavel Śkvrňa:
+    _slug: pavel-skvrna
+    occupation: projektant pozemních staveb
+- Petr Kalhous:
+    :_slug: petr-kalhous
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c5aae053-69cd-43f3-969c-d281179c9df6
+    :political_party: Strana svobodných občanů
+    :age: 53
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: http://www.facebook.com/profile.php?id=1672872556
+    :fb_page_url: ''
+- MBA Roman Tobíšek:
+    _slug: roman-tobisek
+    occupation: architekt IT
+- Ing. Štepán Vyčichlo:
+    _slug: stepan-vycichlo
+    occupation: projektant
+- Zdeněk Koutník:
+    :_slug: zdenek-koutnik
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=15c40088-7276-451a-8be5-5be9edc9684c
+    :political_party: Bez politické příslušnosti
+    :age: 30
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Tomáš Vršinský:
+    :_slug: tomas-vrsinsky
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=20666c9e-197b-425e-b564-0fab07f226fc
+    :political_party: Bez politické příslušnosti
+    :age: 34
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Ing. Zdeněk Nový:
+    :_slug: zdenek-novy
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=48db1194-9cbc-41d2-be87-9cabca9f6d2f
+    :political_party: Bez politické příslušnosti
+    :age: 33
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Vladimír Krupa:
+    :_slug: vladimir-krupa
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=e4cc3ac0-2df6-41d9-8abc-59854cb22e58
+    :political_party: Bez politické příslušnosti
+    :age: 50
+    :email: ''
+    :phone: ''
+    :homepage_url: http://wlado.cz
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jiří Ptáček:
+    :_slug: jiri-ptacek
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=05cf029c-71cc-44ec-b091-735008bba6db
+    :political_party: Bez politické příslušnosti
+    :age: 33
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jana Voltrová:
+    _slug: jana-voltrova
+    occupation: OSVČ
+- Soňa Zimmerová:
+    :_slug: sona-zimmerova
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=67e99696-50a4-4476-a40f-f6133f761a6f
+    :political_party: Strana svobodných občanů
+    :age: ''
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jiří Voseček:
+    :_slug: jiri-vosecek
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=5fb31ef8-4c36-4f33-a241-9ae113b41826
+    :political_party: Bez politické příslušnosti
+    :age: 26
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jiří Pozler:
+    :_slug: jiri-pozler
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c6ac8885-e941-4754-a480-92bfb05e01d7
+    :political_party: Bez politické příslušnosti
+    :age: 31
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Vlasta Čipčalová:
+    :_slug: vlasta-cipcalova
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=aaad90cb-943f-42ae-a5e9-8fcbd250dd1c
+    :political_party: Bez politické příslušnosti
+    :age: 65
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Kateřina Boháčová:
+    _slug: kateřina-bohacova
+    occupation: rodičovská dovolená    
+- Luboš Remplík:
+    :_slug: lubos-remplik
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=ee65e64c-4a3a-48a2-95f3-ee78dcd6351f
+    :political_party: Strana svobodných občanů
+    :age: 29
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''
+- Jakub Andrýs:
+    _slug: jakub-andrys
+    occupation: ICT technik a vývojář
+- Michaela Smetanová:
+    _slug: michaela-smetanova
+    occupation: pracovník v sociálních službách
+- Ing. Bc. Petr Hladík:
+    _slug: petr-hladik
+- Ing. Petr Netík:
+    :_slug: petr-netik
+    :photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=aab19a20-dad7-4f4f-bafa-ff42ea8c1b1a
+    :political_party: Strana svobodných občanů
+    :age: 57
+    :email: ''
+    :phone: ''
+    :homepage_url: ''
+    :fb_profile_url: ''
+    :fb_page_url: ''

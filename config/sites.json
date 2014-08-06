@@ -174,5 +174,12 @@
 		"fb_page_name":"svobodniolomouc",
 		"region_name": "Olomoucký kraj",
 		"region_url": "http://olomouckykraj.svobodni.cz/"
+	},{
+		"name":"bilina",
+		"title":"Svobodní Bílina",
+		"short_title":"Bílina",
+		"fb_page_name":"svobodni.ustecky.kraj",
+		"region_name": "Ústecký kraj",
+		"region_url": "http://usteckykraj.svobodni.cz/"
 	}
 ]

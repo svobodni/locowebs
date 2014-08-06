@@ -237,5 +237,12 @@
 		"fb_page_name":"svobodniolomouc",
 		"region_name": "Olomoucký kraj",
 		"region_url": "http://olomouckykraj.svobodni.cz/"
+	},{
+		"name":"zabreh",
+		"title":"Svobodní Zábřeh",
+		"short_title":"Zábřeh",
+		"fb_page_name":"svobodniolomouc",
+		"region_name": "Olomoucký kraj",
+		"region_url": "http://olomouckykraj.svobodni.cz/"
 	}
 ]

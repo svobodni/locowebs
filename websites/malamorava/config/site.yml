@@ -1,0 +1,9 @@
+---
+name: Svobodní Malá Morava
+locales: [cs]
+subdomain: malamorava
+domains: [malamorava.svobodni.cz]
+seo_title: Svobodní Malá Morava
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

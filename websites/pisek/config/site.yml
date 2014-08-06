@@ -1,0 +1,9 @@
+---
+name: Svobodní Písek
+locales: [cs]
+subdomain: pisek
+domains: [pisek.svobodni.cz]
+seo_title: Svobodní Písek
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

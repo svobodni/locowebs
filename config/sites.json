@@ -216,5 +216,12 @@
 		"fb_page_name":"SvobodniStredniCechy",
 		"region_name": "Středočeský kraj",
 		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
+	},{
+		"name":"pisek",
+		"title":"Svobodní Písek",
+		"short_title":"Písek",
+		"fb_page_name":"svobodni.pisek",
+		"region_name": "Jihočeský kraj",
+		"region_url": "http://jihoceskykraj.svobodni.cz/"
 	}
 ]

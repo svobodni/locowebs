@@ -1,0 +1,9 @@
+---
+name: Svobodní Olomouc
+locales: [cs]
+subdomain: olomouc
+domains: [olomouc.svobodni.cz]
+seo_title: Svobodní Olomouc
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

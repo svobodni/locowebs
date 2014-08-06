@@ -167,5 +167,12 @@
 		"fb_page_name":"pages/Svobodní-Velkomeziříčsko/1439212466349113",
 		"region_name": "Kraj Vysočina",
 		"region_url": "http://vysocina.svobodni.cz"
+	},{
+		"name":"olomouc",
+		"title":"Svobodní Olomouc",
+		"short_title":"Olomouc",
+		"fb_page_name":"svobodniolomouc",
+		"region_name": "Olomoucký kraj",
+		"region_url": "http://olomouckykraj.svobodni.cz/"
 	}
 ]

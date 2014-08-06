@@ -7,10 +7,6 @@
 	</a>
 	<div class="media-body">
 		<dl class="dl-horizontal">
-            {% if person.obvod != blank %}
-			<dt>Volební obvod</dt>
-			<dd>{{ person.obvod }}</dd>
-			{% endif %}
 			{% if person.age != blank %}
 			<dt>Věk</dt>
 			<dd>{{ person.age }}</dd>
@@ -40,12 +36,12 @@
 			<dd><a href="{{ person.fb_page_url }}">stránka</a></dd>
 			{% endif %}
 			{% if person.political_party != blank %}
-			<dt>Politická <p> příslušnost</p></dt>
-         	<dd><p></p><p>{{ person.political_party }}</p></dd>
+            <dt>Příslušnost</dt>
+         	<dd><p>{{ person.political_party }}</p></dd>
 			{% endif %}
-            {% if person.political_party != blank %}
-			<dt>Osobní <p> text</p></dt>
-         	<dd><p></p><p>{{ person.personal_text }}</p></dd>
+            {% if person.personal_text != blank %}
+			<dt>Osobní text</dt>
+         	<dd><p>{{ person.personal_text }}</p></dd>
 			{% endif %}
          </dl>
 	</div>

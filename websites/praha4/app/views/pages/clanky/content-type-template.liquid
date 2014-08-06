@@ -18,9 +18,13 @@ content_type: posts
       <div class="col-md-12 col-dark col-head">
 
 <article class="post">
-  <h3 class="posted-at">
-    Zveřejněno  {{ post.posted_at | localized_date: '%d.%m.%Y' }}
-  </h3>
+  <h4>
+    Zveřejněno:  {{ post.posted_at | localized_date: '%d.%m.%Y' }}
+  </h4>
+  
+  <h4>
+    Autor:  {{ post.author }}
+  </h4>
 
   {% if post.tags %}
     <p class="tags">

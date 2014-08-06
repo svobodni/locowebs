@@ -20,6 +20,12 @@ fields:
     required: true
     unique: false
     localized: false
+- author:
+    label: Author
+    type: string
+    required: true
+    unique: false
+    localized: false
 - tags:
     label: Tags
     type: tags

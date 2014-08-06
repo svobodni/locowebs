@@ -153,5 +153,12 @@
 		"fb_page_name":"svobodniolomouc",
 		"region_name": "Olomoucký kraj",
 		"region_url": "http://olomouckykraj.svobodni.cz/"
+	},{
+		"name":"onves",
+		"title":"Svobodní Ostrožská Nová Ves",
+		"short_title":"Ostrožská Nová Ves",
+		"fb_page_name":"svobodnizk",
+		"region_name": "Zlínský kraj",
+		"region_url": "http://zlinskykraj.svobodni.cz"
 	}
 ]

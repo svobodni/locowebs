@@ -139,5 +139,12 @@
 		"fb_page_name":"mutenice.svobodni",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"habartov",
+		"title":"Svobodní Habartov",
+		"short_title":"Habartov",
+		"fb_page_name":"pages/Svobodní-Habartov/547502501975547",
+		"region_name": "Karlovarský kraj",
+		"region_url": "http://karlovarskykraj.svobodni.cz"
 	}
 ]

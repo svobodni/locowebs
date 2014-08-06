@@ -244,5 +244,12 @@
 		"fb_page_name":"svobodniolomouc",
 		"region_name": "Olomoucký kraj",
 		"region_url": "http://olomouckykraj.svobodni.cz/"
+	},{
+		"name":"kohoutovice",
+		"title":"Svobodní Kohoutovice",
+		"short_title":"Kohoutovice",
+		"fb_page_name":"SvobodniKohout",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
 	}
 ]

@@ -195,5 +195,12 @@
 		"fb_page_name":"svobodnizk",
 		"region_name": "Zlínský kraj",
 		"region_url": "http://zlinskykraj.svobodni.cz"
+	},{
+		"name":"novybydzov",
+		"title":"Svobodní Nový Bydžov",
+		"short_title":"Nový Bydžov",
+		"fb_page_name":"hk.svobodni.cz",
+		"region_name": "Královehradecký kraj",
+		"region_url": "http://hk.svobodni.cz/"
 	}
 ]

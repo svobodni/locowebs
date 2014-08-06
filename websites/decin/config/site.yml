@@ -1,0 +1,9 @@
+---
+name: Svobodní Děčín
+locales: [cs]
+subdomain: decin
+domains: [decin.svobodni.cz]
+seo_title: Svobodní Děčín
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

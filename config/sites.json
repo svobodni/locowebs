@@ -209,5 +209,12 @@
 		"fb_page_name":"svobodni.ustecky.kraj",
 		"region_name": "Ústecký kraj",
 		"region_url": "http://usteckykraj.svobodni.cz/"
+	},{
+		"name":"velkyosek",
+		"title":"Svobodní Velký Osek",
+		"short_title":"Velký Osek",
+		"fb_page_name":"SvobodniStredniCechy",
+		"region_name": "Středočeský kraj",
+		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
 	}
 ]

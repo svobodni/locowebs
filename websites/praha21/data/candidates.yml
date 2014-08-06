@@ -2,24 +2,31 @@
 - Ing. Jakub Voneš:
     _slug: ing-jakub-vones
     seo_title: '1'
-    photo_url: http://vones.cz/images/kuba6.jpg
+    photo_url: http://vones.cz/images/svob/svobkuba.jpg
     occupation: ekonom
     political_party: Strana svobodných občanů
     age: 26
     email: jakub@vones.cz
+    homepage_url: http://praha21.svobodni.cz/clanky/jakub-vones
     fb_profile_url: http://www.facebook.com/jakub.vones
 - MUDr. Jaroslav Jeníček, CSc.:
     _slug: mudr-jaroslav-jenicek-csc
     seo_title: '2'
+    photo_url: http://vones.cz/images/svob/svobjarda.jpg
     occupation: lékař
     political_party: Strana svobodných občanů
     age: 49
+    homepage_url: http://praha21.svobodni.cz/clanky/jaroslav-jenicek
 - Mgr. Martin Košut:
     _slug: mgr-martin-kosut
     seo_title: '3'
+    photo_url: http://vones.cz/images/svob/svobmartin.jpg
     occupation: podnikatel
     political_party: Strana svobodných občanů
     age: 43
+    email: martin@kosut.org
+    phone: 606 650 644
+    homepage_url: http://praha21.svobodni.cz/clanky/martin-kosut
 - Tomáš Stoklasa:
     _slug: tomas-stoklasa
     seo_title: '4'
@@ -53,6 +60,7 @@
     age: 23
 - Ing. Veronika Vonešová:
     _slug: ing-veronika-vonesova
+    photo_url: http://vones.cz/images/veronika.jpg
     occupation: zahradní architekt
     political_party: bez politické příslušnosti
     age: 28

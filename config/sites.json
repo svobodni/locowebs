@@ -160,5 +160,12 @@
 		"fb_page_name":"svobodnizk",
 		"region_name": "Zlínský kraj",
 		"region_url": "http://zlinskykraj.svobodni.cz"
+	},{
+		"name":"velkemezirici",
+		"title":"Svobodní Velké Meziříčí",
+		"short_title":"Velké Meziříčí",
+		"fb_page_name":"pages/Svobodní-Velkomeziříčsko/1439212466349113",
+		"region_name": "Kraj Vysočina",
+		"region_url": "http://vysocina.svobodni.cz"
 	}
 ]

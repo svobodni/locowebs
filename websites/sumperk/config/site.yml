@@ -1,0 +1,9 @@
+---
+name: Svobodní Šumperk
+locales: [cs]
+subdomain: sumperk
+domains: [sumperk.svobodni.cz]
+seo_title: Svobodní Šumperk
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

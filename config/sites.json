@@ -230,5 +230,12 @@
 		"fb_page_name":"svobodni.decin",
 		"region_name": "Ústecký kraj",
 		"region_url": "http://usteckykraj.svobodni.cz/"
+	},{
+		"name":"sumperk",
+		"title":"Svobodní Šumperk",
+		"short_title":"Šumperk",
+		"fb_page_name":"svobodniolomouc",
+		"region_name": "Olomoucký kraj",
+		"region_url": "http://olomouckykraj.svobodni.cz/"
 	}
 ]

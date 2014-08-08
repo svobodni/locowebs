@@ -56,6 +56,14 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"praha13",
+		"title":"Svobodní Praha 13",
+		"short_title":"Praha 13",
+		"branch_id":103,
+		"fb_page_name":"SvobodniPraha13",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
 		"name":"praha17",
 		"title":"Svobodní Praha 17 - Řepy",
 		"short_title":"Praha 17 - Řepy",

@@ -1,0 +1,17 @@
+---
+- Radek Zelycz:
+    _slug: radek-zelycz
+    occupation: Operátor 3D tisku
+    political_party: Strana svobodných občanů
+    age: 43
+    email: zelycz@svobodni.cz
+    fb_profile_url: https://www.facebook.com/radek.zelycz
+- Michal Beran:
+    _slug: michal-beran
+    photo_url: http://i59.tinypic.com/2s60ghi.jpg
+    occupation: Student
+    political_party: Strana svobodných pbčanů
+    age: 21
+    email: michal-beran@centrum.cz
+    phone: 737 604 607
+    fb_profile_url: https://www.facebook.com/Beran.Michal

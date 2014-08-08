@@ -1,0 +1,52 @@
+---
+- Mgr. Miroslav Červenka:
+    _slug: mgr-miroslav-cervenka
+    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e33c8c248ecb5ac600000a/files/cervenka.jpg
+    photo: "/samples/candidates/mgr-miroslav-cervenka/cervenka.jpg"
+    occupation: "Živnostník"
+    political_party: Strana svobodných občanů
+    age: 58
+    email: mirocerven@gmail.com
+    fb_profile_url: http://www.facebook.com/miroslav.cervenka.9
+    fb_page_url: http://www.facebook.com/svobodni.decin
+- Michal Nosek:
+    _slug: michal-nosek
+    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3426a248ecb5ac600000e/files/Nosek1.JPG
+    photo: "/samples/candidates/michal-nosek/Nosek1.JPG"
+    occupation: IT specialista
+    political_party: Strana svobodných občanů,
+    age: 39
+    email: nosek@svobodni.cz
+    phone: '702284277'
+    fb_profile_url: http://www.facebook.com/mnosek1
+    fb_page_url: http://www.facebook.com/svobodni.decin
+- Bc. Jan Schwarzbach:
+    _slug: bc-jan-schwarzbach
+    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3431f248ecb5ac6000010/files/J_1.jpg
+    photo: "/samples/candidates/bc-jan-schwarzbach/J_1.jpg"
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 23
+    email: jan.schwarzbach@yahoo.com
+    fb_profile_url: http://www.facebook.com/honza.schwarzbach
+    fb_page_url: http://www.facebook.com/schwarzbach.jan
+- Ladislava Gregorová:
+    _slug: ladislava-gregorova
+    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3435e248ecb5ac6000012/files/Gregorova.jpg
+    photo: "/samples/candidates/ladislava-gregorova/Gregorova.jpg"
+    occupation: Ekonomka
+    political_party: bez politické příslušnosti
+    age: 51
+    email: gregorova@dieselplus.cz
+- Marek Gerhardt:
+    _slug: marek-gerhardt
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 23
+- Ing. Miloš Kopecký:
+    _slug: ing-milos-kopecky
+    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e343c7248ecb5ac6000016/files/milos1.jpg
+    photo: "/samples/candidates/ing-milos-kopecky/milos1.jpg"
+    occupation: "Úředník"
+    political_party: bez politické příslušnosti
+    age: 53

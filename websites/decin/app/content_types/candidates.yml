@@ -12,6 +12,13 @@ fields:
     required: false
     unique: false
     localized: false
+- photo:
+    label: photo
+    type: file
+    hint: Fotografie kandidáta
+    required: false
+    unique: false
+    localized: false
 - name:
     label: name
     type: string

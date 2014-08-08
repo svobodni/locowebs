@@ -1,9 +1,7 @@
 <div class="media">
 	<h3>{{ position }}. {{ person.name }}</h3>
 	<a class="pull-left" href="#">
-      {% if person.photo_url != blank %}
-		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}" width="110" height="132">
-      {% endif %}
+		<img alt="{{ person.name }}" class="media-object thumbnail" src="{% if person.photo.url %}{{ person.photo.url | resize:  '110x134#' }}{% else %}  {{ person.photo_url }}{% endif %}" width="110" height="132">
 	</a>
 	<div class="media-body">
 		<dl class="dl-horizontal">

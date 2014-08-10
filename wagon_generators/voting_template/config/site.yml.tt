@@ -1,0 +1,9 @@
+---
+name: <%= @title %>
+locales: [en, cs]
+subdomain: <%= config[:name] %>
+domains: [<%= config[:name] %>.svobodni.cz]
+seo_title: <%= @title %>
+meta_keywords: some meta keywords
+meta_description: some meta description
+timezone: Prague

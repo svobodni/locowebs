@@ -1,0 +1,117 @@
+body {
+	background: url('../img/test/kandidat-bg.jpg') left top no-repeat;	
+}
+
+@media all and (max-width: 1350px) and (min-width: 1200px) {
+  .container, .navbar {
+    margin-right: 0 !important; 
+  }
+}
+
+@media all and (max-width: 1200px) {
+  body {
+    background: none; 
+  }
+  .container, .navbar {
+    margin: 0 auto !important; 
+  }
+}
+
+.navbar {
+	background: #00654E;
+	border: none;	
+	width: auto;
+	max-width: 1015px;
+	margin: 0 auto;
+}
+
+.navbar-header{
+	background: #00654E;	
+	display: block;
+	width: 400px;
+	height: 125px;
+	padding: 20px 20px 0 20px;
+	text-align: center;
+}
+
+@media all and (max-width: 768px) {
+  .navbar-header  {
+	height: auto; 
+  }
+}
+
+.navbar-header a {
+	text-decoration: none;
+}
+
+.navbar-brand {
+
+}
+
+.navbar-brand strong {
+	font-family: adelle-bold; color: white !important; font-size: 40px; text-decoration: none;
+	border-bottom: 1px solid #4D9483;
+	padding: 0 20px 20px 20px; margin: 0 0 5px 0;
+	display: block;
+	width: 330px;
+}
+
+.navbar-brand .navbar-subtitle {
+	color: white !important; font-size: 16px; text-decoration: none;
+	display: block;
+}
+
+
+.navbar-number  {
+	left: -20px; bottom: -20px;
+}
+
+@media all and (max-width: 768px) {
+  .navbar-number  {
+	left: -8px; 
+  }
+}
+
+.navbar-collapse .navbar-nav {
+	background: #00654E;
+	padding: 0 15px; margin-top: 35px; margin-right: 35px;
+	border: 1px solid #4D9483;
+	display: block;	
+	width: 565px;
+}
+
+@media all and (max-width: 1090px) {
+  .navbar-collapse .navbar-nav {
+    float: left; 
+	position: relative;	
+	margin: 0 0 0 20px;
+  }
+}
+
+.navbar-collapse .navbar-nav li a, .navbar-collapse .navbar-nav li a:hover {
+	font-family: adelle-bold; color: white; font-size: 17px; text-decoration: none; padding: 16px 17px 17px 25px;	
+	background: url('../img/global/cand-navbar-nav-a-bg.png') left 18px no-repeat !important;
+}
+
+.navbar-collapse .navbar-nav li a:hover {
+	text-decoration: underline;
+}
+
+.navbar-collapse .navbar-nav li:first-of-type a  {
+	background: none !important;
+}
+
+.navbar-collapse .navbar-nav li.active a {
+	color: #4D9483 !important;
+}
+
+.jumbotron h2 {
+	font-family: adelle-bold-italic; color: #6C247B; font-size: 58px; 	
+	line-height: 1.15;
+}
+
+.jumbotron p {
+	font-size: 20px; 
+	margin: 20px 0 0 0;
+}
+

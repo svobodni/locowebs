@@ -1,0 +1,6 @@
+---
+name: Svobodní Assety
+locales: [cs]
+subdomain: assets
+domains: [assets.svobodni.cz]
+timezone: Prague

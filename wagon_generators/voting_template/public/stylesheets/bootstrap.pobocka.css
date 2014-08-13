@@ -48,7 +48,7 @@
 
 .navbar-photo  {
 	height: 165px;
-	background: url('../images/test/cesky-krumlov.jpg') right top no-repeat;	
+	background: url('../img/test/cesky-krumlov.jpg') right top no-repeat;	
 	position: relative; left: 120px;
 }
 
@@ -85,7 +85,7 @@
 .navbar-collapse .navbar-nav li a {
 	color: #6C247B !important;
 	padding: 19px 14px 20px 19px;;
-	background: url('../images/global/navbar-nav-a-bg.png') 0 27px no-repeat;
+	background: url('../img/global/navbar-nav-a-bg.png') 0 27px no-repeat;
 }
 
 .navbar-collapse .navbar-nav li:first-of-type a  {

@@ -1,17 +1,21 @@
 ---
-title: Volební program
-slug: volebni-program
+title: Program
+slug: program
 listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 50
+position: 20
 seo_title: Volební program pro komunální volby do zastupitelstva
 meta_keywords: komunalní volby, program
 ---
 {% extends 'parent' %}
 
 {% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
 
 {% editable_text "volebni_program", hint: "Text volebního programu." %}
 <p>Volební program pro komunální volby 2014 představíme již brzy.</p>
@@ -26,5 +30,7 @@ meta_keywords: komunalní volby, program
 <li>Svobodní podporují změny daňových zákonů tak, aby maximum peněz zůstalo v kapsách lidí, aby se omezilo přerozdělování jak na úrovni státu, tak na úrovni obcí. Přerozdělování výnosu daní občanů České republiky na úrovni Evropské unie je třeba odstranit.</li>
 </ol>
 {% endeditable_text %}
+
+</div><!-- /container -->
 
 {% endblock %}

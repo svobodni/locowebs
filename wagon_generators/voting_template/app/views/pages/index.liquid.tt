@@ -170,9 +170,9 @@ editable_elements:
 		<div class="col-md-3">
 			<h5>Spojte se se Svobodnými</h5>
 			<ul>
-            <li><a href="#">Facebook Svobodných</a></li>
-            <li><a href="#">Twitter Svobodných</a></li>
-            <li><a href="#">Google+ Svobodných</a></li>
+            <li><a href="http://facebook.com/svobodni">Facebook Svobodných</a></li>
+            <li><a href="http://twitter.com/svobodni">Twitter Svobodných</a></li>
+            <li><a href="https://plus.google.com/u/0/+svobodn%C3%AD">Google+ Svobodných</a></li>
           </ul>
 		  </div>
 	</div>

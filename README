@@ -3,7 +3,31 @@ Svobodní CMS
 
 Svobodní CMS je nouzový systém pro rychlé zprovoznění krajských a pobočkových webů. Pomocí šablony umožňuje nagenerovat web a ten vystavit pomocí Locomotive CMS engine.
 
-Weby na požádání zakládá Jiří Kubíček (kubicek@svobodni.cz)
+Weby na požádání zakládá Jiří Kubíček (kancelar@svobodni.cz)
+
+Volební weby
+============
+ke spuštění volebního webu budete potřebovat:
+* fotografii města - 702x166px - pojmenujte 'hlavicka.jpg'
+* úvodní poutač - 975x346px - pojmenujte 'poutac.png'
+* fotografie kandidátů - 290x340px
+* 3 důvody proč volit
+
+Jak nahrát úvodní fotografie?
+V administraci jděte na Nastavení -> Soubory vzhledu -> + Nový soubor (/locomotive/theme_assets/new) a nahrajte soubory hlavicka.jpg a poutac.png
+
+Jak upravit důvody, proč volit?
+V administraci jděte na Obsahy -> Svobodní (pobočka). Vyplňte důvody a uložte.
+
+Jak přidat článek?
+V administraci jděte na Obsahy -> Posts -> Nový záznam
+
+Jak vytvořit seznam kandidátů?
+V administraci jděte na Obsahy -> Candidates -> Nový záznam
+
+Jak setřídit seznam kandidátů?
+V administraci jděte na Obsahy -> Candidates, zobrazí se seznam a jednotlivé řádky lze chytat za levou ikonu a třídit.
+
 
 Generování krajského webu
 =========================
@@ -23,6 +47,16 @@ Generování pobočkového webu
     $ wagon init praha9 -t branch_template --lib ../wagon_generators/branch_template.rb 
     $ git add .
     $ git commit -am "Přidán web pro Prahu 9"
+    $ git push origin master
+    $ wagon push hosting 
+
+Generování volebního webu
+=========================
+
+    $ cd websites
+    $ wagon init praha7 -t voting_template --lib ../wagon_generators/voting_template.rb 
+    $ git add .
+    $ git commit -am "Přidán web pro Prahu 7"
     $ git push origin master
     $ wagon push hosting 
 

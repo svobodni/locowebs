@@ -156,13 +156,13 @@ a:hover {
 }
 
 .spec-purple-1 li, .spec-green-1 li {
-	background: url('../img/other/li-spec-purple-bg.png') 0 10px no-repeat;
+	background: url('../images/other/li-spec-purple-bg.png') 0 10px no-repeat;
 	list-style: none;
 	padding: 6px 0 7px 40px;
 }
 
 .spec-green-1 li {
-	background: url('../img/other/li-spec-green-bg.png') 0 10px no-repeat;
+	background: url('../images/other/li-spec-green-bg.png') 0 10px no-repeat;
 }
 
 h5 {
@@ -175,7 +175,7 @@ h4 {
 }
 
 .h-spec-purple {
-	background: url('../img/other/h-spec-bg.png') 0 13px repeat-x;
+	background: url('../images/other/h-spec-bg.png') 0 13px repeat-x;
 	margin-bottom: 50px;
 }
 
@@ -374,7 +374,7 @@ a:hover .img-thumbnail {
 }
 
 .footer ul li {
-	background: url('../img/global/footer-li-bg.png') 0 10px no-repeat;
+	background: url('../images/global/footer-li-bg.png') 0 10px no-repeat;
 	padding: 0 0 2px 8px; 
 	list-style: none;
 }

@@ -1,5 +1,5 @@
 body {
-	background: url('../img/test/kandidat-bg.jpg') left top no-repeat;	
+	background: url('../images/test/kandidat-bg.jpg') left top no-repeat;	
 }
 
 @media all and (max-width: 1350px) and (min-width: 1200px) {
@@ -139,7 +139,7 @@ body {
 
 .navbar-collapse .navbar-nav li a, .navbar-collapse .navbar-nav li a:hover {
 	font-family: adelle-bold; color: #6C247B; font-size: 17px; text-decoration: none; padding: 15px 17px 18px 25px;	
-	background: url('../img/global/cand-navbar-nav-a-bg.png') left 18px no-repeat !important;
+	background: url('../images/global/cand-navbar-nav-a-bg.png') left 18px no-repeat !important;
 }
 
 .navbar-collapse .navbar-nav li a:hover {

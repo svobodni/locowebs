@@ -13,7 +13,7 @@ class VotingTemplate < Locomotive::Wagon::Generators::Site::Base
 		@title = site['title'].force_encoding("ASCII-8BIT")
 		@short_title = site['short_title'].force_encoding("ASCII-8BIT")
 		@branch_id = site['branch_id']
-		@fb_page_name = site['fb_page_name']
+		@fb_page_name = site['fb_page_name'].force_encoding("ASCII-8BIT")
 		@region_name = site['region_name'].force_encoding("ASCII-8BIT")
 		@region_url = site['region_url']
 	else

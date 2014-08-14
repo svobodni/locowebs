@@ -5,6 +5,8 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+editable_elements:
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Nezadlužená radnice</li>\r\n<li>Svobodné podnikání</li>\r\n<li>Méně regulací</li>\r\n</ul>"
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -19,12 +21,10 @@ position: 0
     <meta name="keywords" content="{{ site.meta_keywords }} {{ page.meta_keywords }}">
 
     <!-- Bootstrap -->
-	{{ 'bootstrap.min.css' | stylesheet_tag }}
-	{{ 'bootstrap.zakladni.css' | stylesheet_tag }}
-	{{ 'bootstrap.pobocka.css' | stylesheet_tag }}
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.zakladni.css" rel="stylesheet">
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.pobocka.css" rel="stylesheet">
 
-	{{ 'bootstrap.min.js' | javascript_tag }}
-	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -43,8 +43,7 @@ position: 0
 	fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
   </script>
-  
-    <!-- Static navbar -->
+  {% block header %}
     <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -54,55 +53,126 @@ position: 0
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-
-          <a class="navbar-brand" href="index-pobocka.html"><img src="images/global/svobodni-logo.png" title="Panorama města"> <span class="navbar-city">České Budějovice<span> <span class="navbar-number" data-toggle="tooltip" data-placement="right" title="Tooltip on right">14</span></a>
+          <a class="navbar-brand" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo.png" alt="Svobodní"> <span class="navbar-city"><%= @short_title %><span> <!--<span class="navbar-number">14</span>--> </a>
 
         </div>
-		<div class="navbar-photo .hidden-xs visible-lg-*">
-		<!-- img src="img/test/cesky-krumlov.jpg" title="Panorama města"> --->
-		</div>
+    <style>
+    .navbar-photo  {
+      background: url('{{ 'hlavicka.jpg' | theme_image_url }}') right top no-repeat;
+    }
+    </style>
+		<div class="navbar-photo"></div>
 	
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            {% nav 'site', no_wrapper: true, active_class: "active" %}
-            <li><a href="index-pobocka.html">Úvod</a></li>
-            <li><a href="index-pobocka-kandidati.html">Kandidáti</a></li>
-            <li><a href="index-pobocka-program.html">Program</a></li>
-			<li class="active"><a href="index-pobocka-kontakty.html">Kontakty</a></li>
+            <li><a href="/">Úvod</a></li>
+            {% nav 'site', no_wrapper: true, active_class: "active" %}            
           </ul>
-        </div><!--/.nav-collapse -->
+        </div> <!--/.nav-collapse -->
 		
+      </div> <!--/.navbar-header -->
+    </div> <!--/.container -->
+	{% endblock header %}
+	{% block main %}
+  <div class="container text-center">
+    <div class="intro-catcher">
+    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    </div> 
+  </div> 
+
+  <div class="section-gray">
+  <div class="container">
+        <div class="row">
+      <div class="col-md-6">
+        <h5>Proč volit Svobodné?</h5>
+        {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
+        <ul class="spec-purple-1">
+          <li>Nezadlužená radnice</li>
+          <li>Svobodné podnikání</li>
+          <li>Méně regulací</li>
+        </ul>
+        {% endeditable_text %}
+        <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
+      </div>
+      <div class="col-md-6 cand-top-4">
+        <h5>Chceme Váš hlas!</h5>
+        <div class="row">
+        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
+        {% for candidate in contents.candidates limit:3 offset:1 %}
+        {% assign person = candidate %}        
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        {% endfor %}
+        </div>
+        <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
       </div>
     </div>
-	
-
-	<div class="container classic-content">
-	
-	<h1>{{ page.title }}</h1>
-	
-	{% block main %}
-	{% endblock main %}
 
     </div> <!-- /container -->
- 
+    </div> <!-- /section-gray -->
+  
+  <div class="section-white">
+  <div class="container">
+  <h3 class="text-center h-spec-purple"><a href="index-pobocka-aktualne.html" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
+  
+  <div class="news-feed">
+  {% for post in contents.posts limit:2 %}
+  <div class="media">
+  {% if post.featured_image.url %}
+    <a class="pull-left" href="#">
+    <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
+    </a>
+  {% endif %}
+    <div class="media-body">
+    <h4 class="media-heading"><a href="/clanky/{{ post._slug }}">{{ post.title | escape }}</a></h4>
+    <div>{{ post.teaser }}…</div>
+    <span class="date">{{ post.posted_at | date: "%d. %m. %Y"  }}</span>
+    </div>
+  </div> <!--/.media -->
+  {% endfor %}
+
+  </div> <!--/.news-feed -->
+  
+  <div class="a-more text-center"><a href="#">› <span>další aktuality</span></a></div>
+  
+  </div> <!-- /container -->
+    </div> <!-- /section-white -->
+  
+  <div class="section-gray">
+  <div class="container">
+  <div class="row">
+    <div class="col-md-8">
+    <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/fJ4r7CKu4oA?list=UUABTOPGq1UAcRCQCifrsz-Q" allowfullscreen></iframe>
+    </div>
+    </div>
+    <div class="col-md-4">
+      <h4>Spojte se s námi</h4>
+      <div class="fb-like-box" data-href="https://www.facebook.com/<%= @fb_page_name %>" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+    </div>
+  </div>
+  </div> <!-- /container -->
+    </div> <!-- /section-gray -->
+
+	{% endblock main %}
+
 	<div class="footer">
 	<div class="container">
 	<div class="row">
-		<div class="col-md-3"><p>Svobodní Český Krumlov</p> &copy; 2014</div>
+		<div class="col-md-3"><p><%= @title %></p> &copy; 2014</div>
 		<div class="col-md-3">
 			<h5>Více Svobodných</h5>
 			<ul>
-            <li><a href="#">Pardubice.svobodni.cz</a></li>
-            <li><a href="#about">Svobodni.cz</a></li>
-            <li><a href="#contact">Eshop.svobodni.cz</a></li>
+            <li><a href="<%= @region_url %>"><%= @region_name %></a></li>
+            <li><a href="http://www.svobodni.cz">Svobodni.cz</a></li>
+            <li><a href="http://eshop.svobodni.cz">Eshop.svobodni.cz</a></li>
           </ul>
 		</div>
 		<div class="col-md-3">
 			<h5>Spojte se se Svobodnými</h5>
 			<ul>
             <li><a href="#">Facebook Svobodných</a></li>
-            <li><a href="#about">Twitter Svobodných</a></li>
-            <li><a href="#contact">Google+ Svobodných</a></li>
+            <li><a href="#">Twitter Svobodných</a></li>
+            <li><a href="#">Google+ Svobodných</a></li>
           </ul>
 		  </div>
 	</div>
@@ -113,6 +183,6 @@ position: 0
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
-    {{ 'bootstrap.min.js' | javascript_tag }}
+    <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
   </body>
 </html>

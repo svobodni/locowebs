@@ -1,6 +1,6 @@
 ---
 name: <%= @title %>
-locales: [en, cs]
+locales: [cs]
 subdomain: <%= config[:name] %>
 domains: [<%= config[:name] %>.svobodni.cz]
 seo_title: <%= @title %>

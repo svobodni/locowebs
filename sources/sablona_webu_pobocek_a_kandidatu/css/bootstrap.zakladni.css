@@ -227,6 +227,10 @@ h4 {
 	color: #777777;
 }
 
+.contacts .media-object {
+	width: 170px;
+}
+
 .fb-like-box {
 	padding: 10px 10px 10px 10px;
 	background: white; 

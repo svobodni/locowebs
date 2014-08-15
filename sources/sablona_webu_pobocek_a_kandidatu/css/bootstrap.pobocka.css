@@ -113,14 +113,20 @@
 	position: relative;
 }
 
-.cand-top-4 img {
-	vertical-align: baseline;
-	margin: 7px 10px 0 0;
-}
-
 .cand-top-4 a:first-of-type {
 	margin-left: 20px;
 }
+
+.cand-top-4 img {
+	vertical-align: baseline;
+	margin: 7px 10px 0 0;
+	max-width: 75px;
+}
+
+.cand-top-4 a:first-of-type img {
+	max-width: 100px;
+}
+
 
 .cand-top-4 a:hover img {
 	-webkit-filter: contrast(125%);
@@ -130,15 +136,11 @@
 	margin: 50px 0;	
 }
 
-.cand-grid .row {
-	margin-bottom: 35px;
-}
-
 .cand-grid a, .cand-grid .no-link {
-	display: block; height: 428px;
+	display: block; height: 469px;
 	text-decoration: none;
 	border: 1px solid white;
-	padding: 10px 0 0 0;
+	padding: 10px 0 0 0; margin: 0 10px 30px 0;
 	position: relative;
 }
 
@@ -149,20 +151,20 @@
 
 .cand-grid a em, .cand-grid .no-link em {
 	color: black;
-	font-family: roboto-bold; font-style: normal; font-size: 53px;
+	font-family: roboto-bold; font-style: normal; font-size: 50px;
 	display: block; float: left;
-	width: 30px;
-	position: relative; left: -15px; top: -3px;
+	width: 35px;
+	position: relative; left: -30px; top: -1px;
 	background: white;
 	letter-spacing: -2px;
 }
 
 .cand-grid a strong, .cand-grid .no-link strong {
 	display: block;
-	font-size: 25px;
+	font-size: 23px;
 	font-family: roboto-bold;
 	font-weight: normal;
-	position: relative; top: 5px; left: 3px;
+	position: relative; top: 8px; left: 7px;
 }
 
 .cand-grid .no-link strong {
@@ -176,13 +178,15 @@
 .cand-grid a span, .cand-grid .no-link span {
 	display: block;
 	color: #808080;
-	position: relative; left: 4px;
+	position: relative; left: 8px; top: 4px;	
+	font-size: 17px;
 }
 
 .cand-grid img {
 	border: 1px solid #878787; border-top: none; border-right: none;
 	display: block; float: left;
 	margin-right: 20px;
+	max-width: 290px;
 }
 
 .cand-grid a:hover img {

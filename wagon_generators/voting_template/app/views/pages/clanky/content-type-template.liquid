@@ -25,9 +25,12 @@ content_type: posts
   </ol>
 
   <h1>{{ post.title}}</h1>
-  
   <div class="article-detail">
     <span class="date">{{ post.posted_at | localized_date: '%d. %m. %Y' }}</span>
+    <p class="lead">{{ post.teaser }}</p>
+    {% if post.featured_image.url %}
+      <img src="{{ post.featured_image.url }}" alt="{{ post.title | escape }}" class="img-responsive">
+    {% endif %}
     {{ post.body }}
     {{ unless post.author == blank }}
     <p class="article-author text-right">{{ post.author }}</p>

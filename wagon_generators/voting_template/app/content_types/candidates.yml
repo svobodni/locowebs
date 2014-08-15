@@ -88,3 +88,11 @@ fields:
     required: false
     unique: false
     localized: false
+- priorities:
+    label: priorities
+    type: text
+    hint: Volební priority
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html

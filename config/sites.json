@@ -1,5 +1,17 @@
 [
 	{
+		"name":"en",
+		"title":"Svobodní - EN",
+		"short_title":"EN",
+	},{
+		"name":"de",
+		"title":"Svobodní - DE",
+		"short_title":"DE",
+	},{
+		"name":"fr",
+		"title":"Svobodní - FR",
+		"short_title":"FR",
+	},{
 		"name":"praha9",
 		"title":"Svobodní Praha 9",
 		"short_title":"Praha 9",

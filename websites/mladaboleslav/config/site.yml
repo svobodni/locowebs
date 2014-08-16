@@ -2,5 +2,8 @@
 name: Svobodní Mladá Boleslav
 locales: [cs]
 subdomain: mladaboleslav
-domains: [mb.svobodni.cz, mboleslav.svobodni.cz, mladaboleslav.svobodni.cz]
+domains: [mladaboleslav.svobodni.cz, www.mladaboleslav.svobodni.cz]
+seo_title: Svobodní Mladá Boleslav
+meta_keywords: Svobodní Mladá Boleslav
+meta_description: Strana svobodných občanů
 timezone: Prague

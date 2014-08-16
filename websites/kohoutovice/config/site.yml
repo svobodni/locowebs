@@ -2,8 +2,8 @@
 name: Svobodní Kohoutovice
 locales: [cs]
 subdomain: kohoutovice
-domains: [kohoutovice.svobodni.cz]
+domains: [kohoutovice.svobodni.cz, www.kohoutovice.svobodni.cz]
 seo_title: Svobodní Kohoutovice
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Kohoutovice
+meta_description: Strana svobodných občanů
 timezone: Prague

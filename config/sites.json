@@ -2,15 +2,15 @@
 	{
 		"name":"en",
 		"title":"Svobodní - EN",
-		"short_title":"EN",
+		"short_title":"EN"
 	},{
 		"name":"de",
 		"title":"Svobodní - DE",
-		"short_title":"DE",
+		"short_title":"DE"
 	},{
 		"name":"fr",
 		"title":"Svobodní - FR",
-		"short_title":"FR",
+		"short_title":"FR"
 	},{
 		"name":"praha9",
 		"title":"Svobodní Praha 9",
@@ -271,6 +271,13 @@
 		"fb_page_name":"pages/Svobodní-Chrudim/159960007372337",
 		"region_name": "Pardubický kraj",
 		"region_url": "http://pardubickykraj.svobodni.cz"
+	},{
+		"name":"ricany",
+		"title":"Svobodní Říčany",
+		"short_title":"Říčany",
+		"fb_page_name":"SvobodniStredniCechy",
+		"region_name": "Středočeský kraj",
+		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
 	},{
 		"name":"kohoutovice",
 		"title":"Svobodní Kohoutovice",

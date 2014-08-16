@@ -97,10 +97,16 @@ editable_elements:
       <div class="col-md-6 cand-top-4">
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
-        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
-        {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        {% for obvod in (1..5) %}
+        {% assign counter = 0 %}
+        {% for candidate in contents.candidates %}
+        {% if candidate.obvod == obvod %}
+        {% if counter == 0 %}
+        {% capture counter %}{{ counter | plus:1}}{% endcapture %}
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o lídrovi obvodu č. {{ obvod }}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>

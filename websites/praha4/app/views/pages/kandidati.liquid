@@ -16,10 +16,28 @@ position: 10
 <p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
 </div> <!--/.container -->
 
+<div class="section-tabs">
+<div class="container">
+	<p class="text-muted">Přes veškerou iniciativu Svobodných byla Praha 4 usnesením Zastupitelstva ze dne 18. června 2014 rozdělena na 5&nbsp;volebních obvodů. Naši kandidáti jsou tedy rozřazeni do 5 obvodů po 9. Kandidátní listina se zobrazí po kliknutí.</p>
+	<ul class="nav nav-tabs" role="tablist">
+		{% for obvod in (1..5) %}
+		<li><a href="#obvod_{{obvod}}" role="tab" data-toggle="tab">Obvod {{obvod}}</a></li>
+		{% endfor %}
+	</ul>
+</div> <!--/.container -->
+</div> <!--/.section-tabs -->
+
 <div class="container classic-content">	
 <div class="cand-grid">
 
+<div class="tab-content">
+{% for obvod in (1..5) %}
+<div class="tab-pane" id="obvod_{{obvod}}">
+<h2>Obvod {{ obvod }}</h2>
+{% assign counter = 0 %}
 {% for candidate in contents.candidates %}
+{% if candidate.obvod == obvod %}
+{% capture counter %}{{ counter | plus:1}}{% endcapture %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
 	<div class="col-md-4">
 		{% if candidate.profile == blank %}
@@ -27,15 +45,18 @@ position: 10
 		{% else %}
 		<a href="/kandidati/{{ candidate._slug }}">
 		{% endif %}
-		<em>{{forloop.index}}.</em>
+		<em>{{counter}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
 		{% if candidate.photo.url == blank%}{% else %}
-		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
+		<img src="{{ candidate.photo.url }}" alt="{% if counter == 1%}Lídr kandidátky{% else %}Kandidát č. {{counter}}{% endif %}" width="290">
 		{% endif %}
 		</a>
 	</div>
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
+{% endfor %}
+</div>
 {% endfor %}
 </div> <!--/.cand-grid -->
 

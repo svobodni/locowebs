@@ -2,7 +2,6 @@
 - Ing. Jakub Voneš:
     _slug: ing-jakub-vones
     seo_title: '1'
-    photo_url: http://vones.cz/images/svob/svobkuba.jpg
     occupation: ekonom
     political_party: Strana svobodných občanů
     age: 26
@@ -12,7 +11,6 @@
 - MUDr. Jaroslav Jeníček, CSc.:
     _slug: mudr-jaroslav-jenicek-csc
     seo_title: '2'
-    photo_url: http://vones.cz/images/svob/svobjarda.jpg
     occupation: lékař
     political_party: Strana svobodných občanů
     age: 49
@@ -20,7 +18,6 @@
 - Mgr. Martin Košut:
     _slug: mgr-martin-kosut
     seo_title: '3'
-    photo_url: http://vones.cz/images/svob/svobmartin.jpg
     occupation: podnikatel
     political_party: Strana svobodných občanů
     age: 43
@@ -60,7 +57,6 @@
     age: 23
 - Ing. Veronika Vonešová:
     _slug: ing-veronika-vonesova
-    photo_url: http://vones.cz/images/veronika.jpg
     occupation: zahradní architekt
     political_party: bez politické příslušnosti
     age: 28

@@ -1,7 +1,6 @@
 ---
 - Mgr. Miroslav Červenka:
     _slug: mgr-miroslav-cervenka
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e33c8c248ecb5ac600000a/files/cervenka.jpg
     photo: /samples/candidates/mgr-miroslav-cervenka/cervenka.jpg
     occupation: Živnostník
     political_party: Strana svobodných občanů
@@ -11,7 +10,6 @@
     fb_page_url: http://www.facebook.com/svobodni.decin
 - Michal Nosek:
     _slug: michal-nosek
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3426a248ecb5ac600000e/files/2.png
     photo: /samples/candidates/michal-nosek/2.png
     occupation: IT specialista
     political_party: Strana svobodných občanů,
@@ -22,7 +20,6 @@
     fb_page_url: http://www.facebook.com/svobodni.decin
 - Bc. Jan Schwarzbach:
     _slug: bc-jan-schwarzbach
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3431f248ecb5ac6000010/files/3.png
     photo: /samples/candidates/bc-jan-schwarzbach/3.png
     occupation: OSVČ
     political_party: Strana svobodných občanů
@@ -32,7 +29,6 @@
     fb_page_url: http://www.facebook.com/schwarzbach.jan
 - Ladislava Gregorová:
     _slug: ladislava-gregorova
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e3435e248ecb5ac6000012/files/4.png
     photo: /samples/candidates/ladislava-gregorova/4.png
     occupation: Ekonomka
     political_party: bez politické příslušnosti
@@ -45,21 +41,18 @@
     age: 23
 - Ing. Miloš Kopecký:
     _slug: ing-milos-kopecky
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53e343c7248ecb5ac6000016/files/5.png
     photo: /samples/candidates/ing-milos-kopecky/5.png
     occupation: Úředník
     political_party: bez politické příslušnosti
     age: 53
 - Bc. Karel Votoček:
     _slug: bc-karel-votocek
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53ecb056a5826271fa000024/files/7.png
     photo: /samples/candidates/bc-karel-votocek/7.png
     occupation: Softwarový vývojář
     political_party: Strana svobodných občanů
     age: 30
 - Ing. Vladimír Gregor:
     _slug: ing-vladimir-gregor
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b088a11e22caaa000226/content_entry53e1b08aa11e22caaa00022c/53ecb10ca5826271fa000026/files/6.png
     photo: /samples/candidates/ing-vladimir-gregor/6.png
     occupation: Ekonom
     political_party: ' bez politické příslušnosti)'

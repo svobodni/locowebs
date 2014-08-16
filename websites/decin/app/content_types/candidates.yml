@@ -6,12 +6,6 @@ label_field_name: name
 order_by: manually
 order_direction: asc
 fields:
-- photo_url:
-    label: photo_url
-    type: string
-    required: false
-    unique: false
-    localized: false
 - photo:
     label: photo
     type: file
@@ -79,3 +73,26 @@ fields:
     required: false
     unique: false
     localized: false
+- profile:
+    label: profile
+    type: text
+    hint: Profil kandidáta
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- quote:
+    label: quote
+    type: string
+    hint: Volební heslo, věta, citát
+    required: false
+    unique: false
+    localized: false
+- priorities:
+    label: priorities
+    type: text
+    hint: Volební priority
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html

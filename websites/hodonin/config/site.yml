@@ -2,8 +2,8 @@
 name: Svobodní Hodonín
 locales: [cs]
 subdomain: hodonin
-domains: [hodonin.svobodni.cz]
+domains: [hodonin.svobodni.cz, www.hodonin.svobodni.cz]
 seo_title: Svobodní Hodonín
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Hodonín
+meta_description: Strana svobodných občanů
 timezone: Prague

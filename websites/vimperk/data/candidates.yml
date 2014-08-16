@@ -3,7 +3,6 @@
     _slug: maxim-kysil
     meta_keywords: maxim kysil, kysil
     meta_description: Lídr Svobodných do komunálních voleb ve Vimperku
-    photo_url: http://img9.rajce.idnes.cz/d0903/10/10148/10148618_9d06e96c3357c51d5ec1a87a98205a1c/images/10380855_10201986720051787_1208648861051868207_o.jpg
     occupation: Student Národohospodářské fakulty VŠE
     political_party: Strana svobodných občanů
     age: 22
@@ -30,7 +29,6 @@
     fb_profile_url: https://www.facebook.com/Savrik
 - Mgr. Pavel Reichart:
     _slug: mgr-pavel-reichart
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53c00a7987ec0cc835000016/assets/53da2ff66df02fc7d2000001/reich.jpg
     occupation: Oblastní manažer ČPP servis
     political_party: bez politické příslušnosti
     age: 35
@@ -51,7 +49,6 @@
     age: 60
 - Jan Kraml:
     _slug: jan-kraml
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53c00a7987ec0cc835000016/assets/53da30026df02fc7d2000002/kraml.jpg
     occupation: Administrátor sítě
     political_party: bez politické příslušnosti
     age: 29

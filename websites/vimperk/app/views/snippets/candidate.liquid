@@ -1,24 +1,8 @@
-<script type="text/javascript">
-function toggle(it) {
- 
-    it.width = 300;
-  	it.height = 390;
-  }
-
-function untoggle(it) {
-  
-    it.width = 110;
-  	it.height = 132;
-  }
-    
- 
-</script>
-
 <div class="media">
 	<h3>{{ position }}. {{ person.name }}</h3>
 	<a class="pull-left" href="#">
       {% if person.photo_url != blank %}
-		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}" width="110" height="132" onmouseover="toggle(this)" onMouseOut="untoggle(this)">
+		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}">
       {% endif %}
 	</a>
 	<div class="media-body">
@@ -50,10 +34,6 @@ function untoggle(it) {
 			{% if person.fb_page_url != blank %}
 			<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
 			<dd><a href="{{ person.fb_page_url }}">stránka</a></dd>
-			{% endif %}
-			{% if person.political_party != blank %}
-			<dt>Politická <p> příslušnost</p></dt>
-         	<dd><p></p><p>{{ person.political_party }}</p></dd>
 			{% endif %}
          </dl>
 	</div>

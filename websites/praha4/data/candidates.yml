@@ -11,11 +11,12 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 1</p>"
-- Miloslav Javůrek:
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 1</p>
+- Ing. Miloslav Javůrek:
     _slug: miloslav-javurek
     obvod: 1
     photo_url: http://ellrohir.mzf.cz/web/content/p4/javurek_miloslav.png
+    occupation: Důchodce
     political_party: Strana svobodných občanů
     age: 70
     email: ''
@@ -24,10 +25,11 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Lukáš Kosina:
+- Ing. Lukáš Kosina:
     _slug: lukas-kosina
     obvod: 1
     photo_url: http://ellrohir.mzf.cz/web/content/p4/kosina_lukas.png
+    occupation: Conference Manager
     political_party: Strana svobodných občanů
     age: 28
     email: ''
@@ -39,7 +41,8 @@
 - Lukas Svoboda:
     _slug: lukas-svoboda
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=64c5dec6-a002-4d22-bf46-04e7a8aa16bc
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Vedoucí IT oddělení
     political_party: Strana svobodných občanů
     age: 35
     email: ''
@@ -51,7 +54,8 @@
 - Ing. Luboš Horáček:
     _slug: lubos-horacek
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=e90ee0b1-1db7-4383-8b50-8becc2c20951
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Stavař
     political_party: Strana svobodných občanů
     age: 52
     email: ''
@@ -60,11 +64,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- "Štěpánka Maliňáková":
+- Mgr. Štěpánka Maliňáková:
     _slug: stepanka-malinakova
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=a2d3b7a1-0017-4c8b-991d-68b040ca1ba3
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Referent vědecko-technických informací na VŠ
+    political_party: Bez politické příslušnosti
     age: 43
     email: ''
     phone: ''
@@ -72,11 +77,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Dana Kyndrová:
+- PhDr. Dana Kyndrová:
     _slug: dana-kyndrova
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=9c0ce9b8-68ed-4eec-9112-90acfe96a70a
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Fotografka
+    political_party: Bez politické příslušnosti
     age: 59
     email: ''
     phone: ''
@@ -87,7 +93,8 @@
 - Ing. Jiří Ulrich:
     _slug: jiri-ulrich
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=7ef91d7e-182b-4dfb-ab98-4cf3dadeb6a9
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: IT Senior Developer
     political_party: Strana svobodných občanů
     age: 34
     email: ''
@@ -99,7 +106,8 @@
 - Vaclav Neumann:
     _slug: vaclav-neumann
     obvod: 1
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=a2e82fe3-5b72-4cbe-bfc7-b1edcd5b10a8
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Podnikatel, pivovarník
     political_party: Strana svobodných občanů
     age: 57
     email: ''
@@ -111,7 +119,7 @@
 - Tomáš Vochozka:
     _slug: tomas-vochozka
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=7c157364-56a2-4271-b735-29b40b07b245
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
     occupation: zakladatel občanského sdružení, odborník na realitní obchody, marketér,
       donátor nadačního fondu proti korupci, investor a signatář ZRUŠME KOMUNISTY
     political_party: Strana svobodných občanů
@@ -121,11 +129,12 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 2</p>"
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 2</p>
 - Jaroslav Boháč:
     _slug: jaroslav-bohac
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=6eb09eaa-4a7c-4dc1-b535-6e50dc0c65e3
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Obchodní ředitel
     political_party: Strana svobodných občanů
     age: 48
     email: ''
@@ -134,10 +143,11 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Tomáš Veselý:
+- Ing. Tomáš Veselý:
     _slug: tomas-vesely
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=473646db-40e7-4abf-a0fa-69584adf37d3
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Programátor
     political_party: Strana svobodných občanů
     age: 29
     email: ''
@@ -149,7 +159,8 @@
 - Martin Vavrouš:
     _slug: martin-vavrous
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=367a76ca-0258-4a5c-b56d-6dabf72dc00c
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Podnikatel
     political_party: Strana svobodných občanů
     age: 32
     email: ''
@@ -158,11 +169,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Pavlína Adamcová:
+- por. Bc. Ing. Pavlína Adamcová:
     _slug: pavlina-adamcova
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=2bc38be7-ace4-473c-ba72-ca0db3b3b0e8
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Tisková mluvčí HZS hl. m. Prahy
+    political_party: Bez politické příslušnosti
     age: 46
     email: ''
     phone: ''
@@ -173,8 +185,9 @@
 - 'Radek Kučera ':
     _slug: radek-kucera
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=698af67e-d823-4f82-a5ad-ab8b00dd2acf
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Bezpečn ostní expert
+    political_party: Bez politické příslušnosti
     age: 43
     email: ''
     phone: ''
@@ -185,8 +198,9 @@
 - Pavel Šírek:
     _slug: pavel-sirek
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=578ad52c-7e7d-4d6b-806e-f96fc63ce447
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Důchodce
+    political_party: Bez politické příslušnosti
     age: 71
     email: ''
     phone: ''
@@ -194,11 +208,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Vít Vařeka:
+- Ing. Vít Vařeka, MBA:
     _slug: vit-vareka
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=b8f950d4-2a35-44ce-b57b-9f6cfa6e508f
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Manažer
+    political_party: Bez politické příslušnosti
     age: 51
     email: ''
     phone: ''
@@ -209,8 +224,9 @@
 - František Slavíček:
     _slug: frantisek-slavicek
     obvod: 2
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=5845e6eb-e1ef-4786-bc8e-4de1dfa53af2
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Služby - maloobchod
+    political_party: Bez politické příslušnosti
     age: 34
     email: ''
     phone: ''
@@ -230,11 +246,12 @@
     homepage_url: http://ellrohir.mzf.cz/
     fb_profile_url: https://www.facebook.com/alois.seckar
     fb_page_url: https://www.facebook.com/AloisSeckarSvobodni
-    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 3</p>"
-- Martin Pšenička:
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 3</p>
+- Ing. Martin Pšenička:
     _slug: martin-psenicka
     obvod: 3
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=42fc822a-c984-4ab7-b98e-98f639f98baf
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Programátor, OSVČ
     political_party: Strana svobodných občanů
     age: 29
     email: ''
@@ -243,10 +260,11 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Aleš Hakl:
+- Bc. Aleš Hakl:
     _slug: ales-hakl
     obvod: 3
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=57664f4c-1f50-44fb-80a0-02b7dd6d95d0
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/hakl_ales.png
+    occupation: Programátor
     political_party: Strana svobodných občanů
     age: 27
     email: ''
@@ -259,6 +277,7 @@
     _slug: karel-zvara
     obvod: 3
     photo_url: http://ellrohir.mzf.cz/web/content/p4/zvara_karel.png
+    occupation: Ekonom, IT analytik
     political_party: Strana svobodných občanů
     age: 38
     email: ''
@@ -267,11 +286,12 @@
     fb_profile_url: http://www.facebook.com/zvara
     fb_page_url: http://www.facebook.com/karel.zvara
     personal_text: ''
-- Zuzana Hadrabová:
+- Mgr. Zuzana Hadrabová:
     _slug: zuzana-hadrabova
     obvod: 3
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=603adfc3-718a-48c2-839b-8b73cb6a84ad
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Vedoucí personálního oddělení KOMTERM, a.s.
+    political_party: Bez politické příslušnosti
     age: 61
     email: ''
     phone: ''
@@ -279,11 +299,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Jiří Vlk:
+- Ing. Jiří Vlk, CSc.:
     _slug: jiri-vlk
     obvod: 3
     photo_url: http://ellrohir.mzf.cz/web/content/p4/vlk_jiri.png
-    political_party: Strana svobodných občanů
+    occupation: ASIC inženýr
+    political_party: Bez politické příslušnosti
     age: 60
     email: ''
     phone: ''
@@ -291,11 +312,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Jiří Bartoň:
+- Mgr. Jiří Bartoň:
     _slug: jiri-barton
     obvod: 3
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=972f8ea2-7e05-49e4-824c-c14fa285a0c4
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Programátor
+    political_party: Bez politické příslušnosti
     age: 37
     email: ''
     phone: ''
@@ -306,8 +328,9 @@
 - Michal Čvanda:
     _slug: michal-cvanda
     obvod: 3
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=8ae96b00-1145-45ab-a444-35e2918d31b6
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/cvanda_michal.png
+    occupation: Student, Fakulta managementu VŠE
+    political_party: Bez politické příslušnosti
     age: 22
     email: ''
     phone: ''
@@ -320,15 +343,15 @@
     obvod: 3
     photo_url: http://ellrohir.mzf.cz/web/content/p4/seckar_anton.png
     occupation: Prodavač
-    political_party: Strana svobodných občanů
+    political_party: Bez politické příslušnosti
     age: 53
     email: rakcesa@seznam.cz
-    phone: '723146074'
+    phone: 723 146 074
     homepage_url: http://krc-historie.cz/
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: "<p>Spr&aacute;vce webu o historii star&eacute; Krče - <a title=\"Star&aacute;
-      Krč\" href=\"http://krc-historie.cz/\">http://krc-historie.cz/</a></p>"
+    personal_text: <p>Spr&aacute;vce webu o historii star&eacute; Krče - <a title="Star&aacute;
+      Krč" href="http://krc-historie.cz/">http://krc-historie.cz/</a></p>
 - Ing. Jan Skalický:
     _slug: jan-skalicky
     obvod: 4
@@ -341,23 +364,25 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 4</p>"
-- Kateřina Berková:
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 4</p>
+- MgA. Kateřina Berková:
     _slug: katerina-berkova
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=e9bbc903-4abc-4cb4-8cb4-e984762860ba
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Bankovní úřednice
     political_party: Strana svobodných občanů
-    age: 30
+    age: 31
     email: ''
     phone: ''
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Pavel Pokorný:
+- Pavel Pokorný, BA:
     _slug: pavel-pokorny
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=a9e9e286-3e27-4f8a-ac62-b1e1b812a960
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Nákupčí, logistik
     political_party: Strana svobodných občanů
     age: 48
     email: ''
@@ -369,7 +394,8 @@
 - Roman Cestr:
     _slug: roman-cestr
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=4fc74215-0495-4b3f-9963-164fd6846dd7
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: IT specialista
     political_party: Strana svobodných občanů
     age: 44
     email: ''
@@ -381,8 +407,9 @@
 - Martin Pucherna:
     _slug: martin-pucherna
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=d8470fe0-678d-4a93-bc7d-a70a21f01a55
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/pucherna_martin.png
+    occupation: Ekonom, podnikatel
+    political_party: Bez politické příslušnosti
     age: 39
     email: ''
     phone: ''
@@ -393,8 +420,9 @@
 - Ing. Lubor Hájek:
     _slug: lubor-hajek
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=022ddd0f-0b80-4971-b5b2-8113ffccc5ff
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Analytik finančních produktů
+    political_party: Bez politické příslušnosti
     age: 48
     email: ''
     phone: ''
@@ -402,11 +430,12 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Kateřina Moshövel:
+- Kateřina Moshövel, DiS.:
     _slug: katerina-moshovel
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=cecb0581-f0ba-45df-b236-66e96c50227f
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/moshovel_katerina.png
+    occupation: Designérka
+    political_party: Bez politické příslušnosti
     age: 36
     email: ''
     phone: ''
@@ -418,7 +447,8 @@
     _slug: jiri-cecava
     obvod: 4
     photo_url: http://ellrohir.mzf.cz/web/content/p4/cecava_jiri.png
-    political_party: Strana svobodných občanů
+    occupation: Podnikatel
+    political_party: Bez politické příslušnosti
     age: 40
     email: ''
     phone: ''
@@ -429,8 +459,8 @@
 - Lukáš Sajvera:
     _slug: adam-svejda
     obvod: 4
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=053ca11a-a69b-4469-ab80-3129f84cbf3c
-    occupation: Student
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Student VŠ
     political_party: Bez politické příslušnosti
     age: 22
     email: ''
@@ -439,25 +469,26 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Jaroslav Marsa:
+- Ing. Jaroslav Marsa, MBA:
     _slug: jaroslav-marsa
     obvod: 5
     photo_url: http://ellrohir.mzf.cz/web/content/p4/marsa_jaroslav.png
     occupation: OSVČ
-    political_party: Bez politické příslušnosti
+    political_party: Strana svobodných občanů
     age: 54
     email: ''
     phone: ''
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: "<p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 5</p>"
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 5</p>
 - Ing. Filip Liegert:
     _slug: filip-liegert
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=ab02336c-bfb6-4e88-9edb-c58721f136d5
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Vedoucí v IT
     political_party: Strana svobodných občanů
-    age: 35
+    age: 36
     email: ''
     phone: ''
     homepage_url: ''
@@ -467,7 +498,8 @@
 - Dušan Novák:
     _slug: dusan-novak
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=b580e862-8128-4236-b2da-450ee29b9c71
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Programátor, webdesigner
     political_party: Strana svobodných občanů
     age: 27
     email: ''
@@ -476,23 +508,25 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Miroslav Bátěk:
+- Ing. Miroslav Bátěk:
     _slug: miroslav-batek
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=048ea0d9-cfdd-4df5-abe2-0bfc10497652
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Pensista
+    political_party: Bez politické příslušnosti
     age: 68
     email: ''
     phone: ''
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    personal_text: ''
-- Tomáš Kraus:
+    personal_text: <p><br data-mce-bogus="1"></p>
+- Ing. Tomáš Kraus:
     _slug: tomas-kraus
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=34310532-2d21-4d6b-84da-fca6a9888c82
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: OSVČ, programátor
+    political_party: Bez politické příslušnosti
     age: 40
     email: ''
     phone: ''
@@ -500,11 +534,13 @@
     fb_profile_url: ''
     fb_page_url: ''
     personal_text: ''
-- Markéta Žlábková:
+- Bc. Markéta Žlábková:
     _slug: marketa-zlabkova
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=7bb1429f-50df-4b3b-a43c-3d2590e497a7
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Vrchní metodik odboru tvorby produktů pojištění odpovědnosti
     political_party: Strana svobodných občanů
+    age: 50
     email: ''
     phone: ''
     homepage_url: ''
@@ -514,8 +550,9 @@
 - Martin Procházka:
     _slug: martin-prochazka
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=fdf45a8c-8a16-407d-91f8-364f0b8ea7fe
-    political_party: Strana svobodných občanů
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Technik dopravy
+    political_party: Bez politické příslušnosti
     age: 54
     email: ''
     phone: ''
@@ -526,9 +563,10 @@
 - Martin Kondr:
     _slug: martin-kondr
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=3e666b2e-8f3a-4a98-bb46-19c5ec2a7a02
-    political_party: Strana svobodných občanů
-    age: 18
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Student
+    political_party: Bez politické příslušnosti
+    age: 19
     email: ''
     phone: ''
     homepage_url: ''
@@ -538,7 +576,8 @@
 - Tomáš Macek:
     _slug: tomas-macek
     obvod: 5
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=fed21ddc-32b5-4963-972c-ca5cee49355c
+    photo_url: http://ellrohir.mzf.cz/web/content/p4/_empty.png
+    occupation: Podnikatel, foto-video
     political_party: Strana svobodných občanů
     age: 44
     email: ''

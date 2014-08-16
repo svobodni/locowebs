@@ -6,12 +6,6 @@ label_field_name: name
 order_by: manually
 order_direction: asc
 fields:
-- position:
-    label: Position
-    type: integer
-    required: true
-    unique: false
-    localized: false
 - photo_url:
     label: photo_url
     type: string
@@ -23,27 +17,27 @@ fields:
     type: string
     hint: Jméno a příjmení včetně titulů uváděných před a za jménem
     required: true
-    unique: false
+    unique: true
     localized: false
 - occupation:
     label: occupation
     type: string
     hint: Povolání (např. programátor, podnikatel)
-    required: true
+    required: false
     unique: false
     localized: false
 - political_party:
     label: political_party
     type: string
     hint: Politický příslušnosti (např. Strana svobodných občanů, bez politické příslušnosti)
-    required: true
+    required: false
     unique: false
     localized: false
 - age:
     label: age
     type: integer
     hint: Věk kandidáta uváděný číslovkou v letech (např. 32)
-    required: true
+    required: false
     unique: false
     localized: false
 - email:

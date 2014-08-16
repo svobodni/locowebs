@@ -55,6 +55,7 @@
     occupation: Administrátor sítě
     political_party: bez politické příslušnosti
     age: 29
+    email: kraml.jan@gmail.com
 - Ing. Hana Kubovcová:
     _slug: ing-hana-kubovcova
     occupation: Customer operations representative
@@ -67,7 +68,7 @@
     age: 31
 - Lenka Šenkýřová:
     _slug: lenka-senkyrova
-    occupation: "Účetní"
+    occupation: Účetní
     political_party: bez politické příslušnosti
     age: 45
 - Jaroslav Sova:
@@ -92,6 +93,6 @@
     age: 24
 - Jan Vávra:
     _slug: jan-vavra
-    occupation: "Řidič, automechanik"
+    occupation: Řidič, automechanik
     political_party: bez politické příslušnosti
     age: 23

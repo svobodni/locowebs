@@ -293,6 +293,13 @@
 		"region_name": "Ústecký kraj",
 		"region_url": "http://usteckykraj.svobodni.cz/"
 	},{
+		"name":"brno",
+		"title":"Svobodní Brno",
+		"short_title":"Brno",
+		"fb_page_name":"svobodni.brno",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz/"
+	},{
 		"name":"kohoutovice",
 		"title":"Svobodní Kohoutovice",
 		"short_title":"Kohoutovice",

@@ -13,9 +13,10 @@ fields:
     required: false
     unique: false
     localized: false
-- photo_url:
-    label: photo_url
-    type: string
+- photo:
+    label: photo
+    type: file
+    hint: Fotografie kandidáta
     required: false
     unique: false
     localized: false
@@ -79,9 +80,25 @@ fields:
     required: false
     unique: false
     localized: false
-- personal_text:
-    label: personal_text
+- profile:
+    label: profile
     type: text
+    hint: Profil kandidáta
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- quote:
+    label: quote
+    type: string
+    hint: Volební heslo, věta, citát
+    required: false
+    unique: false
+    localized: false
+- priorities:
+    label: priorities
+    type: text
+    hint: Volební priority
     required: false
     unique: false
     localized: false

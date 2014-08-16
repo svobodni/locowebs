@@ -9,28 +9,35 @@ fields:
 - title:
     label: Title
     type: string
-    hint: A description of the field for the editors
+    hint: Titulek
     required: true
     unique: false
     localized: false
 - posted_at:
     label: Posted at
     type: date_time
-    hint: A description of the field for the editors
+    hint: Datum a čas zveřejnění
     required: true
+    unique: false
+    localized: false
+- author:
+    label: Author
+    type: string
+    hint: Autor článku
+    required: false
     unique: false
     localized: false
 - tags:
     label: Tags
     type: tags
-    hint: A description of the field for the editors
+    hint: Tagy
     required: false
     unique: false
     localized: false
 - teaser:
     label: Teaser
     type: text
-    hint: A description of the field for the editors
+    hint: Zkrácený text - upoutávka
     required: false
     unique: false
     localized: false
@@ -38,14 +45,14 @@ fields:
 - featured_image:
     label: Featured image
     type: file
-    hint: A description of the field for the editors
+    hint: Obrázek u článku
     required: false
     unique: false
     localized: false
 - body:
     label: Body
     type: text
-    hint: A description of the field for the editors
+    hint: Text článku
     required: false
     unique: false
     localized: false

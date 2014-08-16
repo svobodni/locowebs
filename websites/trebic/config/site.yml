@@ -2,8 +2,8 @@
 name: Svobodní Třebíč
 locales: [cs]
 subdomain: trebic
-domains: [trebic.svobodni.cz]
+domains: [trebic.svobodni.cz, www.trebic.svobodni.cz]
 seo_title: Svobodní Třebíč
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Třebíč
+meta_description: Strana svobodných občanů
 timezone: Prague

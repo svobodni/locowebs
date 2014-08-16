@@ -2,8 +2,8 @@
 name: Svobodní Ústí nad Labem
 locales: [cs]
 subdomain: usti
-domains: [usti.svobodni.cz]
+domains: [usti.svobodni.cz, www.usti.svobodni.cz]
 seo_title: Svobodní Ústí nad Labem
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Ústí nad Labem
+meta_description: Strana svobodných občanů
 timezone: Prague

@@ -1,7 +1,7 @@
 ---
 title: Post template
 slug: content_type_template
-listed: true
+listed: false
 published: true
 cache_strategy: none
 response_type: text/html
@@ -11,29 +11,32 @@ content_type: posts
 {% extends parent %}
 
 {% block main %}
-  <div class="row">
-  <div class="col-md-8">
-    <div class="row">
 
-      <div class="col-md-12 col-dark col-head">
+<div class="container classic-content">
+  
+  <ol class="breadcrumb">
+    {% for crumb in page.breadcrumbs %}
+      {% if forloop.last %}
+        <li class="active">{{ crumb.title }}</li>
+      {% else %}
+      <li><a href="/{{ crumb.fullpath }}">{{ crumb.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ol>
 
-<article class="post">
-  <h3 class="posted-at">
-    Zveřejněno  {{ post.posted_at | localized_date: '%d.%m.%Y' }}
-  </h3>
-
-  {% if post.tags %}
-    <p class="tags">
-      <i class="glyphicon glyphicon-tags"></i>
-      {% for tag in post.tags %}
-        <span class="label label-primary">{{ tag | escape }}</span>
-      {% endfor %}
-    </p>
-  {% endif %}
-  <div class="body">
+  <h1>{{ post.title}}</h1>
+  <div class="article-detail">
+    <span class="date">{{ post.posted_at | localized_date: '%d. %m. %Y' }}</span>
+    <p class="lead">{{ post.teaser }}</p>
+    {% if post.featured_image.url %}
+      <img src="{{ post.featured_image.url }}" alt="{{ post.title | escape }}" class="img-responsive">
+    {% endif %}
     {{ post.body }}
-  </div>
-</article>
-
-          </div></div></div></div>
+    {{ unless post.author == blank }}
+    <p class="article-author text-right">{{ post.author }}</p>
+    {{ endunless }}
+  </div> <!-- /article-detail -->
+  
+</div> <!-- /container -->
+ 
 {% endblock %}

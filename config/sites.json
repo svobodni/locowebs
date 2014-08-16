@@ -279,6 +279,13 @@
 		"region_name": "Středočeský kraj",
 		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
 	},{
+		"name":"napajedla",
+		"title":"Svobodní Napajedla",
+		"short_title":"Napajedla",
+		"fb_page_name":"svobodnizk",
+		"region_name": "Zlínský kraj",
+		"region_url": "http://zlinskykraj.svobodni.cz"
+	},{
 		"name":"kohoutovice",
 		"title":"Svobodní Kohoutovice",
 		"short_title":"Kohoutovice",

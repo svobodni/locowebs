@@ -2,8 +2,8 @@
 name: Svobodní Písek
 locales: [cs]
 subdomain: pisek
-domains: [pisek.svobodni.cz]
+domains: [pisek.svobodni.cz, www.pisek.svobodni.cz]
 seo_title: Svobodní Písek
 meta_keywords: svobodní, písek, jihočeský, strakonice
-meta_description: some meta description
+meta_description: Strana svobodných občanů
 timezone: Prague

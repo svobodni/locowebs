@@ -1,92 +1,77 @@
 ---
 - Jiří Vávra:
     _slug: jiri-vavra
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 51
 - Ing. Pavel Otta:
     _slug: ing-pavel-otta
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: doktorand
     political_party: bez politické příslušnosti
     age: 25
     email: ottapav@gmail.com
 - Radka Marhonsová:
     _slug: radka-marhonsova
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: zdravotní sestra
     political_party: bez politické příslušnosti
     age: 44
 - Jiří Čaj:
     _slug: jiri-caj
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: technik kontroly kvality
     political_party: bez politické příslušnosti
     age: 28
 - Roman Konyvka:
     _slug: roman-konyvka
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 48
 - Mgr. Dušan Knop:
     _slug: mgr-dusan-knop
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: doktorand
     political_party: bez politické příslušnosti
     age: 28
 - Jan Pánek:
     _slug: jan-panek
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
 - Jan Dočkal:
     _slug: jan-dockal
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 22
 - Romana Hrušková:
     _slug: romana-hruskova
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: zdravotní laborantka
     political_party: bez politické příslušnosti
     age: 49
 - Ing. Lukáš Paroulek:
     _slug: ing-lukas-paroulek
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: vývojový pracovník
     political_party: bez politické příslušnosti
     age: 25
 - Karel Novotný:
     _slug: karel-novotny
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: brusič kovu
     political_party: bez politické příslušnosti
     age: 58
 - Marie Blažková:
     _slug: marie-blazkova
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: důchodce
     political_party: bez politické příslušnosti
     age: 69
 - Ladislav Štěpař:
     _slug: ladislav-stepar
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
 - Michal Novotný:
     _slug: michal-novotny
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 21
 - Luboš Szmatana:
     _slug: lubos-szmatana
-    photo_url: https://svobodni-cms.s3.amazonaws.com/sites/53e1b071a11e22caaa0001dc/theme/images/beran.jpg
     occupation: pracovník úklidu
     political_party: bez politické příslušnosti
     age: 52

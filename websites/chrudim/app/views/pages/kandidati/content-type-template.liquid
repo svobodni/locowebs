@@ -32,23 +32,23 @@ content_type: candidates
         <li>{{ candidate.age }} let</li>
       </ul>
       <dl class="dl-horizontal">
-        {% if candidate.email != '' %}
+        {% if candidate.email != blank %}
         <dt><i title="E-mail" class="glyphicon glyphicon-envelope"></i></dt>
         <dd><a href="mailto:{{ candidate.email }}">{{ candidate.email }}</a></dd>
         {% endif %}
-        {% if candidate.phone != '' %}
+        {% if candidate.phone != blank %}
         <dt><i title="Telefon" class="glyphicon glyphicon-earphone"></i></dt>
         <dd>{{ candidate.phone }}</dd>
         {% endif %}
-        {% if candidate.homepage_url != '' %}
+        {% if candidate.homepage_url != blank %}
         <dt><i title="Web" class="glyphicon glyphicon-globe"></i></dt>
         <dd><a href="{{ candidate.homepage_url }}">{{ candidate.homepage_url }}</a></dd>
         {% endif %}
-        {% if candidate.fb_profile_url != '' %}
+        {% if candidate.fb_profile_url != blank %}
         <dt><i title="Facebook" class="fa fa-facebook"></i></dt>
         <dd><a href="{{ candidate.fb_profile_url }}">fb profil</a></dd>
         {% endif %}
-        {% if candidate.fb_page_url != '' %}
+        {% if candidate.fb_page_url != blank %}
         <dt><i title="Facebook" class="fa fa-facebook"></i></dt>
         <dd><a href="{{ candidate.fb_page_url }}">fb stránka</a></dd>
         {% endif %}
@@ -61,6 +61,15 @@ content_type: candidates
   </div> <!--/.profile -->
   </div> <!--/.container -->
   
+  {% unless candidate.priorities == blank %}
+  <div class="section-gray priorities">
+  <div class="container">
+    <h3 class="text-center h-spec-purple"><span>Prosazuji</span></h3>
+    {{ candidate.priorities}}
+  </div> <!--/.container -->
+  </div> <!--/.section-gray -->
+  {% endunless %}
+
   <div class="section-white">
   <div class="container">
     <p class="text-center"><a class="btn btn-lg btn-default" href="/kandidati" role="button"><span class="glyphicon glyphicon-user"></span> Zobrazit další kandidáty</a></p>

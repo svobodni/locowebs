@@ -107,6 +107,13 @@
 		"region_name": "Liberecký kraj",
 		"region_url": "http://www.svobodni.cz/kraje/liberecky/"
 	},{
+		"name":"liberec",
+		"title":"Svobodní Liberec",
+		"short_title":"Liberec",
+		"fb_page_name":"svobodni",
+		"region_name": "Liberecký kraj",
+		"region_url": "http://www.svobodni.cz/kraje/liberecky/"
+	},{
 		"name":"hodonin",
 		"title":"Svobodní Hodonín",
 		"short_title":"Hodonín",

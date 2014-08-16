@@ -2,8 +2,8 @@
 name: Svobodní Jihlava
 locales: [cs]
 subdomain: jihlava
-domains: [jihlava.svobodni.cz]
+domains: [jihlava.svobodni.cz, www.jihlava.svobodni.cz]
 seo_title: Svobodní Jihlava
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Jihlava
+meta_description: Strana svobodných občanů
 timezone: Prague

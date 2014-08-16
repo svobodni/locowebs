@@ -1,1 +1,122 @@
---- []
+---
+- Jiří Remeš:
+    _slug: jiri-remes
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 46
+    email: remes.jiri@seznam.cz
+    phone: 728 915 925
+    fb_profile_url: https://www.facebook.com/jiri.remes.9
+    fb_page_url: https://www.facebook.com/jiri.remes.9
+- Ing. Pavel Beznoska:
+    _slug: pavel-beznoska
+    occupation: Branch manager
+    political_party: bez politické příslušnosti
+    age: 36
+    email: pavel.beznoska@email.cz
+    phone: ''
+- Bc. Tomáš Lenhart:
+    _slug: tomas-lenhart
+    occupation: obchodní zástupce
+    political_party: Strana svobodných občanů
+    age: 31
+- Radek Kasálek:
+    _slug: radek-kasalek
+    occupation: pracovník pošty
+    political_party: Strana svobodných občanů
+    age: 35
+- Radek Penner:
+    _slug: radek-penner
+    occupation: technik
+    political_party: Bez politické příslušnosti
+    age: 37
+- Dušan Rudecký:
+    _slug: dusan-rudecky
+    occupation: Strana svobodných občanů
+    political_party: technik
+    age: 41
+- Bc. Zuzana Hlavicová:
+    _slug: bc-zuzana-hlavicova
+    occupation: bankovní úřednice
+    political_party: Bez politické příslušnosti
+    age: 27
+- Bc. Vojtěch Žák:
+    _slug: bc-vojtech-zak
+    occupation: programátor IT
+    political_party: Bez politické příslušnosti
+    age: 27
+- Kateřina Pechačová:
+    _slug: katerina-pechacova
+    occupation: fakturantka
+    political_party: Bez politické příslušnosti
+    age: 33
+- Stanislav Zatloukal:
+    _slug: stanislav-zatloukal
+    occupation: důchodce
+    political_party: Bez politické příslušnosti
+    age: 72
+- Peter  Malina:
+    _slug: peter-malina
+    occupation: OSVČ
+    political_party: Bez politické příslušnosti
+    age: 45
+- Dalibor Oubělický:
+    _slug: dalibor-oubelicky
+    occupation: technik
+    political_party: Bez politické příslušnosti
+    age: 48
+- 'Jiří Remeš ':
+    _slug: jiri-remes-1
+    occupation: dělník
+    political_party: Bez politické příslušnosti
+    age: 23
+- Petr Hochman:
+    _slug: petr-hochman
+    occupation: technik
+    political_party: Bez politické příslušnosti
+    age: 41
+- Radek Lysáček:
+    _slug: radek-lysacek
+    occupation: OSVČ
+    political_party: Bez politické příslušnosti
+    age: 48
+- Jaroslav Šnajdr:
+    _slug: jaroslav-snajdr
+    occupation: obchodní zástupce
+    political_party: Bez politické příslušnosti
+    age: 53
+- Věra Repková:
+    _slug: vera-repkova
+    occupation: obchodní referentka
+    political_party: Bez politické příslušnosti
+    age: 46
+- Marcela Lenhartová:
+    _slug: marcela-lenhartova
+    occupation: důchodce
+    political_party: Bez politické příslušnosti
+    age: 59
+- Barbora Remešová:
+    _slug: barbora-remesova
+    occupation: student VŠ
+    political_party: Bez politické příslušnosti
+    age: 22
+- Josef Solař:
+    _slug: josef-solar
+    occupation: OSVČ
+    political_party: Bez politické příslušnosti
+    age: 38
+- Marek Hlavica:
+    _slug: marek-hlavica
+    occupation: dělník
+    political_party: Bez politické příslušnosti
+    age: 20
+- Michal Repka:
+    _slug: michal-repka
+    occupation: technik
+    political_party: Bez politické příslušnosti
+    age: 27
+- Hana Zimčíková:
+    _slug: hana-zimcikova
+    occupation: poštovní úřednice
+    political_party: Bez politické příslušnosti
+    age: 32

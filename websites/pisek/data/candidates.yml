@@ -1,1 +1,136 @@
---- []
+---
+- Pavel Hubka:
+    _slug: pavel-hubka
+    occupation: IT technik
+    political_party: Strana svobodných občanů
+    age: 45
+- Aleš Procházka:
+    _slug: ales-prochazka
+    occupation: ošetřovatel zvířat a student VŠ
+    political_party: Strana svobodných občanů
+    age: 24
+- Karel Kropš:
+    _slug: karel-krops
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 41
+- Pavel Kašpar:
+    _slug: pavel-kaspar
+    occupation: jednatel
+    political_party: Strana svobodných občanů
+    age: 44
+- Milan Biskup:
+    _slug: milan-biskup
+    occupation: truhlář
+    political_party: bez politické příslušnosti
+    age: 46
+- Věra Opavová:
+    _slug: vera-opavova
+    occupation: nezaměstnaná
+    political_party: bez politické příslušnosti
+    age: 46
+- Ing. Marie Procházková:
+    _slug: ing-marie-prochazkova
+    occupation: středoškolská učitelka
+    political_party: bez politické příslušnosti
+    age: 52
+- Zdeněk Jelínek:
+    _slug: zdenek-jelinek
+    occupation: truhlář
+    political_party: bez politické příslušnosti
+    age: 36
+- Blanka Seinerová:
+    _slug: blanka-seinerova
+    occupation: zástupkyně manažera prodejny
+    political_party: bez politické příslušnosti
+    age: 30
+- Zdeněk Liška:
+    _slug: zdenek-liska
+    occupation: nástrojař
+    political_party: bez politické příslušnosti
+    age: 26
+- Ing. Karel Kozlík:
+    _slug: ing-karel-kozlik
+    occupation: programátor
+    political_party: bez politické příslušnosti
+    age: 37
+- Jan Gajdůšek:
+    _slug: jan-gajdusek
+    occupation: truhlář
+    political_party: bez politické příslušnosti
+    age: 41
+- Kateřina Boháčková:
+    _slug: katerina-bohackova
+    occupation: studentka VŠ
+    political_party: bez politické příslušnosti
+    age: 21
+- Robert Novodvorský:
+    _slug: robert-novodvorsky
+    occupation: technik
+    political_party: bez politické příslušnosti
+    age: 43
+- Andrea Kortánová:
+    _slug: andrea-kortanova
+    occupation: na mateřské dovolené
+    political_party: bez politické příslušnosti
+    age: 36
+- Jana Kuželová:
+    _slug: jana-kuzelova
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 66
+- Naděžda Dostálová:
+    _slug: nadezda-dostalova
+    occupation: zdravotní sestra
+    political_party: bez politické příslušnosti
+    age: 39
+- Milan Džugan:
+    _slug: milan-dzugan
+    occupation: elektrikář
+    political_party: bez politické příslušnosti
+    age: 22
+- Zuzana Červíčková:
+    _slug: zuzana-cervickova
+    occupation: na mateřské dovolené
+    political_party: bez politické příslušnosti
+    age: 39
+- Michal Procházka:
+    _slug: michal-prochazka
+    occupation: truhlář
+    political_party: bez politické příslušnosti
+    age: 21
+- Radka Hadáčková:
+    _slug: radka-hadackova
+    occupation: jednatel
+    political_party: bez politické příslušnosti
+    age: 44
+- Tomáš Kloboučník:
+    _slug: tomas-kloboucnik
+    occupation: quality planning engineer
+    political_party: bez politické příslušnosti
+    age: 24
+- Gabriela Málová:
+    _slug: gabriela-malova
+    occupation: učitelka anglického jazyka
+    political_party: bez politické příslušnosti
+    age: 42
+- Milan Bláha:
+    _slug: milan-blaha
+    occupation: jednatel
+    political_party: bez politické příslušnosti
+    age: 44
+- Tomáš Krejčíř:
+    _slug: tomas-krejcir
+    occupation: podlahář
+    political_party: bez politické příslušnosti
+    age: 35
+- Radek Měřička:
+    _slug: radek-mericka
+    occupation: hasič
+    political_party: bez politické příslušnosti
+    age: 22
+- Jindřich Bílý:
+    _slug: jindrich-bily
+    occupation: autoelektrikář
+    political_party: bez politické příslušnosti
+    age: 49

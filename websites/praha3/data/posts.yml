@@ -66,7 +66,7 @@
       referenda hlasovali jednotliv&iacute; zastupitel&eacute; ?</p>\r\n<p style=\"text-align:
       left;\"><br /><img style=\"display: block; margin-left: auto; margin-right:
       auto;\" src=\"/samples/assets/referendum-parukarka.jpg\" alt=\"\" />&nbsp;</p>"
-    featured_image: "/samples/posts/svobodni-praha-3-k-otazce-chystaneho-mistniho-refrenad-o-parukarce/parukarka_mensi.JPG"
+    featured_image: /samples/posts/svobodni-praha-3-k-otazce-chystaneho-mistniho-refrenad-o-parukarce/parukarka_mensi.JPG
     body: ''
 - 'Svobodní jsou i na Praze 3 ':
     _slug: svobodni-jsou-i-na-praze-3

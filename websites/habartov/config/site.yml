@@ -2,8 +2,8 @@
 name: Svobodní Habartov
 locales: [cs]
 subdomain: habartov
-domains: [habartov.svobodni.cz]
+domains: [habartov.svobodni.cz, www.habartov.svobodni.cz]
 seo_title: Svobodní Habartov
-meta_keywords: some meta keywords
-meta_description: some meta description
+meta_keywords: Svobodní Habartov
+meta_description: Strana svobodných občanů
 timezone: Prague

@@ -2,8 +2,8 @@
 name: Svobodní Praha 3
 locales: [cs]
 subdomain: praha3
-domains: [praha3.svobodni.cz]
-seo_title: Svobodní
-meta_keywords: some meta keywords
-meta_description: some meta description
+domains: [praha3.svobodni.cz, www.praha3.svobodni.cz]
+seo_title: Svobodní Praha 3
+meta_keywords: Svobodní Praha 3
+meta_description: Strana svobodných občanů
 timezone: Prague

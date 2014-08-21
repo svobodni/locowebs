@@ -6,6 +6,8 @@
     age: 48
     email: bedrichova.jarka@seznam.cz
     phone: 777 598 151
+    profile: ''
+    priorities: ''
 - 'Ing. Jaromír  Lažek ':
     _slug: ing-jaromir-lazek
     occupation: technický ředitel
@@ -13,6 +15,8 @@
     age: 48
     email: jaralazek@seznam.cz
     phone: 602 760 701
+    profile: ''
+    priorities: ''
 - Ing. Ondřej  Stloukal:
     _slug: ing-ondrej-stloukal
     occupation: vývoj software, IT služby
@@ -20,6 +24,8 @@
     age: 41
     email: stloukal@gmail.com
     phone: 603 712 095
+    profile: ''
+    priorities: ''
 - Ing. Martin Tischer:
     _slug: ing-martin-tischer
     occupation: obchodní manažer
@@ -27,6 +33,8 @@
     age: 42
     email: mtischer@cominfo.cz
     phone: 603 197 051
+    profile: ''
+    priorities: ''
 - Mgr.Pavla Bordovská:
     _slug: mgr-dot-pavla-bordovska
     occupation: pedagog, zástupce ředitele
@@ -34,6 +42,8 @@
     age: 50
     email: p.bordovska@seznam.cz
     phone: 777 599 844
+    profile: ''
+    priorities: ''
 - Ing. Petr   Gallia:
     _slug: ing-petr-gallia
     occupation: vinař, OSVČ
@@ -41,6 +51,8 @@
     age: 34
     email: petrgallia@seznam.cz
     phone: 604 162 032
+    profile: ''
+    priorities: ''
 - Josef Klabačka:
     _slug: josef-klabacka
     occupation: manažer nákupu
@@ -48,6 +60,8 @@
     age: 45
     email: j.klabacka@seznam.cz
     phone: 731 572 809
+    profile: ''
+    priorities: ''
 - Ing. Hana  Červenáková:
     _slug: ing-hana-cervenakova
     occupation: ekonomka
@@ -55,6 +69,8 @@
     age: 47
     email: cervenakova.hana@seznam.cz
     phone: 777 808 447
+    profile: ''
+    priorities: ''
 - Ing. František Slezák:
     _slug: ing-frantisek-slezak
     occupation: obchodní ředitel
@@ -62,6 +78,8 @@
     age: 54
     email: slezak950@gmail.com
     phone: 602 716 177
+    profile: ''
+    priorities: ''
 - Ing. Miroslav Kosík:
     _slug: ing-miroslav-kosik
     occupation: ekonom
@@ -69,6 +87,8 @@
     age: 60
     email: 'kosikovi@atlas.cz '
     phone: 723 302 831
+    profile: ''
+    priorities: ''
 - Ludmila Obdržálková:
     _slug: ludmila-obdrzalkova
     occupation: vedoucí pošty
@@ -76,12 +96,16 @@
     age: 54
     email: ludmilala@email.cz
     phone: 724 087 929
+    profile: ''
+    priorities: ''
 - Mgr. Vít Pjajčík:
     _slug: mgr-vit-pjajcik
     political_party: pedagog, sportovní manažer a předseda spolku
     age: 45
     email: vit.pjajcik@gmail.com
     phone: 607 677 778
+    profile: ''
+    priorities: ''
 - Ivo Bedřich:
     _slug: ivo-bedrich
     occupation: grafik
@@ -89,6 +113,8 @@
     age: 45
     email: 'ivo.bedrich@tiscali.cz '
     phone: 777 570 350
+    profile: ''
+    priorities: ''
 - Mgr. Přemysl Paška:
     _slug: mgr-premysl-paska
     occupation: programátor
@@ -96,6 +122,8 @@
     age: 31
     email: premek.paska@gmail.com
     phone: 776 707 614
+    profile: ''
+    priorities: ''
 - Mgr. Markéta Frantová:
     _slug: mgr-marketa-frantova
     occupation: pedagog, ZŠ
@@ -103,6 +131,8 @@
     age: 42
     email: frantova.marketa@seznam.cz
     phone: 724 469 686
+    profile: ''
+    priorities: ''
 - Mgr. Miroslava Prchlíková:
     _slug: mgr-miroslava-prchlikova
     occupation: pedagog, ZŠ
@@ -110,6 +140,8 @@
     age: 35
     email: manisova@centrum.cz
     phone: 723 025 205
+    profile: ''
+    priorities: ''
 - Ing. Richard Boček:
     _slug: ing-richard-bocek
     occupation: manažer řízení kvality
@@ -117,3 +149,5 @@
     age: 40
     email: richib@seznam.cz
     phone: 724 335 996
+    profile: ''
+    priorities: ''

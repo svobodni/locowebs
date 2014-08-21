@@ -1,266 +1,385 @@
 ---
 - Mgr. Jakub Frydrych:
-    :_slug: jakub-frydrych
-    :political_party: Strana svobodných občanů
-    :age: 31
-    :email: ''
-    :phone: ''
-    :homepage_url: http://czpremysl.wordpress.com
-    :fb_profile_url: ''
-    :fb_page_url: ''
-- Vít Jedlička:
-    :_slug: vit-jedlicka
-    :political_party: Strana svobodných občanů
-    :age: 30
-    :email: ''
-    :phone: ''
-    :homepage_url: http://www.reformy.cz/
-    :fb_profile_url: http://www.facebook.com/profile.php?id=1245451008
-    :fb_page_url: https://www.facebook.com/klub.reformy.cz?fref=ts
-- Natálie Vachatová:
-    :_slug: natalie-vachatova
-    :political_party: Strana svobodných občanů
-    :age: 29
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
-- Helena Hejhálková:
-    :_slug: helena-hejhalkova
-    :political_party: Strana svobodných občanů
-    :age: 53
-    :email: ''
-    :phone: ''
-    :homepage_url: 
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jakub-frydrych
+    photo: /samples/candidates/jakub-frydrych/frydrych9.png
+    occupation: vedoucí, kouč
+    political_party: Strana svobodných občanů
+    age: 31
+    email: frydrych@svobodni.cz
+    phone: 603 425 961
+    homepage_url: http://czpremysl.wordpress.com
+    fb_profile_url: https://www.facebook.com/frydrychj
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Bc. Vít Jedlička:
+    _slug: vit-jedlicka
+    photo: /samples/candidates/vit-jedlicka/jedlicka3.jpg
+    occupation: finanční analytik, zakladatel Reformy.cz
+    political_party: Strana svobodných občanů
+    age: 30
+    email: jedlicka@svobodni.cz
+    phone: '608131130'
+    homepage_url: http://www.reformy.cz/
+    fb_profile_url: http://www.facebook.com/profile.php?id=1245451008
+    fb_page_url: https://www.facebook.com/klub.reformy.cz?fref=ts
+    profile: ''
+    priorities: ''
+- Bc. Natálie Vachatová:
+    _slug: natalie-vachatova
+    occupation: soudní překladatelka
+    political_party: Strana svobodných občanů
+    age: 29
+    email: n.translate@nvfagency.cz
+    phone: ''
+    homepage_url: http://nvfagency.cz/
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Mgr. Helena Hejhálková:
+    _slug: helena-hejhalkova
+    occupation: ředitelka obchodu
+    political_party: Strana svobodných občanů
+    age: 53
+    email: hejhalkova@vega.cz
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Mgr.  Hynek Dostál, Ph.D.:
-    :_slug: hynek-dostal
-    :political_party: Bez politické příslušnosti
-    :age: 41
-    :email: ''
-    :phone: ''
-    :homepage_url: http://www.chemikszs.cz
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: hynek-dostal
+    occupation: učitel
+    political_party: Bez politické příslušnosti
+    age: 41
+    email: ''
+    phone: ''
+    homepage_url: http://www.chemikszs.cz
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - RNDr. Jiří Hejhálek:
-    :_slug: jiri-hejhalek
-    :political_party: Strana svobodných občanů
-    :age: 57
-    :email: ''
-    :phone: ''
-    :homepage_url: 
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jiri-hejhalek
+    occupation: šéfredaktor
+    political_party: Strana svobodných občanů
+    age: 57
+    email: hejhalek@vega.cz
+    phone: ''
+    homepage_url: http://www.hejhalek.cz
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jan Husák:
-    :_slug: jan-husak
-    :political_party: Strana svobodných občanů
-    :age: 34
-    :email: ''
-    :phone: ''
-    :homepage_url: http://alesco.cz
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jan-husak
+    occupation: vývojář
+    political_party: Strana svobodných občanů
+    age: 34
+    email: ''
+    phone: ''
+    homepage_url: http://alesco.cz
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Alois Langer:
-    :_slug: alois-langer
-    :political_party: Strana svobodných občanů
-    :age: 46
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: alois-langer
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 46
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Miroslav Petrů:
-    :_slug: miroslav-petru
-    :political_party: Strana svobodných občanů
-    :age: 29
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: miroslav-petru
+    occupation: živnostník
+    political_party: Strana svobodných občanů
+    age: 29
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Mgr. Jaroslav Tachovský:
-    :_slug: 'jaroslav-tachovsky'
+    _slug: jaroslav-tachovsky
+    occupation: IT, OSVČ
+    age: 47
+    profile: ''
+    priorities: ''
 - Jan Cicvárek:
-    :_slug: jan-cicvarek
-    :political_party: Bez politické příslušnosti
-    :age: 21
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jan-cicvarek
+    occupation: analytik agentních systémů
+    political_party: Bez politické příslušnosti
+    age: 21
+    email: cicvarek.jan@gmail.com
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Ing. Svatopluk Tomšů:
-    :_slug: svatopluk-tomsu
-    :political_party: Bez politické příslušnosti
-    :age: 41
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: svatopluk-tomsu
+    occupation: analytik
+    political_party: Bez politické příslušnosti
+    age: 41
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - JUDr. Ph.D. Jan Bureš:
     _slug: jan-bures
     occupation: právník
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
 - Mgr. Lukáš Horák, Ph.D.:
-    :_slug: lukas-horak
-    :political_party: Bez politické příslušnosti
-    :age: 32
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: lukas-horak
+    occupation: vědecký pracovník
+    political_party: Bez politické příslušnosti
+    age: 32
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Miroslav Christ:
-    :_slug: miroslav-christ
-    :political_party: Strana svobodných občanů
-    :age: 22
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: miroslav-christ
+    occupation: privátní bankéř
+    political_party: Strana svobodných občanů
+    age: 22
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Ing. Tomáš Stehlík:
     _slug: tomas-stehlik
-    occupation: finanční poradce    
-- Vanda Marešová:
-    :_slug: vanda-maresova
-    :political_party: Bez politické příslušnosti
-    :age: 24
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
-- Ing. Pavel Śkvrňa:
-    _slug: pavel-skvrna
-    occupation: projektant pozemních staveb
-- Petr Kalhous:
-    :_slug: petr-kalhous
-    :political_party: Strana svobodných občanů
-    :age: 53
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: http://www.facebook.com/profile.php?id=1672872556
-    :fb_page_url: ''
+    occupation: finanční poradce
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
 - MBA Roman Tobíšek:
     _slug: roman-tobisek
     occupation: architekt IT
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Ing. Pavel Škvrňa:
+    _slug: pavel-skvrna
+    occupation: projektant pozemních staveb
+    political_party: Strana svobodných občanů
+    age: 43
+    profile: ''
+    priorities: ''
+- Petr Kalhous:
+    _slug: petr-kalhous
+    occupation: podnikatel, OSVČ
+    political_party: Strana svobodných občanů
+    age: 54
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: http://www.facebook.com/profile.php?id=1672872556
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Bc. Vanda Marešová:
+    _slug: vanda-maresova
+    occupation: studentka
+    political_party: Bez politické příslušnosti
+    age: 24
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Ing. Štepán Vyčichlo:
     _slug: stepan-vycichlo
     occupation: projektant
+    age: 33
+    profile: ''
+    priorities: ''
 - Zdeněk Koutník:
-    :_slug: zdenek-koutnik
-    :political_party: Bez politické příslušnosti
-    :age: 30
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
-- Tomáš Vršinský:
-    :_slug: tomas-vrsinsky
-    :political_party: Bez politické příslušnosti
-    :age: 34
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: zdenek-koutnik
+    occupation: grafik, technik
+    political_party: Bez politické příslušnosti
+    age: 30
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
+- DiS. Tomáš Vršinský:
+    _slug: tomas-vrsinsky
+    occupation: živnostník
+    political_party: Bez politické příslušnosti
+    age: 34
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Ing. Zdeněk Nový:
-    :_slug: zdenek-novy
-    :political_party: Bez politické příslušnosti
-    :age: 33
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: zdenek-novy
+    occupation: podnikatel
+    political_party: Bez politické příslušnosti
+    age: 33
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Vladimír Krupa:
-    :_slug: vladimir-krupa
-    :political_party: Bez politické příslušnosti
-    :age: 50
-    :email: ''
-    :phone: ''
-    :homepage_url: http://wlado.cz
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: vladimir-krupa
+    occupation: správce IT
+    political_party: Bez politické příslušnosti
+    age: 50
+    email: ''
+    phone: ''
+    homepage_url: http://wlado.cz
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jiří Ptáček:
-    :_slug: jiri-ptacek
-    :political_party: Bez politické příslušnosti
-    :age: 33
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jiri-ptacek
+    political_party: Bez politické příslušnosti
+    age: 33
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jana Voltrová:
     _slug: jana-voltrova
     occupation: OSVČ
+    political_party: Bez politické příslušnosti
+    age: 52
+    profile: ''
+    priorities: ''
 - Soňa Zimmerová:
-    :_slug: sona-zimmerova
-    :political_party: Strana svobodných občanů
-    :age: ''
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: sona-zimmerova
+    occupation: podnikatelka
+    political_party: Bez politické příslušnosti
+    age: 40
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jiří Voseček:
-    :_slug: jiri-vosecek
-    :political_party: Bez politické příslušnosti
-    :age: 26
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jiri-vosecek
+    political_party: Bez politické příslušnosti
+    age: 26
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jiří Pozler:
-    :_slug: jiri-pozler
-    :political_party: Bez politické příslušnosti
-    :age: 31
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: jiri-pozler
+    political_party: Bez politické příslušnosti
+    age: 31
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Vlasta Čipčalová:
-    :_slug: vlasta-cipcalova
-    :political_party: Bez politické příslušnosti
-    :age: 65
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: vlasta-cipcalova
+    political_party: Bez politické příslušnosti
+    age: 65
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Kateřina Boháčová:
-    _slug: kateřina-bohacova
-    occupation: rodičovská dovolená    
-- Luboš Remplík:
-    :_slug: lubos-remplik
-    :political_party: Strana svobodných občanů
-    :age: 29
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
-- Jakub Andrýs:
+    _slug: katerina-bohacova
+    occupation: rodičovská dovolená
+    age: 31
+    profile: ''
+    priorities: ''
+- Ing. Luboš Remplík:
+    _slug: lubos-remplik
+    occupation: programátor
+    political_party: Strana svobodných občanů
+    age: 29
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Jakub Andrys:
     _slug: jakub-andrys
     occupation: ICT technik a vývojář
+    age: 27
+    email: andrys@nopc.cz
+    profile: ''
+    priorities: ''
 - Michaela Smetanová:
     _slug: michaela-smetanova
     occupation: pracovník v sociálních službách
+    political_party: Bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
 - Ing. Bc. Petr Hladík:
     _slug: petr-hladik
+    occupation: finanční ředitel
+    political_party: Bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
 - Ing. Petr Netík:
-    :_slug: petr-netik
-    :political_party: Strana svobodných občanů
-    :age: 57
-    :email: ''
-    :phone: ''
-    :homepage_url: ''
-    :fb_profile_url: ''
-    :fb_page_url: ''
+    _slug: petr-netik
+    occupation: projektant
+    political_party: Strana svobodných občanů
+    age: 57
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''

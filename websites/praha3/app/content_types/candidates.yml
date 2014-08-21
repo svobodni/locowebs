@@ -1,5 +1,5 @@
 ---
-name: Candidates
+name: Kandidáti
 description: Kandidáti do voleb
 slug: candidates
 label_field_name: name
@@ -43,7 +43,8 @@ fields:
     localized: false
 - email:
     label: email
-    type: string
+    type: email
+    hint: mojmir.mikulas@gmail.com
     required: false
     unique: false
     localized: false

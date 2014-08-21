@@ -3,75 +3,108 @@
     _slug: jiri-vavra
     occupation: podnikatel
     political_party: bez politické příslušnosti
-    age: 51
+    age: 52
+    profile: ''
+    priorities: ''
 - Ing. Pavel Otta:
     _slug: ing-pavel-otta
+    photo: /samples/candidates/ing-pavel-otta/ing-pavel-otta.jpg
     occupation: doktorand
     political_party: bez politické příslušnosti
     age: 25
     email: ottapav@gmail.com
+    phone: +420 724068865
+    profile: ''
+    quote: '"Kdo nic nedělá, nic neudělá!"'
+    priorities: ''
 - Radka Marhonsová:
     _slug: radka-marhonsova
     occupation: zdravotní sestra
     political_party: bez politické příslušnosti
     age: 44
+    profile: ''
+    priorities: ''
 - Jiří Čaj:
     _slug: jiri-caj
     occupation: technik kontroly kvality
     political_party: bez politické příslušnosti
     age: 28
+    profile: ''
+    priorities: ''
 - Roman Konyvka:
     _slug: roman-konyvka
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 48
+    profile: ''
+    priorities: ''
 - Mgr. Dušan Knop:
     _slug: mgr-dusan-knop
     occupation: doktorand
     political_party: bez politické příslušnosti
     age: 28
+    profile: ''
+    priorities: ''
 - Jan Pánek:
     _slug: jan-panek
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
+    profile: ''
+    priorities: ''
 - Jan Dočkal:
     _slug: jan-dockal
     occupation: student
     political_party: bez politické příslušnosti
     age: 22
+    profile: ''
+    priorities: ''
 - Romana Hrušková:
     _slug: romana-hruskova
     occupation: zdravotní laborantka
     political_party: bez politické příslušnosti
     age: 49
+    profile: ''
+    priorities: ''
 - Ing. Lukáš Paroulek:
     _slug: ing-lukas-paroulek
     occupation: vývojový pracovník
     political_party: bez politické příslušnosti
     age: 25
+    profile: ''
+    priorities: ''
 - Karel Novotný:
     _slug: karel-novotny
     occupation: brusič kovu
     political_party: bez politické příslušnosti
     age: 58
+    profile: ''
+    priorities: ''
 - Marie Blažková:
     _slug: marie-blazkova
     occupation: důchodce
     political_party: bez politické příslušnosti
     age: 69
+    profile: ''
+    priorities: ''
 - Ladislav Štěpař:
     _slug: ladislav-stepar
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
+    profile: ''
+    priorities: ''
 - Michal Novotný:
     _slug: michal-novotny
     occupation: student
     political_party: bez politické příslušnosti
     age: 21
+    profile: ''
+    priorities: ''
 - Luboš Szmatana:
     _slug: lubos-szmatana
     occupation: pracovník úklidu
     political_party: bez politické příslušnosti
     age: 52
+    profile: ''
+    priorities: ''

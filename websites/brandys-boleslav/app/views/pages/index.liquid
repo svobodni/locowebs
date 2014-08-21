@@ -1,5 +1,5 @@
 ---
-title: Svobodní Brandýs/St.Boleslav
+title: Svobodní Brandýs nad Labem - Stará Boleslav
 listed: false
 published: true
 cache_strategy: none
@@ -118,7 +118,7 @@ editable_elements:
   {% for post in contents.posts limit:2 %}
   <div class="media">
   {% if post.featured_image.url %}
-    <a class="pull-left" href="#">
+    <a class="pull-left" href="/clanky/{{ post._slug }}">
     <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
     </a>
   {% endif %}
@@ -158,7 +158,7 @@ editable_elements:
 	<div class="footer">
 	<div class="container">
 	<div class="row">
-		<div class="col-md-3"><p>Svobodní Brandýs/St.Boleslav</p> &copy; 2014</div>
+		<div class="col-md-3"><p>Svobodní Brandýs nad Labem - Stará Boleslav</p> &copy; 2014</div>
 		<div class="col-md-3">
 			<h5>Více Svobodných</h5>
 			<ul>

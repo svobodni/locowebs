@@ -3,34 +3,46 @@
     _slug: bc-igor-bogdanov
     meta_keywords: Bc. Igor Bogdanov
     meta_description: Bc. Igor Bogdanov
+    photo: /samples/candidates/bc-igor-bogdanov/igor.png
     occupation: ekonom
     political_party: Strana svobodných občanů
     age: 27
     email: igor.bogdanov.cz@gmail.com
     phone: '777312198'
     fb_profile_url: https://www.facebook.com/sam.peltzman.3
+    profile: ''
+    priorities: ''
 - Bc. Jakub Nešpor:
     _slug: bc-jakub-nespor
     meta_keywords: Bc. Jakub Nešpor
     meta_description: Bc. Jakub Nešpor
+    photo: /samples/candidates/bc-jakub-nespor/nespor.png
     occupation: trenér mládeže
     political_party: Strana svobodných občanů
     age: 27
     fb_profile_url: https://www.facebook.com/profile.php?id=100006253035293
+    profile: ''
+    priorities: ''
 - Ing. Tomáš Michalička, DiS.:
     _slug: ing-tomas-michalicka-dis
     meta_keywords: Ing. Tomáš Michalička, DiS.
     meta_description: Ing. Tomáš Michalička, DiS.
+    photo: /samples/candidates/ing-tomas-michalicka-dis/michalicka.png
     occupation: aplikační specialista
     political_party: Strana svobodných občanů
     age: 31
     phone: 608 814 840
     fb_profile_url: https://www.facebook.com/tomas.michalicka
+    profile: ''
+    priorities: ''
 - Marek Jaklovský:
     _slug: marek-jaklovsky
     meta_keywords: Marek Jaklovský
     meta_description: Marek Jaklovský
+    photo: /samples/candidates/marek-jaklovsky/marek.png
     occupation: živnostník
     political_party: Strana svobodných občanů
     age: 28
     fb_profile_url: https://www.facebook.com/marek.jaklovsky
+    profile: ''
+    priorities: ''

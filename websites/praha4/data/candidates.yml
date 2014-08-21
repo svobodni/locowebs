@@ -2,7 +2,8 @@
 - Damir Špoljarič:
     _slug: damir-spoljaric
     obvod: 1
-    occupation: IT podnikatel, specialista v oblasti dopravy
+    photo: /samples/candidates/damir-spoljaric/spoljaric_damir.png
+    occupation: IT podnikatel, dopravní expert
     political_party: Strana svobodných občanů
     age: 26
     email: spoljaric@svobodni.cz
@@ -10,9 +11,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 1</p>
+    profile: ''
+    priorities: ''
 - Ing. Miloslav Javůrek:
     _slug: miloslav-javurek
     obvod: 1
+    photo: /samples/candidates/miloslav-javurek/javurek_miloslav.png
     occupation: Důchodce
     political_party: Strana svobodných občanů
     age: 70
@@ -21,9 +26,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Lukáš Kosina:
     _slug: lukas-kosina
     obvod: 1
+    photo: /samples/candidates/lukas-kosina/kosina_lukas.png
     occupation: Conference Manager
     political_party: Strana svobodných občanů
     age: 28
@@ -32,6 +41,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Lukas Svoboda:
     _slug: lukas-svoboda
     obvod: 1
@@ -43,6 +55,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Luboš Horáček:
     _slug: lubos-horacek
     obvod: 1
@@ -54,10 +69,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Mgr. Štěpánka Maliňáková:
     _slug: stepanka-malinakova
     obvod: 1
-    occupation: Referent vědecko-technických informací na VŠ
+    occupation: Referent věd-tech na VŠ
     political_party: Bez politické příslušnosti
     age: 43
     email: ''
@@ -65,6 +83,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - PhDr. Dana Kyndrová:
     _slug: dana-kyndrova
     obvod: 1
@@ -76,6 +97,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Jiří Ulrich:
     _slug: jiri-ulrich
     obvod: 1
@@ -87,6 +111,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Vaclav Neumann:
     _slug: vaclav-neumann
     obvod: 1
@@ -98,11 +125,14 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Tomáš Vochozka:
     _slug: tomas-vochozka
     obvod: 2
-    occupation: zakladatel občanského sdružení, odborník na realitní obchody, marketér,
-      donátor nadačního fondu proti korupci, investor a signatář ZRUŠME KOMUNISTY
+    photo: /samples/candidates/tomas-vochozka/vochozka_tomas.png
+    occupation: Odborník na reality, marketér
     political_party: Strana svobodných občanů
     age: 33
     email: tomvochozka@yahoo.com
@@ -110,6 +140,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 2</p>
+    profile: ''
+    priorities: ''
 - Jaroslav Boháč:
     _slug: jaroslav-bohac
     obvod: 2
@@ -121,6 +154,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Tomáš Veselý:
     _slug: tomas-vesely
     obvod: 2
@@ -132,6 +168,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Martin Vavrouš:
     _slug: martin-vavrous
     obvod: 2
@@ -143,6 +182,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - por. Bc. Ing. Pavlína Adamcová:
     _slug: pavlina-adamcova
     obvod: 2
@@ -154,6 +196,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - 'Radek Kučera ':
     _slug: radek-kucera
     obvod: 2
@@ -165,6 +210,9 @@
     homepage_url: ''
     fb_profile_url: 'https://www.facebook.com/absolutradek '
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Pavel Šírek:
     _slug: pavel-sirek
     obvod: 2
@@ -176,6 +224,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Vít Vařeka, MBA:
     _slug: vit-vareka
     obvod: 2
@@ -187,6 +238,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - František Slavíček:
     _slug: frantisek-slavicek
     obvod: 2
@@ -198,9 +252,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Bc. Alois Sečkár:
     _slug: alois-seckar
     obvod: 3
+    photo: /samples/candidates/alois-seckar/big_profile.jpg
     occupation: Programátor
     political_party: Strana svobodných občanů
     age: 26
@@ -209,6 +267,9 @@
     homepage_url: http://ellrohir.mzf.cz/
     fb_profile_url: https://www.facebook.com/alois.seckar
     fb_page_url: https://www.facebook.com/AloisSeckarSvobodni
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 3</p>
+    profile: ''
+    priorities: ''
 - Ing. Martin Pšenička:
     _slug: martin-psenicka
     obvod: 3
@@ -220,9 +281,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Bc. Aleš Hakl:
     _slug: ales-hakl
     obvod: 3
+    photo: /samples/candidates/ales-hakl/hakl_ales.png
     occupation: Programátor
     political_party: Strana svobodných občanů
     age: 27
@@ -231,9 +296,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Karel Zvára:
     _slug: karel-zvara
     obvod: 3
+    photo: /samples/candidates/karel-zvara/zvara_karel.png
     occupation: Ekonom, IT analytik
     political_party: Strana svobodných občanů
     age: 38
@@ -242,10 +311,13 @@
     homepage_url: http://www.zvara.cz
     fb_profile_url: http://www.facebook.com/zvara
     fb_page_url: http://www.facebook.com/karel.zvara
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Mgr. Zuzana Hadrabová:
     _slug: zuzana-hadrabova
     obvod: 3
-    occupation: Vedoucí personálního oddělení KOMTERM, a.s.
+    occupation: Vedoucí personálního oddělení
     political_party: Bez politické příslušnosti
     age: 61
     email: ''
@@ -253,9 +325,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Jiří Vlk, CSc.:
     _slug: jiri-vlk
     obvod: 3
+    photo: /samples/candidates/jiri-vlk/vlk_jiri.png
     occupation: ASIC inženýr
     political_party: Bez politické příslušnosti
     age: 60
@@ -264,6 +340,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Mgr. Jiří Bartoň:
     _slug: jiri-barton
     obvod: 3
@@ -275,10 +354,14 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Michal Čvanda:
     _slug: michal-cvanda
     obvod: 3
-    occupation: Student, Fakulta managementu VŠE
+    photo: /samples/candidates/michal-cvanda/cvanda_michal.png
+    occupation: Student, FM VŠE
     political_party: Bez politické příslušnosti
     age: 22
     email: ''
@@ -286,9 +369,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Anton Sečkár:
     _slug: anton-seckar
     obvod: 3
+    photo: /samples/candidates/anton-seckar/seckar_anton.png
     occupation: Prodavač
     political_party: Bez politické příslušnosti
     age: 53
@@ -297,11 +384,14 @@
     homepage_url: http://krc-historie.cz/
     fb_profile_url: ''
     fb_page_url: ''
-    profile: <p>Spr&aacute;vce webu o historii star&eacute; Krče - <a title="Star&aacute;
+    personal_text: <p>Spr&aacute;vce webu o historii star&eacute; Krče - <a title="Star&aacute;
       Krč" href="http://krc-historie.cz/">http://krc-historie.cz/</a></p>
+    profile: ''
+    priorities: ''
 - Ing. Jan Skalický:
     _slug: jan-skalicky
     obvod: 4
+    photo: /samples/candidates/jan-skalicky/skalicky_jan.png
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 53
@@ -310,6 +400,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 4</p>
+    profile: ''
+    priorities: ''
 - MgA. Kateřina Berková:
     _slug: katerina-berkova
     obvod: 4
@@ -321,6 +414,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Pavel Pokorný, BA:
     _slug: pavel-pokorny
     obvod: 4
@@ -332,6 +428,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Roman Cestr:
     _slug: roman-cestr
     obvod: 4
@@ -343,9 +442,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Martin Pucherna:
     _slug: martin-pucherna
     obvod: 4
+    photo: /samples/candidates/martin-pucherna/pucherna_martin.png
     occupation: Ekonom, podnikatel
     political_party: Bez politické příslušnosti
     age: 39
@@ -354,6 +457,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Lubor Hájek:
     _slug: lubor-hajek
     obvod: 4
@@ -365,9 +471,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Kateřina Moshövel, DiS.:
     _slug: katerina-moshovel
     obvod: 4
+    photo: /samples/candidates/katerina-moshovel/moshovel_katerina.png
     occupation: Designérka
     political_party: Bez politické příslušnosti
     age: 36
@@ -376,9 +486,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Jiří Cecava:
     _slug: jiri-cecava
     obvod: 4
+    photo: /samples/candidates/jiri-cecava/cecava_jiri.png
     occupation: Podnikatel
     political_party: Bez politické příslušnosti
     age: 40
@@ -387,6 +501,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Lukáš Sajvera:
     _slug: adam-svejda
     obvod: 4
@@ -398,9 +515,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Jaroslav Marsa, MBA:
     _slug: jaroslav-marsa
     obvod: 5
+    photo: /samples/candidates/jaroslav-marsa/marsa_jaroslav.png
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 54
@@ -409,6 +530,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: <p>L&iacute;dr volebn&iacute;ho obvodu č&iacute;slo 5</p>
+    profile: ''
+    priorities: ''
 - Ing. Filip Liegert:
     _slug: filip-liegert
     obvod: 5
@@ -420,6 +544,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Dušan Novák:
     _slug: dusan-novak
     obvod: 5
@@ -431,6 +558,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Ing. Miroslav Bátěk:
     _slug: miroslav-batek
     obvod: 5
@@ -442,6 +572,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: <p><br data-mce-bogus="1"></p>
+    profile: ''
+    priorities: ''
 - Ing. Tomáš Kraus:
     _slug: tomas-kraus
     obvod: 5
@@ -453,10 +586,13 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Bc. Markéta Žlábková:
     _slug: marketa-zlabkova
     obvod: 5
-    occupation: Vrchní metodik odboru tvorby produktů pojištění odpovědnosti
+    occupation: Metodik pojišťovacích produktů
     political_party: Strana svobodných občanů
     age: 50
     email: ''
@@ -464,6 +600,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Martin Procházka:
     _slug: martin-prochazka
     obvod: 5
@@ -475,6 +614,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Martin Kondr:
     _slug: martin-kondr
     obvod: 5
@@ -486,6 +628,9 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''
 - Tomáš Macek:
     _slug: tomas-macek
     obvod: 5
@@ -497,3 +642,6 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    personal_text: ''
+    profile: ''
+    priorities: ''

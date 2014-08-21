@@ -5,7 +5,11 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 10
+position: 0
+editable_elements:
+  main/nadpis: "<p style=\"text-align: center;\">&bdquo;Historii svobodn&yacute;ch
+    lid&iacute; nep&iacute;&scaron;e n&aacute;hoda, ale volba. Jejich volba!&ldquo;</p>\r\n<p
+    style=\"text-align: center;\"><em>- Dwight D. Eisenhower -</em></p>"
 ---
 {% extends parent %}
 
@@ -18,7 +22,7 @@ position: 10
 
 <div class="section-tabs">
 <div class="container">
-	<p class="text-muted">Přes veškerou iniciativu Svobodných byla Praha 4 usnesením Zastupitelstva ze dne 18. června 2014 rozdělena na 5&nbsp;volebních obvodů. Naši kandidáti jsou tedy rozřazeni do 5 obvodů po 9. Kandidátní listina se zobrazí po kliknutí.</p>
+	<p class="text-muted">Přes veškerou iniciativu Svobodných byla Praha 4 usnesením Zastupitelstva ze dne 18. června 2014 rozdělena na 5&nbsp;volebních obvodů. Naši kandidáti jsou tedy rozřazeni do 5 obvodů po 9. Kandidátní listina obvodu se zobrazí po kliknutí na příslušnou záložku:</p>
 	<ul class="nav nav-tabs" role="tablist">
 		{% for obvod in (1..5) %}
 		<li><a href="#obvod_{{obvod}}" role="tab" data-toggle="tab">Obvod {{obvod}}</a></li>
@@ -53,11 +57,16 @@ position: 10
 		{% endif %}
 		</a>
 	</div>
+{% if candidate == forloop.last %}
+</div> <!--/.row - last -->
+{% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
 {% endif %}
 {% endfor %}
 </div>
 {% endfor %}
+  </div>
 </div> <!--/.cand-grid -->
 
 <p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>

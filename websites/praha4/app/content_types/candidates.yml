@@ -80,6 +80,13 @@ fields:
     required: false
     unique: false
     localized: false
+- personal_text:
+    label: personal_text
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
 - profile:
     label: profile
     type: text

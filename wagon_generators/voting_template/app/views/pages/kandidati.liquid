@@ -35,7 +35,11 @@ position: 10
 		{% endif %}
 		</a>
 	</div>
+{% if candidate == forloop.last %}
+</div> <!--/.row - last -->
+{% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
 {% endfor %}
 </div> <!--/.cand-grid -->
 

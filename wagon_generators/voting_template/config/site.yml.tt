@@ -2,7 +2,7 @@
 name: <%= @title %>
 locales: [cs]
 subdomain: <%= config[:name] %>
-domains: [<%= config[:name] %>.svobodni.cz, www.<%= config[:name] %>.svobodni.cz]
+domains: [www.<%= config[:name] %>.svobodni.cz, <%= config[:name] %>.svobodni.cz]
 seo_title: <%= @title %>
 meta_keywords: <%= @title %>
 meta_description: Strana svobodných občanů

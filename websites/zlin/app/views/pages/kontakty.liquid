@@ -6,6 +6,8 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 30
+editable_elements:
+  main/kontakt: "\r\n"
 ---
 {% extends parent %}
 
@@ -17,7 +19,6 @@ position: 30
 
 {% editable_text "kontakt", hint: "Kontaktní údaje." %}
 {% endeditable_text %}
-
 
 
 </div>

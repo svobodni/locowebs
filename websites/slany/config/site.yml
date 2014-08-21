@@ -2,7 +2,7 @@
 name: Svobodní Slaný
 locales: [cs]
 subdomain: slany
-domains: [slany.svobodni.cz, www.slany.svobodni.cz]
+domains: [www.slany.svobodni.cz, slany.svobodni.cz]
 seo_title: Svobodní Slaný
 meta_keywords: Svobodní Slaný
 meta_description: Strana svobodných občanů

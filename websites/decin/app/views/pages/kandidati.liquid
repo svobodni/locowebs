@@ -6,6 +6,8 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 10
+editable_elements:
+  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
 {% extends parent %}
 
@@ -22,11 +24,7 @@ position: 10
 {% for candidate in contents.candidates %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
 	<div class="col-md-4">
-		{% if candidate.profile == blank %}
-		<span class="no-link">
-		{% else %}
 		<a href="/kandidati/{{ candidate._slug }}">
-		{% endif %}
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
@@ -35,7 +33,11 @@ position: 10
 		{% endif %}
 		</a>
 	</div>
+{% if candidate == forloop.last %}
+</div> <!--/.row - last -->
+{% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
 {% endfor %}
 </div> <!--/.cand-grid -->
 

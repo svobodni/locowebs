@@ -2,7 +2,7 @@
 name: Svobodní Zábřeh
 locales: [cs]
 subdomain: zabreh
-domains: [zabreh.svobodni.cz, www.zabreh.svobodni.cz]
+domains: [www.zabreh.svobodni.cz, zabreh.svobodni.cz]
 seo_title: Svobodní Zábřeh
 meta_keywords: Svobodní Zábřeh
 meta_description: Strana svobodných občanů

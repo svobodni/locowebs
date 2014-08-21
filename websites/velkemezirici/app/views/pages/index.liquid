@@ -6,7 +6,13 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Nezadlužená radnice</li>\r\n<li>Svobodné podnikání</li>\r\n<li>Méně regulací</li>\r\n</ul>"
+  main/duvody: |-
+    <ul class="spec-purple-1">
+              <li>Nezadlužená radnice</li>
+              <li>Svobodné podnikání</li>
+              <li>Méně regulací</li>
+            </ul>
+  main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -118,7 +124,7 @@ editable_elements:
   {% for post in contents.posts limit:2 %}
   <div class="media">
   {% if post.featured_image.url %}
-    <a class="pull-left" href="#">
+    <a class="pull-left" href="/clanky/{{ post._slug }}">
     <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
     </a>
   {% endif %}

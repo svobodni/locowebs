@@ -124,7 +124,7 @@ editable_elements:
   {% for post in contents.posts limit:2 %}
   <div class="media">
   {% if post.featured_image.url %}
-    <a class="pull-left" href="#">
+    <a class="pull-left" href="/clanky/{{ post._slug }}">
     <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
     </a>
   {% endif %}

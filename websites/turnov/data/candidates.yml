@@ -1,1 +1,215 @@
---- []
+---
+- Mgr. Radka Šimůnková:
+    _slug: mgr-radka-simunkova
+    photo: /samples/candidates/mgr-radka-simunkova/radkaN.jpg
+    occupation: zástupkyně ředitelky školy
+    political_party: Strana svobodných občanů
+    profile: ''
+    priorities: ''
+- ' Ing. Pavel Paickr':
+    _slug: ing-pavel-paickr
+    photo: /samples/candidates/ing-pavel-paickr/pajkiN.jpg
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    profile: ''
+    priorities: ''
+- Bc. Ondřej Brustmann:
+    _slug: bc-ondrej-brustmann
+    photo: /samples/candidates/bc-ondrej-brustmann/ondraN.jpg
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    profile: ''
+    priorities: ''
+- David Nalezenec:
+    _slug: david-nalezenec-28-let-operator-vyrobnich-stroju-strana-svobodnych-obcanu
+    photo: /samples/candidates/david-nalezenec-28-let-operator-vyrobnich-stroju-strana-svobodnych-obcanu/davidN.jpg
+    occupation: operátor výrobních strojů
+    political_party: Strana svobodných občanů
+    age: 28
+    email: ''
+    profile: ''
+    priorities: ''
+- Ing. Vítězslav Sekanina:
+    _slug: ing-vitezslav-sekanina
+    photo: /samples/candidates/ing-vitezslav-sekanina/beran.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 59
+    profile: ''
+    priorities: ''
+- Lukáš Špetlík:
+    _slug: lukas-spetlik
+    photo: /samples/candidates/lukas-spetlik/spetaN.jpg
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Jaroslav Čapek:
+    _slug: jaroslav-capek
+    photo: /samples/candidates/jaroslav-capek/capaN.jpg
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 35
+    profile: ''
+    priorities: ''
+- Robert Matějka:
+    _slug: robert-matejka
+    photo: /samples/candidates/robert-matejka/beran.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 45
+    profile: ''
+    priorities: ''
+- Pavel Hádek:
+    _slug: pavel-hadek
+    photo: /samples/candidates/pavel-hadek/beran.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Stanislav Stehlík:
+    _slug: stanislav-stehlik
+    photo: /samples/candidates/stanislav-stehlik/beran.png
+    occupation: technik st.
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Bc. David Šimůnek:
+    _slug: bc-david-simunek
+    photo: /samples/candidates/bc-david-simunek/beran.png
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 22
+    profile: ''
+    priorities: ''
+- Jan Sekanina:
+    _slug: jan-sekanina
+    photo: /samples/candidates/jan-sekanina/beran.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Slávek Sekanina:
+    _slug: slavek-sekanina
+    photo: /samples/candidates/slavek-sekanina/beran.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Svatopluk Vorel:
+    _slug: svatopluk-vorel
+    photo: /samples/candidates/svatopluk-vorel/beran.png
+    occupation: operátor
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Ing. Tomáš Soudský:
+    _slug: ing-tomas-soudsky
+    photo: /samples/candidates/ing-tomas-soudsky/beran.png
+    occupation: ekonom
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Bc. Tomáš Šorejs:
+    _slug: bc-tomas-sorejs
+    photo: /samples/candidates/bc-tomas-sorejs/beran.png
+    occupation: programátor
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Adam Ištvánek:
+    _slug: adam-istvanek
+    photo: /samples/candidates/adam-istvanek/beran.png
+    occupation: zkušební technik
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Karolína Pohořelá:
+    _slug: karolina-pohorela
+    photo: /samples/candidates/karolina-pohorela/beran.png
+    occupation: provozní
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Mgr. Jitka Paickrová:
+    _slug: mgr-jitka-paickrova
+    photo: /samples/candidates/mgr-jitka-paickrova/beran.png
+    occupation: personalistka
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Bc. Pavla Brožová, DiS.:
+    _slug: bc-pavla-brozova-dis
+    photo: /samples/candidates/bc-pavla-brozova-dis/beran.png
+    occupation: manažerka prodeje
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- Aneta Procházková:
+    _slug: aneta-prochazkova
+    photo: /samples/candidates/aneta-prochazkova/beran.png
+    occupation: studentka
+    political_party: bez politické příslušnosti
+    age: 19
+    profile: ''
+    priorities: ''
+- Milena Malichová:
+    _slug: milena-malichova
+    photo: /samples/candidates/milena-malichova/beran.png
+    occupation: důchodkyně
+    political_party: bez politické příslušnosti
+    age: 60
+    profile: ''
+    priorities: ''
+- David Kefurt:
+    _slug: david-kefurt
+    photo: /samples/candidates/david-kefurt/beran.png
+    occupation: výrobní technik
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Miroslava Adamenko:
+    _slug: miroslava-adamenko
+    photo: /samples/candidates/miroslava-adamenko/beran.png
+    occupation: asistentka pedagoga
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Eva Urbanová:
+    _slug: eva-urbanova
+    photo: /samples/candidates/eva-urbanova/beran.png
+    occupation: operátor výroby
+    political_party: bez politické příslušnosti
+    age: 59
+    profile: ''
+    priorities: ''
+- Mgr. Jana Brustmannová:
+    _slug: mgr-jana-brustmannova
+    photo: /samples/candidates/mgr-jana-brustmannova/beran.png
+    occupation: zdravotní sestra
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- Marek Brož:
+    _slug: marek-broz
+    photo: /samples/candidates/marek-broz/beran.png
+    occupation: konstruktér
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''

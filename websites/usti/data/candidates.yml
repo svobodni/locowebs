@@ -6,6 +6,8 @@
     age: 43
     email: zelycz@svobodni.cz
     fb_profile_url: https://www.facebook.com/radek.zelycz
+    profile: ''
+    priorities: ''
 - Michal Beran:
     _slug: michal-beran
     occupation: Student
@@ -14,6 +16,8 @@
     email: michal-beran@centrum.cz
     phone: 737 604 607
     fb_profile_url: https://www.facebook.com/Beran.Michal
+    profile: <p><br data-mce-bogus="1"></p>
+    priorities: <p><br data-mce-bogus="1"></p>
 - Martin Novak:
     _slug: martin-novak
     occupation: Projektový konzultant
@@ -21,3 +25,12 @@
     age: 30
     email: martin.novak84@seznam.cz
     phone: ''
+    profile: ''
+    priorities: ''
+- Aleš Kuna:
+    _slug: ales-kuna
+    occupation: Překladatel
+    political_party: Strana svobodných občanů
+    age: 35
+    profile: ''
+    priorities: ''

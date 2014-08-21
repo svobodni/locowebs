@@ -17,9 +17,12 @@
       pracoval v bankovnictv&iacute;. Jsem předsedou společenstv&iacute; vlastn&iacute;ků
       bytů.</p>\r\n<p class=\"normal\">Spolu se svou ženou m&aacute;me dvě dospěl&eacute;
       dcery. B&yacute;t dědečkem je tak&eacute; jednou z&nbsp;m&yacute;ch životn&iacute;ch
-      radost&iacute;. Mezi m&eacute; z&aacute;jmy patř&iacute; sport, př&iacute;roda
-      a pozn&aacute;v&aacute;n&iacute; kr&aacute;s Česk&eacute; republiky.</p>\r\n<p
-      class=\"normal\">V&nbsp;&uacute;noru 2009 jsem vstoupil do vznikaj&iacute;c&iacute;
+      radost&iacute;. Mezi m&eacute; z&aacute;jmy patř&iacute; sport, př&iacute;roda,
+      pozn&aacute;v&aacute;n&iacute; kr&aacute;s Česk&eacute; republiky a v neposledn&iacute;
+      řadě tak&eacute; chalupařen&iacute;.</p>\r\n<p class=\"normal\">&nbsp;</p>"
+    quote: 'J. W. Goethe říkával: "Jen ten je hoden svobody a žití, kdo rve se o ně
+      den co den."'
+    priorities: <p>V&nbsp;&uacute;noru 2009 jsem vstoupil do vznikaj&iacute;c&iacute;
       Strany svobodn&yacute;ch občanů. Nikdy předt&iacute;m jsem nebyl členem ž&aacute;dn&eacute;
       politick&eacute; strany. Jak již bylo řečeno, působ&iacute;m v&nbsp;zastupitelstvu,
       kr&aacute;tce jsem působil v&nbsp;městsk&eacute; radě. Pot&eacute; se Svobodn&iacute;
@@ -31,10 +34,7 @@
       c&iacute;t&iacute; bezpečně, město, kter&eacute; je uklizen&eacute;, opraven&eacute;
       a čist&eacute;, nepřek&aacute;ž&iacute; živnostn&iacute;kům, star&aacute; se
       o to nejnutněj&scaron;&iacute; a nebere lidem jejich pen&iacute;ze, aby je pot&eacute;
-      utratilo za nesmysln&eacute; projekty či činnosti.</p>"
-    quote: 'J. W. Goethe říkával: "Jen ten je hoden svobody a žití, kdo rve se o ně
-      den co den."'
-    priorities: ''
+      utratilo za nesmysln&eacute; projekty či činnosti.</p>
 - Mgr. Josef Káles:
     _slug: mgr-josef-kales
     photo: /samples/candidates/mgr-josef-kales/kales.png
@@ -133,6 +133,7 @@
     priorities: ''
 - Martin Sokol:
     _slug: martin-sokol
+    photo: /samples/candidates/martin-sokol/sokol.jpg
     occupation: výbušninář
     political_party: Svobodní
     age: 40
@@ -140,119 +141,139 @@
     priorities: ''
 - Mgr. et Mgr. Petra Chvojková:
     _slug: mgr-et-mgr-petra-chvojkova
+    photo: /samples/candidates/mgr-et-mgr-petra-chvojkova/chvojkova.jpg
     occupation: psycholožka, doktorandka
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Pavel Eismann:
     _slug: pavel-eismann
+    photo: /samples/candidates/pavel-eismann/eismann.jpg
     occupation: ředitel společnosti
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Tomáš Bubeník:
     _slug: tomas-bubenik
+    photo: /samples/candidates/tomas-bubenik/bubenik.jpg
     occupation: obchodní zástupce
     political_party: Svobodní
     profile: ''
     priorities: ''
 - Jana Faulhamerová:
     _slug: jana-faulhamerov
+    photo: /samples/candidates/jana-faulhamerov/faulhamerova.jpg
     occupation: RTG laborantka v penzi
     profile: ''
     priorities: ''
 - Michael Beránek:
     _slug: michael-beranek
+    photo: /samples/candidates/michael-beranek/beranek.jpg
     occupation: facilitátor
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Mgr. Michaela Průšová:
     _slug: mgr-michaela-prusova
+    photo: /samples/candidates/mgr-michaela-prusova/prusova.jpg
     occupation: jednatelka společnosti
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Ing. Jiří Vala:
     _slug: ing-jiri-vala
+    photo: /samples/candidates/ing-jiri-vala/vala.jpg
     occupation: podnikatel
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
-- Mgr. Jaroslava Beránková:
+- Jaroslava Beránková:
     _slug: mgr-jaroslava-berankova
+    photo: /samples/candidates/mgr-jaroslava-berankova/berankova.jpg
     occupation: učitelka
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - 'Martin Luňáček ':
     _slug: martin-lunacek
+    photo: /samples/candidates/martin-lunacek/lunacek.jpg
     occupation: obchodní manažer
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Michaela Tichá:
     _slug: michaela-tich
+    photo: /samples/candidates/michaela-tich/malkova.jpg
     occupation: vedoucí prodeje
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Petr Dolan:
     _slug: petr-dolan
+    photo: /samples/candidates/petr-dolan/dolan.jpg
     occupation: podnikatel
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Hana Motyčková:
     _slug: hana-motyckova
+    photo: /samples/candidates/hana-motyckova/motyckova.jpg
     occupation: živnostnice
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Ing. Jiří Nový:
     _slug: ing-jiri-novy
+    photo: /samples/candidates/ing-jiri-novy/novy.jpg
     occupation: bývalý starosta, důchodce
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Lucie Sokolová:
     _slug: lucie-sokolova
+    photo: /samples/candidates/lucie-sokolova/sokolova.jpg
     occupation: studentka
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Jitka Kocsombová:
     _slug: jitka-kocsombova
+    photo: /samples/candidates/jitka-kocsombova/kocsombova.jpg
     occupation: živnostnice
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Libor Černý:
     _slug: libor-cerny
+    photo: /samples/candidates/libor-cerny/cerny.jpg
     occupation: technik měření
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Michaela Lišková:
     _slug: michaela-liskova
+    photo: /samples/candidates/michaela-liskova/liskova.jpg
     occupation: sociální pracovnice
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Vlasta Málková:
     _slug: vlasta-malkova
+    photo: /samples/candidates/vlasta-malkova/ticha.jpg
     occupation: provozní hostince
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Milena Martincová:
     _slug: milena-martincova
+    photo: /samples/candidates/milena-martincova/martincova.jpg
     occupation: důchodkyně
     political_party: bez politické příslušnosti
     profile: ''
     priorities: ''
 - Ing. Lukáš Morávek:
     _slug: ing-lukas-moravek
+    photo: /samples/candidates/ing-lukas-moravek/moravek.jpg
     occupation: specialista online marketingu, živnostník
     political_party: bez politické příslušnosti
     profile: ''

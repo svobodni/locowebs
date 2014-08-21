@@ -1,6 +1,7 @@
 ---
 - Ing. Jiří Kubíček:
     _slug: jiri-kubicek
+    photo: /samples/candidates/jiri-kubicek/IMG_0369_web.png
     occupation: auditor IT, podnikatel
     political_party: Svobodní
     age: 34
@@ -63,6 +64,7 @@
       historie <br />Buben a Hole&scaron;ovic, př&iacute;padně Bubenče.<br />Byl jsem
       členem Mensy ČR a i přes svůj nesouhlas s někter&yacute;mi veřejn&yacute;mi
       v&yacute;stupy jsem členem Klubu <br />za starou Prahu.</p>"
+    priorities: ''
 - Kateřina Ramešová:
     _slug: katerina-ramesova
     political_party: Svobodní
@@ -73,6 +75,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - RNDr. Pavel Strunz, CSc.:
     _slug: pavel-strunz
     political_party: Svobodní
@@ -83,16 +86,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
-- Jaromír Prokš:
-    _slug: jaromir-proks
-    political_party: Svobodní
-    age: 49
-    email: ''
-    phone: ''
-    homepage_url: ''
-    fb_profile_url: ''
-    fb_page_url: ''
-    profile: ''
+    priorities: ''
 - Tomáš Zilvar:
     _slug: tomas-zilvar
     political_party: Svobodní
@@ -103,6 +97,18 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
+- Jaromír Prokš:
+    _slug: jaromir-proks
+    political_party: Svobodní
+    age: 49
+    email: ''
+    phone: ''
+    homepage_url: ''
+    fb_profile_url: ''
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Jaroslav Kouba:
     _slug: jaroslav-kouba
     political_party: Svobodní
@@ -113,6 +119,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Jiří Zeman:
     _slug: jiri-zeman
     political_party: Svobodní
@@ -123,6 +130,7 @@
     fb_profile_url: https://www.facebook.com/jirka.zeman.10
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Eliška Oulická:
     _slug: eliska-oulicka
     political_party: Svobodní
@@ -133,6 +141,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Arnost Machytka:
     _slug: arnost-machytka
     political_party: Svobodní
@@ -143,6 +152,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Pavlína Levá:
     _slug: pavlina-leva
     political_party: Svobodní
@@ -153,6 +163,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Jiří Stokláska:
     _slug: jiri-stoklaska
     political_party: Svobodní
@@ -163,6 +174,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Michal Kovařík:
     _slug: michal-kovarik
     political_party: Svobodní
@@ -173,6 +185,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - 'ing. Radek Dědina ':
     _slug: radek-dedina
     political_party: Svobodní
@@ -183,6 +196,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Bc. Michal Tauchman:
     _slug: michal-tauchman
     political_party: Svobodní
@@ -193,6 +207,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Michaela Judasová:
     _slug: michaela-judasova
     political_party: Svobodní
@@ -203,6 +218,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Marek Chrastil:
     _slug: marek-chrastil
     political_party: Svobodní
@@ -213,6 +229,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Iva Tělecká:
     _slug: iva-telecka
     political_party: Svobodní
@@ -223,6 +240,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Jan Kohoutek:
     _slug: jan-kohoutek
     political_party: Svobodní
@@ -233,6 +251,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Jaroslav Pachola:
     _slug: jaroslav-pachola
     political_party: Svobodní
@@ -243,6 +262,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Sabina Votrubová:
     _slug: sabina-votrubova
     political_party: Svobodní
@@ -253,6 +273,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Radek Vaisocher:
     _slug: radek-vaisocher
     political_party: Svobodní
@@ -263,6 +284,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Jiri Matela:
     _slug: jiri-matela
     political_party: Svobodní
@@ -273,6 +295,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Luděk Zita:
     _slug: ludek-zita
     political_party: Svobodní
@@ -283,6 +306,7 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''
 - Pavel Kykal:
     _slug: pavel-kykal
     political_party: Svobodní
@@ -292,3 +316,4 @@
     fb_profile_url: ''
     fb_page_url: ''
     profile: ''
+    priorities: ''

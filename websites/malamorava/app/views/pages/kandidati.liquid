@@ -6,6 +6,8 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 10
+editable_elements:
+  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
 {% extends parent %}
 
@@ -35,7 +37,11 @@ position: 10
 		{% endif %}
 		</a>
 	</div>
+{% if forloop.last %}
+</div> <!--/.row - last -->
+{% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
 {% endfor %}
 </div> <!--/.cand-grid -->
 

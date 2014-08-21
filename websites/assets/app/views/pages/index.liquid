@@ -74,82 +74,8 @@ editable_elements:
     </div> <!--/.container -->
 	
 	{% block main %}
-  <div class="container text-center">
-    <div class="intro-catcher">
-    <a href="#"><img src="{% editable_file "poutac", hint: "Nahrajte poutač (velikost: 975px na 246px)", priority: 1 %}http://placehold.it/975x246{% endeditable_file %}" class="img-responsive" alt="Poutač"></a>
-    </div> 
-  </div> 
 
-  <div class="section-gray">
-  <div class="container">
-        <div class="row">
-      <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
-        <ul class="spec-purple-1">
-          <li>{% editable_text "duvod1", hint: "Důvod proč volit 1" %}Nezadlužená radnice{% endeditable_text %}</li>
-          <li>{% editable_text "duvod2", hint: "Důvod proč volit 2" %}Svobodné podnikání{% endeditable_text %}</li>
-          <li>{% editable_text "duvod3", hint: "Důvod proč volit 3" %}Méně regulací{% endeditable_text %}</li>
-        </ul>
-        <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
-      </div>
-      <div class="col-md-6 cand-top-4">
-        <h5>Chceme Váš hlas!</h5>
-        <div class="row">
-        <a href="#" title="Více o kandidátu č. 1"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
-        {% assign person = candidate %}        
-        <a href="#" title="Více o kandidátu č. {{forloop.index}}"><img alt="{{ person.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
-        {% endfor %}
-        </div>
-        <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
-      </div>
-    </div>
-
-    </div> <!-- /container -->
-    </div> <!-- /section-gray -->
-  
-  <div class="section-white">
-  <div class="container">
-  <h3 class="text-center h-spec-purple"><a href="index-pobocka-aktualne.html" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
-  
-  <div class="news-feed">
-  {% for post in contents.posts limit:2 %}
-  <div class="media">
-  {% if post.featured_image.url %}
-    <a class="pull-left" href="#">
-    <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
-    </a>
-  {% endif %}
-    <div class="media-body">
-    <h4 class="media-heading"><a href="/clanky/{{ post._slug }}">{{ post.title | escape }}</a></h4>
-    <div>{{ post.teaser }}…</div>
-    <span class="date">{{ post.posted_at | date: "%d. %m. %Y"  }}</span>
-    </div>
-  </div> <!--/.media -->
-  {% endfor %}
-
-  </div> <!--/.news-feed -->
-  
-  <div class="a-more text-center"><a href="#">› <span>další aktuality</span></a></div>
-  
-  </div> <!-- /container -->
-    </div> <!-- /section-white -->
-  
-  <div class="section-gray">
-  <div class="container">
-  <div class="row">
-    <div class="col-md-8">
-    <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/fJ4r7CKu4oA?list=UUABTOPGq1UAcRCQCifrsz-Q" allowfullscreen></iframe>
-    </div>
-    </div>
-    <div class="col-md-4">
-      <h4>Spojte se s námi</h4>
-      <div class="fb-like-box" data-href="https://www.facebook.com/svobodni.praha7" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
-    </div>
-  </div>
-  </div> <!-- /container -->
-    </div> <!-- /section-gray -->
+  <h1>Assets</h1>
 
 	{% endblock main %}
 

@@ -5,15 +5,41 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 41
+position: 10
 ---
 {% extends parent %}
 
 {% block main %}
+<div class="container classic-content">
+<h1>{{ page.title }}</h1>
+
+<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
+</div> <!--/.container -->
+
+<div class="container classic-content">	
+<div class="cand-grid">
 
 {% for candidate in contents.candidates %}
-{% assign person = candidate %}
-{% include 'candidate' with person, position: forloop.index %}
+{% cycle 'row_start': '<div class="row">', '', '' %}
+	<div class="col-md-4">
+		{% if candidate.profile == blank %}
+		<span class="no-link">
+		{% else %}
+		<a href="/kandidati/{{ candidate._slug }}">
+		{% endif %}
+		<em>{{forloop.index}}.</em>
+		<strong>{{ candidate.name }}</strong>
+		<span>{{ candidate.occupation }}</span>
+		{% if candidate.photo.url == blank%}{% else %}
+		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
+		{% endif %}
+		</a>
+	</div>
+{% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
 {% endfor %}
+</div> <!--/.cand-grid -->
 
+<p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>
+
+</div> <!--/container -->
 {% endblock %}

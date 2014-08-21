@@ -383,5 +383,12 @@
 		"fb_page_name":"SvobodniKohout",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"hk",
+		"title":"Svobodní Hradec Králové",
+		"short_title":"Hradec Králové",
+		"fb_page_name":"hk.svobodni.cz",
+		"region_name": "Svobodní",
+		"region_url": "http://www.svobodni.cz"
 	}
 ]

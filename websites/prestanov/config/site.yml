@@ -2,7 +2,7 @@
 name: Svobodní Přestanov
 locales: [cs]
 subdomain: prestanov
-domains: [prestanov.svobodni.cz, www.prestanov.svobodni.cz]
+domains: [www.prestanov.svobodni.cz, prestanov.svobodni.cz]
 seo_title: Svobodní Přestanov
 meta_keywords: Svobodní Přestanov
 meta_description: Strana svobodných občanů

@@ -1,0 +1,4 @@
+*.liquid text=input
+*.liquid text eol=lf
+*.yml eol=lf
+

@@ -5,8 +5,11 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+meta_keywords: Svobodni, Vimperk, svoboda, politicka strana
 editable_elements:
-  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Nezadlužená radnice</li>\r\n<li>Svobodné podnikání</li>\r\n<li>Méně regulací</li>\r\n</ul>"
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Transparentn&iacute; radnice</li>\r\n<li>Ru&scaron;en&iacute;
+    poplatků</li>\r\n<li>Bezpečnost</li>\r\n</ul>"
+  main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -32,6 +35,19 @@ editable_elements:
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     {% inline_editor %}
+    <style type="text/css">
+
+    .cand-grid a:hover img, .cand-grid a:hover, .cand-grid a, .cand-grid .no-link, .cand-grid img, .profile img {
+    	border: 0;
+    }
+    .cand-top-4 img
+      {
+        border: 1px solid #ddd;
+        padding: 4px;
+        border-radius: 4px;
+      }
+    
+    </style>
   </head>
   <body>
   <div id="fb-root"></div>
@@ -98,9 +114,9 @@ editable_elements:
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
+        {% for candidate in contents.candidates limit:4 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4, 5 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>

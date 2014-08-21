@@ -1,1 +1,22 @@
---- []
+---
+- Tomáš Brabenec:
+    _slug: tomas-brabenec
+    occupation: vývojář software
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''
+- Bc. Michal Zima:
+    _slug: michal-zima
+    occupation: informatik
+    political_party: Strana svobodných občanů
+    age: 24
+    profile: ''
+    priorities: ''
+- Bc. Petr Adam:
+    _slug: petr-adam
+    occupation: ICT specialista
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''

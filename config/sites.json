@@ -337,6 +337,13 @@
 		"region_name": "Pardubický kraj",
 		"region_url": "http://pardubickykraj.svobodni.cz"
 	},{
+		"name":"pardubice",
+		"title":"Svobodní Pardubice",
+		"short_title":"Pardubice",
+		"fb_page_name":"svobodni.pardubice",
+		"region_name": "Pardubický kraj",
+		"region_url": "http://pardubickykraj.svobodni.cz"
+	},{
 		"name":"zamberk",
 		"title":"Svobodní Žamberk",
 		"short_title":"Žamberk",

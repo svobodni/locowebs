@@ -1,0 +1,41 @@
+---
+title: Kontakty
+slug: kontakty
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 30
+editable_elements:
+  main/kontakt: "\r\n"
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+{% editable_text "kontakt", hint: "Kontaktní údaje." %}
+{% endeditable_text %}
+
+
+{% consume data from "https://registr.svobodni.cz/branches/106.json" %}
+<h2>Pobočka {{ data.branch.name }}</h2>
+{% assign person = data.branch.coordinator %}
+<h2>Koordinátor pobočky</h2>
+{% include 'person' with person %}
+
+{% if data.branch.recruiter.name %}
+{% if data.branch.coordinator.name != data.branch.recruiter.name %}
+<h2>Kontakt pro zájemce o členství</h2>
+{% assign person = data.branch.recruiter %}
+{% include 'person' with person %}
+{% endif %}
+{% endif %}
+{% endconsume %}
+
+</div>
+
+{% endblock %}

@@ -30,6 +30,11 @@ position: 0
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     {% inline_editor %}
+    <style>
+    body {
+      background: url('{{ 'kandidat-bg.jpg' | theme_image_url }}') left top no-repeat;  
+    }   
+    </style>
   </head>
   <body>
   <div id="fb-root"></div>
@@ -41,7 +46,6 @@ position: 0
 	fjs.parentNode.insertBefore(js, fjs);
   }(document, 'script', 'facebook-jssdk'));
   </script>
-  {% block header %}
     <div class="navbar navbar-default navbar-static-top" role="navigation">
       <div class="container">
         <div class="navbar-header">
@@ -52,9 +56,11 @@ position: 0
             <span class="icon-bar"></span>
           </button>
           <a class="navbar-brand" href="/">
-          <span class="navbar-name"><strong><%= @short_title %></strong></a> 
-          <span class="navbar-number">14</span>
-          <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek." %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek." %}za senátní obvod <strong>České Budějovice</strong>{% endeditable_text %}</span></div> 
+          <span class="navbar-name"><strong><%= @short_title %></strong></a>
+          <% if @voting_number %>
+          <span class="navbar-number"><%=@voting_number%></span>
+          <% end %>
+          <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong><%=@constituency%></strong>{% endeditable_text %}</span></div> 
           <a class="navbar-sublogo" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo-small.png" alt="Svobodní"></a>
         </div>
 	
@@ -67,12 +73,11 @@ position: 0
 		
       </div> <!--/.navbar-header -->
     </div> <!--/.container -->
-	{% endblock header %}
 	{% block main %}
   <div class="container">
       <div class="jumbotron text-center">
-        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek." %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
-        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek." %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
+        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
+        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
       </div>
   </div>
 

@@ -12,6 +12,61 @@
 		"title":"Svobodní - FR",
 		"short_title":"FR"
 	},{
+		"name":"pl",
+		"title":"Svobodní - PL",
+		"short_title":"PL"
+	},{
+		"name":"se",
+		"title":"Svobodní - SE",
+		"short_title":"SE"
+	},{
+		"name":"gregor",
+		"type":"candidate",
+		"title":"Ing. Vladimír Gregor - Děčín",
+		"short_title":"Vladimír Gregor",
+		"constituency":"Děčín",
+		"voting_number":6,
+		"fb_page_name":"svobodni",
+		"region_name": "Ústecký kraj",
+		"region_url": "http://usteckykraj.svobodni.cz/"
+	},{
+		"name":"rykl",
+		"type":"candidate",
+		"title":"Ing. Aleš Rykl - Praha 1",
+		"short_title":"Aleš Rykl",
+		"constituency":"Praha 1",
+		"voting_number":2,
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
+		"name":"pecka",
+		"type":"candidate",
+		"title":"František Pecka - Praha 9",
+		"short_title":"František Pecka",
+		"constituency":"Praha 9",
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
+		"name":"kriz",
+		"type":"candidate",
+		"title":"Mgr. Roman Kříž - Praha 5",
+		"short_title":"Roman Kříž",
+		"constituency":"Praha 5",
+		"voting_number":4,
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
+		"name":"praha1",
+		"title":"Svobodní Praha 1",
+		"short_title":"Praha 1",
+		"branch_id":106,
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
 		"name":"praha9",
 		"title":"Svobodní Praha 9",
 		"short_title":"Praha 9",
@@ -211,6 +266,20 @@
 		"region_name": "Karlovarský kraj",
 		"region_url": "http://karlovarskykraj.svobodni.cz"
 	},{
+		"name":"sokolov",
+		"title":"Svobodní Sokolov",
+		"short_title":"Sokolov",
+		"fb_page_name":"pages/Svobodní-Sokolov/127016030685609",
+		"region_name": "Karlovarský kraj",
+		"region_url": "http://karlovarskykraj.svobodni.cz"
+	},{
+		"name":"cheb",
+		"title":"Svobodní Cheb",
+		"short_title":"Cheb",
+		"fb_page_name":"SvobodniCheb",
+		"region_name": "Karlovarský kraj",
+		"region_url": "http://karlovarskykraj.svobodni.cz"
+	},{
 		"name":"malamorava",
 		"title":"Svobodní Malá Morava",
 		"short_title":"Malá Morava",
@@ -260,6 +329,13 @@
 		"region_name": "Ústecký kraj",
 		"region_url": "http://usteckykraj.svobodni.cz/"
 	},{
+		"name":"zatec",
+		"title":"Svobodní Žatec",
+		"short_title":"Žatec",
+		"fb_page_name":"svobodnizatec",
+		"region_name": "Ústecký kraj",
+		"region_url": "http://usteckykraj.svobodni.cz/"
+	},{
 		"name":"chomutov",
 		"title":"Svobodní Chomutov",
 		"short_title":"Chomutov",
@@ -298,6 +374,13 @@
 		"name":"velkyosek",
 		"title":"Svobodní Velký Osek",
 		"short_title":"Velký Osek",
+		"fb_page_name":"SvobodniStredniCechy",
+		"region_name": "Středočeský kraj",
+		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
+	},{
+		"name":"cesky-brod",
+		"title":"Svobodní Český Brod",
+		"short_title":"Český Brod",
 		"fb_page_name":"SvobodniStredniCechy",
 		"region_name": "Středočeský kraj",
 		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"

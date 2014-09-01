@@ -1,0 +1,23 @@
+---
+title: Kontakty
+slug: kontakty
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 30
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+{% editable_text "kontakt", hint: "Kontaktní údaje." %}
+{% endeditable_text %}
+
+</div>
+
+{% endblock %}

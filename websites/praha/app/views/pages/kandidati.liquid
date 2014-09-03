@@ -5,7 +5,7 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 10
+position: 1
 editable_elements:
   main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
@@ -33,7 +33,7 @@ editable_elements:
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
+{% if forloop.last %}
 </div> <!--/.row - last -->
 {% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}

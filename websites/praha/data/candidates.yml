@@ -1,17 +1,20 @@
 ---
 - Jiří Payne:
     _slug: jiri-payne
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=f07e52aa-5253-4d49-a63c-4760e58c64f4
+    photo: /samples/candidates/jiri-payne/payne.png
     political_party: Svobodní
     age: 58
     email: jiri@payne.cz
-    phone: ''
+    phone: '602656949'
     homepage_url: http://www.payne.cz
     fb_profile_url: http://www.facebook.com/jiri.payne
     fb_page_url: http://www.facebook.com/jiri.payne#!/
+    profile: ''
+    priorities: ''
 - Ing. Jiří Kubíček:
     _slug: jiri-kubicek
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c69b1034-0e1e-42d9-9107-3d2c587cc7e5
+    photo: /samples/candidates/jiri-kubicek/kubicek.png
+    occupation: podnikatel IT
     political_party: Svobodní
     age: 34
     email: kubicek@svobodni.cz
@@ -19,9 +22,11 @@
     homepage_url: http://www.kubicek.cz
     fb_profile_url: http://www.facebook.com/kubicek.jiri
     fb_page_url: http://www.facebook.com/Kubicek.CZ
+    profile: ''
+    priorities: ''
 - Damir Špoljarič:
     _slug: damir-spoljaric
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=cb357819-8298-45e3-9e41-15ea2af94e1a
+    photo: /samples/candidates/damir-spoljaric/spoljaric.png
     political_party: Svobodní
     age: 26
     email: spoljaric@svobodni.cz
@@ -29,9 +34,11 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Bc. Pavel Pešan:
     _slug: pavel-pesan
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=d32ccd1c-e7bc-4007-8cbb-4f5621d1857c
+    photo: /samples/candidates/pavel-pesan/pesan.png
     political_party: Svobodní
     age: 39
     email: pavel.pesan@seznam.cz
@@ -39,9 +46,11 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: https://www.facebook.com/profile.php?id=100000814593932&ref=tn_tnmn
+    profile: ''
+    priorities: ''
 - Kateřina Kykalová Ramešová:
     _slug: katerina-kykalova-ramesova
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=2a467273-0cc4-4286-b231-4fdc6ceb8bec
+    photo: /samples/candidates/katerina-kykalova-ramesova/ramesova.png
     political_party: Svobodní
     age: 49
     email: katerina.ramesova@volny.cz
@@ -49,9 +58,10 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Pavel Štross:
     _slug: pavel-stross
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c03b0542-4966-472f-8071-b735b2c02a91
     political_party: Svobodní
     age: 27
     email: pavel.stross@gmail.com
@@ -59,9 +69,33 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Ing. Karel Zvára:
+    _slug: karel-zvara
+    political_party: Svobodní
+    age: 38
+    email: zvara@svobodni.cz
+    phone: '775387690'
+    homepage_url: http://www.zvara.cz
+    fb_profile_url: http://www.facebook.com/zvara
+    fb_page_url: http://www.facebook.com/karel.zvara
+    profile: ''
+    priorities: ''
+- Radim Smetka:
+    _slug: radim-smetka
+    political_party: Svobodní
+    age: 26
+    email: smetka@svobodni.cz
+    phone: '777848037'
+    homepage_url: ''
+    fb_profile_url: http://www.facebook.com/SMtex
+    fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Bc. Alois Sečkár:
     _slug: alois-seckar
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=c7656d30-f1f7-45a9-8cd5-104e0dc26ca1
+    photo: /samples/candidates/alois-seckar/seckar.jpg
     political_party: Svobodní
     age: 25
     email: ellrohir@seznam.cz
@@ -69,9 +103,10 @@
     homepage_url: ''
     fb_profile_url: https://www.facebook.com/AloisSeckarSvobodni
     fb_page_url: https://www.facebook.com/StaraKrc
+    profile: ''
+    priorities: ''
 - Ing. Jan Skalický:
     _slug: jan-skalicky
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=6c847f71-5643-4dac-ac2f-df891c5d6640
     political_party: Svobodní
     age: 53
     email: j.skalicky@seznam.cz
@@ -79,9 +114,11 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
+    profile: ''
+    priorities: ''
 - Ing. Mojmír Mikuláš:
     _slug: mojmir-mikulas
-    photo_url: http://www.svobodni.cz/Controls/AvatarImageFetch.ashx?memberid=dee8a88f-e657-4f59-a0ed-6ac933c6054c
+    photo: /samples/candidates/mojmir-mikulas/mikulas.jpg
     political_party: Svobodní
     age: 46
     email: mojmir.mikulas@gmail.com
@@ -89,3 +126,5 @@
     homepage_url: ''
     fb_profile_url: https://www.facebook.com/mojmir.mikulas
     fb_page_url: ''
+    profile: ''
+    priorities: ''

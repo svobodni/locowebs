@@ -11,6 +11,9 @@ position: 30
 
 {% block main %}
 
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
 {% consume data from "https://registr.svobodni.cz/regions/10.json" %}
 <table class="table table-striped">
 <thead>
@@ -31,4 +34,5 @@ position: 30
 </tbody>
 </table>
 {% endconsume %}
+</div>
 {% endblock %}

@@ -16,6 +16,9 @@ editable_elements:
 
 {% block main %}
 
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
 
 {% consume data from "https://registr.svobodni.cz/regions/10.json" %}
 <div class="col-md-8">
@@ -36,5 +39,6 @@ editable_elements:
 <p>Kontakt:&nbsp;Jiří Kubíček, Kamenická 26, 170 00 Praha 7<br>
 č. účtu:&nbsp;<a href="https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2700382803" style="line-height: 1.6em;">2700382803/2010</a></p>
 {% endeditable_text %}
+</div>
 </div>
 {% endblock %}

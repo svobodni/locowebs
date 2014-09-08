@@ -192,3 +192,20 @@
 .cand-grid a:hover img {
 	border: 1px solid white; border-top: none; border-right: none;
 }
+
+.cand-list {
+	margin-bottom: 35px;
+}
+
+.cand-list td, .cand-list th {
+	vertical-align: baseline !important;
+}
+
+.cand-list th {
+	white-space: nowrap;
+	font-size: 23px; font-family: roboto-bold; font-weight: normal;
+}
+
+.cand-list td.cand-ord {
+	text-align: right;
+}

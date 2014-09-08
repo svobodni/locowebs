@@ -1,7 +1,7 @@
 ---
 - Ing. Jiří Kubíček:
     _slug: jiri-kubicek
-    photo: /samples/candidates/jiri-kubicek/IMG_0369_web.png
+    photo: /samples/candidates/jiri-kubicek/kubicek.png
     occupation: auditor IT, podnikatel
     political_party: Svobodní
     age: 34
@@ -67,6 +67,7 @@
     priorities: ''
 - Kateřina Ramešová:
     _slug: katerina-ramesova
+    photo: /samples/candidates/katerina-ramesova/ramesova.png
     political_party: Svobodní
     age: 49
     email: katerina.ramesova@volny.cz

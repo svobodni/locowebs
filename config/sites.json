@@ -49,6 +49,15 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"benes",
+		"type":"candidate",
+		"title":"MUDr. Karel Beneš",
+		"short_title":"Karel Beneš",
+		"constituency":"Příbram",
+		"fb_page_name":"SvobodniStredniCechy",
+		"region_name": "Středočeský kraj",
+		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
+	},{
 		"name":"kriz",
 		"type":"candidate",
 		"title":"Mgr. Roman Kříž - Praha 5",

@@ -101,7 +101,7 @@ editable_elements:
         <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
       </div>
       <div class="col-md-6 cand-top-4">
-        <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
+        <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }} }}" width="99" height="131"></a>
         {% for candidate in contents.candidates limit:3 offset:1 %}

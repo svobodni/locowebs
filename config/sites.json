@@ -49,6 +49,15 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"payne",
+		"type":"candidate",
+		"title":"RNDr. Jiří Payne",
+		"short_title":"Jiří Payne",
+		"constituency":"Praha 10",
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
+	},{
 		"name":"benes",
 		"type":"candidate",
 		"title":"MUDr. Karel Beneš",

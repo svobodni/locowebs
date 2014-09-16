@@ -528,5 +528,12 @@
 		"fb_page_name":"hk.svobodni.cz",
 		"region_name": "Svobodní",
 		"region_url": "http://www.svobodni.cz"
+	},{
+		"name":"brno-slatina",
+		"title":"Svobodní Brno-Slatina",
+		"short_title":"Brno-Slatina",
+		"fb_page_name":"svobodni.brno",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
 	}
 ]

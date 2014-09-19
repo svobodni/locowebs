@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+sites = JSON.load(File.open("config/sites.json").read).reject{|site| site["type"]=="candidate"}.collect{|site| site["name"]}.size
+
+sites.each{|site| 
+	puts "Refreshing #{site}"
+	system "cd websites;  wagon init #{site} -t voting_template --lib ../wagon_generators/voting_template.rb"
+}
+
+puts "Fixing CRLF"
+`find . -name "*.liquid*" | xargs fromdos`

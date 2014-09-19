@@ -1,0 +1,13 @@
+#!/usr/bin/env ruby
+
+require 'json'
+
+sites = JSON.load(File.open("config/sites.json").read).collect{|site| site["name"]}
+
+sites.each{|site| 
+	puts "Fetching #{site}"
+	`cd websites/#{site}; wagon pull #{site}`
+}
+
+puts "Fixing CRLF"
+`find . -name "*.liquid*" | xargs fromdos`

@@ -10,51 +10,74 @@ editable_elements:
   main/nadpis: "<p style=\"text-align: center;\">&bdquo;Historii svobodn&yacute;ch
     lid&iacute; nep&iacute;&scaron;e n&aacute;hoda, ale volba. Jejich volba!&ldquo;</p>\r\n<p
     style=\"text-align: center;\"><em>- Dwight D. Eisenhower -</em></p>"
-  main/vypis: '999'
 ---
 {% extends parent %}
 
 {% block main %}
-{% capture list_from %}{% editable_control "vypis", options: '1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,9=9,10=10,11=11,12=12,13=13,14=14,15=15,999=nikdy', hint: "Od kolikátého kandidáta se má zobrazovat jen tabulka?", priority: 3 %}999{% endeditable_control %}{% endcapture %}
-
 <div class="container classic-content">
 <h1>{{ page.title }}</h1>
 
-<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace.", format: "raw"%}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
+<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
 </div> <!--/.container -->
+
+<div class="section-tabs">
+<div class="container">
+	<p class="text-muted">Přes veškerou iniciativu Svobodných byla Praha 4 usnesením Zastupitelstva ze dne 18. června 2014 rozdělena na 5 volebních obvodů. Naši kandidáti jsou tedy rozřazeni do 5 obvodů po 9.</p> 
+    <p class="text-muted">Mapu volebních obvodů naleznete <a href="http://www.praha4.cz/Volebni-obvody" title="Mapa volebních obvodů">ZDE</a>. Zhruba platí:</p>  
+    <ul>
+      <li><strong><a href="#obvod_1" role="tab" data-toggle="tab" title="Lídr Damir Špoljarič">Obvod 1</a></strong> - Podolí, Nusle (část)</li>
+      <li><strong><a href="#obvod_2" role="tab" data-toggle="tab" title="Lídr Tomáš Vochozka">Obvod 2</a></strong> - Braník, Hodkovičky</li>
+      <li><strong><a href="#obvod_3" role="tab" data-toggle="tab" title="Lídr Alois Sečkár">Obvod 3</a></strong> - Krč</li>
+      <li><strong><a href="#obvod_4" role="tab" data-toggle="tab" title="Lídr Jan Skalický">Obvod 4</a></strong> - Spořilov, Nusle (část)</li>
+      <li><strong><a href="#obvod_5" role="tab" data-toggle="tab" title="Lídr Jaroslav Marsa">Obvod 5</a></strong> - Michle, Nusle (část)</li>
+    </ul>
+  <p class="text-muted">Kandidátní listina obvodu se zobrazí po kliknutí na příslušnou záložku:</p>
+	<ul class="nav nav-tabs" role="tablist">
+		{% for obvod in (1..5) %}
+		<li><a href="#obvod_{{obvod}}" role="tab" data-toggle="tab">Obvod {{obvod}}</a></li>
+		{% endfor %}
+	</ul>
+</div> <!--/.container -->
+</div> <!--/.section-tabs -->
 
 <div class="container classic-content">	
 <div class="cand-grid">
 
-{% for candidate in contents.candidates limit:list_from %}
+<div class="tab-content">
+{% for obvod in (1..5) %}
+<div class="tab-pane" id="obvod_{{obvod}}">
+<h2>Obvod {{ obvod }}</h2>
+{% assign counter = 0 %}
+{% for candidate in contents.candidates %}
+{% if candidate.obvod == obvod %}
+{% capture counter %}{{ counter | plus:1}}{% endcapture %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
 	<div class="col-md-4">
+		{% if candidate.profile == blank %}
+		<span class="no-link">
+		{% else %}
 		<a href="/kandidati/{{ candidate._slug }}">
-		<em>{{forloop.index}}.</em>
+		{% endif %}
+		<em>{{counter}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
 		{% if candidate.photo.url == blank%}
         <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
         {% else %}
-		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
+		<img src="{{ candidate.photo.url }}" alt="{% if counter == 1%}Lídr kandidátky{% else %}Kandidát č. {{counter}}{% endif %}" width="290">
 		{% endif %}
 		</a>
 	</div>
-{% if forloop.last %}
+{% if candidate == forloop.last %}
 </div> <!--/.row - last -->
 {% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
 {% endif %}
+{% endif %}
 {% endfor %}
-
-<div class="cand-list">
-  <table class="table">
-    {% for candidate in contents.candidates offset:list_from %}
-    <tr><td class="cand-ord">{{ forloop.index | plus:list_from }}.</td><th>{{ candidate.name }}</th><td class="cand-info">{{ candidate.age }} let, {{ candidate.occupation }}, {{ candidate.political_party }}</td></tr>
-	{% endfor %}
-  </table>
-</div> <!--/.cand-list -->
-
+</div>
+{% endfor %}
+  </div>
 </div> <!--/.cand-grid -->
 
 <p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>

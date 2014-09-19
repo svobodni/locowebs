@@ -5,7 +5,7 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 1
+position: 2
 editable_elements:
   main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
@@ -28,7 +28,9 @@ editable_elements:
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
-		{% if candidate.photo.url == blank%}{% else %}
+		{% if candidate.photo.url == blank%}
+        <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
+        {% else %}
 		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
 		{% endif %}
 		</a>

@@ -2,6 +2,7 @@
 - Jiří Payne:
     _slug: jiri-payne
     photo: /samples/candidates/jiri-payne/payne.png
+    occupation: jaderný fyzik
     political_party: Svobodní
     age: 58
     email: jiri@payne.cz
@@ -9,12 +10,15 @@
     homepage_url: http://www.payne.cz
     fb_profile_url: http://www.facebook.com/jiri.payne
     fb_page_url: http://www.facebook.com/jiri.payne#!/
-    profile: ''
+    profile: <p>Jiř&iacute; Payne je zku&scaron;en&yacute; politik. Od vzniku strany
+      (2009) je m&iacute;stopředsedou&nbsp;Svobodn&yacute;ch. Před rokem 1989 pracoval
+      jako jadern&yacute; fyzik, program&aacute;tor,&nbsp;pečovatel, topič, pot&eacute;
+      byl poslancem a mj. t&eacute;ž poradcem prezidenta republiky.</p>
     priorities: ''
 - Ing. Jiří Kubíček:
     _slug: jiri-kubicek
     photo: /samples/candidates/jiri-kubicek/kubicek.png
-    occupation: podnikatel IT
+    occupation: auditor IT, podnikatel
     political_party: Svobodní
     age: 34
     email: kubicek@svobodni.cz
@@ -22,11 +26,21 @@
     homepage_url: http://www.kubicek.cz
     fb_profile_url: http://www.facebook.com/kubicek.jiri
     fb_page_url: http://www.facebook.com/Kubicek.CZ
-    profile: ''
+    profile: <p>Jiř&iacute; Kub&iacute;ček je podnikatelem v IT a v Internetu. Členem
+      Svobodn&yacute;ch je od jejich&nbsp;vzniku v roce 2009. Od t&eacute;hož roku
+      je krajsk&yacute;m m&iacute;stopředsedou Svobodn&yacute;ch v&nbsp;Praze a od
+      roku 2012 krajsk&yacute;m předsedou. Zaj&iacute;m&aacute; se o děn&iacute; v
+      pražsk&eacute; komun&aacute;ln&iacute;&nbsp;politice, zejm&eacute;na o děn&iacute;
+      v Praze 7 a to i z pozice jednatele sdružen&iacute; Lep&scaron;&iacute; Praha&nbsp;7.
+      Domn&iacute;v&aacute; se, že voln&yacute; trh a f&eacute;rov&aacute; soutěž
+      je nejlep&scaron;&iacute; možn&eacute; ře&scaron;en&iacute; i pro drobn&eacute;&nbsp;podnikatele
+      v Praze, kteř&iacute; jsou dnes zbytečně omezov&aacute;ni př&iacute;sn&yacute;m
+      tržn&iacute;m ř&aacute;dem.</p>
     priorities: ''
 - Damir Špoljarič:
     _slug: damir-spoljaric
     photo: /samples/candidates/damir-spoljaric/spoljaric.png
+    occupation: IT podnikatel, specialista v oblasti dopravy
     political_party: Svobodní
     age: 26
     email: spoljaric@svobodni.cz
@@ -34,11 +48,21 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    profile: ''
+    profile: <p>Damir &Scaron;poljarič je členem Svobodn&yacute;ch od roku 2010 a
+      od t&eacute;hož roku je krajsk&yacute;m&nbsp;m&iacute;stopředsedou krajsk&eacute;ho
+      sdružen&iacute; Svobodn&yacute;ch v Praze. Už od sv&yacute;ch 18 let se&nbsp;věnuje
+      podnik&aacute;n&iacute; v oblasti informačn&iacute;ch technologi&iacute; a telekomunikac&iacute;
+      s&nbsp;mezin&aacute;rodn&iacute;m dosahem. Dlouhodobě sleduje děn&iacute; v
+      pražsk&eacute; komun&aacute;ln&iacute; politice,&nbsp;předev&scaron;&iacute;m
+      v oblasti dopravy a veřejn&eacute;ho prostoru. Damir &Scaron;poljarič je odpůrcem&nbsp;přehnan&eacute;ho
+      omezov&aacute;n&iacute; individu&aacute;ln&iacute; automobilov&eacute; dopravy
+      a zast&aacute;v&aacute; n&aacute;zor, že by&nbsp;obec měla přistupovat rovnoceně
+      ke v&scaron;em dopravn&iacute;m prostředkům.</p>
     priorities: ''
 - Bc. Pavel Pešan:
     _slug: pavel-pesan
     photo: /samples/candidates/pavel-pesan/pesan.png
+    occupation: regionalista, OSVČ
     political_party: Svobodní
     age: 39
     email: pavel.pesan@seznam.cz
@@ -46,11 +70,16 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: https://www.facebook.com/profile.php?id=100000814593932&ref=tn_tnmn
-    profile: ''
+    profile: <p>Pavel Pe&scaron;an je členem Svobodn&yacute;ch od vzniku strany na
+      jaře 2009, podruh&eacute; za&nbsp;sebou byl zvolen krajsk&yacute;m m&iacute;stopředsedou
+      Svobodn&yacute;ch v Praze. Krom činnosti&nbsp;ve Straně svobodn&yacute;ch občanů
+      se věnuje poradensk&eacute; činnosti z pozice předsedy&nbsp;<a href="http://www.jedendomov.cz)"
+      target="_blank">OS Jeden Domov</a>.</p>
     priorities: ''
 - Kateřina Kykalová Ramešová:
     _slug: katerina-kykalova-ramesova
     photo: /samples/candidates/katerina-kykalova-ramesova/ramesova.png
+    occupation: OSVČ, Lyžařská instruktorka
     political_party: Svobodní
     age: 49
     email: katerina.ramesova@volny.cz
@@ -58,10 +87,15 @@
     homepage_url: ''
     fb_profile_url: ''
     fb_page_url: ''
-    profile: ''
+    profile: <p>Kateřina Rame&scaron;ov&aacute; se dlouhodobě věnuje komun&aacute;ln&iacute;m
+      t&eacute;matům. Členkou Strany&nbsp;svobodn&yacute;ch občanů je již od vzniku
+      strany a byla t&eacute;ž členkou Republikov&eacute;ho&nbsp;v&yacute;boru Svobodn&yacute;ch.
+      V současn&eacute; době je m&iacute;stopředsedkyn&iacute; krajsk&eacute;ho&nbsp;sdružen&iacute;
+      Strany svobodn&yacute;ch občanů v Praze.</p>
     priorities: ''
 - Pavel Štross:
     _slug: pavel-stross
+    occupation: informatik, OSVČ
     political_party: Svobodní
     age: 27
     email: pavel.stross@gmail.com
@@ -73,6 +107,8 @@
     priorities: ''
 - Ing. Karel Zvára:
     _slug: karel-zvara
+    photo: /samples/candidates/karel-zvara/zvara.jpg
+    occupation: ekonom, IT analytik Praha 4
     political_party: Svobodní
     age: 38
     email: zvara@svobodni.cz
@@ -84,6 +120,8 @@
     priorities: ''
 - Radim Smetka:
     _slug: radim-smetka
+    photo: /samples/candidates/radim-smetka/smetka.jpg
+    occupation: programátor, místopředseda strany
     political_party: Svobodní
     age: 26
     email: smetka@svobodni.cz
@@ -96,6 +134,7 @@
 - Bc. Alois Sečkár:
     _slug: alois-seckar
     photo: /samples/candidates/alois-seckar/seckar.jpg
+    occupation: programátor
     political_party: Svobodní
     age: 25
     email: ellrohir@seznam.cz
@@ -107,6 +146,8 @@
     priorities: ''
 - Ing. Jan Skalický:
     _slug: jan-skalicky
+    photo: /samples/candidates/jan-skalicky/skalicky_2.png
+    occupation: OSVČ
     political_party: Svobodní
     age: 53
     email: j.skalicky@seznam.cz
@@ -118,7 +159,8 @@
     priorities: ''
 - Ing. Mojmír Mikuláš:
     _slug: mojmir-mikulas
-    photo: /samples/candidates/mojmir-mikulas/mikulas.jpg
+    photo: /samples/candidates/mojmir-mikulas/mikulas.png
+    occupation: stavební inženýr
     political_party: Svobodní
     age: 46
     email: mojmir.mikulas@gmail.com
@@ -126,5 +168,582 @@
     homepage_url: ''
     fb_profile_url: https://www.facebook.com/mojmir.mikulas
     fb_page_url: ''
+    profile: ''
+    priorities: ''
+- Bc. Tomáš Štampach:
+    _slug: tomas-stampach
+    photo: /samples/candidates/tomas-stampach/stampach.png
+    occupation: specialista veřejných zakázek
+    political_party: Svobodní
+    age: 29
+    profile: ''
+    priorities: ''
+- Bc. Igor Bogdanov:
+    _slug: igor-bogdanov
+    occupation: ekonom
+    political_party: Svobodní
+    age: 27
+    profile: ''
+    priorities: ''
+- Bc. Petra Korbelová:
+    _slug: petra-korbelova
+    occupation: právní konzultantka
+    political_party: Svobodní
+    age: 29
+    profile: ''
+    priorities: ''
+- Mgr. Ondřej Pecák:
+    _slug: ondrej-pecak
+    photo: /samples/candidates/ondrej-pecak/pecak.jpg
+    occupation: advokát
+    political_party: Svobodní
+    age: 30
+    profile: "<p>L&iacute;dr kandid&aacute;tky Svobodn&yacute;ch ve volb&aacute;ch
+      do zastupitelstva městsk&eacute; č&aacute;sti Praha 6 poch&aacute;z&iacute;
+      z&nbsp;rodiny, kter&aacute;&nbsp;žije ve Stře&scaron;ovic&iacute;ch od jejich
+      dostavby v roce 1921, vystudoval v&nbsp;roce 2009 Pr&aacute;vnickou fakultu
+      Masarykovy univerzity a v&nbsp;roce 2013 složil advok&aacute;tn&iacute; zkou&scaron;ku.</p>\r\n<p>Po
+      dvoulet&eacute; v&aacute;žn&eacute; &uacute;vaze vstoupil do Strany svobodn&yacute;ch
+      občanů v&nbsp;dubnu 2014 kvůli rostouc&iacute; obavě z&nbsp;n&aacute;stupu socialismu,
+      z&nbsp;jehož chyb jsme se dosud nepoučili a opakujeme je ve velk&eacute;m. Jako
+      advok&aacute;t v&iacute;, co obn&aacute;&scaron;&iacute; h&aacute;jit z&aacute;jmy
+      jeho klientů a jako člověk znal&yacute; historie v&iacute;, co obn&aacute;&scaron;&iacute;
+      svoboda a že zřekneme-li se svobody ve prospěch bezpeč&iacute;, nezaslouž&iacute;me
+      si ani jedno a nakonec přijdeme o obě (Benjamin Franklin). V&nbsp;dubnu 2014
+      se rovněž pod&iacute;lel na založen&iacute; pobočky Svobodn&yacute;ch pro Prahu
+      6 a zaměřuje se zejm&eacute;na na legislativn&iacute; problematiku. Je autorem
+      n&aacute;vrhu převratn&eacute; koncepce magistr&aacute;tn&iacute;ho tržn&iacute;ho
+      ř&aacute;du.</p>"
+    priorities: ''
+- Mgr. Jiří Strachota, CSc.:
+    _slug: jiri-strachota
+    occupation: fyzik
+    political_party: Svobodní
+    age: 67
+    profile: ''
+    priorities: ''
+- Alice Hejdová:
+    _slug: alice-hejdova
+    photo: /samples/candidates/alice-hejdova/hejdova.png
+    occupation: OSVČ
+    political_party: Svobodní
+    age: 41
+    profile: ''
+    priorities: ''
+- Bc. Marcela Mojžíšová, DiS.:
+    _slug: marcela-mojzisova
+    occupation: key account manager
+    political_party: Svobodní
+    age: 32
+    profile: ''
+    priorities: ''
+- Jaroslav Douša:
+    _slug: jaroslav-dousa
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 49
+    profile: ''
+    priorities: ''
+- Ing. Roman Malach:
+    _slug: roman-malach
+    photo: /samples/candidates/roman-malach/malach.png
+    occupation: ekonom - analytik, soudní znalec
+    political_party: Svobodní
+    age: 37
+    email: roman.malach@post.cz
+    phone: '724338784'
+    profile: "<p>Dobr&yacute; den. Jmenuji se Roman Malach a je mi 37 let. Vystudoval
+      jsem ekomomiku a management na Mendel<span class=\"text_exposed_show\">ově univerzitě.
+      Před ned&aacute;vnem jsem si roz&scaron;&iacute;řil vzděl&aacute;n&iacute; a
+      stal se soudn&iacute;m znalcem v oboru oceňov&aacute;n&iacute; podniků.</span></p>\r\n<p><span
+      class=\"text_exposed_show\">Impulsem pro vstup ke Svobodn&yacute;m pro mě bylo
+      neust&aacute;le omezov&aacute;n&iacute; svobody jednotlivce dal&scaron;&iacute;mi
+      a dal&scaron;&iacute;mi př&iacute;kazy, z&aacute;kazy, z&aacute;kony, atd. Jako
+      ekonomovi se mi samozřejmě nel&iacute;b&iacute; st&aacute;le vět&scaron;&iacute;
+      přerozdělov&aacute;n&iacute; a vytahov&aacute;n&iacute; peněz z kapsy občana
+      konateli \"vět&scaron;&iacute;ho dobra\".&nbsp;</span></p>\r\n<p><span class=\"text_exposed_show\">To
+      je i t&eacute;ma, kter&eacute;mu bych se chtěl věnovat na radnici Prahy 10.
+      Zabr&aacute;nit pl&yacute;tv&aacute;n&iacute; penězi, realizaci nesmysln&yacute;ch
+      projektů a kontrolou ekonomiky těch smyslupln&yacute;ch. D&aacute;le se budu
+      zasazovat o co největ&scaron;&iacute; transparentnost radničn&iacute; politiky.
+      Doby, kdy radnice rozhodovala za zavřen&yacute;mi dveřmi bez informov&aacute;n&iacute;
+      občanů mus&iacute; skončit. Vzhledem k t&eacute;měř 15 let&eacute; zku&scaron;enosti
+      ze soukrom&eacute;ho sektoru, jejiž č&aacute;st se t&yacute;k&aacute; i procesů
+      okolo veřejn&yacute;ch zak&aacute;zek, věř&iacute;m, že jsem schopen sv&eacute;
+      sliby naplnit.</span></p>"
+    priorities: ''
+- Bc. Josef Vokál:
+    _slug: josef-vokal
+    occupation: jednatel
+    political_party: Svobodní
+    age: 54
+    profile: ''
+    priorities: ''
+- Jakub Los:
+    _slug: jakub-los
+    photo: /samples/candidates/jakub-los/los.png
+    occupation: produkční
+    political_party: Svobodní
+    age: 26
+    profile: ''
+    priorities: ''
+- Ing. Jakub Voneš:
+    _slug: jakub-vones
+    photo: /samples/candidates/jakub-vones/vones.jpg
+    occupation: ekonom
+    political_party: Svobodní
+    age: 27
+    email: jakub@vones.cz
+    fb_profile_url: http://www.facebook.com/jakub.vones
+    profile: "<p>Narodil jsem se 22. z&aacute;ř&iacute; 1987 v Praze.</p>\r\n<p>Jsem
+      absolventem oboru Ekonomie a hospod&aacute;řsk&aacute; spr&aacute;va N&aacute;rodohospod&aacute;řsk&eacute;
+      fakulty Vysok&eacute; &scaron;koly ekonomick&eacute; v&nbsp;Praze. Na bakal&aacute;řsk&eacute;m
+      studijn&iacute;m stupni jsem se zaměřil na N&aacute;rodn&iacute; hospod&aacute;řstv&iacute;
+      a na magistersk&eacute;m stupni mou hlavn&iacute; specializac&iacute; byla Veřejn&aacute;
+      spr&aacute;va a vedlej&scaron;&iacute; specializac&iacute; Modern&iacute; hospod&aacute;řsk&eacute;
+      dějiny.</p>\r\n<p>Jako brig&aacute;dn&iacute;k jsem pracoval v&nbsp;letech 2006-2013
+      na pozici předsedy okrskov&eacute; volebn&iacute; komise č. 119 na &Uacute;řadě
+      městsk&eacute; č&aacute;sti Praha 3 při různ&yacute;ch volb&aacute;ch (zejm&eacute;na
+      do Poslaneck&eacute; sněmovny, do Sen&aacute;tu, do Evropsk&eacute;ho parlamentu
+      a při volbě Prezidenta republiky). &nbsp;&nbsp;</p>\r\n<p>Do&nbsp;<a href=\"http://web.svobodni.cz/\">Strany
+      svobodn&yacute;ch občanů&nbsp;</a>jsem vstoupil těsně po jej&iacute;m založen&iacute;
+      v&nbsp;roce 2009. V&nbsp;&Uacute;jezdě nad Lesy bydl&iacute;m s rodiči od roku
+      2006.</p>\r\n<p>Mezi moje kon&iacute;čky patř&iacute; zejm&eacute;na poč&iacute;tače,
+      florbal a ledn&iacute; hokej.</p>"
+    priorities: ''
+- Mgr. Martin Košut:
+    _slug: martin-kosut
+    photo: /samples/candidates/martin-kosut/kosut.png
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 44
+    email: martin@kosut.org
+    phone: 606 650 644
+    profile: "<p><span><span>Narozen 18.8.1970, otec rodiny, manželka Irena, synov&eacute;
+      Martin a David. Společně budujeme rodinnou společnost, kter&aacute; zastře&scaron;uje
+      a ř&iacute;d&iacute; investice v&nbsp;oblasti telekomunikac&iacute;, m&eacute;di&iacute;,
+      rezidenčn&iacute;ch služeb, služeb p&eacute;če o tělo, zpracov&aacute;n&iacute;
+      dřeva, poradenstv&iacute; a manažersk&yacute;ch služeb. V&iacute;ce na&nbsp;</span><a
+      href=\"http://www.kosut.org\">www.kosut.org</a><span>.</span></span></p>\r\n<p><span>Po
+      &uacute;spě&scaron;n&eacute;m absolvov&aacute;n&iacute; Matematicko-fyzik&aacute;ln&iacute;
+      fakulty Univerzity Karlovy v&nbsp;Praze v&nbsp;roce 1993 jsme v&nbsp;roce 1996
+      s&nbsp;manželkou koupili star&scaron;&iacute; domek v&nbsp;Kalsk&eacute; ulici
+      v&nbsp;&Uacute;jezdě a přestěhovali jsme se zde.</span></p>\r\n<p><span><span>Jsem
+      členem&nbsp;</span><a href=\"http://web.svobodni.cz/\">Svobodn&yacute;ch</a><span>&nbsp;od
+      jejich založen&iacute; v&nbsp;roce 2009 a m&iacute;stopředsedou občansk&eacute;ho
+      sdružen&iacute;&nbsp;</span><a href=\"http://www.reformy.cz\">www.reformy.cz</a><span>&nbsp;od
+      roku 2010.</span></span></p>\r\n<p><span>Ve voln&eacute;m čase studuji katolickou
+      teologii na Katolick&eacute; teologick&eacute; fakultě Univerzity Karlovy v&nbsp;Praze.</span></p>"
+    priorities: ''
+- Zdislav Růžička:
+    _slug: zdislav-ruzicka
+    photo: /samples/candidates/zdislav-ruzicka/ruzicka.jpg
+    occupation: knihkupec, nakladatel
+    political_party: Svobodní
+    age: 64
+    profile: ''
+    priorities: ''
+- Bc. Jakub Nešpor:
+    _slug: jakub-nespor
+    occupation: trenér mládeže
+    political_party: Svobodní
+    age: 27
+    profile: ''
+    priorities: ''
+- Ing. Tomáš Michalička, DiS.:
+    _slug: tomas-michalicka
+    occupation: aplikační specialista
+    political_party: Svobodní
+    age: 31
+    profile: ''
+    priorities: ''
+- Tereza Sladkovská:
+    _slug: tereza-sladkovska
+    occupation: studentka lékařské fakulty UK
+    political_party: Svobodní
+    age: 21
+    profile: ''
+    priorities: ''
+- Ondřej Gál:
+    _slug: ondrej-gal
+    occupation: realitní makléř
+    political_party: Svobodní
+    age: 43
+    profile: ''
+    priorities: ''
+- Ing. Michal Kudlík:
+    _slug: michal-kudlik
+    photo: /samples/candidates/michal-kudlik/kudlik.jpg
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 26
+    email: kudlik.michal@gmail.com
+    profile: "<p dir=\"ltr\">Ing. Michal Kudl&iacute;k vystudoval Českou zemědělskou
+      univerzitu v Praze, magistersk&yacute; obor Provoz a ekonomika. Je mu 26 let
+      a vyrostl na Praze 11, kam chodil na z&aacute;kladn&iacute; &scaron;kolu a podle
+      jeho slov je velice r&aacute;d, že mohl cel&yacute; život str&aacute;vit pr&aacute;vě
+      na Jižn&iacute;m Městě. Pracovn&iacute; i životn&iacute; zku&scaron;enosti sb&iacute;ral
+      v průběhu cel&eacute;ho studia. Aby si mohl jako student v životě přilep&scaron;it,
+      pracoval na č&aacute;stečn&yacute; &uacute;vazek v několika finančn&iacute;ch
+      instituc&iacute;ch. Tak&eacute; se z&uacute;častnil zahraničn&iacute;ch st&aacute;ž&iacute;,
+      konkr&eacute;tně v USA ve st&aacute;tě Maryland, kde žil a pracoval 5 měs&iacute;ců,
+      nebo na univerzitě ve Slovinsku v d&eacute;lce jednoho semestru. V posledn&iacute;
+      době se aktivně věnuje politice a zdrav&eacute;mu životn&iacute;mu stylu.</p>\r\n<p>&nbsp;</p>"
+    priorities: <p><span>&bdquo;</span><span>R&aacute;d si už&iacute;v&aacute;m života
+      a k tomu neodmyslitelně patř&iacute; svoboda. Bohužel, v posledn&iacute; době
+      svobody v&yacute;znamně ub&yacute;v&aacute; a hodnota sloganu&nbsp;</span><em>&bdquo;</em><span><em>Svoboda
+      jednoho konč&iacute; tam, kde zač&iacute;n&aacute; svoboda druh&eacute;ho.&ldquo;</em>&nbsp;<span>(J.
+      S. Mill)</span>, jako by se vytr&aacute;cela. Ocit&aacute;me se v době, kdy
+      n&aacute;m neust&aacute;le někdo ř&iacute;k&aacute;, co můžeme a nemůžeme dělat.
+      Chci se zasadit o to, že každ&yacute; může ž&iacute;t podle sv&eacute;ho uv&aacute;žen&iacute;,
+      aniž by t&iacute;m omezoval druh&eacute;ho bez zbytečn&eacute;ho zasahov&aacute;n&iacute;
+      st&aacute;tu/města do jeho života.&ldquo;</span></p>
+- Petr Kopecký:
+    _slug: petr-kopecky
+    photo: /samples/candidates/petr-kopecky/kopecky_2.jpg
+    occupation: manažer umělce
+    political_party: Svobodní
+    age: 44
+    profile: ''
+    priorities: ''
+- Bc. Radovan Šmat:
+    _slug: radovan-smat
+    occupation: vedoucí provozu ZZS
+    political_party: Svobodní
+    age: 43
+    profile: ''
+    priorities: ''
+- Ing. Lukáš Kosina:
+    _slug: lukas-kosina
+    occupation: conference manager
+    political_party: Svobodní
+    age: 28
+    profile: ''
+    priorities: ''
+- Ing. Veronika Miňovská:
+    _slug: veronika-minovska
+    occupation: online marketing manager
+    political_party: Svobodní
+    age: 27
+    profile: ''
+    priorities: ''
+- Ing. Michal Stieber:
+    _slug: michal-stieber
+    occupation: ekonom
+    political_party: Svobodní
+    age: 32
+    profile: ''
+    priorities: ''
+- RNDr. Pavel Strunz, CSc.:
+    _slug: pavel-strunz
+    photo: /samples/candidates/pavel-strunz/strunz.png
+    occupation: vědecký pracovník
+    political_party: Svobodní
+    age: 49
+    profile: "<p><span>RNDr. Pavel Strunz, CSc., je vědeck&yacute;m pracovn&iacute;kem
+      v &Uacute;stavu jadern&eacute; fyziky Akademie věd Česk&eacute; republiky v
+      Řeži u Prahy. V současnosti je vedouc&iacute;m Oddělen&iacute; neutronov&eacute;
+      fyziky. Jeho vědeck&yacute;m oborem je využit&iacute; neutronov&eacute; difrakce
+      v materi&aacute;lov&eacute;m v&yacute;zkumu.&nbsp;</span></p>\r\n<p><span>Pavel
+      Strunz je členem Strany svobodn&yacute;ch občanů od roku 2009. Od roku 2010
+      je i členem jej&iacute;ho Republikov&eacute;ho v&yacute;boru.&nbsp;</span><br
+      /><br /></p>"
+    priorities: ''
+- Svatopluk Baďura:
+    _slug: svatopluk-badura
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 55
+    profile: ''
+    priorities: ''
+- Ing. Jan Stoss, CSc.:
+    _slug: jan-stoss
+    occupation: stavební inženýr
+    political_party: Svobodní
+    age: 73
+    profile: ''
+    priorities: ''
+- Vilém Jáchym:
+    _slug: vilem-jachym
+    photo: /samples/candidates/vilem-jachym/jachym.JPG
+    occupation: živnostník
+    political_party: Svobodní
+    age: 25
+    email: v.jachym@email.cz
+    profile: <p>Dobr&yacute; den, jmenuji se Vil&eacute;m J&aacute;chym a je mi 25
+      let. Vystudoval jsem Středn&iacute; průmyslovou &scaron;kolu Na Třebe&scaron;&iacute;ně,
+      obor Technick&aacute; zař&iacute;zen&iacute; budov. Po ukončen&iacute; studia
+      jsem se dva roky věnoval projekci vyt&aacute;pěn&iacute; a rozpočtům staveb.
+      Postupem času jsem se pustil i do podnik&aacute;n&iacute;. M&aacute;m tak vět&scaron;&iacute;
+      ekonomickou svo<span class="text_exposed_show">bodu a jsem s&aacute;m sobě p&aacute;nem.&nbsp;<br
+      />Začal jsem se tak&eacute; zaj&iacute;mat o politiku a rozhodl se aktivně zas&aacute;hnout
+      do veřejn&eacute;ho děn&iacute;. Př&aacute;l bych si, aby každ&yacute; člověk
+      měl vět&scaron;&iacute; vliv na svůj osobn&iacute; život a mohl ovlivnit veřejn&eacute;
+      děn&iacute;. Proto jsem se stal členem Strany svobodn&yacute;ch občanů.<br />V
+      Praze 10 mohu sv&eacute; vědomosti a n&aacute;pady nejl&eacute;pe z&uacute;ročit
+      v stavebn&iacute;m oboru. Prosazoval bych co největ&scaron;&iacute; průhlednost
+      veřejn&yacute;ch zak&aacute;zek, aby na nich vyděl&aacute;vali občan&eacute;,
+      nikoliv &uacute;zk&yacute; okruh podnikatelů. Nem&aacute;m r&aacute;d zbytečn&aacute;
+      omezen&iacute; nebo př&iacute;kazy, a tak i v zastupitelstvu Prahy budu bojovat
+      za co největ&scaron;&iacute; individu&aacute;ln&iacute; svobodu každ&eacute;ho
+      člověka.</span></p>
+    priorities: ''
+- Jan Šimek:
+    _slug: jan-simek
+    occupation: záchranář ZZS
+    political_party: Svobodní
+    age: 41
+    profile: ''
+    priorities: ''
+- Marek Jaklovský:
+    _slug: marek-jaklovsky
+    occupation: živnostník
+    political_party: Svobodní
+    age: 28
+    profile: ''
+    priorities: ''
+- Bc. Petr Miškovský:
+    _slug: petr-miskovsky
+    photo: /samples/candidates/petr-miskovsky/miskovsky.jpg
+    occupation: OSVČ, spisovatel, student
+    political_party: Svobodní
+    age: 23
+    email: petr.miskovsky@gmail.com
+    profile: "<p dir=\"ltr\">Bc. Petr Mi&scaron;kovsk&yacute; vystudoval bakal&aacute;řsk&yacute;
+      stupeň programu Architektura a stavitelstv&iacute; na stavebn&iacute; fakultě
+      na ČVUT. Nyn&iacute; studuje magistersk&yacute; stupeň oboru Konstrukce pozemn&iacute;ch
+      staveb na t&eacute;že &scaron;kole. Od narozen&iacute; žije na Praze 11 na Horn&iacute;ch
+      Roztylech a nav&scaron;těvoval zde z&aacute;kladn&iacute; &scaron;kolu i gymn&aacute;zium.
+      Během studi&iacute; podnikal v oblasti hostinsk&yacute;ch činnost&iacute; a
+      spolupod&iacute;l&iacute; se na projektech i realizac&iacute;ch v oblasti stavebnictv&iacute;,
+      rekonstrukc&iacute; a n&aacute;vrhů vzduchotechnick&yacute;ch soustav. Ve sv&eacute;m
+      voln&eacute;m čase se zaj&iacute;m&aacute; o politiku, p&iacute;&scaron;e knihy
+      a pov&iacute;dky, či hraje na kytaru.</p>\r\n<p>&nbsp;</p>"
+    priorities: "<p dir=\"ltr\">&bdquo;Chtěl bych ž&iacute;t v zemi, kde je minim&aacute;ln&iacute;
+      daňov&aacute; z&aacute;těž a st&aacute;t nezasahuje do v&scaron;eho, co se mu
+      dostane pod ruku. Ve st&aacute;tě, kde se d&aacute; snadno podnikat a životn&iacute;
+      &uacute;roveň roste do poměrů &Scaron;v&yacute;carska.&ldquo;</p>\r\n<p dir=\"ltr\">&bdquo;M&aacute;m
+      r&aacute;d svoji zemi a svůj domov a nechtěl bych se nikam stěhovat. Chtěl bych
+      n&aacute;s nasměrovat k lep&scaron;&iacute;m z&iacute;třkům - ke svobodě a prosperitě,
+      jako tomu bylo kupř&iacute;kladu za prvn&iacute; republiky. Toho se d&aacute;
+      č&aacute;stečně dos&aacute;hnout i na &uacute;rovni obc&iacute;.&ldquo;</p>\r\n<p>&nbsp;</p>"
+- Bc. Bedřich Laube:
+    _slug: bedrich-laube
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 45
+    profile: ''
+    priorities: ''
+- Ing. Miloslav Javůrek:
+    _slug: miloslav-javurek
+    photo: /samples/candidates/miloslav-javurek/javurek.png
+    occupation: důchodce
+    political_party: Svobodní
+    age: 70
+    profile: ''
+    priorities: ''
+- František Pecka:
+    _slug: frantisek-pecka
+    occupation: autorizovaný stavitel, OSVČ
+    political_party: Svobodní
+    age: 53
+    profile: ''
+    priorities: ''
+- MgA. Kateřina Berková:
+    _slug: katerina-berkova
+    photo: /samples/candidates/katerina-berkova/berkova.png
+    occupation: bankovní úřednice
+    political_party: Svobodní
+    age: 31
+    profile: ''
+    priorities: ''
+- Ing. Alexandr Hudský:
+    _slug: alexandr-hudsky
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 36
+    profile: ''
+    priorities: ''
+- Mgr. Jarmila Košnářová:
+    _slug: jarmila-kosnarova
+    occupation: výtvarnice
+    political_party: Svobodní
+    age: 71
+    profile: ''
+    priorities: ''
+- Fronéma Virglerová:
+    _slug: fronema-virglerova
+    occupation: IT programátor
+    political_party: Svobodní
+    age: 27
+    profile: ''
+    priorities: ''
+- Bc. Radek Strnad:
+    _slug: radek-strnad
+    photo: /samples/candidates/radek-strnad/strnad.png
+    occupation: OSVČ
+    political_party: Svobodní
+    age: 29
+    profile: <p>Dobr&yacute; den. Jmenuji se Radek Strnad a je mi 28 let. Vystudoval
+      jsem Matematicko-fyzik&aacute;ln&iacute; fakultu Univerzity Karlovy, obor informatika.
+      Během studi&iacute; jsem začal podnikat a vyv&iacute;jet software na zak&aacute;zku.
+      Postupem času jsem na pr&aacute;ci přestal stačit s&aacute;m, a proto jsem sv&eacute;
+      aktivity tra<span class="text_exposed_show">nsformoval v s.r.o. D&iacute;ky
+      sv&eacute; pr&aacute;ci tr&aacute;vim dostatek času v zahranič&iacute;, odkud
+      se snaž&iacute;m čerpat podněty k ře&scaron;en&iacute; probl&eacute;mů.<br />M&yacute;m
+      t&eacute;matem je problematika dopravy v pohybu i v klidu. Nepřeji si, aby městsk&aacute;
+      č&aacute;st přich&aacute;zela o cenn&aacute; parkovac&iacute; m&iacute;sta privatizac&iacute;
+      pozemků, ale naopak si přeji, aby v kritick&yacute;ch m&iacute;stech přib&yacute;vala.
+      Odm&iacute;t&aacute;m soci&aacute;ln&iacute; inžen&yacute;rstv&iacute; v oblasti
+      dopravy, k němu nav&aacute;zan&aacute; opatřen&iacute; a zv&yacute;hodňov&aacute;n&iacute;
+      konkr&eacute;tn&iacute;ch druhů dopravy. Budu se zasazovat o odstraněn&iacute;
+      zbytečn&yacute;ch přek&aacute;žek.<br />Ke kandidatuře mě přiměla nepř&iacute;jemn&aacute;
+      osobn&iacute; zku&scaron;enost při jedn&aacute;n&iacute; s randic&iacute;, kdy
+      jsem zjistil, že mimo ofici&aacute;lně, p&iacute;semně vznesen&eacute; dotazy
+      se toho občan mnoho nedozv&iacute;. Chci se zasadit o to, aby radnice sv&eacute;
+      občany brala jako rovnocenn&eacute; partnery, o sv&yacute;ch z&aacute;měrech
+      s dostatečn&yacute;m předstihem informovala a poskytla jim co nejv&iacute;ce
+      informac&iacute;. Jedině tak se d&aacute; zabr&aacute;nit, aby identick&eacute;
+      zak&aacute;zky na Praze 10 st&aacute;ly dvojn&aacute;sobek i v&iacute;ce než
+      v okoln&iacute;ch čtvrt&iacute;ch. Pokud by radn&iacute; sv&yacute;m občanům
+      opravdu naslouchali, nemuseli by pak p&aacute;r t&yacute;dnů před volbami rozes&iacute;lat
+      korespondenčn&iacute; l&iacute;stky a žadat je o n&aacute;měty na referendum.</span></p>
+    priorities: ''
+- Josef Sekava:
+    _slug: josef-sekava
+    occupation: IT programátor, OSVČ
+    political_party: Svobodní
+    age: 24
+    profile: ''
+    priorities: ''
+- Ing. Tomáš Krása:
+    _slug: tomas-krasa
+    occupation: programátor
+    political_party: Svobodní
+    age: 43
+    profile: ''
+    priorities: ''
+- Michal Bříza:
+    _slug: michal-briza
+    occupation: jednatel
+    political_party: Svobodní
+    age: 52
+    profile: ''
+    priorities: ''
+- Ondřej Stehlík:
+    _slug: ondrej-stehlik
+    occupation: obchodní zástupce
+    political_party: Svobodní
+    age: 32
+    profile: ''
+    priorities: ''
+- Eduard Veleba:
+    _slug: eduard-veleba
+    occupation: softwarový architekt
+    political_party: Svobodní
+    age: 29
+    profile: ''
+    priorities: ''
+- Anna Skálová, DiS.:
+    _slug: anna-skalova
+    photo: /samples/candidates/anna-skalova/skalova.png
+    occupation: designér
+    political_party: Svobodní
+    age: 31
+    email: skalova.anna@gmail.com
+    profile: "<div>Narodila se na Vinohradech, kde st&aacute;le žije.</div>\r\n<div><br
+      />Vystudovala gymn&aacute;zium Na Pražačce, &nbsp;d&aacute;le VO&Scaron; obalov&eacute;
+      techniky ve &Scaron;tět&iacute; a tomuto oboru se nad&aacute;le věnuje profesně
+      jako design&eacute;rka obalů a POS v Praze na Žižkově.</div>\r\n<div><br />Svobodn&eacute;
+      vol&iacute; od jejich vzniku, ale postupem času se j&iacute; zdala tato podpora
+      svobodn&yacute;ch my&scaron;lenek nedostačuj&iacute;c&iacute;, což vy&uacute;stilo
+      ve vstup do Strany svobodn&yacute;ch občanů na zač&aacute;tku roku 2014.</div>"
+    priorities: ''
+- Jan Růžička:
+    _slug: jan-ruzicka
+    photo: /samples/candidates/jan-ruzicka/jan_ruzicka.jpg
+    occupation: geodet
+    political_party: Svobodní
+    age: 55
+    email: honza@jan-ruzicka.cz
+    phone: 603 574 250
+    fb_profile_url: https://www.facebook.com/jan.ruzicka.31586
+    profile: "<p>Narodil se a vyrostl na Vinohradech, studoval na Vinohradech, na
+      Žižkově a v Hrdlořez&iacute;ch (což je skoro Žižkov).</p>\r\n<p>Jako geodet
+      se &uacute;častnil v&yacute;stavby metra v Praze a Taipei, posledn&iacute;ch
+      patn&aacute;ct let jeho geoinformatick&aacute; firma slouž&iacute; archeologick&yacute;m
+      v&yacute;zkumům na &uacute;zem&iacute; Česk&eacute; republiky a jej&iacute;ch
+      satelitů.</p>\r\n<p>Svobodn&iacute; jsou prvn&iacute; politick&yacute; projekt,
+      kter&eacute;ho se &uacute;častn&iacute; - to, kam spěje na&scaron;e země a Evropa
+      mu nedalo jinou možnost.</p>"
+    quote: ''
+    priorities: ''
+- Jaroslav Kohout:
+    _slug: jaroslav-kohout
+    occupation: IT consultant
+    political_party: Svobodní
+    age: 33
+    profile: ''
+    priorities: ''
+- Ing. Pavel Mikulášek:
+    _slug: pavel-mikulasek
+    occupation: stavební technik
+    political_party: Svobodní
+    age: 48
+    profile: ''
+    priorities: ''
+- Bc. Karel Kříž:
+    _slug: karel-kriz
+    occupation: student
+    political_party: Svobodní
+    age: 25
+    profile: ''
+    priorities: ''
+- MUDr. Jaroslav Jeníček, CSc.:
+    _slug: jaroslav-jenicek
+    photo: /samples/candidates/jaroslav-jenicek/jenicek.png
+    occupation: lékař
+    political_party: Svobodní
+    age: 49
+    profile: "<p><span style=\"line-height: 1.5em;\">Narodil jsem se 10. 4. 1965.</span></p>\r\n<p><span
+      style=\"line-height: 1.5em;\">V&nbsp;roce 1989 jsem promoval na 1. l&eacute;kařsk&eacute;
+      fakultě Univerzity Karlovy v&nbsp;Praze. Od roku 1990&nbsp; do roku 1999 jsem
+      pracoval na Gynekologicko-porodnick&eacute; klinice 1. LF UK a VFN v&nbsp;Praze.
+      Prvn&iacute; atestaci z&nbsp;oboru gynekologie a porodnictv&iacute; jsem složil
+      v&nbsp;roce 1992, druhou v&nbsp;roce 1996. Od roku 2000 jsem pracoval jako vedouc&iacute;
+      l&eacute;kař gynekologick&eacute;ho oddělen&iacute; L&eacute;kařsk&eacute;ho
+      domu Praha 7. V&nbsp;roce 2001 jsem obh&aacute;jil kandid&aacute;tskou disertačn&iacute;
+      pr&aacute;ci na t&eacute;ma Metabolick&eacute; změny po kastraci v&nbsp;premenopauze
+      a byl mi udělen titul CSc. Od roku 2011 provozuji priv&aacute;tn&iacute; Gynekologicko-porodnickou
+      praxi na I.P.Pavlova.</span></p>\r\n<p><span style=\"line-height: 1.5em;\">Mezi
+      moje hlavn&iacute; z&aacute;liby patř&iacute; lyžov&aacute;n&iacute; a rockov&aacute;
+      hudba.</span></p>"
+    priorities: ''
+- Alice Holubová:
+    _slug: alice-holubova
+    occupation: lektorka AJ, OSVČ
+    political_party: Svobodní
+    age: 29
+    profile: ''
+    priorities: ''
+- Daniel Doul:
+    _slug: daniel-doul
+    occupation: projektový manager
+    political_party: Svobodní
+    age: 36
+    profile: ''
+    priorities: ''
+- Daniel Steigerwald:
+    _slug: daniel-steigerwald
+    occupation: softwarový architekt
+    political_party: Svobodní
+    age: 34
+    profile: ''
+    priorities: ''
+- Koubský Zbyšek:
+    _slug: zbysek-koubsky
+    occupation: podnikatel
+    political_party: Svobodní
+    age: 27
     profile: ''
     priorities: ''

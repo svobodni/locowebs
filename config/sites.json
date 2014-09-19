@@ -529,6 +529,14 @@
 		"region_name": "Svobodní",
 		"region_url": "http://www.svobodni.cz"
 	},{
+		"name":"jesenik",
+		"title":"Svobodní Jeseník",
+		"short_title":"Jeseník",
+		"fb_page_name":"svobodniolomouc",
+		"region_name": "Olomoucký kraj",
+		"region_url": "http://www.svobodni.cz",
+		"region_url": "http://olomouckykraj.svobodni.cz/"
+	},{
 		"name":"brno-slatina",
 		"title":"Svobodní Brno-Slatina",
 		"short_title":"Brno-Slatina",

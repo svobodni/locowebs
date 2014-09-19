@@ -580,5 +580,12 @@
 		"fb_page_name":"svobodni.ustecky.kraj",
 		"region_name": "Ústecký kraj",
 		"region_url": "http://usteckykraj.svobodni.cz/"
+	},{
+		"name":"breclav",
+		"title":"Svobodní Břeclav",
+		"short_title":"Břeclav",
+		"fb_page_name":"svobodni.breclav",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
 	}
 ]

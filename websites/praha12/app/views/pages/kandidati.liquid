@@ -6,8 +6,17 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 10
+seo_title: kandidati
+meta_keywords: kandidati
+meta_description: Kandidáti
 editable_elements:
-  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
+  main/nadpis: "<p>„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“</p>\r\n<p>Kandidáti
+    na Praze 12 jsou lidé s různými povoláními. Liší se i věkem, vzhledem, ale i zájmy,
+    sny a cíly.</p>\r\n<p>Máme však jedno společné. Chceme, aby hlas svobody zněl
+    i na Praze 12.&nbsp;</p><h2><b><u>Hledáme pravicové voliče!</u></b></h2><p>Přijďte
+    prosím k volbám 10.-11. října a zvolte stranu, která vám nechá vaše peníze!</p><p>Dovolte,
+    abychom vám představili našich 31 kandidátů do zastupitelstva Prahy 12 - Modřany,
+    Komořany, Kamýk a Točná.</p>"
 ---
 {% extends parent %}
 
@@ -23,6 +32,8 @@ editable_elements:
 
 {% for candidate in contents.candidates %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
+  <ul style="list-style-type:none;">
+  {% if forloop.index <= 6%}
 	<div class="col-md-4">
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
@@ -33,7 +44,15 @@ editable_elements:
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
+  {% else %}
+  <li style="color:#888;">
+    <em>{{forloop.index}}.</em>&nbsp;&nbsp;
+    <strong>{{ candidate.name }}</strong>&nbsp;&nbsp;
+    <span>({{ candidate.occupation }})</span>
+  </li>
+  {% endif %}
+  </ul>
+{% if forloop.last %}
 </div> <!--/.row - last -->
 {% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}

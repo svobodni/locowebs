@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: velkemezirici
 domains: [www.velkemezirici.svobodni.cz, velkemezirici.svobodni.cz]
 seo_title: Svobodní Velké Meziříčí
-meta_keywords: Svobodní Velké Meziříčí
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

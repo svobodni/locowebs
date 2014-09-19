@@ -6,13 +6,6 @@ label_field_name: name
 order_by: manually
 order_direction: asc
 fields:
-- photo:
-    label: photo
-    type: file
-    hint: Fotografie kandidáta
-    required: false
-    unique: false
-    localized: false
 - name:
     label: name
     type: string
@@ -96,3 +89,9 @@ fields:
     unique: false
     localized: false
     text_formatting: html
+- photo:
+    label: photo
+    type: file
+    required: false
+    unique: false
+    localized: false

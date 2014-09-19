@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: sumperk
 domains: [www.sumperk.svobodni.cz, sumperk.svobodni.cz]
 seo_title: Svobodní Šumperk
-meta_keywords: Svobodní Šumperk
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

@@ -1,9 +1,9 @@
 ---
-name: Svobodní Hradec Králové
+name: Svobodní hk
 locales: [cs]
 subdomain: hk
+domains: [www.hk.svobodni.cz, hk.svobodni.cz]
+seo_title: Svobodní
 meta_keywords: Svobodní, komunální volby 2104, Hradec Králové, Strana svobodných občanů
 meta_description: Svobodní Hradec Králové - komunální volby 2014
-domains: [www.hk.svobodni.cz, hk.svobodni.cz]
-seo_title: Svobodní Hradec Králové
 timezone: Prague

@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: decin
 domains: [www.decin.svobodni.cz, decin.svobodni.cz]
 seo_title: Svobodní Děčín
-meta_keywords: Svobodní Děčín
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

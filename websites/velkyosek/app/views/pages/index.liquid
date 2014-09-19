@@ -6,12 +6,8 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>M&eacute;ně poplatků</li>\r\n<li>M&eacute;ně
+    regulac&iacute;</li>\r\n<li>V&iacute;ce svobody a odpovědnosti</li>\r\n</ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -38,6 +34,15 @@ editable_elements:
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     {% inline_editor %}
+    
+    <style>
+     .navbar{
+     border: 0px solid transparent;
+     margin-bottom: 0;
+     min-height: 50px;
+     position: relative;
+	}
+    </style>
   </head>
   <body>
   <div id="fb-root"></div>
@@ -80,12 +85,7 @@ editable_elements:
     </div> <!--/.container -->
 	{% endblock header %}
 	{% block main %}
-  <div class="container text-center">
-    <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
-    </div> 
-  </div> 
-
+        
   <div class="section-gray">
   <div class="container">
         <div class="row">
@@ -190,5 +190,5 @@ editable_elements:
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
-  </body>
+   </body>
 </html>

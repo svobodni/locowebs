@@ -6,13 +6,10 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
-  main/vyzva: Osobnosti, které nabízíme
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Sn&iacute;ž&iacute;me va&scaron;i
+    daňovou z&aacute;těž</li>\r\n<li>Zv&yacute;&scaron;&iacute;me protipovodňov&eacute;
+    hr&aacute;ze</li>\r\n<li>Podpoř&iacute;me stabilitu z&aacute;kladn&iacute; &scaron;koly</li>\r\n</ul>"
+  main/vyzva: <p>Na&scaron;i kandid&aacute;ti:</p>
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -30,6 +27,7 @@ editable_elements:
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.min.css" rel="stylesheet">
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.zakladni.css" rel="stylesheet">
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.pobocka.css" rel="stylesheet">
+    {{ 'revnice-custom.css' | stylesheet_tag }}
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -80,17 +78,17 @@ editable_elements:
     </div> <!--/.container -->
 	{% endblock header %}
 	{% block main %}
-  <div class="container text-center">
+  <!--<div class="container text-center">
     <div class="intro-catcher">
     <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
     </div> 
-  </div> 
+  </div> -->
 
   <div class="section-gray">
   <div class="container">
         <div class="row">
       <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
+        <h5>Proč v Řevnicích volit Svobodné?</h5>
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Nezadlužená radnice</li>
@@ -153,7 +151,7 @@ editable_elements:
     </div>
     <div class="col-md-4">
       <h4>Spojte se s námi</h4>
-      <div class="fb-like-box" data-href="https://www.facebook.com/SvobodniStredniCechy" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+      <div class="fb-like-box" data-href="https://www.facebook.com/svobodni.revnice" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
     </div>
   </div>
   </div> <!-- /container -->

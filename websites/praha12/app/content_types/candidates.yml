@@ -29,11 +29,14 @@ fields:
     localized: false
 - political_party:
     label: political_party
-    type: string
+    type: select
     hint: Politický příslušnosti (např. Strana svobodných občanů, bez politické příslušnosti)
     required: false
     unique: false
     localized: false
+    select_options:
+    - Strana svobodných občanů
+    - bez politické příslušnosti
 - age:
     label: age
     type: integer

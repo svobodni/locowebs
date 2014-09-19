@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: onves
 domains: [www.onves.svobodni.cz, onves.svobodni.cz]
 seo_title: Svobodní Ostrožská Nová Ves
-meta_keywords: Svobodní Ostrožská Nová Ves
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

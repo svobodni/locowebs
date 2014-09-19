@@ -6,12 +6,8 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Nezadlužen&aacute; radnice</li>\r\n<li>Ž&aacute;dn&eacute;
+    zbytečn&eacute; poplatky</li>\r\n<li>Konec nesmysln&yacute;ch projektů </li>\r\n</ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -82,7 +78,7 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    <img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Posvítíme si na radnici! 10. a 11. října 2014 volte stranu číslo 4, volte Svobodné">
     </div> 
   </div> 
 
@@ -104,9 +100,9 @@ editable_elements:
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
+        {% for candidate in contents.candidates limit:2 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
@@ -168,7 +164,7 @@ editable_elements:
 		<div class="col-md-3">
 			<h5>Více Svobodných</h5>
 			<ul>
-            <li><a href="http://vysocina.svobodni.cz">Kraj Vysočina</a></li>
+            <li><a href="http://www.vysocina.svobodni.cz">Kraj Vysočina</a></li>
             <li><a href="http://www.svobodni.cz">Svobodni.cz</a></li>
             <li><a href="http://eshop.svobodni.cz">Eshop.svobodni.cz</a></li>
           </ul>

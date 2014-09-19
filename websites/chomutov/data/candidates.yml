@@ -1,1 +1,75 @@
---- []
+---
+- Marek Bradáč:
+    _slug: marek-bradac
+    photo: /samples/candidates/marek-bradac/marek.jpg
+    occupation: kontrolor
+    political_party: Strana svobodných občanů
+    age: 38
+    email: bradac@svobodni.cz
+    fb_profile_url: https://www.facebook.com/marek.bradac.1
+    profile: ''
+    priorities: ''
+- Miluše Horáková:
+    _slug: miluse-horakova
+    photo: /samples/candidates/miluse-horakova/milu_e.jpg
+    occupation: kontrolor
+    political_party: Strana svobodných občanů
+    age: 41
+    profile: ''
+    priorities: ''
+- Ing. Jaroslav Bystřický:
+    _slug: ing-jaroslav-bystricky
+    photo: /samples/candidates/ing-jaroslav-bystricky/DSCN1985.jpg
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 44
+    profile: ''
+    priorities: ''
+- Petr Šebesta:
+    _slug: petr-sebesta
+    photo: /samples/candidates/petr-sebesta/petr.jpg
+    occupation: námořník
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Jaroslav Seidl:
+    _slug: jaroslav-seid
+    photo: /samples/candidates/jaroslav-seid/seidl.jpg
+    occupation: elektrikář
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Ing. Jan Uhlík:
+    _slug: ing-jan-uhlik
+    photo: /samples/candidates/ing-jan-uhlik/avatar.png
+    occupation: lektor finanční gramotnosti
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- BcA. Kamila Burianová:
+    _slug: bca-kamila-burianova
+    photo: /samples/candidates/bca-kamila-burianova/Kamila_Burianova.jpg
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Radek Ištok:
+    _slug: radek-istok
+    photo: /samples/candidates/radek-istok/tendruhej.jpg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Stanislav Hofreiter:
+    _slug: stanislav-hofreiter
+    photo: /samples/candidates/stanislav-hofreiter/DSC_0149.jpg
+    occupation: sommelier
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''

@@ -7,7 +7,7 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
+  main/nadpis: "<p>&bdquo;Děkujeme za Va&scaron;e hlasy. Jdeme do toho naplno.&ldquo;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
 ---
 {% extends parent %}
 
@@ -41,7 +41,11 @@ editable_elements:
 {% endfor %}
 </div> <!--/.cand-grid -->
 
-<p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>
-
+<p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?<BR><BR><b>OSVOBODÍME ÚSTÍ</b><br><BR><BR>
+od dotačního šílenství,<br><br>
+zbytečných vyhlášek a zákazů,<br><br>
+politického vlivu na sport a kulturu<br><br>
+  Více.......</a></p>
+ 
 </div> <!--/container -->
 {% endblock %}

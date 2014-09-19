@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: malamorava
 domains: [www.malamorava.svobodni.cz, malamorava.svobodni.cz]
 seo_title: Svobodní Malá Morava
-meta_keywords: Svobodní Malá Morava
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

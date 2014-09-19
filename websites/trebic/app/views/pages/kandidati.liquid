@@ -7,7 +7,8 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
+  main/nadpis: <p>&bdquo;Představujeme kandid&aacute;ty, pro komun&aacute;ln&iacute;
+    volby v Třeb&iacute;či 2014.&ldquo; </p>
 ---
 {% extends parent %}
 
@@ -21,9 +22,10 @@ editable_elements:
 <div class="container classic-content">	
 <div class="cand-grid">
 
+<div class="row">  
 {% for candidate in contents.candidates %}
-{% cycle 'row_start': '<div class="row">', '', '' %}
-	<div class="col-md-4">
+{% if forloop.index < 4 %}
+     <div class="col-md-4">
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
@@ -33,13 +35,21 @@ editable_elements:
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
-</div> <!--/.row - last -->
 {% else %}
-{% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+  <p>
+		<a href="/kandidati/{{ candidate._slug }}">
+          {{forloop.index}}.</strong> {{ candidate.name }}, {{ candidate.age }} let, {{ candidate.occupation }}, {{ candidate.political_party }}
+		</a>  
+    </p>
+{% endif %}  
+{% if forloop.index == 3 %}
+</div> <!--/.row - last -->
+</div> <!--/.cand-grid -->
+{% else %}
+
 {% endif %}
 {% endfor %}
-</div> <!--/.cand-grid -->
+
 
 <p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>
 

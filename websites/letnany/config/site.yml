@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: letnany
 domains: [www.letnany.svobodni.cz, letnany.svobodni.cz]
 seo_title: Svobodní Praha 18 - Letňany
-meta_keywords: Svobodní Praha 18 - Letňany
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

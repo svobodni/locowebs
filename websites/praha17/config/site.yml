@@ -1,9 +1,9 @@
 ---
-name: Svobodní Praha 17 - Řepy
+name: Svobodní Praha 17
 locales: [cs]
 subdomain: praha17
-domains: [www.praha17.svobodni.cz, praha17.svobodni.cz]
+domains: [www.praha17.svobodni.cz, repy.svobodni.cz, www.repy.svobodni.cz, praha17.svobodni.cz]
 seo_title: Svobodní Praha 17 - Řepy
-meta_keywords: Svobodní Praha 17 - Řepy
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

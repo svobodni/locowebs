@@ -1,1 +1,357 @@
---- []
+---
+- Bc. MBA Tomáš Brotánek:
+    _slug: brotanek-tomas
+    seo_title: brotanek-tomas
+    meta_keywords: brotanek-tomas
+    meta_description: Brotánek Tomáš Bc. MBA
+    photo: /samples/candidates/brotanek-tomas/1.Tomas.png
+    occupation: ředitel společnosti
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    quote: Zvýšíme počet parkovacích míst.
+    priorities: ''
+- Ing. Soňa Pauerová:
+    _slug: sona-pauerova
+    seo_title: sona-pauerova
+    meta_keywords: sona-pauerova
+    meta_description: Soňa Pauerová
+    photo: /samples/candidates/sona-pauerova/2.Sona2.png
+    occupation: ředitelka společnosti
+    political_party: Strana svobodných občanů
+    age: 34
+    fb_profile_url: http://www.facebook.com/sona.pauerova
+    profile: ''
+    quote: Zajistíme umístění všech místních dětí do mateřských škol.
+    priorities: ''
+- Ing. MgA. Miroslav Indra:
+    _slug: miroslav-indra
+    seo_title: miroslav-indra
+    meta_keywords: miroslav-indra
+    meta_description: Miroslav Indra
+    photo: /samples/candidates/miroslav-indra/3.Miroslav.png
+    occupation: obchodní zástupce
+    political_party: Strana svobodných občanů
+    age: 39
+    fb_profile_url: http://www.facebook.com/mirek.indra
+    profile: ''
+    quote: Prosadíme, aby vznikaly trasparentní veřejné zakázky bez absurdit.
+    priorities: ''
+- Igor Zedník:
+    _slug: igor-zednik
+    seo_title: igor-zednik
+    meta_keywords: igor-zednik
+    meta_description: Igor Zedník
+    photo: /samples/candidates/igor-zednik/4.Igor2.png
+    occupation: dispečer
+    political_party: bez politické příslušnosti
+    age: 53
+    fb_profile_url: http://www.facebook.com/igor.zednik.5
+    profile: ''
+    quote: Otevřeme se aktivní spolupráci s bytovými družstvy a SVJ.
+    priorities: ''
+- Jiří Krákora:
+    _slug: jiri-krakora
+    seo_title: jiri-krakora
+    meta_keywords: jiri-krakora
+    meta_description: Jiří Krákora
+    photo: /samples/candidates/jiri-krakora/5.Jikra.png
+    occupation: procesní analytik
+    political_party: Strana svobodných občanů
+    age: 38
+    email: jkrakora@gmail.com
+    phone: 725 494 201
+    homepage_url: http://jikra.name
+    fb_profile_url: http://www.facebook.com/JiKra
+    profile: ''
+    quote: Propojíme Modřanskou rokli s vltavskou cyklostezkou.
+    priorities: ''
+- Marek Matouš:
+    _slug: marek-matous
+    seo_title: marek-matous
+    meta_keywords: marek-matous
+    meta_description: Marek Matouš
+    photo: /samples/candidates/marek-matous/5.Marek.png
+    occupation: hasič, grafik
+    political_party: bez politické příslušnosti
+    age: 25
+    fb_profile_url: ''
+    profile: ''
+    quote: Vrátíme Městskou policii do ulic Prahy 12.
+    priorities: ''
+- Stanislav Škrabal:
+    _slug: stanislav-skrabal
+    seo_title: stanislav-skrabal
+    meta_keywords: stanislav-skrabal
+    meta_description: Stanislav Škrabal
+    occupation: stavební technik
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- Pavel Flégl:
+    _slug: pavel-flegl
+    seo_title: pavel-flegl
+    meta_keywords: pavel-flegl
+    meta_description: Pavel Flégl
+    photo: /samples/candidates/pavel-flegl/avatar_675x900_6.png
+    occupation: sales support manager
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Ing. David Nadrchal:
+    _slug: david-nadrchal
+    seo_title: david-nadrchal
+    meta_keywords: david-nadrchal
+    meta_description: David Nadrchal
+    photo: /samples/candidates/david-nadrchal/avatar_675x900_6.png
+    occupation: castingový specialista
+    political_party: bez politické příslušnosti
+    age: 35
+    profile: ''
+    priorities: ''
+- Bc. Tomáš Vitásek:
+    _slug: tomas-vitasek
+    seo_title: tomas-vitasek
+    meta_keywords: tomas-vitasek
+    meta_description: Tomáš Vitásek
+    photo: /samples/candidates/tomas-vitasek/avatar_675x900_6.png
+    occupation: středoškolský učitel, student
+    political_party: Strana svobodných občanů
+    age: 25
+    fb_profile_url: http://www.facebook.com/tomas.vitasek.90
+    profile: ''
+    quote: ''
+    priorities: ''
+- Mgr. Marat Saber:
+    _slug: marat-saber
+    seo_title: marat-saber
+    meta_keywords: marat-saber
+    meta_description: Marat Saber
+    photo: /samples/candidates/marat-saber/avatar_675x900_6.png
+    occupation: právník
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Ing. Petr Kůrka:
+    _slug: petr-kurka
+    seo_title: petr-kurka
+    meta_keywords: petr-kurka
+    meta_description: Petr Kůrka
+    photo: /samples/candidates/petr-kurka/avatar_675x900_6.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 35
+    profile: ''
+    priorities: ''
+- Robert Janata:
+    _slug: robert-janata
+    seo_title: robert-janata
+    meta_keywords: robert-janata
+    meta_description: Robert Janata
+    photo: /samples/candidates/robert-janata/avatar_675x900_6.png
+    occupation: podnikatel autodoprava
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Ladislav Švábenický:
+    _slug: ladislav-svabenicky
+    seo_title: ladislav-svabenicky
+    meta_keywords: ladislav-svabenicky
+    meta_description: Ladislav Švábenický
+    photo: /samples/candidates/ladislav-svabenicky/avatar_675x900_6.png
+    occupation: pracovník ve strojírenské výrobě
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Ing. Jiří Frank:
+    _slug: jiri-frank
+    seo_title: jiri-frank
+    meta_keywords: jiri-frank
+    meta_description: Jiří Frank
+    photo: /samples/candidates/jiri-frank/avatar_675x900_6.png
+    occupation: podnikatel - vedoucí servisní technik
+    political_party: bez politické příslušnosti
+    age: 55
+    profile: ''
+    priorities: ''
+- Jan Grasev:
+    _slug: jan-grasev
+    seo_title: jan-grasev
+    meta_keywords: jan-grasev
+    meta_description: Jan Grasev
+    photo: /samples/candidates/jan-grasev/avatar_675x900_6.png
+    occupation: pracující důchodce
+    political_party: bez politické příslušnosti
+    age: 82
+    profile: ''
+    priorities: ''
+- Zděnek Němec:
+    _slug: zdenek-nemec
+    seo_title: zdenek-nemec
+    meta_keywords: zdenek-nemec
+    meta_description: Zděnek Němec
+    photo: /samples/candidates/zdenek-nemec/avatar_675x900_6.png
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 65
+    profile: ''
+    priorities: ''
+- František Kamaryt:
+    _slug: frantisek-kamaryt
+    seo_title: frantisek-kamaryt
+    meta_keywords: frantisek-kamaryt
+    meta_description: František Kamaryt
+    photo: /samples/candidates/frantisek-kamaryt/avatar_675x900_6.png
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 62
+    profile: ''
+    priorities: ''
+- Tomáš Polanecký:
+    _slug: tomas-polanecky
+    seo_title: tomas-polanecky
+    meta_keywords: tomas-polanecky
+    meta_description: Tomáš Polanecký
+    photo: /samples/candidates/tomas-polanecky/avatar_675x900_6.png
+    occupation: technický pracovník
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Ing. Jiří Frank:
+    _slug: jiri-frank-ml
+    seo_title: jiri-frank-ml
+    meta_keywords: jiri-frank-ml
+    meta_description: Jiří Frank
+    photo: /samples/candidates/jiri-frank-ml/avatar_675x900_6.png
+    occupation: IT technik
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Petr Žák:
+    _slug: petr-zak
+    seo_title: petr-zak
+    meta_keywords: petr-zak
+    meta_description: Petr Žák
+    photo: /samples/candidates/petr-zak/avatar_675x900_6.png
+    occupation: vedoucí technik
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- Petr Niklas:
+    _slug: petr-niklas
+    seo_title: petr-niklas
+    meta_keywords: petr-niklas
+    meta_description: Petr Niklas
+    photo: /samples/candidates/petr-niklas/avatar_675x900_6.png
+    occupation: servisní technik
+    political_party: bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
+- Zdeněk Kuželka:
+    _slug: zdenek-kuzelka
+    seo_title: zdenek-kuzelka
+    meta_keywords: zdenek-kuzelka
+    meta_description: Zdeněk Kuželka
+    photo: /samples/candidates/zdenek-kuzelka/avatar_675x900_6.png
+    occupation: podnikatel topenář
+    political_party: bez politické příslušnosti
+    age: 58
+    profile: ''
+    priorities: ''
+- Jindřich Kratina:
+    _slug: jindrich-kratina
+    seo_title: jindrich-kratina
+    meta_keywords: jindrich-kratina
+    meta_description: Jindřich Kratina
+    photo: /samples/candidates/jindrich-kratina/avatar_675x900_6.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 63
+    profile: ''
+    priorities: ''
+- Jaroslav Dvořák:
+    _slug: jaroslav-dvorak
+    seo_title: jaroslav-dvorak
+    meta_keywords: jaroslav-dvorak
+    meta_description: Jaroslav Dvořák
+    photo: /samples/candidates/jaroslav-dvorak/avatar_675x900_6.png
+    occupation: mistr provozu
+    political_party: bez politické příslušnosti
+    age: 67
+    profile: ''
+    priorities: ''
+- Eva Franková:
+    _slug: eva-frankova
+    seo_title: eva-frankova
+    meta_keywords: eva-frankova
+    meta_description: Eva Franková
+    photo: /samples/candidates/eva-frankova/avatar_675x900_6.png
+    occupation: administrativní pracovnice
+    political_party: bez politické příslušnosti
+    age: 54
+    profile: ''
+    priorities: ''
+- Ladislav Dudek:
+    _slug: ladislav-dudek
+    seo_title: ladislav-dudek
+    meta_keywords: ladislav-dudek
+    meta_description: Ladislav Dudek
+    photo: /samples/candidates/ladislav-dudek/avatar_675x900_6.png
+    occupation: zaměstnanec strojírenské výroby
+    political_party: bez politické příslušnosti
+    age: 63
+    profile: ''
+    priorities: ''
+- Dagmar Dudková:
+    _slug: dagmar-dudkova
+    seo_title: dagmar-dudkova
+    meta_keywords: dagmar-dudkova
+    meta_description: Dagmar Dudková
+    photo: /samples/candidates/dagmar-dudkova/avatar_675x900_6.png
+    occupation: administrativní pracovnice
+    political_party: bez politické příslušnosti
+    age: 60
+    profile: ''
+    priorities: ''
+- Delia Fuchsová Mustelierová:
+    _slug: delia-fuchsova-mustelierova
+    seo_title: delia-fuchsova-mustelierova
+    meta_keywords: delia-fuchsova-mustelierova
+    meta_description: Delia Fuchsová Mustelierová
+    photo: /samples/candidates/delia-fuchsova-mustelierova/avatar_675x900_6.png
+    occupation: studentka
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Petr Klimánek:
+    _slug: petr-klimanek
+    seo_title: petr-klimanek
+    meta_keywords: petr-klimanek
+    meta_description: Petr Klimánek
+    photo: /samples/candidates/petr-klimanek/avatar_675x900_6.png
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 62
+    profile: ''
+    priorities: ''
+- Miroslav Matouš:
+    _slug: miroslav-matous
+    seo_title: miroslav-matous
+    meta_keywords: miroslav-matous
+    meta_description: Miroslav Matouš
+    photo: /samples/candidates/miroslav-matous/avatar_675x900_6.png
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 66
+    profile: ''
+    priorities: ''

@@ -41,7 +41,7 @@
     occupation: tajemník europoslance, politolog
     political_party: Svobodní
     age: 25
-    profile: "<h3><strong>Vzděl&aacute;n&iacute;</strong></h3>\r\n<p>Jsem absolventem
+    profile: "<h2><strong>Vzděl&aacute;n&iacute;</strong></h2>\r\n<p>Jsem absolventem
       osmilet&eacute;ho chrudimsk&eacute;ho <strong>Gymn&aacute;zia Josefa Ressela</strong>.
       Vystudoval jsem bakal&aacute;řsk&yacute; obor <strong>Medi&aacute;ln&iacute;
       studia a žurnalistika</strong> se zaměřen&iacute;m na praktickou žurnalistiku
@@ -56,8 +56,8 @@
       politiku a volby. Bak&aacute;l&aacute;řskou pr&aacute;ci jsem psal na t&eacute;ma
       Pana&scaron;ov&aacute;n&iacute; ve volb&aacute;ch do obecn&iacute;ho zastupitelstva
       2010 v&nbsp;okrese Chrudim, diplomovou pr&aacute;ci pot&eacute; na <strong>Vlivy
-      na hospodařen&iacute; okresn&iacute;ch měst</strong>.</p>\r\n<p>&nbsp;</p>\r\n<h3><strong>Pracovn&iacute;
-      zku&scaron;enosti</strong></h3>\r\n<p>Vzhledem k&nbsp;m&eacute;mu věku nemohu
+      na hospodařen&iacute; okresn&iacute;ch měst</strong>.</p>\r\n<p>&nbsp;</p>\r\n<h2><strong>Pracovn&iacute;
+      zku&scaron;enosti</strong></h2>\r\n<p>Vzhledem k&nbsp;m&eacute;mu věku nemohu
       ve sv&yacute;ch pracovn&iacute;ch zku&scaron;enostech konkurovat star&scaron;&iacute;m
       kandid&aacute;tům, i přesto m&aacute;m v&iacute;ce pracovn&iacute;ch zku&scaron;enost&iacute;
       v&nbsp;soukrom&eacute;m sektoru než mnoz&iacute; představitel&eacute; města,
@@ -93,8 +93,8 @@
       jsem od poslance EP a předsedy Svobodn&yacute;ch Petra Macha dostal nab&iacute;dku
       b&yacute;t jeho asistentem v&nbsp;pražsk&eacute; kancel&aacute;ři a zast&aacute;vat
       <strong>činnost tajemn&iacute;ka</strong> &ndash; tedy organizovat jeho aktivity
-      v&nbsp;Česk&eacute; republice. Na t&eacute;to pozici působ&iacute;m nyn&iacute;.</p>\r\n<p>&nbsp;</p>\r\n<h3><strong>Z&aacute;liby
-      a kon&iacute;čky</strong></h3>\r\n<p>Od &scaron;esti do &scaron;estn&aacute;cti
+      v&nbsp;Česk&eacute; republice. Na t&eacute;to pozici působ&iacute;m nyn&iacute;.</p>\r\n<p>&nbsp;</p>\r\n<h2><strong>Z&aacute;liby
+      a kon&iacute;čky</strong></h2>\r\n<p>Od &scaron;esti do &scaron;estn&aacute;cti
       let jsem hr&aacute;l <strong>tenis</strong>, velmi kr&aacute;tce h&aacute;zenou.
       M&aacute;m r&aacute;d kolektivn&iacute; sporty, jako je volejbal. Největ&scaron;&iacute;m
       &bdquo;kon&iacute;čkem&ldquo; je ale určitě setk&aacute;v&aacute;n&iacute; se
@@ -102,34 +102,63 @@
       v&nbsp;obchodě se zbraněmi a v&nbsp;restauraci, proto si r&aacute;d, a někdy
       až moc, stř&iacute;l&iacute;m ze sv&yacute;ch př&aacute;tel, a m&aacute;m r&aacute;d
       různ&eacute; druhy kuchyn&iacute; a vařen&iacute;.&nbsp;&nbsp;</p>"
+    quote: 'Slovy Aloise Rašína: „Ono je to těžké. Kde hrozí bída, tam hrozí socialismus.
+      A kde hrozí socialismus, tam hrozí bída.”'
     priorities: ''
 - Ing. Josef Lebduška:
     _slug: ing-josef-lebduska
     photo: /samples/candidates/ing-josef-lebduska/lebduska.png
     occupation: podnikatel
     political_party: Svobodní
-    profile: ''
+    age: 63
+    profile: <p>Josef Lebdu&scaron;ka je vyučen&yacute;m kov&aacute;řem a rovněž absolventem
+      ČVUT. Pracoval jako kov&aacute;ř či na různ&yacute;ch pozic&iacute;ch poč&iacute;naje
+      z&aacute;měčn&iacute;kem a konče vedouc&iacute;m oddělen&iacute; Transporty.
+      Po roce 1992 spoluzaložil &uacute;spě&scaron;nou stroj&iacute;renskou firmu,
+      kter&aacute; je v&yacute;znamn&yacute;m zaměstnavatelem regionu. Spolu se svou
+      ženou vychoval dvě děti. M&aacute; &scaron;est vnoučat.</p>
     priorities: ''
 - Ing. Luděk Vlk:
     _slug: ing-ludek-vlk
     photo: /samples/candidates/ing-ludek-vlk/vlk.png
     occupation: 'bankovní úředník, zastupitel '
     political_party: Svobodní
-    profile: ''
+    age: 60
+    profile: <p>Luděk Vlk je absolventem pražsk&eacute; Vysok&eacute; &scaron;koly
+      ekonomick&eacute;. Od roku 1991 pracuje v bankovn&iacute;m sektoru. Nejdř&iacute;ve
+      na postu vedouc&iacute;ho provozu, pot&eacute; vedouc&iacute;ho pokladn&iacute;
+      a směn&aacute;rensk&eacute; služby až po funkci investičn&iacute;ho a klientsk&eacute;ho
+      poradce. Je aktivn&iacute;m členem chrudimsk&eacute;ho Divadeln&iacute;ho spolku
+      J. N. &Scaron;tep&aacute;nka.</p>
     priorities: ''
 - Ing. Stanislav Šťastný:
     _slug: ing-stanislav-stastny
     photo: /samples/candidates/ing-stanislav-stastny/stastny.png
     occupation: ekonom, učitel
     political_party: bez politické příslušnosti
-    profile: ''
+    age: 36
+    profile: <p><span>Stanislav &Scaron;ťastn&yacute;, narozen v Chrudimi, 36 let,
+      vystudoval Ekonomickou fakultu na V&Scaron;B-TU Ostrava a učitelstv&iacute;
+      odborn&yacute;ch předmětů. Pracuje na krajsk&eacute;m &uacute;řadě na odboru
+      &scaron;kolstv&iacute; jako referent p&eacute;če o majetek &scaron;kol, investice
+      a zak&aacute;zky. Učil tak&eacute; odborn&eacute; předměty na Obchodn&iacute;
+      akademii Pardubice a Středn&iacute; průmyslov&eacute; &scaron;kole potravin&aacute;řsk&eacute;.
+      Vede různ&eacute; ekonomick&eacute; vzděl&aacute;vac&iacute; kurzy. Je ženat&yacute;,
+      m&aacute; čtyřlet&eacute;ho syna a jeden a půl ročn&iacute; dceru. Mezi jeho
+      z&aacute;jmy patř&iacute; literatura faktu, plav&aacute;n&iacute; a lyžov&aacute;n&iacute;.</span></p>
     priorities: ''
 - Petra Pokorná:
     _slug: petra-pokorna
     photo: /samples/candidates/petra-pokorna/pokorna.png
     occupation: manažerka exportu, živnostnice
     political_party: bez politické příslušnosti
-    profile: ''
+    age: 39
+    profile: <p>Petra Pokorn&aacute; vystudovala gymn&aacute;zium, pot&eacute; nastoupila
+      do pražsk&eacute; advok&aacute;tn&iacute; kancel&aacute;ře. N&aacute;sledně
+      byla vedouc&iacute; hotelu, referentkou a později manažerkou exportu firmy se
+      zahraničn&iacute;m vlastn&iacute;kem. Dorozum&iacute; se v&iacute;ce jazyky.
+      M&aacute; zku&scaron;enosti ze zahraničn&iacute;ho obchodu. Vychov&aacute;v&aacute;
+      jako svobodn&aacute; matka dosp&iacute;vaj&iacute;c&iacute;ho syna<br />a dceru.</p>
     priorities: ''
 - Martin Sokol:
     _slug: martin-sokol

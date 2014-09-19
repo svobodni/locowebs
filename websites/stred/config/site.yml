@@ -1,9 +1,10 @@
 ---
-name: Svobodní Brno - Střed
+name: Svobodní Brno-střed
 locales: [cs]
 subdomain: stred
-domains: [www.stred.svobodni.cz, stred.svobodni.cz]
-seo_title: Svobodní Brno - Střed
-meta_keywords: Svobodní Brno - Střed
+domains: [www.stred.svobodni.cz, brno-stred.svobodni.cz, www.brno-stred.svobodni.cz,
+  stred.svobodni.cz]
+seo_title: Svobodní Brno-střed
+meta_keywords: Svobodní Brno-střed
 meta_description: Strana svobodných občanů
 timezone: Prague

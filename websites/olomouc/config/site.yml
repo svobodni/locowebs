@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: olomouc
 domains: [www.olomouc.svobodni.cz, olomouc.svobodni.cz]
 seo_title: Svobodní Olomouc
-meta_keywords: Svobodní Olomouc
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

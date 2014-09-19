@@ -2,6 +2,7 @@
 - Ing. Jakub Voneš:
     _slug: ing-jakub-vones
     seo_title: '1'
+    meta_keywords: Ing. Jakub Voneš
     photo: /samples/candidates/ing-jakub-vones/svobkuba.jpg
     occupation: ekonom
     political_party: Strana svobodných občanů
@@ -9,6 +10,7 @@
     email: jakub@vones.cz
     homepage_url: ''
     fb_profile_url: http://www.facebook.com/jakub.vones
+    fb_page_url: https://www.facebook.com/svobodni.praha21
     profile: |-
       <p><span style="line-height: 115%; font-family: andale mono,times; font-size: medium;">Narodil jsem se 22. z&aacute;ř&iacute; 1987 v Praze.</span></p>
       <p class="MsoNormal"><span style="line-height: 115%; font-family: andale mono,times; font-size: medium;">Jsem absolventem oboru Ekonomie a hospod&aacute;řsk&aacute; spr&aacute;va N&aacute;rodohospod&aacute;řsk&eacute; fakulty Vysok&eacute; &scaron;koly ekonomick&eacute; v&nbsp;Praze. Na bakal&aacute;řsk&eacute;m studijn&iacute;m stupni jsem se zaměřil na N&aacute;rodn&iacute; hospod&aacute;řstv&iacute; a na magistersk&eacute;m stupni mou hlavn&iacute; specializac&iacute; byla Veřejn&aacute; spr&aacute;va a vedlej&scaron;&iacute; specializac&iacute; Modern&iacute; hospod&aacute;řsk&eacute; dějiny.</span></p>
@@ -52,6 +54,7 @@
 - Tomáš Stoklasa:
     _slug: tomas-stoklasa
     seo_title: '4'
+    photo: /samples/candidates/tomas-stoklasa/avatar.png
     occupation: obchodní zástupce
     political_party: bez politické příslušnosti
     age: 39
@@ -59,6 +62,7 @@
     priorities: ''
 - Bc. Václav Hub:
     _slug: bc-vaclav-hub
+    photo: /samples/candidates/bc-vaclav-hub/avatar.png
     occupation: bankovní úředník
     political_party: bez politické příslušnosti
     age: 43
@@ -66,6 +70,7 @@
     priorities: ''
 - Radek Vinš:
     _slug: radek-vins
+    photo: /samples/candidates/radek-vins/avatar.png
     occupation: zaměstnanec soukromé společnosti
     political_party: bez politické příslušnosti
     age: 27
@@ -73,6 +78,7 @@
     priorities: ''
 - MUDr. Jitka Krejčí:
     _slug: mudr-jitka-krejci
+    photo: /samples/candidates/mudr-jitka-krejci/avatar.png
     occupation: monitor klinických studií
     political_party: bez politické příslušnosti
     age: 44
@@ -80,6 +86,7 @@
     priorities: ''
 - Patrik Mádr:
     _slug: patrik-madr
+    photo: /samples/candidates/patrik-madr/avatar.png
     occupation: provozní
     political_party: bez politické příslušnosti
     age: 37
@@ -87,6 +94,7 @@
     priorities: ''
 - Lucie Větrovcová:
     _slug: lucie-vetrovcov
+    photo: /samples/candidates/lucie-vetrovcov/avatar.png
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
@@ -94,6 +102,7 @@
     priorities: ''
 - Ing. Veronika Vonešová:
     _slug: ing-veronika-vonesova
+    photo: /samples/candidates/ing-veronika-vonesova/avatar.png
     occupation: zahradní architekt
     political_party: bez politické příslušnosti
     age: 28
@@ -101,6 +110,7 @@
     priorities: ''
 - Bc. Martin Košut:
     _slug: bc-martin-kosut
+    photo: /samples/candidates/bc-martin-kosut/avatar.png
     occupation: ekonom
     political_party: bez politické příslušnosti
     age: 23
@@ -108,6 +118,7 @@
     priorities: ''
 - Jana Walker:
     _slug: jana-walker
+    photo: /samples/candidates/jana-walker/avatar.png
     occupation: finanční účetní
     political_party: bez politické příslušnosti
     age: 35
@@ -115,6 +126,7 @@
     priorities: ''
 - David Košut:
     _slug: david-kosut
+    photo: /samples/candidates/david-kosut/avatar.png
     occupation: student
     political_party: bez politické příslušnosti
     age: 20
@@ -122,6 +134,7 @@
     priorities: ''
 - Luboš Walter:
     _slug: lubos-walter
+    photo: /samples/candidates/lubos-walter/avatar.png
     occupation: výtvarník
     political_party: bez politické příslušnosti
     age: 63
@@ -129,6 +142,7 @@
     priorities: ''
 - Ing. Radoslava Kohoutová:
     _slug: ing-radoslava-kohoutova
+    photo: /samples/candidates/ing-radoslava-kohoutova/avatar.png
     occupation: OSVČ
     political_party: bez politické příslušnosti
     age: 49
@@ -136,6 +150,7 @@
     priorities: ''
 - MUDr. Dagmar Jeníčková:
     _slug: mudr-dagmar-jenickov
+    photo: /samples/candidates/mudr-dagmar-jenickov/avatar.png
     occupation: lékař
     political_party: bez politické příslušnosti
     age: 48
@@ -143,6 +158,7 @@
     priorities: ''
 - Michal Kmínek:
     _slug: michal-kminek
+    photo: /samples/candidates/michal-kminek/avatar.png
     occupation: technolog analytik
     political_party: Strana svobodných občanů
     age: 42

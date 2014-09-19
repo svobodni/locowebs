@@ -22,7 +22,7 @@ editable_elements:
 <div class="cand-grid">
 
 {% for candidate in contents.candidates %}
-{% cycle 'row_start': '<div class="row">', '', '' %}
+<div class="row">
 	<div class="col-md-4">
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
@@ -33,11 +33,7 @@ editable_elements:
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
 </div> <!--/.row - last -->
-{% else %}
-{% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
-{% endif %}
 {% endfor %}
 </div> <!--/.cand-grid -->
 

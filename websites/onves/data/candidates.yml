@@ -1,149 +1,199 @@
 ---
 - 'Ing. Jaroslava  Bedřichová ':
     _slug: ing-jaroslava-bedrichova
+    photo: /samples/candidates/ing-jaroslava-bedrichova/kand1s.jpg
     occupation: vedoucí referátu dotací, FÚ
     political_party: nezávislá
     age: 48
     email: bedrichova.jarka@seznam.cz
     phone: 777 598 151
-    profile: ''
+    profile: "<p>Narodila se 29. 6. 1966 v Uhersk&eacute;m Hradi&scaron;ti. Dětstv&iacute;
+      prožila spolu s rodiči, star&scaron;&iacute; sestrou a bratrem&nbsp;v Ostrožsk&eacute;
+      Nov&eacute; Vsi. Zde nav&scaron;těvovala z&aacute;kladn&iacute; &scaron;kolu
+      a povinnou &scaron;koln&iacute; doch&aacute;zku ukončila na&nbsp;Z&aacute;kladn&iacute;
+      &scaron;kole UNESCO v Uhersk&eacute;m Hradi&scaron;ti. Pot&eacute; odmaturovala
+      na Gymn&aacute;ziu v Uhersk&eacute;m Hradi&scaron;tia je absolventkou oboru
+      Finance na Vysok&eacute; &scaron;kole ekonomick&eacute; v Bratislavě.</p>\r\n<p>Od
+      roku 1988 pracuje ve finančn&iacute; spr&aacute;vě, v současnosti jako vedouc&iacute;
+      refer&aacute;tu Oddělen&iacute; dotac&iacute;&nbsp;Finančn&iacute;ho &uacute;řadu
+      pro Zl&iacute;nsk&yacute; kraj na deta&scaron;ovan&eacute;m pracovi&scaron;ti
+      v Uhersk&eacute;m Hradi&scaron;ti. Je vdan&aacute; a spolus manželem vychov&aacute;v&aacute;
+      dvě děti.</p>\r\n<p>Cel&yacute; život se zaj&iacute;m&aacute; o kulturn&iacute;
+      a společensk&eacute; děn&iacute; v obci. Byla dlouholetou aktivn&iacute; členkou
+      v&yacute;boru&nbsp;SRP&Scaron;. K srdci j&iacute; přirostl folklor, i proto
+      se stala organizačn&iacute; vedouc&iacute; m&iacute;stn&iacute;ho dětsk&eacute;ho
+      folklorn&iacute;ho&nbsp;souboru Pomněnka. Svůj voln&yacute; čas tr&aacute;v&iacute;
+      se svou rodinou.</p>"
+    quote: Svobodně a slušně pro spokojenost občanů.
     priorities: ''
 - 'Ing. Jaromír  Lažek ':
     _slug: ing-jaromir-lazek
+    photo: /samples/candidates/ing-jaromir-lazek/kand2s.jpg
     occupation: technický ředitel
     political_party: nezávislý
     age: 48
     email: jaralazek@seznam.cz
     phone: 602 760 701
     profile: ''
+    quote: Pozitivně myslet, společně plánovat, úspěšně tvořit
     priorities: ''
 - Ing. Ondřej  Stloukal:
     _slug: ing-ondrej-stloukal
+    photo: /samples/candidates/ing-ondrej-stloukal/kand3s.jpg
     occupation: vývoj software, IT služby
     political_party: Strana svobodných občanů
     age: 41
     email: stloukal@gmail.com
     phone: 603 712 095
     profile: ''
+    quote: Rozhodování a hospodaření obce musí být transparentní.
     priorities: ''
 - Ing. Martin Tischer:
     _slug: ing-martin-tischer
+    photo: /samples/candidates/ing-martin-tischer/MartinTischer.jpg
     occupation: obchodní manažer
     political_party: nezávislý
     age: 42
-    email: mtischer@cominfo.cz
+    email: martin.tischer@tiscali.cz
     phone: 603 197 051
     profile: ''
+    quote: Hájit zájmy občanů všech obecních částí.
     priorities: ''
 - Mgr.Pavla Bordovská:
     _slug: mgr-dot-pavla-bordovska
+    photo: /samples/candidates/mgr-dot-pavla-bordovska/PavlaBordovska.JPG
     occupation: pedagog, zástupce ředitele
     political_party: nezávislá
     age: 50
     email: p.bordovska@seznam.cz
     phone: 777 599 844
     profile: ''
+    quote: Politika je služba veřejnosti, nikoliv vlastnímu prospěchu.
     priorities: ''
 - Ing. Petr   Gallia:
     _slug: ing-petr-gallia
+    photo: /samples/candidates/ing-petr-gallia/PetaGallia.jpg
     occupation: vinař, OSVČ
     political_party: nezávislý
     age: 34
     email: petrgallia@seznam.cz
     phone: 604 162 032
     profile: ''
+    quote: Budu pracovat, aby jste tu chtěli žít.
     priorities: ''
 - Josef Klabačka:
     _slug: josef-klabacka
+    photo: /samples/candidates/josef-klabacka/JosefKlabacka.jpg
     occupation: manažer nákupu
     political_party: nezávislý
     age: 45
     email: j.klabacka@seznam.cz
     phone: 731 572 809
     profile: ''
+    quote: Návrat ke klidnému a příjemnému bydlení v obci.
     priorities: ''
 - Ing. Hana  Červenáková:
     _slug: ing-hana-cervenakova
+    photo: /samples/candidates/ing-hana-cervenakova/HanaCervenakova.jpg
     occupation: ekonomka
     political_party: nezávislá
     age: 47
     email: cervenakova.hana@seznam.cz
     phone: 777 808 447
     profile: ''
+    quote: Pojďme společně z naší obce udělat místo, kde se nám bude dobře žít.
     priorities: ''
 - Ing. František Slezák:
     _slug: ing-frantisek-slezak
+    photo: /samples/candidates/ing-frantisek-slezak/FrantaSlezak.jpg
     occupation: obchodní ředitel
     political_party: nezávislý
     age: 54
     email: slezak950@gmail.com
     phone: 602 716 177
     profile: ''
+    quote: Vy občané tu nejste pro zastupitele, ale zastupitelé jsou tu pro vás.
     priorities: ''
 - Ing. Miroslav Kosík:
     _slug: ing-miroslav-kosik
+    photo: /samples/candidates/ing-miroslav-kosik/MirekKosik.jpg
     occupation: ekonom
     political_party: nezávislý
     age: 60
     email: 'kosikovi@atlas.cz '
     phone: 723 302 831
     profile: ''
+    quote: Svobodně se rozhodněte.
     priorities: ''
 - Ludmila Obdržálková:
     _slug: ludmila-obdrzalkova
+    photo: /samples/candidates/ludmila-obdrzalkova/LidkaObdrzalkova.jpg
     occupation: vedoucí pošty
     political_party: nezávislá
     age: 54
     email: ludmilala@email.cz
     phone: 724 087 929
     profile: ''
+    quote: Nemusíme spolu souhlasit, ale pojďme se dohodnout.
     priorities: ''
 - Mgr. Vít Pjajčík:
     _slug: mgr-vit-pjajcik
-    political_party: pedagog, sportovní manažer a předseda spolku
+    photo: /samples/candidates/mgr-vit-pjajcik/VitaPjajcik.jpg
+    occupation: pedagog, sportovní manažer a předseda spolku
+    political_party: nezávislý
     age: 45
     email: vit.pjajcik@gmail.com
     phone: 607 677 778
     profile: ''
+    quote: V politice je nejlepším měřítkem moudrosti výsledek.
     priorities: ''
 - Ivo Bedřich:
     _slug: ivo-bedrich
+    photo: /samples/candidates/ivo-bedrich/IvoBedrich.jpg
     occupation: grafik
     political_party: nezávislý
     age: 45
     email: 'ivo.bedrich@tiscali.cz '
     phone: 777 570 350
     profile: ''
+    quote: Víceúčelové hřiště pro školu i veřejnost.
     priorities: ''
 - Mgr. Přemysl Paška:
     _slug: mgr-premysl-paska
+    photo: /samples/candidates/mgr-premysl-paska/PremekPaska.jpg
     occupation: programátor
     political_party: Strana svobodných občanů
     age: 31
     email: premek.paska@gmail.com
     phone: 776 707 614
     profile: ''
+    quote: Otevřená obec je tu pro vás.
     priorities: ''
 - Mgr. Markéta Frantová:
     _slug: mgr-marketa-frantova
+    photo: /samples/candidates/mgr-marketa-frantova/MarketaFrantova.jpg
     occupation: pedagog, ZŠ
     political_party: nezávislá
     age: 42
     email: frantova.marketa@seznam.cz
     phone: 724 469 686
     profile: ''
+    quote: Míra úspěchu závisí na úrovni vzdělání.
     priorities: ''
 - Mgr. Miroslava Prchlíková:
     _slug: mgr-miroslava-prchlikova
+    photo: /samples/candidates/mgr-miroslava-prchlikova/MirkaPrchlikova.jpg
     occupation: pedagog, ZŠ
     political_party: nezávislá
     age: 35
     email: manisova@centrum.cz
     phone: 723 025 205
     profile: ''
+    quote: Jsem tu pro vaše děti.
     priorities: ''
 - Ing. Richard Boček:
     _slug: ing-richard-bocek
+    photo: /samples/candidates/ing-richard-bocek/RichardBocek.jpg
     occupation: manažer řízení kvality
     political_party: nezávislý
     age: 40

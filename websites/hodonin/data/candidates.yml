@@ -1,1 +1,228 @@
---- []
+---
+- Ing. Petr Buráň:
+    _slug: ing-petr-bura
+    photo: /samples/candidates/ing-petr-bura/buran.jpg
+    occupation: Pilot
+    political_party: bez politické příslušnosti
+    age: 27
+    email: hodoninsko@svobodni.cz
+    phone: ''
+    fb_page_url: http://facebook.com/svobodni.hodoninsko
+    profile: ''
+    priorities: ''
+- Terézia Išková:
+    _slug: terezia-iskov
+    photo: /samples/candidates/terezia-iskov/iskova.jpg
+    occupation: Právní asistentka a studentka práv
+    political_party: Strana svobodných občanů
+    age: 24
+    email: hodonin@svobodni.cz
+    profile: ''
+    priorities: ''
+- Martin Pokorný:
+    _slug: martin-pokorny
+    photo: /samples/candidates/martin-pokorny/pokorny.jpg
+    occupation: Konstruktér
+    political_party: Strana svobodných občanů
+    age: 25
+    profile: ''
+    priorities: ''
+- Tomáš Srnec:
+    _slug: tomas-srnec
+    photo: /samples/candidates/tomas-srnec/srnec.jpg
+    occupation: Živnostník
+    political_party: Strana svobodných občanů
+    age: 25
+    profile: ''
+    priorities: ''
+- MUDr. et. Mgr. Erik Stibor:
+    _slug: mudr-et-mgr-erik-stibor
+    photo: /samples/candidates/mudr-et-mgr-erik-stibor/Stibor.jpg
+    occupation: Lékař
+    political_party: Strana svobodných občanů
+    age: 35
+    profile: ''
+    priorities: ''
+- Lukáš Podškubka:
+    _slug: lukas-podskub
+    photo: /samples/candidates/lukas-podskub/Pod_kubka.jpg
+    occupation: Administrativní pracovník
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''
+- Martina Šimečková:
+    _slug: martina-simeckov
+    occupation: Studentka
+    political_party: Strana svobodných občanů
+    age: 19
+    profile: ''
+    priorities: ''
+- Ing. et. Ing. Marek Špeta:
+    _slug: ing-et-ing-marek-spet
+    occupation: IT project manager
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- RNDr. Roman Iška:
+    _slug: rndr-roman-iska
+    occupation: Jednatel firmy
+    political_party: bez politické příslušnosti
+    age: 51
+    profile: ''
+    priorities: ''
+- Ing. Zdeněk Duffek:
+    _slug: ing-zdenek-duffek
+    occupation: Interní doktorand
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- Mgr. Petr Bartoš:
+    _slug: mgr-petr-bartos
+    occupation: Právník
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Ing. Roman Šmída:
+    _slug: ing-roman-smida
+    occupation: Podnikatel
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Tomáš Herka:
+    _slug: tomas-herka
+    occupation: Živnostník
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Petr Bidmon:
+    _slug: petr-bidmon
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Bc. Martin Benovič:
+    _slug: bc-martin-benovic
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Ing. Petr Trávníček:
+    _slug: ing-petr-travnicek
+    occupation: Geodet
+    political_party: bez politické příslušnosti
+    age: 48
+    profile: ''
+    priorities: ''
+- Lilian Horníčková:
+    _slug: lilian-hornickov
+    occupation: Vedoucí prodeje
+    political_party: bez politické příslušnosti
+    age: 47
+    profile: ''
+    priorities: ''
+- Bc. Michal Bažík:
+    _slug: bc-michal-bazik
+    occupation: Barman
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Bc. Marek Široký:
+    _slug: bc-marek-siroky
+    occupation: Nákupčí
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Ing. Lukáš Gašpárek:
+    _slug: ing-lukas-gas
+    occupation: Podnikatel
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Ing. Ilona Šmídová:
+    _slug: ing-illona-smidova
+    occupation: Účetní
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Bc. Přemysl Horák:
+    _slug: bc-premysl-horak
+    occupation: Marketing a prodej
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Lubomír Bystřický:
+    _slug: lubomir-bystrick
+    occupation: Montážní dělník
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- Huong Tra Phan:
+    _slug: huong-tra
+    occupation: Studentka
+    political_party: bez politické příslušnosti
+    age: 20
+    profile: ''
+    priorities: ''
+- Eva Srncová:
+    _slug: e
+    occupation: Studentka
+    political_party: bez politické příslušnosti
+    age: 19
+    profile: ''
+    priorities: ''
+- Martin Chovanec:
+    _slug: martin-chovanec
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 20
+    profile: ''
+    priorities: ''
+- Kateřina Svobodová:
+    _slug: katerina-svobodova
+    occupation: Studentka
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Luboš Horníček:
+    _slug: lubos-hornicek
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 19
+    profile: ''
+    priorities: ''
+- Daniel Havíř:
+    _slug: daniel-havir
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 18
+    profile: ''
+    priorities: ''
+- Matyáš Stehlík:
+    _slug: matyas-stehlik
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 20
+    profile: ''
+    priorities: ''
+- Tomáš Chramosta:
+    _slug: tomas-chramosta
+    occupation: Student
+    political_party: bez politické příslušnosti
+    age: 19
+    profile: ''
+    priorities: ''

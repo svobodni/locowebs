@@ -6,10 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>&Scaron;t&iacute;hl&yacute; &uacute;řad,
-    průhledn&eacute; rozhodov&aacute;n&iacute;</li>\r\n<li>Zdrav&eacute; finance,
-    m&eacute;ně regulac&iacute;</li>\r\n<li>Nov&yacute; rozvojov&yacute; pl&aacute;n
-    města</li>\r\n</ul>"
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>&Scaron;t&iacute;hl&yacute; &uacute;řad</li>\r\n<li>Nov&yacute;
+    rozvojov&yacute; pl&aacute;n</li>\r\n<li>Nech&aacute;me v&aacute;m va&scaron;e
+    pen&iacute;ze</li>\r\n</ul>"
   main/vyzva: <p>Osobnosti, kter&eacute; nab&iacute;z&iacute;me</p>
 ---
 <!DOCTYPE html>
@@ -102,7 +101,7 @@ editable_elements:
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:2 offset:1 %}
+        {% for candidate in contents.candidates limit:3 offset:1 %}
         {% assign person = candidate %}        
         <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
         {% endfor %}
@@ -151,7 +150,7 @@ editable_elements:
     </div>
     <div class="col-md-4">
       <h4>Spojte se s námi</h4>
-      <div class="fb-like-box" data-href="https://www.facebook.com/Svobodní-Pardubický-kraj" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+      <div class="fb-like-box" data-href="https://www.facebook.com/svobodni.zamberk" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
     </div>
   </div>
   </div> <!-- /container -->

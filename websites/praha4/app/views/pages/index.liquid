@@ -6,9 +6,11 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Svobodn&aacute; doprava</li>\r\n<li>Svobodn&aacute;
-    radnice</li>\r\n<li>Svobodn&aacute; Praha 4</li>\r\n</ul>"
-  main/vyzva: <p>Na&scaron;i kandid&aacute;ti</p>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li><a href=\"http://praha4.svobodni.cz/clanky/program-svobodna-doprava\">Svobodn&aacute;
+    doprava</a> bez zbytečn&yacute;ch regulac&iacute;</li>\r\n<li><a href=\"http://praha4.svobodni.cz/clanky/program-svobodna-radnice\">Svobodn&aacute;
+    radnice</a> bez neprůhledn&yacute;ch machinac&iacute;</li>\r\n<li><a href=\"http://praha4.svobodni.cz/clanky/program-svobodna-praha-4\">Svobodn&aacute;
+    Praha 4</a> pro <br />v&scaron;echny obyvatele</li>\r\n</ul>"
+  main/vyzva: <p>Na&scaron;i l&iacute;dři volebn&iacute;ch obvodů:</p>
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -86,7 +88,7 @@ editable_elements:
   <div class="container">
         <div class="row">
       <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
+        <h5>Proč dát hlas Svobodným Praha 4?</h5>
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Nezadlužená radnice</li>
@@ -105,7 +107,7 @@ editable_elements:
         {% if candidate.obvod == obvod %}
         {% if counter == 0 %}
         {% capture counter %}{{ counter | plus:1}}{% endcapture %}
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o lídrovi obvodu č. {{ obvod }}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="{{ candidate.name }} - lídr obvodu č. {{ obvod }}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
         {% endif %}
         {% endif %}
         {% endfor %}
@@ -150,7 +152,7 @@ editable_elements:
   <div class="row">
     <div class="col-md-8">
     <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/fJ4r7CKu4oA?list=UUABTOPGq1UAcRCQCifrsz-Q" allowfullscreen></iframe>
+      <iframe class="embed-responsive-item" src="//www.youtube-nocookie.com/embed/Q1b38oey4bw?list=UUABTOPGq1UAcRCQCifrsz-Q" allowfullscreen></iframe>
     </div>
     </div>
     <div class="col-md-4">

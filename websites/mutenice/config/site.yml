@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: mutenice
 domains: [www.mutenice.svobodni.cz, mutenice.svobodni.cz]
 seo_title: Svobodní Mutěnice
-meta_keywords: Svobodní Mutěnice
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

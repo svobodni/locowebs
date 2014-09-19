@@ -1,1 +1,35 @@
---- []
+---
+- Jiří Procházka:
+    _slug: jiri-prochazka
+    photo: /samples/candidates/jiri-prochazka/8620.jpg
+    occupation: ekonom
+    political_party: Bez politické příslušnosti
+    age: 53
+    profile: ''
+    priorities: ''
+- David Mikulášek:
+    _slug: da
+    meta_keywords: David Mikulášek
+    photo: /samples/candidates/da/10638118_10202967468852442_99162587_n.jpg
+    occupation: Podnikatel v oboru webdesignu
+    political_party: Strana Svobodných Občanů
+    age: 25
+    email: mikulasek@svobodni.cz
+    profile: ''
+    priorities: ''
+- Dagmar Hořčicová:
+    _slug: dagmar-horcic
+    photo: /samples/candidates/dagmar-horcic/10620860_10202967468812441_1095920929_n.jpg
+    occupation: vedoucí prodejny
+    political_party: Nestraník
+    age: 45
+    profile: ''
+    priorities: ''
+- Petr Kopčil:
+    _slug: petr-kopcil
+    photo: /samples/candidates/petr-kopcil/petr-kopcil-2012-jadran-setlik.jpg
+    occupation: Umělec
+    political_party: Nestraník
+    age: 34
+    profile: ''
+    priorities: ''

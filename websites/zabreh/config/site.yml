@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: zabreh
 domains: [www.zabreh.svobodni.cz, zabreh.svobodni.cz]
 seo_title: Svobodní Zábřeh
-meta_keywords: Svobodní Zábřeh
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

@@ -1,1 +1,36 @@
---- []
+---
+- Jan Ciglbauer:
+    _slug: jan-ciglbauer
+    occupation: technolog
+    political_party: Strana svobodných občanů
+    age: 26
+    profile: ''
+    priorities: ''
+- Ing. Tomáš Patejdl:
+    _slug: ing-tomas-patejdl
+    occupation: analytik
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Martin Uhlíř:
+    _slug: martin-uhlir
+    occupation: IT analytik
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Radek Sobolík:
+    _slug: radek-sobolik
+    occupation: OSVČ - automechanik
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Ing. Pavel Fajtl:
+    _slug: ing-pavel-fajtl
+    occupation: regionální manažer
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''

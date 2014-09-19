@@ -23,13 +23,12 @@ editable_elements:
 
 {% for candidate in contents.candidates %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
-	<div class="col-md-4">
-		<a href="/kandidati/{{ candidate._slug }}">
+	<div class="col-md-4" style='height: 150px'>
+		<a href="/kandidati/{{ candidate._slug }}" style='border: 0'>
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
 		{% if candidate.photo.url == blank%}{% else %}
-		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
 		{% endif %}
 		</a>
 	</div>

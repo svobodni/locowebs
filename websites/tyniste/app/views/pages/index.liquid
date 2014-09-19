@@ -1,18 +1,29 @@
 ---
 title: Svobodní Týniště
-listed: false
+listed: true
 published: true
-cache_strategy: none
+cache_strategy: simple
 response_type: text/html
 position: 0
+seo_title: Svobodní Týniště
+meta_keywords: Svobodní Týniště, Nové Týniště, Nezávislé sdružení, Ládr, komunální
+  volby Týniště
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
-  main/vyzva: Osobnosti, které nabízíme
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Spravedliv&yacute; a rovn&yacute;
+    př&iacute;stup ke v&scaron;em občanům</li>\r\n<li>Podpora soukrom&eacute; iniciativy,
+    v&iacute;ce peněz občanům, m&eacute;ně městu</li>\r\n<li>Konec neprůhledn&yacute;m
+    procesům v T&yacute;ni&scaron;ti nad Orlic&iacute;</li>\r\n<li>Vyrovnan&yacute;
+    rozpočet a spr&aacute;va města s p&eacute;č&iacute; ř&aacute;dn&eacute;ho hospod&aacute;ře</li>\r\n</ul>"
+  main/vyzva: <p>Mgr. Ing. Ivan L&aacute;dr, člen Strany svobodn&yacute;ch občanů,
+    kandiduje v t&yacute;ni&scaron;ťsk&yacute;ch komun&aacute;ln&iacute;ch volb&aacute;ch
+    na kandid&aacute;tce Nez&aacute;visl&eacute;ho sdružen&iacute; Nov&eacute; T&yacute;ni&scaron;tě
+    spolu s nez&aacute;visl&yacute;mi kandid&aacute;ty. Usilujeme o rozchod s &nbsp;komun&aacute;ln&iacute;
+    politikou uskutečňovanou v T&yacute;ni&scaron;ti n.Orl. v minulosti různ&yacute;mi
+    politick&yacute;mi subjekty a z&aacute;jmov&yacute;mi skupinami, kter&eacute;
+    se často pod nejrůzněj&scaron;&iacute;mi nov&yacute;mi hlavičkami snaž&iacute;
+    opět dostat do veden&iacute; radnice . Na&scaron;e &uacute;sil&iacute; charakterizuje
+    slogan "Je čas otočit kormidlem a vz&iacute;t si př&iacute;klad z měst, kde to
+    doopravdy funguje".</p>
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -80,17 +91,14 @@ editable_elements:
     </div> <!--/.container -->
 	{% endblock header %}
 	{% block main %}
-  <div class="container text-center">
-    <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
-    </div> 
-  </div> 
+ 
 
   <div class="section-gray">
   <div class="container">
         <div class="row">
       <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
+        <h5>V Týništi nad Orlicí Strana Svobodných občanů pro komunální volby nesestavila stranickou kandidátku. Mgr. Ing. Ivan Ládr kandiduje na kandidátce Nezávislého sdružení Nové Týniště. Nezávislé sdružení Nové Týniště se při tvorbě svého programu opírá o tato východiska:</h5>
+        
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Nezadlužená radnice</li>

@@ -2,8 +2,8 @@
 name: Svobodní Praha 12
 locales: [cs]
 subdomain: praha12
-domains: [www.praha12.svobodni.cz, praha12.svobodni.cz]
+domains: [praha12.svobodni.cz]
 seo_title: Svobodní Praha 12
-meta_keywords: Svobodní Praha 12
-meta_description: Strana svobodných občanů
+meta_keywords: Svobodní
+meta_description: 'Strana svobodných občanů '
 timezone: Prague

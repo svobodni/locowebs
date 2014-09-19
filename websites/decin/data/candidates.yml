@@ -1,18 +1,19 @@
 ---
 - Mgr. Miroslav Červenka:
     _slug: mgr-miroslav-cervenka
-    photo: /samples/candidates/mgr-miroslav-cervenka/cervenka.jpg
+    photo: /samples/candidates/mgr-miroslav-cervenka/M_.png
     occupation: Živnostník
     political_party: Strana svobodných občanů
     age: 58
     email: mirocerven@gmail.com
+    homepage_url: http://www.miroslavcervenka.blog.idnes.cz/
     fb_profile_url: http://www.facebook.com/miroslav.cervenka.9
     fb_page_url: http://www.facebook.com/svobodni.decin
     profile: ''
     priorities: ''
 - Michal Nosek:
     _slug: michal-nosek
-    photo: /samples/candidates/michal-nosek/2.png
+    photo: /samples/candidates/michal-nosek/MN.png
     occupation: IT specialista
     political_party: Strana svobodných občanů,
     age: 39
@@ -24,7 +25,7 @@
     priorities: ''
 - Bc. Jan Schwarzbach:
     _slug: bc-jan-schwarzbach
-    photo: /samples/candidates/bc-jan-schwarzbach/3.png
+    photo: /samples/candidates/bc-jan-schwarzbach/JS.png
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 23
@@ -35,7 +36,7 @@
     priorities: ''
 - Ladislava Gregorová:
     _slug: ladislava-gregorova
-    photo: /samples/candidates/ladislava-gregorova/4.png
+    photo: /samples/candidates/ladislava-gregorova/Gregorova.png
     occupation: Ekonomka
     political_party: bez politické příslušnosti
     age: 51
@@ -51,7 +52,7 @@
     priorities: ''
 - Ing. Miloš Kopecký:
     _slug: ing-milos-kopecky
-    photo: /samples/candidates/ing-milos-kopecky/5.png
+    photo: /samples/candidates/ing-milos-kopecky/Kopecky.png
     occupation: Úředník
     political_party: bez politické příslušnosti
     age: 53
@@ -59,7 +60,7 @@
     priorities: ''
 - Bc. Karel Votoček:
     _slug: bc-karel-votocek
-    photo: /samples/candidates/bc-karel-votocek/7.png
+    photo: /samples/candidates/bc-karel-votocek/Votocek.png
     occupation: Softwarový vývojář
     political_party: Strana svobodných občanů
     age: 30
@@ -67,7 +68,7 @@
     priorities: ''
 - Ing. Vladimír Gregor:
     _slug: ing-vladimir-gregor
-    photo: /samples/candidates/ing-vladimir-gregor/6.png
+    photo: /samples/candidates/ing-vladimir-gregor/Gregor.png
     occupation: Ekonom
     political_party: ' bez politické příslušnosti)'
     age: 56

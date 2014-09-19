@@ -33,7 +33,7 @@ editable_elements:
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
+{% if forloop.last %}
 </div> <!--/.row - last -->
 {% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}

@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: otrokovice
 domains: [www.otrokovice.svobodni.cz, otrokovice.svobodni.cz]
 seo_title: Svobodní Otrokovice
-meta_keywords: Svobodní Otrokovice
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

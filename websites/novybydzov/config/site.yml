@@ -4,6 +4,6 @@ locales: [cs]
 subdomain: novybydzov
 domains: [nb.svobodni.cz, www.nb.svobodni.cz, www.novybydzov.svobodni.cz, novybydzov.svobodni.cz]
 seo_title: Svobodní Nový Bydžov
-meta_keywords: Svobodní Nový Bydžov
-meta_description: Strana svobodných občanů
+meta_keywords: some meta keywords
+meta_description: some meta description
 timezone: Prague

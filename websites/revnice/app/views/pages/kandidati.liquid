@@ -7,47 +7,7 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/nadpis: "<p>&bdquo;Děkujeme za Va&scaron;e hlasy. Jdeme do toho naplno.&ldquo;</p>\r\n<div
-    class=\"container classic-content\">\r\n<div class=\"cand-grid\">\r\n<div class=\"row\">\r\n<div
-    class=\"col-md-4\"><a href=\"/kandidati/jiri-buchal\"> <em>1.</em> <strong>Ing.
-    Jiř&iacute; Buchal</strong> <span style=\"display: block; min-height: 6rem;\">Manažer
-    v mezin&aacute;rodn&iacute; bance, zastupitel města</span> </a></div>\r\n<div
-    class=\"col-md-4\"><a href=\"/kandidati/martin-sudek\"> <em>2.</em> <strong>Ing.
-    Martin Sudek</strong> <span style=\"display: block; min-height: 6rem;\">Konzultant,
-    zastupitel města</span> </a></div>\r\n<div class=\"col-md-4\"><a href=\"/kandidati/adam-langr\">
-    <em>3.</em> <strong>Adam Langr</strong> <span style=\"display: block; min-height:
-    6rem;\">Projektant</span> <img alt=\"Kandid&aacute;t č. 3\" width=\"290\" /> </a></div>\r\n</div>\r\n<!--/.row
-    -->\r\n<div class=\"row\">\r\n<div class=\"col-md-4\"><a href=\"/kandidati/jan-lojda\">
-    <em>4.</em> <strong>Ing. Jan Lojda</strong> <span style=\"display: block; min-height:
-    6rem;\">Zaměstnanec v lesn&iacute;m hospod&aacute;řstv&iacute;</span> </a></div>\r\n<div
-    class=\"col-md-4\"><a href=\"/kandidati/lukas-kubasek\"> <em>5.</em> <strong>Luk&aacute;&scaron;
-    Kub&aacute;sek</strong> <span style=\"display: block; min-height: 6rem;\">Projektov&yacute;
-    manažer</span> </a></div>\r\n<div class=\"col-md-4\"><a href=\"/kandidati/zuzana-kusbachova\">
-    <em>6.</em> <strong>Mgr. Zuzana Kusbachov&aacute;</strong> <span style=\"display:
-    block; min-height: 6rem;\">Učitelka středn&iacute; &scaron;koly</span></a></div>\r\n</div>\r\n<!--/.row
-    -->\r\n<div class=\"row\">\r\n<div class=\"col-md-4\"><a href=\"/kandidati/jan-hartmann\">
-    <em>7.</em> <strong>Jan Hartmann Dis</strong> <span style=\"display: block; min-height:
-    6rem;\">Obchodn&iacute; referent, zastupitel města</span> </a></div>\r\n<div class=\"col-md-4\"><a
-    href=\"/kandidati/roman-chvojka\"> <em>8.</em> <strong>Roman Chvojka</strong>
-    <span style=\"display: block; min-height: 6rem;\">Podnikatel</span> </a></div>\r\n<div
-    class=\"col-md-4\"><a href=\"/kandidati/petr-cermak\"> <em>9.</em> <strong>RNDr.
-    Petr Čerm&aacute;k</strong> <span style=\"display: block; min-height: 6rem;\">Vědeck&yacute;
-    pracovn&iacute;k</span> </a></div>\r\n</div>\r\n<!--/.row -->\r\n<div class=\"row\">\r\n<div
-    class=\"col-md-4\"><a href=\"/kandidati/karel-vyleta\"> <em>10.</em> <strong>Karel
-    Vyleta</strong> <span style=\"display: block; min-height: 6rem;\">Podnikatel</span>
-    </a></div>\r\n<div class=\"col-md-4\"><a href=\"/kandidati/martin-smesny\"> <em>11.</em>
-    <strong>Martin Smě&scaron;n&yacute;</strong> <span style=\"display: block; min-height:
-    6rem;\">Podnikatel</span> </a></div>\r\n<div class=\"col-md-4\"><a href=\"/kandidati/ludmila-chroustova\">
-    <em>12.</em> <strong>Mgr. Ludmila Chroustov&aacute;</strong> <span style=\"display:
-    block; min-height: 6rem;\">Učitelka</span> </a></div>\r\n</div>\r\n<!--/.row -->\r\n<div
-    class=\"row\">\r\n<div class=\"col-md-4\"><a href=\"/kandidati/berenika-sitenska\">
-    <em>13.</em> <strong>Ing. Berenika Sitensk&aacute;</strong> <span style=\"display:
-    block; min-height: 6rem;\">&Uacute;četn&iacute;</span> </a></div>\r\n<div class=\"col-md-4\"><a
-    href=\"/kandidati/alice-zavadilova\"> <em>14.</em> <strong>Mgr. Alice Zavadilov&aacute;</strong>
-    </a></div>\r\n<div class=\"col-md-4\"><a href=\"/kandidati/miroslav-jelinek\">
-    <em>15.</em> <strong>Miroslav Jel&iacute;nek</strong> <span style=\"display: block;
-    min-height: 6rem;\">Podnikatel</span> </a></div>\r\n</div>\r\n<!--/.row --> <!--/.cand-grid
-    --></div>\r\n</div>"
+  main/nadpis: ''
 ---
 {% extends parent %}
 
@@ -67,7 +27,7 @@ editable_elements:
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
-		<span>{{ candidate.occupation }}</span>
+		<span>{% if candidate.occupation_short == blank%}{{ candidate.occupation }}{% else %}{{ candidate.occupation_short }}{% endif %}</span>
 		{% if candidate.photo.url == blank%}{% else %}
 		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
 		{% endif %}

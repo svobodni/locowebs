@@ -27,6 +27,12 @@ fields:
     required: false
     unique: false
     localized: false
+- occupation_short:
+    label: occupation_short
+    type: string
+    required: false
+    unique: false
+    localized: false
 - political_party:
     label: political_party
     type: string

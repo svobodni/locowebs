@@ -1,36 +1,340 @@
 ---
+- Aleš Kuna:
+    _slug: ales-kuna
+    photo: /samples/candidates/ales-kuna/alesGIF.gif
+    occupation: Překladatel
+    political_party: Strana svobodných občanů
+    age: 35
+    email: ''
+    phone: 730 914 074
+    fb_profile_url: ''
+    profile: <p>Narodil jsem se v &Uacute;st&iacute; nad Labem, kde jsem studoval
+      Obchodn&iacute; akademii na Bukově. Pot&eacute; jsem studoval anglickou a americkou
+      literaturu na PF UJEP a FF UK. Nyn&iacute; se živ&iacute;m jako překladatel
+      z angličtiny. M&yacute;m c&iacute;lem je prosperuj&iacute;c&iacute; město. K
+      tomu ale nestač&iacute; jen dostavět d&aacute;lnici. Je třeba transparentn&iacute;,
+      stabiln&iacute; a svobodn&eacute; prostřed&iacute;, kter&eacute; přil&aacute;k&aacute;
+      dal&scaron;&iacute; firmy. Ty pak pomohou zlep&scaron;it ekonomickou situaci
+      &Uacute;st&iacute; nad Labem. Pr&aacute;vě to je jednou z podm&iacute;nek pro
+      kvalitněj&scaron;&iacute; život &ndash; kulturn&iacute;, sportovn&iacute; a
+      dal&scaron;&iacute;.</p>
+    quote: Tajemstvím štěstí je svoboda. A tajemstvím svobody je odvaha.
+    priorities: ''
 - Radek Zelycz:
     _slug: radek-zelycz
+    photo: /samples/candidates/radek-zelycz/radekGIF2.gif
     occupation: Operátor 3D tisku
     political_party: Strana svobodných občanů
-    age: 43
+    age: 42
     email: zelycz@svobodni.cz
+    phone: +420 602 483 007
     fb_profile_url: https://www.facebook.com/radek.zelycz
-    profile: ''
-    priorities: ''
-- Michal Beran:
-    _slug: michal-beran
-    occupation: Student
-    political_party: Strana svobodných pbčanů
-    age: 21
-    email: michal-beran@centrum.cz
-    phone: 737 604 607
-    fb_profile_url: https://www.facebook.com/Beran.Michal
-    profile: <p><br data-mce-bogus="1"></p>
-    priorities: <p><br data-mce-bogus="1"></p>
+    profile: <p>Kandiduji na prvn&iacute;m m&iacute;stě v obvodě Severn&iacute; Terasa
+      a na druh&eacute;m m&iacute;stě na Magistr&aacute;t města &Uacute;st&iacute;
+      nad Labem. Ve Straně svobodn&yacute;ch občanů jsem čtyři roky a z toho tři roky
+      jako m&iacute;stopředseda Svobodn&yacute;ch &Uacute;steck&eacute;ho kraje.</p>
+    quote: Svoboda se nedá koupit, tu si musíme vybojovat a bránit...
+    priorities: "<p>To, že v&nbsp;současnosti chyběj&iacute; m&iacute;sta ve &scaron;kolk&aacute;ch,
+      v&iacute; asi každ&yacute;. Objevuj&iacute; se hlasy, že by radnice (za miliony
+      korun) měla stavět dal&scaron;&iacute; a dal&scaron;&iacute; &scaron;kolky a
+      vytv&aacute;řet vy&scaron;&scaron;&iacute; kapacity (kter&eacute; po skončen&iacute;
+      populačn&iacute; vlny zůstanou leckdy pr&aacute;zdn&eacute; nebo se prod&aacute;vaj&iacute;
+      pod cenou). Svobodn&iacute; podporuj&iacute; jin&yacute; směr &ndash; obr&aacute;tit
+      se na soukrom&yacute; sektor, kter&yacute; je mnohem pružněj&scaron;&iacute;,
+      levněj&scaron;&iacute; a ve valn&eacute; vět&scaron;ině i&nbsp;kvalitněj&scaron;&iacute;
+      (del&scaron;&iacute; provozn&iacute; doba, v&iacute;ce kroužků v&nbsp;ceně atd.).
+      Budeme tak&eacute; hledat voln&eacute; kapacity v&nbsp;budov&aacute;ch z&aacute;kladn&iacute;ch
+      &scaron;kol, kde bude možn&eacute; sloučen&iacute;m sn&iacute;žit n&aacute;klady.</p>\r\n<p><em>PŘ&Iacute;KLAD:
+      Pen&iacute;ze magistr&aacute;tu určen&eacute; pro &scaron;kolky i&nbsp;&scaron;koly
+      by měly j&iacute;t za d&iacute;tětem, tedy klidně i&nbsp;do soukrom&eacute;
+      sf&eacute;ry. Svobodn&iacute; budou navrhovat syst&eacute;m, kdy o&nbsp;tom,
+      kter&aacute; &scaron;kolka či &scaron;kola z&iacute;sk&aacute; finance města,
+      rozhodnou sami rodiče. T&iacute;m se zv&yacute;&scaron;&iacute; konkurence i
+      pro &scaron;kolstv&iacute; st&aacute;tn&iacute; a sn&iacute;ž&iacute; se cena
+      pro samotn&eacute; rodiče &ndash; soukrom&eacute; &scaron;kolky a &scaron;koly
+      se stanou dostupněj&scaron;&iacute;mi.</em></p>"
 - Martin Novak:
     _slug: martin-novak
+    photo: /samples/candidates/martin-novak/martinGIF2.gif
     occupation: Projektový konzultant
     political_party: Strana svobodných občanů
     age: 30
     email: martin.novak84@seznam.cz
     phone: ''
+    fb_profile_url: https://www.facebook.com/profile.php?id=100004903514728
+    profile: <p><span>Kandiduji na prvn&iacute;m m&iacute;stě v obvodu Střekov a tak&eacute;
+      mě najdete na kandid&aacute;tn&iacute; listině na Magistr&aacute;t města &Uacute;st&iacute;
+      nad Labem. M&yacute;m c&iacute;lem je udělat z na&scaron;eho města m&iacute;sto,
+      za kter&eacute; se nemus&iacute;me stydět. Zajistit transparentnost, zastavit
+      zadlužov&aacute;n&iacute; a v&eacute;st politiku otevřen&eacute; radnice. Otevřen&eacute;
+      pro obyčejn&eacute; lidi, občany tohoto města, kteř&iacute; nechtěj&iacute;
+      b&yacute;ti pouh&yacute;m n&aacute;strojem v rukou politiků prosazuj&iacute;c&iacute;
+      si sv&eacute; osobn&iacute; z&aacute;jmy. &nbsp;</span></p>
+    quote: Ústí je hustý. Nedělejme si ho hnusný.
+    priorities: ''
+- Michal Beran:
+    _slug: michal-beran
+    photo: /samples/candidates/michal-beran/michalGIF2.gif
+    occupation: Student
+    political_party: Strana svobodných občanů
+    age: 21
+    email: michal-beran@centrum.cz
+    phone: 737 604 607
+    fb_profile_url: https://www.facebook.com/Beran.Michal
+    profile: <p>Narodil jsem se roku 1993 v &Uacute;st&iacute; nad Labem. &Uacute;spě&scaron;ně
+      jsem odmaturoval na SP&Scaron; Stavebn&iacute; a nyn&iacute; studuji prvn&iacute;m
+      rokem politologii na &uacute;steck&eacute; univerzitě Jana Evangelisty Purkyně.
+      Zaj&iacute;m&aacute;m se o politiku a současn&eacute; děn&iacute; u n&aacute;s
+      i ve světě. Moj&iacute; v&aacute;&scaron;n&iacute; je hra na elektrickou i akustickou
+      kytaru, d&aacute;le pak předev&scaron;&iacute;m snowboarding a ostatn&iacute;
+      zimn&iacute; aktivity. Obecně si r&aacute;d zahraji v&scaron;echny kolektivn&iacute;
+      sporty. R&aacute;d cestuji, tr&aacute;v&iacute;m čas s př&aacute;teli a vyhled&aacute;v&aacute;m
+      nejrůzněj&scaron;&iacute; z&aacute;bavu.&nbsp;</p>
+    quote: Pokud není hospodaření města průhledné, jsou to ideální podmínky k rozkrádání
+      vašich peněz.
+    priorities: "<p>Moj&iacute; hlavn&iacute; prioritou je transparentn&iacute; radnice.&nbsp;</p>\r\n<p>Na
+      internetov&yacute;ch str&aacute;nk&aacute;ch města přehledně zvěřejn&iacute;me
+      ve&scaron;ker&eacute; smlouvy uzavřen&eacute; městem, rozpočty organizac&iacute;
+      dotovan&yacute;ch městem a dal&scaron;&iacute; dokumenty souvisej&iacute;c&iacute;
+      s veřejnou spr&aacute;vou a veřejn&yacute;mi financemi. D&aacute;le mus&iacute;
+      b&yacute;t jasn&eacute;,kdo m&aacute; odpovědnost za jakou smlouvu či zak&aacute;zku.&nbsp;</p>"
+- Pavel Holešta:
+    _slug: pavel-holesta
+    occupation: důchodce
+    political_party: Strana svobodných občanů
+    age: 62
     profile: ''
     priorities: ''
-- Aleš Kuna:
-    _slug: ales-kuna
-    occupation: Překladatel
+- Milan Stieranka:
+    _slug: milan-stieranka
+    photo: /samples/candidates/milan-stieranka/10695234_938016352879984_1522135087_n.jpg
+    occupation: technik projektů
     political_party: Strana svobodných občanů
-    age: 35
+    age: 25
+    email: stieranka-svobodni@centrum.cz
+    profile: ''
+    priorities: ''
+- Marek Herna:
+    _slug: marek-herna
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 21
+    profile: ''
+    priorities: ''
+- Jan Klofec:
+    _slug: jan-klofec
+    occupation: technik ISP
+    political_party: Strana svobodných občanů
+    age: 27
+    profile: ''
+    priorities: ''
+- Jan Rybka:
+    _slug: jan-rybka
+    photo: /samples/candidates/jan-rybka/rybka.jpg
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 23
+    profile: ''
+    priorities: ''
+- Daniel Hybler:
+    _slug: daniel-hybler
+    occupation: podnikatel v IT
+    political_party: bez politické příslušnosti
+    age: 39
+    profile: ''
+    priorities: ''
+- Jiří Růžička:
+    _slug: jiri-ruzicka
+    occupation: vedoucí prodejny
+    political_party: bez politické příslušnosti
+    age: 39
+    profile: ''
+    priorities: ''
+- Jiří Růžek:
+    _slug: jiri-ruzek
+    occupation: hydrolog – technik
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: <p>Jsem jedn&iacute;m z lid&iacute;, kter&yacute;m se nel&iacute;b&iacute;
+      nyněj&scaron;&iacute; způsob "eurounifikace" na&scaron;eho st&aacute;tu. Nechci
+      euro a chci ž&aacute;rovku s wolfranov&yacute;m vl&aacute;knem. Byrokracie eu
+      je nadměrně přehnan&aacute;.</p>
+    priorities: ''
+- Ondřej Němec:
+    _slug: ondrej-nemec
+    occupation: lékárník
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Roman Kubricht:
+    _slug: roman-kubricht
+    occupation: počítačový technik
+    political_party: bez politické příslušnosti
+    age: 48
+    email: roman.kubricht@seznam.cz
+    phone: '721289454'
+    fb_profile_url: https://www.facebook.com/Jouda66
+    profile: ''
+    priorities: ''
+- Radim Šuk:
+    _slug: radim-suk
+    occupation: 'Obchodní zástupce '
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Ivo Veselý:
+    _slug: ivo-vesely
+    occupation: vedoucí oddělení
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Jan Lacina:
+    _slug: jan-lacina
+    occupation: outsourcing specialista
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Tomáš Kříž:
+    _slug: tomas-kriz
+    occupation: SAP specialista
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- Michal Taške:
+    _slug: michal-taske
+    occupation: dispečer výroby
+    political_party: 'bez politické příslušnosti '
+    age: 38
+    profile: ''
+    priorities: ''
+- Radim Klusáček:
+    _slug: radim-klusacek
+    occupation: ekonom
+    political_party: bez politické příslušnosti
+    age: 37
+    profile: ''
+    priorities: ''
+- Jan Šrejber:
+    _slug: jan-srejber
+    occupation: manažer
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Luboš Hora:
+    _slug: lubos-hor
+    occupation: tiskař
+    political_party: bez politické příslušnosti
+    age: 43
+    profile: ''
+    priorities: ''
+- Jan Stieranka:
+    _slug: jan-stieranka
+    occupation: pracovník logistiky
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Pavel Šedivý:
+    _slug: pavel-sedivy
+    occupation: vedoucí výroby
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Radek Kuna:
+    _slug: radek-kuna-1
+    occupation: obchodní zástupce
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Nikola Zelyczová:
+    _slug: radek-kuna
+    occupation: zdravotní sestra
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Jan Pešek:
+    _slug: jan-pesek
+    occupation: manažer dodávkového řetězce
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Pavla Nováková Štýbrová:
+    _slug: pavla-novakova-stybrova
+    occupation: marketing. specialista
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Lukáš Kremr:
+    _slug: lukas-kremr
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Jana Zatočilová:
+    _slug: jana-zatocilova
+    occupation: pokojská
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Tomáš Jangl:
+    _slug: tomas-jangl
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 20
+    profile: ''
+    priorities: ''
+- Lenka Mottlová:
+    _slug: lenka-mottlova
+    occupation: úřednice
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Jindřich Matoušek:
+    _slug: jindrich-matousek
+    occupation: univerzitní učitel
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Libor Bořek:
+    _slug: libor-borek
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 37
+    profile: ''
+    priorities: ''
+- Václav Voslař:
+    _slug: vaclav-vosla
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Tomáš Kuna:
+    _slug: tomas-kuna
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 22
+    profile: ''
+    priorities: ''
+- Emil Rilke:
+    _slug: emil-rilke
+    occupation: fotbalista
+    political_party: bez politické příslušnosti
+    age: 30
     profile: ''
     priorities: ''

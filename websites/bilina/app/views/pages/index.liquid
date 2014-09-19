@@ -6,12 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Nezadlužená radnice</li>\r\n
+    \         <li>Svobodné podnikání</li>\r\n          <li>Méně regulací</li>\r\n
+    \       </ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -26,6 +23,8 @@ editable_elements:
 	<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.meta_description }}{% endif %}">
     <meta name="keywords" content="{{ site.meta_keywords }} {{ page.meta_keywords }}">
 
+    <link rel="icon" type="image/vnd.microsoft.icon" href="{{ 'favicon.ico' | theme_image_url }}" />
+    
     <!-- Bootstrap -->
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.min.css" rel="stylesheet">
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.zakladni.css" rel="stylesheet">

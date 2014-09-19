@@ -1,33 +1,98 @@
 ---
 - Bc. Jan Matyásko:
     _slug: bc-jan-matyasko
+    photo: /samples/candidates/bc-jan-matyasko/honza.JPG
     occupation: Energetický analytik
     political_party: Strana svobodných občanů
     age: 26
     email: jan.matyasko@svobodni.cz
-    profile: ''
+    phone: +420 603 320 421
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_profile_url: http://www.facebook.com/honza.matyasko
+    fb_page_url: http://www.facebook.com/svobodni.mb
+    profile: "<p style=\"text-align: justify;\">Vystudoval Vysokou &scaron;kolu ekonomickou
+      v Praze a pracuje jako analytik v&nbsp;energetick&eacute;m sektoru. Hovoř&iacute;
+      plynně anglicky a m&aacute; z&aacute;klady němčiny. Je rovněž lektor ve sv&eacute;
+      společnosti.</p>\r\n<p style=\"text-align: justify;\">Voličem Svobodn&yacute;ch
+      je již od jejich vzniku. Členem se stal poč&aacute;tkem roku 2013. Je m&iacute;stopředsedou
+      středočesk&eacute;ho krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch. Zab&yacute;v&aacute;
+      se problematikou zdaněn&iacute; a svobody podnik&aacute;n&iacute;.</p>"
     priorities: ''
 - Ing. David Bucek:
     _slug: ing-david-bucek
+    photo: /samples/candidates/ing-david-bucek/david.JPG
     occupation: Programátor
     political_party: Strana svobodných občanů
     age: 35
     email: davidbucek@svobodni.cz
-    profile: ''
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_page_url: http://www.facebook.com/svobodni.mb
+    profile: "<p style=\"text-align: justify;\">Vystudoval ČVUT Fakultu elektrotechnickou
+      a pracuje jako program&aacute;tor informačn&iacute;ch syst&eacute;mů v&nbsp;bankovn&iacute;m
+      sektoru. Hovoř&iacute; plynně anglicky a na&nbsp;z&aacute;kladn&iacute; &uacute;rovni
+      č&iacute;nsky. Je držitelem licence soukrom&eacute;ho pilota letounů.</p>\r\n<p
+      style=\"text-align: justify;\">Př&iacute;znivcem a později členem Svobodn&yacute;ch
+      je od roku 2009. Specializuje se na&nbsp;&uacute;spory, kter&eacute; je možn&eacute;
+      realizovat ve veřejn&eacute; spr&aacute;vě. Jasně ř&iacute;k&aacute;: &bdquo;Ostatn&iacute;
+      strany jen žd&iacute;maj&iacute; občany, jedině Svobodn&iacute; chtěj&iacute;
+      &scaron;etřit na straně &uacute;řadů.&ldquo;</p>"
     priorities: ''
 - Lukáš Abík:
     _slug: lukas-abik
+    photo: /samples/candidates/lukas-abik/lukas.JPG
     occupation: Řemeslník
-    profile: ''
+    political_party: Strana svobodných občanů
+    age: 36
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_page_url: http://www.facebook.com/svobodni.mb
+    profile: "<p style=\"text-align: justify;\">Narodil se v Mlad&eacute; Boleslavi,
+      kde aktivně působ&iacute; dodnes. Studoval Středn&iacute; zemědělskou technickou
+      &scaron;kolu. Profesně se dlouhodobě zab&yacute;v&aacute; stavebn&iacute; a&nbsp;zprostředkovatelskou
+      činnost&iacute;.</p>\r\n<p style=\"text-align: justify;\">Ve straně aktivně
+      působ&iacute; od poč&aacute;tku roku 2014. Zab&yacute;v&aacute; se komun&aacute;ln&iacute;
+      politikou a&nbsp;efektivn&iacute;m fungov&aacute;n&iacute;m radnice. V rozhovorech
+      ř&iacute;k&aacute;: &bdquo;Jsme nov&iacute; a nejen d&iacute;ky tomu m&aacute;me
+      objektivn&iacute; pohled na skutečn&eacute; potřeby obyvatel Mlad&eacute; Boleslavi.&ldquo;</p>"
     priorities: ''
 - Ivana Burešová:
     _slug: ivana-buresova
+    photo: /samples/candidates/ivana-buresova/ivana.JPG
     occupation: Živnostník
     political_party: Strana svobodných občanů
-    profile: ''
+    age: 38
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_page_url: http://www.facebook.com/svobodni.mb
+    profile: "<p style=\"text-align: justify;\">Po gymn&aacute;ziu absolvovala dal&scaron;&iacute;
+      studium na Obchodn&iacute; akademii se zaměřen&iacute;m na&nbsp;informačn&iacute;
+      technologie, v současnosti pracuje jako živnostn&iacute;k v oblasti služeb.
+      Hovoř&iacute; anglicky. Zaj&iacute;m&aacute; se o historii, ilustruje, z pohybov&yacute;ch
+      aktivit preferuje clogging.</p>\r\n<p style=\"text-align: justify;\"><span>Ve
+      straně Svobodn&yacute;ch je od &uacute;nora roku 2013. Tvrd&iacute;, že každ&yacute;
+      si m&aacute; za svůj vlastn&iacute; život odpov&iacute;dat s&aacute;m, ale mus&iacute;
+      k tomu dostat podm&iacute;nky.</span></p>"
     priorities: ''
 - Zdeněk Zajíček:
     _slug: zdenek-zajicek
+    photo: /samples/candidates/zdenek-zajicek/zdenek.jpg
+    occupation: Services manager
     political_party: Strana svobodných občanů
+    age: 26
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_page_url: http://www.facebook.com/svobodni.mb
+    profile: "<p style=\"text-align: justify;\">Pracuje jako services manager a tak&eacute;
+      jako mechanik seřizovač. Hovoř&iacute; plynně německy a m&aacute; z&aacute;klady
+      angličtiny. P&iacute;&scaron;e politicky nekorektn&iacute; blog, kde kritizuje
+      současnou politickou situaci ve světě.&nbsp;</p>\r\n<p><span>Členem Strany svobodn&yacute;ch
+      občanů je od jara 2013. Uzn&aacute;v&aacute; svobodu jednotlivce a ř&iacute;d&iacute;
+      se heslem: &bdquo;Nemus&iacute;m s v&aacute;mi souhlasit v tom co ř&iacute;k&aacute;te,
+      ale budu bojovat do posledn&iacute;ho dechu, abyste to mohli svobodně ř&iacute;kat.&ldquo;</span></p>"
+    priorities: ''
+- Stanislav Mlejnek:
+    _slug: stanislav-mlejnek
+    occupation: účetní
+    political_party: Svobodní
+    age: 45
+    homepage_url: http://mladaboleslav.svobodni.cz
+    fb_page_url: http://facebook.com/svobodni.mb
     profile: ''
     priorities: ''

@@ -1,0 +1,24 @@
+---
+title: Newsletter
+slug: newsletter
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 5
+seo_title: Newsletter
+meta_keywords: newsletter, svobodni, vimperk, zpravy, svobodni vimperk
+meta_description: Přihlášení k odběru občasných informační zpráv Svobodných ve Vimperku.
+editable_elements:
+  main/volebni_program: '<p style="text-align: center;"><iframe width="760" height="1000"
+    frameborder="0" src="https://docs.google.com/forms/d/1KTX3Ltn5WCQsjKl28gSvwLr6E2uEyeA8XK6Cu0d2cxk/viewform?embedded=true">Nač&iacute;t&aacute;n&iacute;...</iframe></p>'
+---
+{% extends parent %}
+
+{% block 'main' %}
+
+{% editable_text "volebni_program", hint: "Text volebního programu." %}    
+
+{% endeditable_text %}
+
+{% endblock %}

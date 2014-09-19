@@ -7,56 +7,134 @@
     occupation: Student Národohospodářské fakulty VŠE
     political_party: Strana svobodných občanů
     age: 22
-    email: MaksymKysil@gmail.com
+    email: kysil@svobodni.cz
     phone: '774950444'
     fb_profile_url: https://www.facebook.com/maxim.kysil
-    profile: ''
-    priorities: ''
+    fb_page_url: https://www.facebook.com/kysil.maxim
+    profile: <p>Narodil jsem v roce 1992 ve Lvově a 15 let žiji ve Vimperku. Studuji
+      třet&iacute;m rokem N&aacute;rodohospod&aacute;řskou fakultu V&Scaron;E v Praze.
+      Zaj&iacute;m&aacute;m se o politiku a ekonomiku. Jsem v&aacute;&scaron;niv&yacute;
+      hr&aacute;č volejbalu a obecně hraji v&scaron;echny kolektivn&iacute; sporty.
+      R&aacute;d tr&aacute;v&iacute;m čas s rodinou a se svoj&iacute; př&iacute;telkyn&iacute;
+      Karol&iacute;nou.</p>
+    quote: Lidé tu nejsou pro radnici, radnice je tu pro lidi.
+    priorities: "<p><span>Hlavn&iacute;m posl&aacute;n&iacute;m obce by měla b&yacute;t
+      p&eacute;če o veřejn&eacute; prostranstv&iacute; (chodn&iacute;ky, ulice), čistotu
+      a bezpečnost. Každ&yacute; obyvatel Vimperka by se měl c&iacute;tit bezpečně
+      v každ&eacute; č&aacute;sti města. Tomu dopomůže pokud bude potk&aacute;vat
+      co nejčastěji hl&iacute;dky městsk&eacute; policie, a to hlavně v probl&eacute;mov&yacute;ch
+      oblastech.&nbsp;</span></p>\r\n<p><span>Prosazuji ve Vimperku transparentn&iacute;
+      radnici. Chci doc&iacute;lit toho, aby smlouvy, zak&aacute;zky a v&yacute;daje
+      radnice byly okamžitě zveřejňov&aacute;ny na internetu a tak&eacute;, aby se
+      vědělo, kdo m&aacute; za jakou smlouvu či zak&aacute;zku odpovědnost.</span></p>\r\n<p><span>Z&aacute;roveň
+      bych chtěl odlehčit lidem co nejv&iacute;ce od poplatků, aby jim zůstaly pen&iacute;ze
+      v kapse.&nbsp;<span>Lid&eacute; sami nejl&eacute;pe věd&iacute; za co svoje
+      pen&iacute;ze utratit.</span></span></p>"
 - Jan Hanžl:
     _slug: jan-hanzl
     photo: /samples/candidates/jan-hanzl/05.jpg
     occupation: Pekař
     political_party: bez politické příslušnosti
     age: 66
-    profile: ''
-    priorities: ''
+    email: hanzlhonza@seznam.cz
+    profile: <div>Narodil jsem se roku 1948 v Budyni. V roce 1967 jsem nastoupil do
+      Vimperka na vojnu a už jsem zde zůstal. Od roku 1993 provozuji vlastn&iacute;
+      pek&aacute;rnu. S manželkou m&aacute;me 5 dět&iacute; a 8 vnoučat.&nbsp;</div>
+    priorities: <p>R&aacute;d bych žil ve městě, kter&eacute; prosad&iacute; to, co
+      bude ku prospěchu mlad&yacute;m i star&scaron;&iacute;m občanům. Nechci zatěžovat
+      rozpočet města ne&uacute;měrn&yacute;mi n&aacute;klady. Chci prosazovat zapojen&iacute;
+      co nej&scaron;ir&scaron;&iacute; veřejnosti do politiky města v&scaron;emi možn&yacute;mi
+      prostředky. Budu poskytovat pravdiv&eacute; informace.</p>
 - Jiřina Sochová:
     _slug: jirina-sochova
     photo: /samples/candidates/jirina-sochova/06.jpg
     occupation: Exkluzivní poradce České spořitelny
     political_party: Strana svobodných občanů
     age: 42
-    profile: ''
-    priorities: ''
+    email: jirina.sochova@gmail.com
+    phone: '722932655'
+    fb_profile_url: https://www.facebook.com/jirina.sochova
+    profile: <p><span>Narodila jsem se v roce 1972 v Su&scaron;ici. Studovala jsem
+      SOU v Ka&scaron;persk&yacute;ch hor&aacute;ch a již 14 let bydl&iacute;m ve
+      Vimperku. Jsem vdan&aacute;, m&aacute;m 2 děti a pracuji jako obchodn&iacute;
+      z&aacute;stupce u společnosti ČS do domů a.s. Ve voln&eacute;m čase se věnuji
+      rodině a fitness.</span></p>
+    quote: Za kulturní a hospodářský rozvoj města.
+    priorities: <p><span>Jsem za zprůhledněn&iacute; hospodařen&iacute; města Vimperk.
+      Chci f&eacute;rov&eacute; poplatky v dom&aacute;cnosti. Tak&eacute; jsem pro
+      lep&scaron;&iacute; bezpečnost, aby se zde každ&yacute; c&iacute;til bezpečně
+      a turist&eacute; se k n&aacute;m r&aacute;di vraceli.&nbsp;</span></p>
 - Zdeněk Jungvirt:
     _slug: zdenek-jungvirt
     photo: /samples/candidates/zdenek-jungvirt/03.jpg
     occupation: IT specialista
     political_party: Strana svobodných občanů
     age: 28
-    email: jungvirt@602.cz
+    email: jungvirt.zdenek@gmail.com
     phone: '739298358'
     fb_profile_url: https://www.facebook.com/Savrik
-    profile: ''
-    priorities: ''
+    profile: <p><span>Narodil jsem se ve Vimperku v roce 1985, v součastnosti pracuji
+      v Praze v softwarov&eacute; firmě. O děn&iacute; ve Vimperku se v&scaron;ak
+      st&aacute;le intenzivně zaj&iacute;m&aacute;m a r&aacute;d bych přispěl ke zlep&scaron;en&iacute;
+      současn&eacute; situace.</span></p>
+    quote: Nechme lidi svobodně rozhodovat o jejich penězích.
+    priorities: <p><span>M&yacute;m c&iacute;lem je zač&iacute;t pracovat na zlep&scaron;en&iacute;
+      reputace Vimperka. Chci, aby na&scaron;e město s bohatou histori&iacute; nebylo
+      spojov&aacute;no jen s negativn&iacute;mi zpr&aacute;vami, kter&eacute; se v
+      posledn&iacute;m obdob&iacute; objevovaly. Je třeba, aby se obyvatel&eacute;
+      i turist&eacute; ve Vimperku c&iacute;tili bezpečně. Chci, aby nikdo ve Vimperku
+      nemusel pochybovat o spr&aacute;vnosti použit&iacute; peněz z městsk&eacute;
+      kasy. Obec mus&iacute; b&yacute;t pro obyvatele oporou ne přek&aacute;žkou.</span></p>
 - Mgr. Pavel Reichart:
     _slug: mgr-pavel-reichart
     photo: /samples/candidates/mgr-pavel-reichart/04.jpg
     occupation: Oblastní manažer ČPP servis
     political_party: bez politické příslušnosti
     age: 35
-    profile: ''
-    priorities: ''
+    email: reichart.volby2014@seznam.cz
+    profile: <p><span>Pavel Reichart je svobodn&yacute;, rod&aacute;k z Hodon&iacute;na,
+      ale ve Vimperku ž</span><span>ije od roku 1981. Po vystudov&aacute;n&iacute;
+      strakonick&eacute; průmyslovky v oboru Železničn&iacute; doprava a přeprava
+      nastoupil do Plzně na Pedagogickou fakultu ZČU, kde v roce 2003 promoval v aprobaci
+      česk&yacute; jazyk - občansk&aacute; v&yacute;chova. Po n&aacute;sledn&eacute;
+      pětilet&eacute; pedagogick&eacute; praxi nastoupil do provozu dvou obchodn&iacute;ch
+      řetězců ve Vimperku. V současn&eacute; době pracuje jako oblastn&iacute; manažer
+      společnosti ČPP servis. Ve voln&eacute;m čase se zab&yacute;v&aacute; hudebn&iacute;
+      produkc&iacute;, publikačn&iacute; činnost&iacute; a dobrovolnou činnost&iacute;
+      v pož&aacute;rn&iacute; ochraně.</span></p>
+    quote: Kultura a společenské vyžití musí být přístupné každému občanovi bez ohledu
+      na jeho příjmy.
+    priorities: "<p>Vimperk mus&iacute; b&yacute;t viditeln&yacute; v&scaron;ude z
+      pozitivn&iacute;ho hlediska. Budu kl&aacute;st důraz na zv&yacute;&scaron;en&iacute;
+      propagace a služeb města Vimperk pro \"cizince\".</p>\r\n<p>Kultura nesm&iacute;
+      b&yacute;t vn&iacute;m&aacute;na jako byznys a mus&iacute; b&yacute;t př&iacute;stupn&aacute;
+      každ&eacute;mu občanovi. Proto se zasad&iacute;m o sn&iacute;žen&iacute; nebo
+      &uacute;pln&eacute; zru&scaron;en&iacute; vstupn&eacute;ho na&nbsp;ofici&aacute;ln&iacute;
+      akce města. Je třeba důsledně kontrolovat tok financ&iacute; do kultury a maxim&aacute;lně
+      podporovat m&iacute;stn&iacute; sdružen&iacute; a spolky při poř&aacute;d&aacute;n&iacute;
+      akc&iacute;.</p>"
 - Michal Jaroš:
     _slug: michal-jaros
     photo: /samples/candidates/michal-jaros/02.jpg
     occupation: Regionální manažer
     political_party: bez politické příslušnosti
     age: 39
-    profile: ''
-    priorities: ''
+    email: vimperk.svobodni.jaros@centrum.cz
+    phone: '774953312'
+    profile: <p><span>Ve Vimperku jsem se narodil roku 1975. Vždy jsem bydlel ve Vimperku
+      a nad&aacute;le bydlet chci. M&aacute;m zde tak&eacute; celou svou rodinu. Pracuji
+      jako region&aacute;ln&iacute; manažer ve st&aacute;le se rozrůstaj&iacute;c&iacute;m
+      velkoobchodu.</span></p>
+    quote: Vrátíme našemu městu jiskru
+    priorities: "<p>M&eacute; c&iacute;le jsou oživit &nbsp;na&scaron;e město a zastavit
+      odliv na&scaron;&iacute;ch obyvatel z Vimperka. Hlavn&iacute; je zajistit bezpečnost
+      každ&eacute;mu ve městě. Podpořit m&iacute;stn&iacute; živnostn&iacute;ky, vytvořit
+      dostatek vyžit&iacute; pro na&scaron;&iacute; ml&aacute;dež a na&scaron;e děti.</p>\r\n<p>Nikdo
+      se za Vimperk nesm&iacute; stydět, nudit se v&nbsp;na&scaron;em městě a nebo
+      vyslovit: Ach jo,&hellip;Vimperk.</p>"
 - Milan Hrubý:
     _slug: michal-hruby
+    photo: /samples/candidates/michal-hruby/beran2.jpg
     occupation: Podnikatel-firemní foto Google
     political_party: bez politické příslušnosti
     age: 27
@@ -64,6 +142,7 @@
     priorities: ''
 - Josef Šísl:
     _slug: josef-sisl
+    photo: /samples/candidates/josef-sisl/beran2.jpg
     occupation: Podnikatel
     political_party: bez politické příslušnosti
     age: 60
@@ -71,35 +150,90 @@
     priorities: ''
 - Jan Kraml:
     _slug: jan-kraml
+    photo: /samples/candidates/jan-kraml/Kraml.jpg
     occupation: Administrátor sítě
     political_party: bez politické příslušnosti
     age: 29
     email: kraml.jan@gmail.com
-    profile: ''
-    priorities: ''
+    profile: <p><span>Jan Kraml se narodil ve Vimperku v&nbsp;roce 1985. Vystudoval
+      elektrotechnickou &scaron;kolu v&nbsp;P&iacute;sku a pot&eacute; na&scaron;el
+      uplatněn&iacute; ve sv&eacute;m milovan&eacute;m oboru informačn&iacute;ch technologi&iacute;
+      v&nbsp;Praze. Nyn&iacute; pracuje na pozici s&iacute;ťov&eacute;ho administr&aacute;tora.Ve
+      sv&eacute;m voln&eacute;m čase r&aacute;d&nbsp;fotografuje.&nbsp;</span></p>
+    quote: 'Možnost občanů kontrolovat rozhodování radnice bez překážek. '
+    priorities: <p><span>Do Vimperka se vrac&iacute;m každ&yacute; v&iacute;kend,
+      ale chci m&iacute;t informace o m&eacute;m městě i když jsem zrovna pracovně
+      mimo město. Budu prosazovat nasazen&iacute; modern&iacute;ch technologi&iacute;
+      pro zlep&scaron;en&iacute; komunikace lid&iacute; s&nbsp;radnic&iacute;. Chci
+      kvalitn&iacute; a dostupn&eacute; informace na internetu a hlavně budu prosazovat
+      zveřejňov&aacute;n&iacute; v&scaron;ech v&yacute;dajů radnice veřejně a dostupně
+      na webov&yacute;ch str&aacute;nk&aacute;ch.</span></p>
 - Ing. Hana Kubovcová:
     _slug: ing-hana-kubovcova
+    photo: /samples/candidates/ing-hana-kubovcova/foto.jpg
     occupation: Customer operations representative
     political_party: bez politické příslušnosti
     age: 26
-    profile: ''
-    priorities: ''
+    email: h.kubovcova@gmail.com
+    phone: 721 348 395
+    profile: <p><em>Ve Vimperku jsem se narodila a vystudovala gymn&aacute;zium, pot&eacute;
+      jsem pokračovala studiem N&aacute;rodohospod&aacute;řsk&eacute; fakulty na V&Scaron;E
+      v Praze. D&iacute;ky sv&yacute;m spoluž&aacute;kům jsem zde jsem měla možnost
+      sezn&aacute;mit se s my&scaron;lenkami Svobodn&yacute;ch, což je pro mě inspirac&iacute;
+      dodnes. V současn&eacute; chv&iacute;li žiji a pracuji v Praze, do Vimperka
+      se pravidelně vrac&iacute;m. Ve voln&eacute;m čase r&aacute;da cestuji, mou
+      velkou radost&iacute; a relaxem je běh.</em></p>
+    priorities: <p><em>Velk&yacute;m probl&eacute;mem Vimperka je odchod produktivn&iacute;
+      č&aacute;sti obyvatel do jin&yacute;ch měst. Jsem typick&yacute;m př&iacute;kladem.
+      Jednou z velk&yacute;ch v&yacute;zev pro zastupitelstvo by proto mělo b&yacute;t
+      udělat maximum pro zatraktivněn&iacute; města pro jeho obyvatele, zlep&scaron;it
+      spolupr&aacute;ci mezi radnic&iacute; a podnikateli a zav&aacute;děn&iacute;
+      minima přek&aacute;žek pro potenci&aacute;ln&iacute; nov&eacute; živnostn&iacute;ky.
+      Vimperk by měl v&iacute;ce čerpat z toho, že se do jeho okol&iacute; sj&iacute;žd&iacute;
+      stovky turistů z cel&eacute; republiky.&nbsp;</em></p>
 - Bc. František Doule:
     _slug: bc-frantisek-doule
+    photo: /samples/candidates/bc-frantisek-doule/doule.png
     occupation: Policista
     political_party: bez politické příslušnosti
     age: 31
-    profile: ''
-    priorities: ''
+    email: doule.volby2014@gmail.com
+    profile: <p>Narodil jsem se v roce 1983 ve Vimperku. V roce 2013 jsem z&iacute;skal
+      bakal&aacute;řsk&yacute; titul v oboru&nbsp;měř&iacute;c&iacute; a v&yacute;početn&iacute;
+      techniky na Př&iacute;rodovědeck&eacute; fakultě JČU. Jsem ženat&yacute;, m&aacute;m
+      dvě děti a v&nbsp;současn&eacute; době jsem př&iacute;slu&scaron;n&iacute;kem
+      Policie ČR. Kromě informačn&iacute;ch technologi&iacute;, je m&yacute;m hlavn&iacute;m&nbsp;kon&iacute;čkem
+      sport, již přes deset let jsem aktivn&iacute;m hr&aacute;čem basketbalov&eacute;ho
+      klubu BK Vimperk.</p>
+    priorities: "<p>Jsem pro maxim&aacute;ln&iacute; zprůhledněn&iacute; činnosti
+      zastupitelstva. Chci, aby ve&scaron;ker&eacute; městsk&eacute; př&iacute;jmy,&nbsp;v&yacute;daje
+      a z&aacute;vazky byly zveřejňov&aacute;ny na webov&yacute;ch str&aacute;nk&aacute;ch
+      města a to nejen v podobě&nbsp;kompletn&iacute;ch smluv, ale i ve formě zjednodu&scaron;en&eacute;
+      a graficky zn&aacute;zorněn&eacute;. Chci proto prosadit&nbsp;celkov&eacute;
+      přepracov&aacute;n&iacute; vzhledu těchto str&aacute;nek do &bdquo;intuitivněj&scaron;&iacute;&ldquo;
+      podoby.</p>\r\n<p>Navrhuji přechod městsk&eacute;ho &uacute;řadu od propriet&aacute;rn&iacute;ho
+      operačn&iacute;ho syst&eacute;mu Windows na&nbsp;svobodn&yacute; operačn&iacute;
+      syst&eacute;m GNU/Linux za &uacute;čelem &uacute;spory n&aacute;kladů na softwarov&eacute;
+      vybaven&iacute;, tak&nbsp;jako se to povedlo v německ&eacute;m Mnichově (&uacute;spora
+      10 mil. eur) a jako se na stejn&yacute; přechod&nbsp;chystaj&iacute; v italsk&eacute;m
+      Tur&iacute;ně (předpokl&aacute;dan&aacute; &uacute;spora 6 mil. eur za 5 let).</p>"
 - Lenka Šenkýřová:
     _slug: lenka-senkyrova
+    photo: /samples/candidates/lenka-senkyrova/david.JPEG__2_.jpg
     occupation: Účetní
     political_party: bez politické příslušnosti
     age: 45
-    profile: ''
-    priorities: ''
+    email: 'lsenkyrova@seznam.cz '
+    profile: <p><span>Je mi 45 let, pracuji jako &uacute;četn&iacute; a m&aacute;m
+      středn&iacute; &scaron;kolu s maturitou. Moment&aacute;lně jsem rozveden&aacute;
+      a m&aacute;m 2 syny.</span></p>
+    quote: Za průmyslové, bezpečné a turisticky vyhledávané město.
+    priorities: "<div>Jsem pro lep&scaron;&iacute; turistick&yacute; ruch a infrastrukturu
+      (v&yacute;stavba dlouho slibovan&yacute;ch kruhov&yacute;ch objezdů). R&aacute;da
+      bych vyře&scaron;ila kriminalitu ve městě hlavně s nepřizpůsobiv&yacute;mi&nbsp;obyvateli.&nbsp;</div>\r\n<div>&nbsp;</div>"
 - Jaroslav Sova:
     _slug: jaroslav-sova
+    photo: /samples/candidates/jaroslav-sova/beran2.jpg
     occupation: Důchodce
     political_party: bez politické příslušnosti
     age: 60
@@ -107,13 +241,21 @@
     priorities: ''
 - Sabina Vaňková:
     _slug: sabina-vankova
+    photo: /samples/candidates/sabina-vankova/PicsArt_1410721891555.jpg
     occupation: Studentka
     political_party: bez politické příslušnosti
     age: 20
-    profile: ''
-    priorities: ''
+    email: sabinka.vankova@seznam.cz
+    fb_profile_url: https://www.facebook.com/SabinkaPat
+    profile: <p><span>Letos jsem dokončila studium a nyn&iacute; pracuji v casinu.
+      R&aacute;da si už&iacute;v&aacute;m život a věnuji se sv&eacute; rodině a př&aacute;telům.&nbsp;</span></p>
+    quote: Ráda si plním sny a můj sen je udělat Vimperk lepším městem.
+    priorities: <p><span>Chci pomoci Vimperku vytvořit charakter. Pozvednout sportovn&iacute;
+      a kulturn&iacute; střediska. Ve Vimperku je spoustu věc&iacute;, kter&eacute;
+      potřebuj&iacute; změnit. Pomozte n&aacute;m je změnit dř&iacute;v než bude pozdě.&nbsp;</span></p>
 - Světlana Kysilová:
     _slug: svetlana-kysilova
+    photo: /samples/candidates/svetlana-kysilova/beran2.jpg
     occupation: Mateřská dovolená
     political_party: bez politické příslušnosti
     age: 42
@@ -121,6 +263,7 @@
     priorities: ''
 - Ing. Tomáš Frček:
     _slug: ing-tomas-frcek
+    photo: /samples/candidates/ing-tomas-frcek/beran2.jpg
     occupation: Student VŠ
     political_party: bez politické příslušnosti
     age: 24
@@ -128,6 +271,7 @@
     priorities: ''
 - Jan Vávra:
     _slug: jan-vavra
+    photo: /samples/candidates/jan-vavra/beran2.jpg
     occupation: Řidič, automechanik
     political_party: bez politické příslušnosti
     age: 23

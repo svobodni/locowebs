@@ -8,37 +8,51 @@ response_type: text/html
 position: 10
 editable_elements:
   main/nadpis: <p>&bdquo;Děkujeme za Va&scaron;e hlasy. Chceme pomoci městu.&ldquo;</p>
+  main/vypis: '999'
 ---
 {% extends parent %}
 
 {% block main %}
+{% capture list_from %}{% editable_control "vypis", options: '1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,9=9,10=10,11=11,12=12,13=13,14=14,15=15,999=nikdy', hint: "Od kolikátého kandidáta se má zobrazovat jen tabulka?", priority: 3 %}999{% endeditable_control %}{% endcapture %}
+
 <div class="container classic-content">
 <h1>{{ page.title }}</h1>
 
-<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
+<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace.", format: "raw"%}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
 </div> <!--/.container -->
 
 <div class="container classic-content">	
 <div class="cand-grid">
 
-{% for candidate in contents.candidates %}
+{% for candidate in contents.candidates limit:list_from %}
 {% cycle 'row_start': '<div class="row">', '', '' %}
 	<div class="col-md-4">
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
-		{% if candidate.photo.url == blank%}{% else %}
+		{% if candidate.photo.url == blank%}
+        <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
+        {% else %}
 		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
 		{% endif %}
 		</a>
 	</div>
-{% if candidate == forloop.last %}
+{% if forloop.last %}
 </div> <!--/.row - last -->
 {% else %}
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
 {% endif %}
 {% endfor %}
+
+<div class="cand-list">
+  <table class="table">
+    {% for candidate in contents.candidates offset:list_from %}
+    <tr><td class="cand-ord">{{ forloop.index | plus:list_from }}.</td><th>{{ candidate.name }}</th><td class="cand-info">{{ candidate.age }} let, {{ candidate.occupation }}, {{ candidate.political_party }}</td></tr>
+	{% endfor %}
+  </table>
+</div> <!--/.cand-list -->
+
 </div> <!--/.cand-grid -->
 
 <p class="text-center"><a class="btn btn-lg btn-default" href="/program" role="button">Jaký je náš volební program?</a></p>

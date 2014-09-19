@@ -31,7 +31,9 @@ editable_elements:
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
 		<span>{{ candidate.occupation }}</span>
-		{% if candidate.photo.url == blank%}{% else %}
+		{% if candidate.photo.url == blank%}
+        <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
+        {% else %}
 		<img src="{{ candidate.photo.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
 		{% endif %}
 		</a>
@@ -42,7 +44,7 @@ editable_elements:
 {% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
 {% endif %}
 {% endfor %}
-  
+
 <div class="cand-list">
   <table class="table">
     {% for candidate in contents.candidates offset:list_from %}

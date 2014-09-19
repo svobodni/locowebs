@@ -6,12 +6,10 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Vyrovnan&eacute; hospodařen&iacute;</li>\r\n<li>Průhledn&eacute;
+    rozhodov&aacute;n&iacute;</li>\r\n<li>Kvalitn&iacute; &scaron;kolstv&iacute; pro
+    v&scaron;echny</li>\r\n<li>V&iacute;ce kulturn&iacute;ho a sportovn&iacute;ho
+    vyžit&iacute;</li>\r\n</ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -64,7 +62,7 @@ editable_elements:
         </div>
     <style>
     .navbar-photo  {
-      background: url('{{ 'hlavicka.jpg' | theme_image_url }}') right top no-repeat;
+      background: url('{{ 'slatina1.jpg' | theme_image_url }}') right top no-repeat;
     }
     </style>
 		<div class="navbar-photo"></div>
@@ -82,8 +80,8 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
-    </div> 
+    <a href="#"><img src="{{ 'POUTAC.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    </div>
   </div> 
 
   <div class="section-gray">
@@ -103,10 +101,10 @@ editable_elements:
       <div class="col-md-6 cand-top-4">
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
-        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }} }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
+        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
+        {% for candidate in contents.candidates limit:2 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
@@ -191,4 +189,4 @@ editable_elements:
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
   </body>
-</html>
+</html>  

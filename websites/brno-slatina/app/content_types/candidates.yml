@@ -1,6 +1,6 @@
 ---
 name: Candidates
-description: Kandidáti do voleb
+description: Kandidáti do slatinského zastupitelstva
 slug: candidates
 label_field_name: name
 order_by: manually

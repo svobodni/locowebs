@@ -1,0 +1,195 @@
+---
+- Jan Papula:
+    _slug: jan-papula
+    photo: /samples/candidates/jan-papula/_DSC4806_bila.jpg
+    occupation: živnostník
+    political_party: Strana svobodných občanů
+    age: 30
+    profile: ''
+    priorities: ''
+- Bc. Simona Žirovnická:
+    _slug: bc-simona-zirovnicka
+    photo: /samples/candidates/bc-simona-zirovnicka/_DSC4765_bila.jpg
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 45
+    profile: ''
+    priorities: ''
+- Mgr. Petr Vašíček:
+    _slug: mgr-petr-vasicek
+    photo: /samples/candidates/mgr-petr-vasicek/petr_zjemnene_vrasky_DSC9592.jpg
+    occupation: ředitel ZŠ
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- Ing. Ivana Samcová:
+    _slug: ing-ivana-samcova
+    photo: /samples/candidates/ing-ivana-samcova/ivana_bez_raminka_DSC9595.jpg
+    occupation: asistentka
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Doc. MUDr. Jaroslav Zvěřina CSc:
+    _slug: doc-mudr-jaroslav-zverina-csc
+    photo: /samples/candidates/doc-mudr-jaroslav-zverina-csc/_DSC4761_bila.jpg
+    occupation: lékař
+    political_party: bez politické příslušnosti
+    age: 71
+    profile: ''
+    priorities: ''
+- Ing. Jiří Nový:
+    _slug: ing-jiri-novy
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 53
+    profile: ''
+    priorities: ''
+- Mgr. Vilém Mikula:
+    _slug: mgr-vilem-mikula
+    occupation: výzkumný pracovník
+    political_party: bez politické příslušnosti
+    age: 51
+    profile: ''
+    priorities: ''
+- Petr Moos:
+    _slug: petr-moos
+    occupation: technik
+    political_party: Strana svobodných občanů
+    age: 44
+    profile: ''
+    priorities: ''
+- Vlastimil Neubauer:
+    _slug: vlastimil-neubauer
+    occupation: programátor
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Martin Škulina:
+    _slug: martin-skulina
+    occupation: hasič
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Kateřina Remišová:
+    _slug: katerina-remisova
+    occupation: ředitelka pobočky oděvního řetězce
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Jiří Kudlič:
+    _slug: jiri-kudlic
+    occupation: obchodní manager
+    political_party: bez politické příslušnosti
+    age: 41
+    profile: ''
+    priorities: ''
+- Matěj Pospíchal:
+    _slug: matej-pospichal
+    occupation: student VŠ
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Martin Češek:
+    _slug: martin-cesek
+    occupation: odborný pracovník
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Jaroslava Rejlková:
+    _slug: jaroslava-rejlkova
+    occupation: účetní
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Soňa Pospíchalová:
+    _slug: sona-pospichalova
+    occupation: manažerka
+    political_party: bez politické příslušnosti
+    age: 49
+    profile: ''
+    priorities: ''
+- Bc. Denisa Plzáková:
+    _slug: bc-denisa-plzakova
+    occupation: zaměstnanec státní správy
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Jarmila Hlinická:
+    _slug: jarmila-hlinicka
+    occupation: signalistka
+    political_party: bez politické příslušnosti
+    age: 59
+    profile: ''
+    priorities: ''
+- Václav Rejlek:
+    _slug: vaclav-rejlek
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Žaneta Šrámková:
+    _slug: zaneta-sramkova
+    occupation: mateřská dovolená
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Andrea Hůlková:
+    _slug: andrea-hulkova
+    occupation: manažerka
+    political_party: bez politické příslušnosti
+    age: 37
+    profile: ''
+    priorities: ''
+- Bc. Filip Čapek:
+    _slug: bc-filip-capek
+    occupation: IT administrátor
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Petr Pistulka:
+    _slug: petr-pistulka
+    occupation: pracovník v IT
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Miroslav Čabák:
+    _slug: miroslav-cabak
+    occupation: barman
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Dominika Kytýrová:
+    _slug: dominika-kytyrova
+    occupation: grafička
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Lucie Remišová:
+    _slug: lucie-remisova
+    occupation: pracovnice v administrativě
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''
+- Denisa Kolářová:
+    _slug: denisa-kolarova
+    occupation: pracovnice v administrativě
+    political_party: bez politické příslušnosti
+    age: 21
+    profile: ''
+    priorities: ''

@@ -2,7 +2,8 @@
 name: Svobodní Brno-Bystrc
 locales: [cs]
 subdomain: brno-bystrc
-domains: [www.brno-bystrc.svobodni.cz, brno-bystrc.svobodni.cz]
+domains: [www.brno-bystrc.svobodni.cz, bystrc.svobodni.cz, www.bystrc.svobodni.cz,
+  brno-bystrc.svobodni.cz]
 seo_title: Svobodní Brno-Bystrc
 meta_keywords: Svobodní Brno-Bystrc
 meta_description: Strana svobodných občanů

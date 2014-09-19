@@ -4,6 +4,11 @@ locales: [cs]
 subdomain: zatec
 domains: [www.zatec.svobodni.cz, zatec.svobodni.cz]
 seo_title: Svobodní Žatec
-meta_keywords: Svobodní Žatec
-meta_description: Strana svobodných občanů
+meta_keywords: Svobodní Žatec, volby Žatec, Strana svobodných občanů, Oldřich Řáha,
+  Aleš Jelínek, Tomáš Petříček, Miroslav Vrábík, Martin Vrbata, Dominik Stroukal,
+  Eva Skleničková, Tomáš Hovorka, Jaroslav Zídek, Zdeněk Michalička, Nella Stroukalová,
+  Luděk Morávek, Martin Hajný, Martin Macháček, Adam Svrčina, Jan Koucký, Pavel Schaller,
+  Jan Klíma, Radka Mráčková, Milan Mikula, oživíme město, živá náměstí, živé parky,
+  živá řeka, ne megalomanii, návrat podniků, kandidáti, koho volit
+meta_description: Strana svobodných občanů Žatec
 timezone: Prague

@@ -1,0 +1,175 @@
+---
+- Ing. Jan Jedlička:
+    _slug: ing-jan-jedlicka
+    occupation: ředitel nemocnice
+    political_party: Strana svobodných občanů
+    age: 55
+    profile: ''
+    priorities: ''
+- Mgr. Jana Janíková:
+    _slug: mgr-jana-janikova
+    occupation: konzultantka OSSZ pro EU
+    political_party: bez politické příslušnosti
+    age: 45
+    profile: ''
+    priorities: ''
+- Ing. Jan Kropáč:
+    _slug: ing-jan-kropac
+    occupation: vedoucí IT
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Mgr. Petr Krátký:
+    _slug: mgr-dot-petr-kratky
+    occupation: advokát
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Lenka Burianková:
+    _slug: lenka-buriankova
+    occupation: ředitelka tanečního studia
+    political_party: bez politické příslušnosti
+    age: 45
+    profile: ''
+    priorities: ''
+- Ing. Martin Viterna:
+    _slug: ing-martin-viterna
+    occupation: ředitel Úřadu práce
+    political_party: bez politické příslušnosti
+    age: 48
+    profile: ''
+    priorities: ''
+- "MUDr. Ondra Bartošová\t":
+    _slug: mudr-ondra-bartosova
+    occupation: lékař
+    political_party: bez politické příslušnosti
+    profile: ''
+    priorities: ''
+- MUDr. Petr Kudrna:
+    _slug: mudr-petr-kudrna
+    occupation: primář ARO
+    political_party: bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
+- Václav Furmánek:
+    _slug: vaclav-furmanek
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- Ing. Ivo Pospíšil:
+    _slug: ing-ivo-pospisil
+    occupation: stavební inženýr
+    political_party: bez politické příslušnosti
+    age: 61
+    profile: ''
+    priorities: ''
+- Jan Pavlík:
+    _slug: jan-pavlik
+    occupation: IT technik
+    political_party: bez politické příslušnosti
+    age: 37
+    profile: ''
+    priorities: ''
+- Vangelis Joanidis:
+    _slug: vangelis-joanidis
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 43
+    profile: ''
+    priorities: ''
+- Ing. Zdeněk Grygárek:
+    _slug: ing-zdenek-grygarek
+    occupation: vedoucí údržby
+    political_party: bez politické příslušnosti
+    age: 61
+    profile: ''
+    priorities: ''
+- MUDr. Petr Krátký:
+    _slug: mudr-petr-kratky
+    occupation: primář chirurgie
+    political_party: bez politické příslušnosti
+    age: 51
+    profile: ''
+    priorities: ''
+- Ing. Karel Dvořák:
+    _slug: ing-karel-dvorak
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 53
+    profile: ''
+    priorities: ''
+- Ing. Marek Pavlišta:
+    _slug: ing-marek-pavlista
+    occupation: obchodní ředitel
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- Ing. Aleš Pavlišta:
+    _slug: jan-kozak
+    occupation: ředitel společnosti
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Jan Kozák:
+    _slug: ing-petr-macek
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 55
+    profile: ''
+    priorities: ''
+- Ing. Petr Macek:
+    _slug: ing-cyril-svozil
+    occupation: technik
+    political_party: bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
+- Ing. Cyril Svozil:
+    _slug: jana-bacova
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 60
+    profile: ''
+    priorities: ''
+- Jana Bacová:
+    _slug: petr-janecka
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- Petr Janečka:
+    _slug: mudr-jiri-duda
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 52
+    profile: ''
+    priorities: ''
+- MUDr. Jiří Duda:
+    _slug: mgr-dita-horalkova
+    occupation: chirurg
+    political_party: bez politické příslušnosti
+    age: 60
+    profile: ''
+    priorities: ''
+- Mgr. Dita Horálková:
+    _slug: ing-vitezslav-macek
+    occupation: advokátní koncipient
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Ing. Vítězslav Macek:
+    _slug: ing-ales-pavlista
+    occupation: ředitel OSSZ
+    political_party: bez politické příslušnosti
+    age: 53
+    profile: ''
+    priorities: ''

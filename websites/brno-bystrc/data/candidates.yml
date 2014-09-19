@@ -1,0 +1,177 @@
+---
+- Ing. Jan Hlaváček:
+    _slug: ing-jan-hlavacek
+    photo: /samples/candidates/ing-jan-hlavacek/BRN_0101-Hlavacek.jpg
+    occupation: auditor a konzultant
+    political_party: Svobodní
+    age: 38
+    profile: '<p style="margin: 0cm 0cm 0pt;"><span style="color: #1f497d; font-family:
+      ''Calibri'',''sans-serif''; font-size: 11pt; mso-fareast-language: EN-US;">Jsem
+      konzultant a auditor procesů. M&yacute;m povol&aacute;n&iacute;m &ndash; a současně
+      kon&iacute;čkem &ndash; je zjednodu&scaron;ovat lidem ve firm&aacute;ch pr&aacute;ci,
+      odstraňovat zbytečnou byrokracii při zachov&aacute;n&iacute; nutn&eacute; dokumentace,
+      zefektivňovat firemn&iacute; procesy a komunikaci, upozorňovat na možnosti korupce
+      a odstraňovat př&iacute;ležitost&iacute; pro tuto korupci. Jsem neust&aacute;le
+      překvapov&aacute;n neefektivnost&iacute; pr&aacute;ce &uacute;řadů a st&aacute;tn&iacute;ch
+      instituc&iacute;, i proto jsem se rozhodl vstoupit do politiky a přičinit se
+      o zjednodu&scaron;en&iacute; a zlevněn&iacute; provozu veřejn&eacute; spr&aacute;vy.
+      Jako vystudovan&yacute; ekonom a zodpovědn&yacute; otec rodiny neuzn&aacute;v&aacute;m
+      život a spotřebu na dluh, proto podporuji my&scaron;lenku vyrovnan&eacute;ho
+      rozpočtu, jak u sebe doma, tak i na v&scaron;ech &uacute;rovn&iacute;ch veřejn&eacute;
+      spr&aacute;vy.</span></p>'
+    quote: V demokracii je politik služebníkem občana, nikoliv jeho vládcem.
+    priorities: ''
+- Bc. Vlastimil Hošek:
+    _slug: bc-vlastimil-hosek
+    occupation: podnikatel a student
+    political_party: Svobodní
+    age: 27
+    profile: ''
+    priorities: ''
+- Adam Dvořáček:
+    _slug: adam-dvorac
+    occupation: výrobce ortéz pro zvířata
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- Ing. arch. Kateřina Hudečková:
+    _slug: ing-arch-katerina-hudeckova
+    occupation: architektka
+    political_party: bez politické příslušnosti
+    age: 41
+    profile: ''
+    priorities: ''
+- Bc. Vratislav Hošek:
+    _slug: bc-vratislav-hosek
+    occupation: student
+    political_party: Svobodní
+    age: 26
+    profile: ''
+    priorities: ''
+- David Němeček:
+    _slug: david-nemecek
+    occupation: živnostník
+    political_party: Svobodní
+    age: 43
+    profile: ''
+    priorities: ''
+- Mgr. Jiří Pivrnec:
+    _slug: mgr-jiri-pivrnec
+    occupation: IT technik
+    political_party: Svobodní
+    age: 39
+    profile: ''
+    priorities: ''
+- Monika Procházková:
+    _slug: monika-prochazkova
+    occupation: obchodní zástupkyně
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Ing. Ján Kubek:
+    _slug: ing-jan-kubek
+    occupation: živnostník
+    political_party: Svobodní
+    age: 33
+    profile: ''
+    priorities: ''
+- Ing. Jan Kalva:
+    _slug: ing-jan-kalva
+    occupation: SW engineer
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Irena Růžičková:
+    _slug: irena-ruzickova
+    occupation: podnikatelka
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Jan Tichý:
+    _slug: jan-tichy
+    occupation: student
+    political_party: Svobodní
+    age: 20
+    profile: ''
+    priorities: ''
+- Ondřej Pavelka:
+    _slug: ondrej-pavelka
+    occupation: softwarový designer
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Lukáš Ruprecht:
+    _slug: lukas-ruprecht
+    occupation: stavař
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Mgr. Lucie Kubeková:
+    _slug: mgr-lucie-kubekov
+    occupation: personalistka
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Ing. Petr Vávra MBA:
+    _slug: ing-petr-vavra-mba
+    occupation: manažer
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Ing. Petr Duchoň:
+    _slug: ing-petr-duchon
+    occupation: IT specialista
+    political_party: Svobodní
+    age: 36
+    profile: ''
+    priorities: ''
+- Bc. Michal Rašovský:
+    _slug: bc-michal-rasovsky
+    occupation: vedoucí IT
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Miroslava Kalvová:
+    _slug: miroslava-kalvov
+    occupation: rodičovská dovolená
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- František Folprecht:
+    _slug: frantisek-folprecht
+    occupation: živnostník
+    political_party: bez politické příslušnosti
+    age: 48
+    profile: ''
+    priorities: ''
+- Veronika Němečková:
+    _slug: veronika-nemeckova
+    occupation: asistentka ředitele
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Petr Mikeš:
+    _slug: petr-mikes
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- MUDr. Tereza Hlaváčková:
+    _slug: mudr-tereza-hlavackova
+    occupation: lékařka
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''

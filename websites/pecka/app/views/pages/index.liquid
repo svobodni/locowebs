@@ -5,6 +5,16 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+editable_elements:
+  /hlavicka_1: kandidát do Senátu
+  /hlavicka_2: za senátní obvod <strong>Praha 9</strong>
+  main/motto_1: Senátor na Vaší straně
+  main/motto_2: ochránce nejen živnostníků a drobných podnikatelů
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Lep&scaron;&iacute; podnikatelsk&eacute;
+    prostřed&iacute;</li>\r\n<li>N&iacute;zk&eacute; daně</li>\r\n<li>Zachov&aacute;n&iacute;
+    česk&eacute; koruny</li>\r\n</ul>"
+  main/o-kandidatovi: "<ul class=\"spec-green-1\">\r\n<li>Autorizovan&yacute; stavitel</li>\r\n<li>M&aacute;
+    př&iacute;telkyni a dceru Jitku</li>\r\n<li>Je členem Svobodn&yacute;ch</li>\r\n</ul>"
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -78,6 +88,12 @@ position: 0
         <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
       </div>
   </div>
+
+  <div class="container text-center">
+    <div class="intro-catcher">
+    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    </div> 
+  </div> 
 
   <div class="section-gray">
   <div class="container">

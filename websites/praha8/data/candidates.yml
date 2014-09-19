@@ -1,0 +1,38 @@
+---
+- Jakub Los:
+    _slug: jakub-los
+    occupation: produkční
+    political_party: Svobodní
+    profile: ''
+    priorities: ''
+- Bc. Josef Vokál:
+    _slug: bc-josef-vokal
+    occupation: jednatel
+    political_party: Svobodní
+    profile: ''
+    priorities: ''
+- Ing. Tomáš Krása:
+    _slug: ing-tomas-krasa
+    occupation: programátor
+    political_party: Svobodní
+    age: 43
+    profile: ''
+    priorities: ''
+- Radek Nováček:
+    _slug: radek-novacek
+    occupation: živnostník
+    political_party: Svobodní
+    profile: ''
+    priorities: ''
+- Andrea Krulišová:
+    _slug: andrea-krulisova
+    occupation: komplementářka
+    political_party: Svobodní
+    profile: ''
+    priorities: ''
+- Bc. Vojtěch Urbánek:
+    _slug: bc-vojtech-urbanek
+    occupation: student
+    political_party: Svobodní
+    profile: ''
+    priorities: ''

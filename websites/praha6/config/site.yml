@@ -2,8 +2,9 @@
 name: Svobodní Praha 6
 locales: [cs]
 subdomain: praha6
-domains: [www.praha6.svobodni.cz, praha6.svobodni.cz]
+domains: [praha6.svobodni.cz]
 seo_title: Svobodní Praha 6
-meta_keywords: Svobodní Praha 6
-meta_description: Strana svobodných občanů
+meta_keywords: Svobodní Praha 6, Svobodní, Strana svobodných občanů, Praha 6, Praha,
+  Volby
+meta_description: Strana svobodných občanů Prahy 6.
 timezone: Prague

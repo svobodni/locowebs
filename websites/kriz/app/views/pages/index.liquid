@@ -5,6 +5,21 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+editable_elements:
+  /hlavicka_1: kandidát do Senátu
+  /hlavicka_2: za senátní obvod <strong>Praha 5</strong>
+  main/motto_1: Stát je špatný sluha a zlý pán.
+  main/motto_2: ''
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Budu vždycky vědět, o čem hlasuji.</li>\r\n<li>Budu
+    vždycky důsledně hlasovat pro zmen&scaron;en&iacute; agendy st&aacute;tu...</li>\r\n<li>Budu
+    se z titulu sv&eacute; funkce snažit upozorňovat na...</li>\r\n</ul>"
+  main/o-kandidatovi: "<ul class=\"spec-purple-1\">\r\n<li><span style=\"line-height:
+    1.5em;\" data-mce-mark=\"1\">tel.: +420&nbsp;<span data-mce-mark=\"1\">777 412
+    321</span></span></li>\r\n<li><span style=\"line-height: 1.5em;\" data-mce-mark=\"1\"><span
+    style=\"line-height: 1.5em;\" data-mce-mark=\"1\">email: <a href=\"mailto:kriz@svobodni.cz\">kriz@svobodni.cz</a></span></span></li>\r\n<li><span
+    style=\"line-height: 1.5em;\"><span style=\"line-height: 1.5em;\"><span style=\"line-height:
+    1.5em;\"><a href=\"https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2400564090\"
+    target=\"_blank\">Transparentn&iacute; &uacute;čet:<br /></a>2400564090 / 2010</span></span></span></li>\r\n</ul>"
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -12,11 +27,10 @@ position: 0
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} - {{ site.name }}
-      | {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ site.seo_title }}{% endif %}</title>
+    <title>{{ page.title }}</title>
 
 	<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.meta_description }}{% endif %}">
-    <meta name="keywords" content="{{ site.meta_keywords }} {{ page.meta_keywords }}">
+    <meta name="keywords" content="{{ site.meta_keywords }}{{ page.meta_keywords }}">
 
     <!-- Bootstrap -->
     <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.min.css" rel="stylesheet">
@@ -31,12 +45,62 @@ position: 0
     <![endif]-->
     {% inline_editor %}
     <style>
-    body {
+    /*body {
       background: url('{{ 'kandidat-bg.jpg' | theme_image_url }}') left top no-repeat;  
-    }   
+    }*/
+    body {
+      background: none;  
+    }
+    h1 {
+      color: #a20000;
+    }
+    ul.nav.navbar-nav li a {
+      color: #a20000;
+    }
+    ul.nav.navbar-nav li a:hover {
+      color: #a20000;
+    }
+    ul.spec-purple-1 li {
+      color: #a20000;
+    }
+    .navbar-number {
+      background: #a20000;
+      /*border: none;*/
+      border: 3px solid #ffffff;
+    }
+    .created-by a {
+      color: #a20000;
+    }
+    .h-spec-purple a {
+      background: #a20000;
+    }
+    .h-spec-purple a:hover {
+      background: #a20000;
+    }
+    .spec-purple-1 li, .spec-green-1 li {
+      background: url(https://svobodni-cms.s3.amazonaws.com/sites/54003255d0be0a5891000229/theme/images/li-spec-red-bg2.png) 0 10px no-repeat;
+      font-size: 25px;
+    }
+    .jumbotron {
+      padding: 30px 30px 0px 30px;
+      margin-bottom: 0px;
+    }
+    .container, .navbar {
+      margin: 0px auto !important;
+    }
     </style>
   </head>
   <body>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54597091-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
@@ -76,8 +140,9 @@ position: 0
 	{% block main %}
   <div class="container">
       <div class="jumbotron text-center">
-        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
-        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
+        <h2 style="/*color: #a20000;*/color: #00654e;">„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
+        <!--<p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>-->
+        <p><img src="https://svobodni-cms.s3.amazonaws.com/sites/54003255d0be0a5891000229/theme/images/krizus.jpg" width="880" /></p>
       </div>
   </div>
 
@@ -85,7 +150,7 @@ position: 0
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h5>Co pro Vás zařídím</h5>
+        <h5>Mohu slíbit tři věci:</h5>
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Oddlužení Českého Krumlova</li>
@@ -96,7 +161,7 @@ position: 0
         <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
       </div>
       <div class="col-md-6">
-      <h5>Kdo je Roman Kříž</h5>
+      <h5>Kontaktní údaje</h5>
         {% editable_text "o-kandidatovi", hint: "Seznam základních informací (optimálně 3) o kandidátovi" %}
         <ul class="spec-green-1">
           <li>Ředitel nemocnice Hodonín</li>
@@ -111,7 +176,7 @@ position: 0
   </div> <!-- /.container -->
   </div> <!-- /.section-gray -->
   
-  <div class="section-white">
+  <div class="section-white" style="display: none;">
   <div class="container">
   <h3 class="text-center h-spec-purple"><a href="/clanky" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
   
@@ -140,7 +205,7 @@ position: 0
   
   <div class="section-gray">
   <div class="container">
-      <div class="fb-like-box" data-href="https://www.facebook.com/svobodni.praha" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+      <div class="fb-like-box" data-href="https://www.facebook.com/svobodni.praha" data-width="978" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
   </div> <!-- /container -->
   </div> <!-- /section-gray -->
 

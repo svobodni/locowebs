@@ -6,12 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Nezadlužená radnice</li>\r\n
+    \         <li>Svobodné podnikání</li>\r\n          <li>Méně regulací</li>\r\n
+    \       </ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -38,6 +35,25 @@ editable_elements:
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     {% inline_editor %}
+    <style type="text/css">
+      .clickable{
+        cursor: pointer;
+      }
+      .clickable::after { 
+   		content: "\ \25BC";
+      }
+      .clickable.active::after { 
+   		content: "\ \25B2";
+      }
+    </style>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-52460090-1', 'auto');
+      ga('send', 'pageview');
+    </script>
   </head>
   <body>
   <div id="fb-root"></div>
@@ -82,7 +98,7 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+<!--    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a> -->
     </div> 
   </div> 
 
@@ -103,10 +119,10 @@ editable_elements:
       <div class="col-md-6 cand-top-4">
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
-        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" width="99" height="131"></a>
+        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url }}" style="max-width: 130px;" height="131"></a>
         {% for candidate in contents.candidates limit:3 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url }}" height="100" style="max-width: 90px;"></a>
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
@@ -190,5 +206,14 @@ editable_elements:
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
-  </body>
+    <script type="text/javascript">// <![CDATA[
+    $( document ).ready(function() {
+      $('.clickable').click(function(){
+        $(this).toggleClass('active');
+        $(this).nextUntil('h2').slideToggle('fast');
+      });
+    });
+    // ]]></script>
+        
+	</body>
 </html>

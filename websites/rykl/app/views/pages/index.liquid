@@ -5,6 +5,17 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+editable_elements:
+  /hlavicka_1: kandidát do Senátu
+  /hlavicka_2: za senátní obvod <strong>Praha 1</strong>
+  main/motto_1: Svoboda a méně korupce pro&nbsp;Karlovarský kraj
+  main/motto_2: bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Oddlužení Českého Krumlova</li>\r\n
+    \         <li>Omezení pravomocí politiků</li>\r\n          <li>Nechám Vám Vaše
+    peníze</li>\r\n        </ul>"
+  main/o-kandidatovi: "<ul class=\"spec-green-1\">\r\n          <li>Ředitel nemocnice
+    Hodonín</li>\r\n          <li>Má ženu a dvě dospělé děti</li>\r\n          <li>Je
+    členem Svobodných</li>\r\n        </ul>"
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -58,7 +69,7 @@ position: 0
           <a class="navbar-brand" href="/">
           <span class="navbar-name"><strong>Aleš Rykl</strong></a>
           
-          <span class="navbar-number">2</span>
+          <span class="navbar-number">12</span>
           
           <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong>Praha 1</strong>{% endeditable_text %}</span></div> 
           <a class="navbar-sublogo" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo-small.png" alt="Svobodní"></a>
@@ -76,8 +87,8 @@ position: 0
 	{% block main %}
   <div class="container">
       <div class="jumbotron text-center">
-        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
-        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
+        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Tady si vymyslíme krásné heslo&nbsp; pro Prahu :){% endeditable_text %}“</h2>
+        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}Spolu to sfoukneme!{% endeditable_text %}</p>
       </div>
   </div>
 
@@ -99,8 +110,8 @@ position: 0
       <h5>Kdo je Aleš Rykl</h5>
         {% editable_text "o-kandidatovi", hint: "Seznam základních informací (optimálně 3) o kandidátovi" %}
         <ul class="spec-green-1">
-          <li>Ředitel nemocnice Hodonín</li>
-          <li>Má ženu a dvě dospělé děti</li>
+          <li>Mluví plynně čtyřmi světovými jazyky</li>
+          <li>Má ženu a dospělou dceru</li>
           <li>Je členem Svobodných</li>
         </ul>
         {% endeditable_text %}

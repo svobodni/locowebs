@@ -162,8 +162,35 @@
     occupation: Návrhář IO
     political_party: Strana svobodných občanů
     age: 32
-    profile: ''
-    priorities: ''
+    profile: '<p style="text-align: justify;"><span>Ing. Richard Star&yacute; se narodil
+      v porodnici nemocnice Krč v prosinci 1981, vyrostl na Praze 4 a Praze 2 (Vinohrady).
+      V současn&eacute; době bydl&iacute; na Praze 11. Po absolvov&aacute;n&iacute;
+      SP&Scaron; sdělovac&iacute; techniky v Pansk&eacute; ulici, obor Technick&eacute;
+      lyceum, v roce 2006 vystudoval a červen&yacute;m diplomem zakončil Fakultu elektrotechniky
+      ČVUT, obor Elektronika. Diplomov&aacute; pr&aacute;ce byla prezentov&aacute;na
+      na evropsk&eacute; konferenci o n&aacute;vrhu integrovan&yacute;ch obvodů ECCTD
+      v Seville ve &Scaron;panělsku. Během studia str&aacute;vil půl roku studiem
+      na univerzitě v Německu. Studiem nabyt&eacute; znalosti v n&aacute;vrhu analogov&yacute;ch
+      obvodů uplatňuje již sedm&yacute;m rokem ve &scaron;v&yacute;carsko-česk&eacute;
+      firmě ASICentrum s.r.o. na pozici Senior Analog Designer. Richard Star&yacute;
+      se před dvěma lety oženil s manželkou Lenkou, s kterou maj&iacute; jednoho syna
+      a čekaj&iacute; brzy dal&scaron;&iacute; př&iacute;růstek do rodiny. Ve sv&eacute;m
+      voln&eacute;m čase se pak věnuje politice a to předev&scaron;&iacute;m na komun&aacute;ln&iacute;
+      &uacute;rovni.</span></p>'
+    priorities: '<p style="text-align: justify;"><span>&bdquo;</span><span>Plně se
+      ztotožňuji s ideou strany Svobodn&yacute;ch občanů a se syst&eacute;mem jej&iacute;ho
+      fungov&aacute;n&iacute; postaven&eacute;ho na &scaron;v&yacute;carsk&yacute;ch
+      principech. Proto jsem se stal i členem t&eacute;to strany. Velmi se mi l&iacute;b&iacute;
+      předev&scaron;&iacute;m vizion&aacute;řsk&aacute; my&scaron;lenka kantonizace
+      Republiky, kdy si regiony mohou vz&aacute;jemně konkurovat a vytv&aacute;řet
+      tak perspektivn&iacute; tržn&iacute;, ale i životn&iacute; prostřed&iacute;.
+      Preferuji proto převeden&iacute; vět&scaron;&iacute;ch pravomoc&iacute; na lok&aacute;ln&iacute;
+      &uacute;roveň, protože věř&iacute;m, že lid&eacute; si sami nejl&eacute;pe dohl&eacute;dnou
+      na to, co je v jejich okol&iacute; potřeba a jak se ona potřeba rychle, kvalitně
+      a n&aacute;kladně uspokoj&iacute;.</span><span>&ldquo;</span><br /><br /><span>&bdquo;</span><span>Jako
+      zastupitel Prahy 11 budu důsledně&nbsp;realizovat program Strany&nbsp;svobodn&yacute;ch
+      občanů, omezovat množstv&iacute; nař&iacute;zen&iacute; a přerozdělov&aacute;n&iacute;
+      a umožňovat občanům Prahy 11 poc&iacute;tit svobodu vlastn&iacute;ho rozhodov&aacute;n&iacute;!</span><span>&ldquo;</span></p>'
 - Ing. Ondřej Calta:
     _slug: ondrej-calta
     photo: /samples/candidates/ondrej-calta/Calta.jpg
@@ -189,35 +216,8 @@
     occupation: Technický konzultant
     political_party: Strana svobodných občanů
     age: 32
-    profile: <p><span>Ing. Richard Star&yacute; se narodil v porodnici nemocnice Krč
-      v prosinci 1981, vyrostl na Praze 4 a Praze 2 (Vinohrady). V současn&eacute;
-      době bydl&iacute; na Praze 11. Po absolvov&aacute;n&iacute; SP&Scaron; sdělovac&iacute;
-      techniky v Pansk&eacute; ulici, obor Technick&eacute; lyceum, v roce 2006 vystudoval
-      a červen&yacute;m diplomem zakončil Fakultu elektrotechniky ČVUT, obor Elektronika.
-      Diplomov&aacute; pr&aacute;ce byla prezentov&aacute;na na evropsk&eacute; konferenci
-      o n&aacute;vrhu integrovan&yacute;ch obvodů ECCTD v Seville ve &Scaron;panělsku.
-      Během studia str&aacute;vil půl roku studiem na univerzitě v Německu. Studiem
-      nabyt&eacute; znalosti v n&aacute;vrhu analogov&yacute;ch obvodů uplatňuje již
-      sedm&yacute;m rokem ve &scaron;v&yacute;carsko-česk&eacute; firmě ASICentrum
-      s.r.o. na pozici Senior Analog Designer. Richard Star&yacute; se před dvěma
-      lety oženil s manželkou Lenkou, s kterou maj&iacute; jednoho syna a čekaj&iacute;
-      brzy dal&scaron;&iacute; př&iacute;růstek do rodiny. Ve sv&eacute;m voln&eacute;m
-      čase se pak věnuje politice a to předev&scaron;&iacute;m na komun&aacute;ln&iacute;
-      &uacute;rovni.</span></p>
-    priorities: "<div>\"Plně se ztotožňuji s ideou strany Svobodn&yacute;ch občanů
-      a se syst&eacute;mem jej&iacute;ho fungov&aacute;n&iacute; postaven&eacute;ho
-      na &Scaron;v&yacute;carsk&yacute;ch principech. Proto jsem se stal i členem
-      t&eacute;to strany. Velmi se mi l&iacute;b&iacute; předev&scaron;&iacute;m vizion&aacute;řsk&aacute;
-      my&scaron;lenka kantonizace Republiky, kdy si regiony mohou vz&aacute;jemně
-      konkurovat a vytv&aacute;řet tak perspektivn&iacute; tržn&iacute; ale i životn&iacute;
-      prostřed&iacute;. Preferuji proto převeden&iacute; vět&scaron;&iacute;ch pravomoc&iacute;
-      na lok&aacute;ln&iacute; &uacute;roveň, protože věř&iacute;m, že lid&eacute;
-      si sami nejl&eacute;pe dohl&eacute;dnou na to, co je v jejich okol&iacute; potřeba
-      a jak se ona potřeba rychle, kvalitně a n&aacute;kladně uspokoj&iacute;.\"<br
-      /><br />&bdquo;Jako zastupitel Prahy 11 budu důsledně&nbsp;realizovat program
-      Strany&nbsp;svobodn&yacute;ch občanů, omezovat množstv&iacute; nař&iacute;zen&iacute;
-      a přerozdělov&aacute;n&iacute; a umožňovat občanům Prahy 11 poc&iacute;tit svobodu
-      vlastn&iacute;ho rozhodov&aacute;n&iacute;!&ldquo;</div>\r\n<p>&nbsp;</p>"
+    profile: ''
+    priorities: ''
 - Bc. Martin Snížek:
     _slug: bc-martin-snizek
     photo: /samples/candidates/bc-martin-snizek/10641178_360114844136820_5190951741479332144_n.jpg

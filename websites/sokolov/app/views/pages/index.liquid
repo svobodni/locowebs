@@ -6,12 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Nezadlužená radnice</li>\r\n
+    \         <li>Svobodné podnikání</li>\r\n          <li>Méně regulací</li>\r\n
+    \       </ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -20,8 +17,8 @@ editable_elements:
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{{ page.title }} - {{ site.name }}
-      | {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ site.seo_title }}{% endif %}</title>
+    <title>{{ page.title }}
+      {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ site.seo_title }}{% endif %}</title>
 
 	<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.meta_description }}{% endif %}">
     <meta name="keywords" content="{{ site.meta_keywords }} {{ page.meta_keywords }}">

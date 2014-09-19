@@ -7,15 +7,21 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
+  main/perex: <p><span>Představujeme V&aacute;m kandid&aacute;ty pro leto&scaron;n&iacute;
+    volby do zastupitelstva Prahy 6. Pod&iacute;vejte se tak&eacute; na&nbsp;</span><a
+    href="/samples/assets/kandidatka.pdf">celou na&scaron;&iacute; kandid&aacute;tn&iacute;
+    listinu</a><span>.</span></p>
+  main/call to action: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
 {% extends parent %}
 
 {% block main %}
 <div class="container classic-content">
-<h1>{{ page.title }}</h1>
+  <h1>{{ page.title }}</h1>
 
-<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
+{% editable_text "perex", hint: "Krátký úvod kandidátky." %}{% endeditable_text %}
+  
+<p class="sub-cite text-center">{% editable_text "call to action", hint: "Vycentrovný call to action." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
 </div> <!--/.container -->
 
 <div class="container classic-content">	

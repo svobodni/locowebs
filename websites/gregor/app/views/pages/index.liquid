@@ -5,6 +5,15 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
+editable_elements:
+  main/motto_1: Svoboda a méně korupce
+  main/motto_2: bojuji za svobodnější Děčínsko, pojďme do toho spolu!
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n<li>Omezen&iacute; pravomoci politiků</li>\r\n<li>Vyrovnan&yacute;
+    rozpočet</li>\r\n<li>Nech&aacute;m V&aacute;m Va&scaron;e pen&iacute;ze</li>\r\n</ul>"
+  main/o-kandidatovi: "<ul class=\"spec-green-1\">\r\n<li>Inžen&yacute;r ekonomie</li>\r\n<li>M&aacute;
+    ženu a jednu dospělou Martinu</li>\r\n<li>Je př&iacute;znivcem Svobodn&yacute;ch</li>\r\n</ul>"
+  /hlavicka_1: kandidát do Senátu
+  /hlavicka_2: za senátní obvod <strong>Děčín</strong>
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -58,7 +67,7 @@ position: 0
           <a class="navbar-brand" href="/">
           <span class="navbar-name"><strong>Vladimír Gregor</strong></a>
           
-          <span class="navbar-number">6</span>
+          
           
           <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong>Děčín</strong>{% endeditable_text %}</span></div> 
           <a class="navbar-sublogo" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo-small.png" alt="Svobodní"></a>
@@ -85,7 +94,7 @@ position: 0
   <div class="container">
     <div class="row">
       <div class="col-md-6">
-        <h5>Co pro Vás zařídím</h5>
+        <h5>Co pro Vás budu prosazovat</h5>
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Oddlužení Českého Krumlova</li>

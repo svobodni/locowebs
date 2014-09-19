@@ -557,5 +557,13 @@
 		"fb_page_name":"svobodnimsk",
 		"region_name": "Moravskoslezský kraj",
 		"region_url": "http://moravskoslezskykraj.svobodni.cz/"
+	},{
+		"name":"praha2",
+		"title":"Svobodní Praha 2",
+		"short_title":"Praha 2",
+		"branch_id":147,
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
 	}
 ]

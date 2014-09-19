@@ -2,7 +2,7 @@
 
 require 'json'
 
-sites = JSON.load(File.open("config/sites.json").read).reject{|site| site["type"]=="candidate"}.collect{|site| site["name"]}.size
+sites = JSON.load(File.open("config/sites.json").read).reject{|site| site["type"]=="candidate"}.collect{|site| site["name"]}
 
 sites.each{|site| 
 	puts "Refreshing #{site}"

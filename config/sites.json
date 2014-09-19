@@ -565,5 +565,13 @@
 		"fb_page_name":"svobodni.praha",
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
+	},{
+		"name":"praha8",
+		"title":"Svobodní Praha 8",
+		"short_title":"Praha 8",
+		"branch_id":134,
+		"fb_page_name":"svobodni.praha",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
 	}
 ]

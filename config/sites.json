@@ -543,5 +543,12 @@
 		"fb_page_name":"svobodni.brno",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"brno-bystrc",
+		"title":"Svobodní Brno-Bystrc",
+		"short_title":"Brno-Bystrc",
+		"fb_page_name":"svobodni.brno",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
 	}
 ]

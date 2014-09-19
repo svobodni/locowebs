@@ -594,5 +594,12 @@
 		"fb_page_name":"svobodni.brno",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"horice",
+		"title":"Svobodní Hořice",
+		"short_title":"Hořice",
+		"fb_page_name":"Svobodní-Hořice",
+		"region_name": "Královehradecký kraj",
+		"region_url": "http://hk.svobodni.cz/"
 	}
 ]

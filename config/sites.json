@@ -587,5 +587,12 @@
 		"fb_page_name":"svobodni.breclav",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"moravsky-krumlov",
+		"title":"Svobodní Moravský Krumlov",
+		"short_title":"Moravský Krumlov",
+		"fb_page_name":"svobodni.brno",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
 	}
 ]

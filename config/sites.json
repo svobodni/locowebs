@@ -1,25 +1,5 @@
 [
 	{
-		"name":"en",
-		"title":"Svobodní - EN",
-		"short_title":"EN"
-	},{
-		"name":"de",
-		"title":"Svobodní - DE",
-		"short_title":"DE"
-	},{
-		"name":"fr",
-		"title":"Svobodní - FR",
-		"short_title":"FR"
-	},{
-		"name":"pl",
-		"title":"Svobodní - PL",
-		"short_title":"PL"
-	},{
-		"name":"se",
-		"title":"Svobodní - SE",
-		"short_title":"SE"
-	},{
 		"name":"gregor",
 		"type":"candidate",
 		"title":"Ing. Vladimír Gregor - Děčín",

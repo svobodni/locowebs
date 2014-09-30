@@ -589,5 +589,12 @@
 		"fb_page_name":"pages/Svobodní-PRAHA-14/575648625872898",
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
+	},{
+		"name":"roudnice",
+		"title":"Svobodní Roudnice",
+		"short_title":"Roudnice",
+		"fb_page_name":"svobodni.ustecky.kraj",
+		"region_name": "Ústecký kraj",
+		"region_url": "http://usteckykraj.svobodni.cz/"
 	}
 ]

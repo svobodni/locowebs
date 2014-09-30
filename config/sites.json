@@ -590,6 +590,13 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"vsetin",
+		"title":"Svobodní Vsetín",
+		"short_title":"Vsetín",
+		"fb_page_name":"pages/Svobodní-Vsetín/156383217865451",
+		"region_name": "Zlínský kraj",
+		"region_url": "http://zlinskykraj.svobodni.cz"
+	},{
 		"name":"roudnice",
 		"title":"Svobodní Roudnice",
 		"short_title":"Roudnice",

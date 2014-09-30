@@ -581,5 +581,13 @@
 		"fb_page_name":"Svobodní-Hořice",
 		"region_name": "Královehradecký kraj",
 		"region_url": "http://hk.svobodni.cz/"
+	},{
+		"name":"praha14",
+		"title":"Svobodní Praha 14",
+		"short_title":"Praha 14",
+		"branch_id":133,
+		"fb_page_name":"pages/Svobodní-PRAHA-14/575648625872898",
+		"region_name": "Praha",
+		"region_url": "http://praha.svobodni.cz"
 	}
 ]

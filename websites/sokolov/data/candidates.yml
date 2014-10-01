@@ -52,21 +52,39 @@
     occupation: živnostník
     political_party: Strana svobodných občanů
     age: 53
-    profile: ''
+    profile: "<p><span>Něco k m&eacute; osobě:</span></p>\r\n<p><span style=\"line-height:
+      1.5em;\">- ženat&yacute;, 4 děti</span><br /><span style=\"line-height: 1.5em;\">-
+      v Sokolově žiji od roku 1986</span><br /><span style=\"line-height: 1.5em;\">-
+      &uacute;spě&scaron;ně podnik&aacute;m od roku 1989&nbsp;</span><br /><span style=\"line-height:
+      1.5em;\">- v posledn&iacute;m volebn&iacute;m obdob&iacute; pracuji v komisi
+      cestovn&iacute;ho ruchu</span><br /><span style=\"line-height: 1.5em;\">- mezi
+      m&eacute; z&aacute;jmy patř&iacute; m&aacute; pr&aacute;ce, protože jsem r&aacute;d
+      mezi lidmi, d&aacute;le cestov&aacute;n&iacute;, kultura, film</span></p>"
     priorities: ''
 - Jiří Tempel:
-    _slug: jiri-tempe
+    _slug: jiri-tempel
     occupation: živnostník
     political_party: Strana svobodných občanů
     age: 33
-    profile: ''
+    profile: <p>V zastupitelstvu se chci zasazovat o transparentn&iacute; hospodařen&iacute;
+      a fungov&aacute;n&iacute; města.</p>
     priorities: ''
 - Václav Bauer:
     _slug: vaclav-bauer
+    photo: /samples/candidates/vaclav-bauer/foto__2_.png
     occupation: finanční analytik
     political_party: Strana svobodných občanů
     age: 29
-    profile: ''
+    profile: <p><span>B&yacute;val&yacute; učitel, dnes třet&iacute; rok ve finančn&iacute;
+      sf&eacute;ře. &Scaron;kolitel N&aacute;rodn&iacute;ho institutu dal&scaron;&iacute;ho
+      vzděl&aacute;v&aacute;n&iacute;. Velkou z&aacute;libou jsou pro něj poč&iacute;tače
+      a poč&iacute;tačov&eacute; hry, d&aacute;le pak tanec, v&iacute;no a etiketa.
+      M&aacute; r&aacute;d v&scaron;e, v čem je syst&eacute;m a ř&aacute;d. Nesn&aacute;&scaron;&iacute;
+      lež, přetv&aacute;řku, nelogičnost, aroganci a n&aacute;sil&iacute; <span>&ndash;</span>&nbsp;tedy
+      kromě toho virtu&aacute;ln&iacute;ho. Do politiky by r&aacute;d přinesl zdrav&yacute;
+      selsk&yacute; rozum a jednoduchost, d&iacute;ky kter&eacute; by byla srozumiteln&aacute;
+      pro v&scaron;echny.&nbsp;</span></p>
+    quote: Není důležité, co se ti stane, ale jak to přijmeš.
     priorities: ''
 - Radek Šupka:
     _slug: radek-supk

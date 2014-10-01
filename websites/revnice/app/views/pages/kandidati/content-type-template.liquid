@@ -29,7 +29,7 @@ content_type: candidates
       <ul>
         <li>{{ candidate.occupation }}</li>
         <li>{{ candidate.political_party }}</li>
-        <li>{{ candidate.age }} let</li>
+        {% if candidate.age != blank %}<li>{{ candidate.age }} let</li>{% endif %}
       </ul>
       <dl class="dl-horizontal">
         {% if candidate.email != blank %}

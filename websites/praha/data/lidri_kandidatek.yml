@@ -3269,20 +3269,16 @@
     volebni_cislo: 1
     jmeno: Ing. Radek Zmátlo
     fotka: /samples/lidri_kandidatek/praha-satalice/zmatlo.png
-    program: "<ul>\r\n<li><span style=\"line-height: 1.5em;\">Zru&scaron;&iacute;me
-      poplatek za psy.</span></li>\r\n<li><span style=\"line-height: 1.5em;\">Budeme
-      trvat na transparentn&iacute;m rozhodov&aacute;n&iacute; radnice a vyrovnan&eacute;m
-      hospodařen&iacute; s prostředky obce.</span></li>\r\n<li><span style=\"line-height:
-      1.5em;\">Zasad&iacute;me se o znovunav&aacute;z&aacute;n&iacute; konstruktivn&iacute;ho
-      dialogu v př&iacute;padu problematick&eacute;ho podnikatelsk&eacute;ho z&aacute;měru
-      \"Velkokapacitn&iacute; tř&iacute;d&iacute;rny odpadů\".</span></li>\r\n</ul>\r\n<p><span
-      data-sheets-value=\"[null,2,&quot;Zru\\u0161\\u00edme poplatek za psy.\\nBudeme
-      trvat na transparentn\\u00edm rozhodov\\u00e1n\\u00ed radnice a vyrovnan\\u00e9m
-      hospoda\\u0159en\\u00ed s prost\\u0159edky obce.\\nZasad\\u00edme se o znovunav\\u00e1z\\u00e1n\\u00ed
-      konstruktivn\\u00edho dialogu v p\\u0159\\u00edpadu problematick\\u00e9ho podnikatelsk\\u00e9ho
-      z\\u00e1m\\u011bru \\&quot;Velkokapacitn\\u00ed t\\u0159\\u00edd\\u00edrny odpad\\u016f\\&quot;.\\n\\n\\n&quot;]\"
-      data-sheets-userformat=\"[null,null,513,[null,0],null,null,null,null,null,null,null,null,0]\"><br
-      /><br /></span></p>"
+    program: <p><span>Sv&yacute;m voličům chceme naslouchat a podporovat je v jejich
+      demokratick&yacute;ch a svobodn&yacute;ch n&aacute;zorech, a to při respektov&aacute;n&iacute;
+      v&scaron;ech platn&yacute;ch z&aacute;konů a pr&aacute;vn&iacute;ch předpisů.
+      Podporujeme zdrav&eacute; podnikatelsk&eacute; prostřed&iacute;, av&scaron;ak
+      za podm&iacute;nky, že svobodn&eacute; podnik&aacute;n&iacute; na soukrom&eacute;m
+      pozemku nesm&iacute; b&yacute;t nadřazeno pr&aacute;vu na neru&scaron;en&eacute;
+      bydlen&iacute; v okol&iacute;. Nejde n&aacute;m o politick&yacute; ani osobn&iacute;
+      prospěch, chceme přispět k rozkvětu městsk&eacute; č&aacute;sti a usilovat o
+      to, aby Satalice zůstaly pro sv&eacute; obyvatele př&iacute;jemn&yacute;m m&iacute;stem
+      k bydlen&iacute;.&nbsp;</span></p>
     hranice: 622.28,121.425 622.41,120.917 623.278,123.443 623.676,124.677 623.787,125.303
       624.083,125.489 624.225,125.533              626.426,126.771 629.555,128.622
       629.796,128.768 629.884,128.821 630.084,128.946 631.067,129.53 631.608,129.712              633.017,130.033

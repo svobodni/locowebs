@@ -1,1 +1,108 @@
---- []
+---
+- RNDr. Jiří Payne:
+    _slug: rndr-jiri-payne
+    occupation: jaderný fyzik
+    political_party: Strana svobodných občanů
+    age: 58
+    email: payne@svobodni.cz
+    profile: ''
+    priorities: ''
+- Bc. Pavel Štross:
+    _slug: bc-pavel-stross
+    occupation: informatik
+    political_party: Strana svobodných občanů
+    age: 27
+    email: stross@svobodni.cz
+    profile: ''
+    priorities: ''
+- Mgr. Jan Paluska, DiS:
+    _slug: mgr-jan-paluska-dis
+    occupation: finanční kontrolor
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''
+- Ivo Slavík:
+    _slug: ivo-slavik
+    occupation: galerista
+    political_party: bez politické příslušnosti
+    age: 52
+    profile: ''
+    priorities: ''
+- Petr Sýkora:
+    _slug: petr-sykora
+    occupation: asistent soudce
+    political_party: Strana svobodných občanů
+    age: 29
+    profile: ''
+    priorities: ''
+- Martin Voráč:
+    _slug: martin-vorac
+    occupation: školník, vychovatel
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Ondřej Brokl:
+    _slug: ondrej-brokl
+    occupation: manažer inventur
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Ondřej Stehlík:
+    _slug: ondrej-stehlik
+    occupation: finanční analytik
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''
+- Jakub Michálek:
+    _slug: jakub-michalek
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 21
+    profile: ''
+    priorities: ''
+- Tomáš Kofroň:
+    _slug: tomas-kofron
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 37
+    profile: ''
+    priorities: ''
+- Ing. Veronika Miňovská:
+    _slug: ing-veronika-minovska
+    occupation: online marketing manager
+    political_party: Strana svobodných občanů
+    age: 27
+    profile: ''
+    priorities: ''
+- Daniel Bareš:
+    _slug: daniel-bares
+    occupation: živnostník
+    political_party: Strana svobodných občanů
+    age: 33
+    profile: ''
+    priorities: ''
+- Jan Moravec:
+    _slug: jan-moravec
+    occupation: pricing expert
+    political_party: Strana svobodných občanů
+    age: 25
+    profile: ''
+    priorities: ''
+- Ing. František Hezina:
+    _slug: ing-frantisek-hezina
+    occupation: znalec - konzultant
+    political_party: Strana svobodných občanů
+    age: 54
+    profile: ''
+    priorities: ''
+- Vít Popp:
+    _slug: vit-popp
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 60
+    profile: ''
+    priorities: ''

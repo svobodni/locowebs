@@ -43,7 +43,7 @@
     priorities: ''
 - Ing. Jan Uhlík:
     _slug: ing-jan-uhlik
-    photo: /samples/candidates/ing-jan-uhlik/avatar.png
+    photo: /samples/candidates/ing-jan-uhlik/uhl_k..jpg
     occupation: lektor finanční gramotnosti
     political_party: bez politické příslušnosti
     age: 30
@@ -71,5 +71,213 @@
     occupation: sommelier
     political_party: bez politické příslušnosti
     age: 38
+    profile: ''
+    priorities: ''
+- Milan Hromádka:
+    _slug: milan-hromadka
+    photo: /samples/candidates/milan-hromadka/P1150654.jpg
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 43
+    profile: ''
+    priorities: ''
+- Martin Kebrle:
+    _slug: martin-kebrle
+    photo: /samples/candidates/martin-kebrle/P1040915.jpg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Bc. Ondřej Schmidt:
+    _slug: ondrej-schmidt
+    photo: /samples/candidates/ondrej-schmidt/Ondrej_Schmidt.jpg
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Ing. Marek Šebesta:
+    _slug: ing-marek-sebesta
+    photo: /samples/candidates/ing-marek-sebesta/_ebesta2..jpg
+    occupation: stavební inženýr
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Petr Scigel:
+    _slug: petr-scigel
+    photo: /samples/candidates/petr-scigel/foto2.jpg
+    occupation: databázový analytik
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Jiří Choreň:
+    _slug: jiri-choren
+    photo: /samples/candidates/jiri-choren/Choren.jpg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Ing. Jaroslava Bystřická:
+    _slug: ing-jaroslava-bystricka
+    photo: /samples/candidates/ing-jaroslava-bystricka/DSCN1975.jpg
+    occupation: účetní
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Jakub Rákos:
+    _slug: jakub-rakos
+    photo: /samples/candidates/jakub-rakos/Jakub_Rakos.png
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Jan Nachtigal:
+    _slug: jan-nachtigal
+    photo: /samples/candidates/jan-nachtigal/635460654580529331.jpg
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 18
+    profile: ''
+    priorities: ''
+- Jakub Romaňák:
+    _slug: jakub-romanak
+    photo: /samples/candidates/jakub-romanak/Romanak_foto.jpg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 22
+    profile: ''
+    priorities: ''
+- Ivana Slunečková:
+    _slug: ivana-sluneckova
+    photo: /samples/candidates/ivana-sluneckova/avatar.png
+    occupation: technik BOZP
+    political_party: bez politické příslušnosti
+    age: 55
+    profile: ''
+    priorities: ''
+- Pavel Kinšt:
+    _slug: pavel-kinst
+    photo: /samples/candidates/pavel-kinst/avatar.png
+    occupation: technik
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Bc. Veronika Kiliánová:
+    _slug: bc-veronika-kilianova
+    photo: /samples/candidates/bc-veronika-kilianova/kili_nov_.e_trgr.jpg
+    occupation: porodní asistentka
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Tomáš Janata:
+    _slug: tomas-janata
+    photo: /samples/candidates/tomas-janata/avatar.png
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Kamila Bystřická:
+    _slug: kamila-bystricka
+    photo: /samples/candidates/kamila-bystricka/IMAG1615.jpg
+    occupation: administrativní pracovnice
+    political_party: bez politické příslušnosti
+    age: 23
+    profile: ''
+    priorities: ''
+- Jaroslav Vimr:
+    _slug: jaroslav-vimr
+    photo: /samples/candidates/jaroslav-vimr/Jaroslav_Vimr-foto.jpeg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Václav Zradička:
+    _slug: vaclav-zradicka
+    photo: /samples/candidates/vaclav-zradicka/P1150634.jpg
+    occupation: dělník
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Jaroslava Hrušková:
+    _slug: jaroslava-hruskova
+    photo: /samples/candidates/jaroslava-hruskova/fotka.jpg
+    occupation: zdravotní sestra
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Šárka Zeisová:
+    _slug: sarka-zeisova
+    photo: /samples/candidates/sarka-zeisova/avatar.png
+    occupation: místopředsedkyně SVJ
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- Ing. Robert Branda:
+    _slug: ing-robert-branda
+    photo: /samples/candidates/ing-robert-branda/rbranda.jpg
+    occupation: finanční manažer
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Arnošt Šebesta:
+    _slug: arnost-sebesta
+    photo: /samples/candidates/arnost-sebesta/avatar.png
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 68
+    profile: ''
+    priorities: ''
+- Ing. Arch. Eva Bradáčová:
+    _slug: ing-arch-eva-bradacova
+    photo: /samples/candidates/ing-arch-eva-bradacova/avatar.png
+    occupation: architekt
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Lenka Pomahačová:
+    _slug: lenka-pomahacova
+    photo: /samples/candidates/lenka-pomahacova/pomaha_ov_..jpg
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Jan Antfeist:
+    _slug: jan-antfeist
+    photo: /samples/candidates/jan-antfeist/avatar.png
+    occupation: kontrolor
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Michaela Fialová:
+    _slug: michaela-fialova
+    photo: /samples/candidates/michaela-fialova/avatar.png
+    occupation: studentka
+    political_party: bez politické příslušnosti
+    age: 18
+    profile: ''
+    priorities: ''
+- MUDr. Gustav Kopejtko:
+    _slug: mudr-gustav-kopejtko
+    photo: /samples/candidates/mudr-gustav-kopejtko/avatar.png
+    occupation: lékař
+    political_party: bez politické příslušnosti
+    age: 60
     profile: ''
     priorities: ''

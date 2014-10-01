@@ -37,8 +37,10 @@ editable_elements:
     <link rel="shortcut icon" href="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/favicon.png" />
     <!--[if IE]><link rel="shortcut icon" href="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/favicon.ico"/><![endif]-->
     {% inline_editor %}
+
   </head>
   <body>
+   
   <div id="fb-root"></div>
   <script>(function(d, s, id) {
 	var js, fjs = d.getElementsByTagName(s)[0];
@@ -159,8 +161,8 @@ editable_elements:
     </div> <!-- /section-gray -->
 
 	{% endblock main %}
-
-	<div class="footer">
+        
+    <div class="footer">
 	<div class="container">
 	<div class="row">
 		<div class="col-md-3"><p>Svobodní Žatec</p> &copy; 2014</div>
@@ -189,5 +191,9 @@ editable_elements:
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
-  </body>
+ 	
+{% google_analytics 'UA-1748697-14' %}
+    </body>
+  
 </html>
+ 

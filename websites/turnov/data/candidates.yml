@@ -56,16 +56,53 @@
     meta_keywords: ' Ing. Pavel Paickr'
     meta_description: ' Ing. Pavel Paickr'
     photo: /samples/candidates/ing-pavel-paickr/Pajki_CROP3.jpg
-    occupation: Technický ředitel vývojové firmy
+    occupation: technický ředitel vývojové firmy
     political_party: Strana svobodných občanů
     age: 33
-    profile: ''
-    quote: Korupce není zneužití systému, je to jeho vlastnost.
-    priorities: ''
+    profile: "<h2><strong>Zaměstn&aacute;n&iacute;</strong></h2>\r\n<p>2004 - 2006:
+      Beko-Engineering s.r.o., Liberec &ndash; konstrukt&eacute;r</p>\r\n<p>2006 &ndash;
+      2008- Kostal CZ,DE &ndash; konstrukt&eacute;r</p>\r\n<p>2008 &ndash; 2011- AKT
+      Plastik&aacute;řsk&aacute; technologie &ndash; vedouc&iacute; projektů</p>\r\n<p>2011
+      &ndash; dosud &ndash; Beko Engineering s.r.o &ndash; vedouc&iacute; projektů</p>\r\n<p>2011
+      &ndash; dosud &ndash; ENTRY Engineering s.r.o &ndash; jednatel, technick&yacute;
+      ředitel</p>\r\n<h2><strong>Vzděl&aacute;n&iacute;</strong></h2>\r\n<p>1995-1999:
+      Gymn&aacute;zium Turnov</p>\r\n<p>1999-2007: TU Liberec, Fakulta strojn&iacute;,
+      Automatick&eacute; syst&eacute;my ř&iacute;zen&iacute;</p>\r\n<h2><strong>Rodina</strong></h2>\r\n<p>Ženat&yacute;,
+      s manželkou Jitkou m&aacute;me dceru Nelu, bydl&iacute;me v Turnově</p>\r\n<h2><strong>Z&aacute;jmy</strong></h2>\r\n<p>Obecně
+      sport aktivně i pasivně v&nbsp;r&aacute;mci časov&yacute;ch možnost&iacute;.
+      Historick&eacute; automobily a technika.</p>\r\n<h2><strong>Kandidatura do zastupitelstva</strong></h2>\r\n<p>Narodil
+      jsem se v&nbsp;Turnově a s&nbsp;několika přest&aacute;vkami zde trvale žiji.
+      Turnov miluji stejně jako svoji rodinu a proto mi z&aacute;lež&iacute; na jeho
+      budoucnosti. Proto kandiduji za Svobodn&eacute;, kteř&iacute; prosazuj&iacute;
+      politick&yacute; model, s&nbsp;n&iacute;mž se ztotožňuji: maxim&aacute;ln&iacute;
+      svobodu jednotlivce a omezen&iacute; byrokracie. Prosazuji my&scaron;lenku,
+      aby lid&eacute; mohli sami rozhodnout, jak se nalož&iacute; s&nbsp;jejich penězi
+      v&nbsp;oblasti sportu a kultury a nepotřebovali k&nbsp;tomu moudr&eacute;ho
+      &uacute;ředn&iacute;ka.&nbsp;</p>"
+    quote: Dávej pravidla, nebo ti je dá někdo jiný a nebudou se ti líbit
+    priorities: "<p>K&nbsp;pojmům modern&iacute;ho slovn&iacute;ku demokracie, jako
+      je Irsk&eacute; referendum nebo Karlovarsk&aacute; losovačka se nově zařadilo
+      Turnovsk&eacute; hlasov&aacute;n&iacute;, neboli &bdquo;Budeme hlasovat tak
+      dlouho, až ta hala projde&ldquo;. Neř&iacute;k&aacute;m absolutn&iacute; NE
+      hokejov&eacute; hale, ale pouze za předpokladu jasn&eacute; shody v&nbsp;ot&aacute;zk&aacute;ch
+      <strong>Kde na to vezmeme, co omez&iacute;me</strong>. Rozhodně nesouhlas&iacute;m
+      s&nbsp;dal&scaron;&iacute;m zadlužov&aacute;n&iacute;m města.</p>\r\n<p>Jako
+      problematick&eacute; vid&iacute;m fungov&aacute;n&iacute; <strong>městsk&eacute;
+      policie</strong>.</p>\r\n<p>Organizace soustřed&iacute;c&iacute; se zejm&eacute;na
+      na bleskurychl&eacute; nasazov&aacute;n&iacute; botiček, &scaron;m&iacute;rov&aacute;n&iacute;
+      lid&iacute; kamerami a měřen&iacute; rychlosti v&nbsp;lidupr&aacute;zdn&yacute;ch
+      &uacute;sec&iacute;ch mi přijde za 8,5 milionu korun ročně poměrně drah&aacute;.
+      Nav&iacute;c po&scaron;kozuje město v&nbsp;oč&iacute;ch turistů, kteř&iacute;
+      po konfrontaci s&nbsp;n&iacute; vzpom&iacute;naj&iacute; na Turnov ve zl&eacute;m.
+      Nad bezpečnost&iacute; dět&iacute; na přechodech potom maj&iacute; bd&iacute;t
+      dobrovoln&iacute;ci z&nbsp;řad důchodců? <strong>Opravdu si potřebujeme dobrovolně
+      platit ozbrojenou represivn&iacute; složku, kter&aacute; přin&aacute;&scaron;&iacute;
+      minimum dobr&eacute;ho? Nen&iacute; zde prostor pro financov&aacute;n&iacute;
+      hokejov&eacute; haly, sn&iacute;žen&iacute; ceny vody nebo opravy silnic a chodn&iacute;ků?</strong></p>"
 - Bc. Ondřej Brustmann:
     _slug: bc-ondrej-brustmann
     photo: /samples/candidates/bc-ondrej-brustmann/ondraN.jpg
-    occupation: podnikatel
+    occupation: spolumajitel výrobní firmy
     political_party: Strana svobodných občanů
     age: 33
     email: ondra@brustmann.cz
@@ -169,7 +206,7 @@
 - Jaroslav Čapek:
     _slug: jaroslav-capek
     photo: /samples/candidates/jaroslav-capek/capaN.jpg
-    occupation: Spolumajitel kavárny Panorama
+    occupation: spolumajitel kavárny Panorama
     political_party: bez politické příslušnosti
     age: 35
     profile: "<h2>Zaměstn&aacute;n&iacute;</h2>\r\n<p>Spolumajitel kav&aacute;rny
@@ -179,7 +216,7 @@
 - Robert Matějka:
     _slug: robert-matejka
     photo: /samples/candidates/robert-matejka/beran.png
-    occupation: podnikatel
+    occupation: majitel obchodu s elektronikou Helia
     political_party: bez politické příslušnosti
     age: 45
     profile: ''

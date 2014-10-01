@@ -6,12 +6,10 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<p><span style=\"font-size: x-large;\"><strong>Posv&iacute;t&iacute;me
+    si na radnici!</strong></span></p>\r\n<ul class=\"spec-purple-1\">\r\n<li>Vyrovnan&eacute;
+    hospodařen&iacute; města</li>\r\n<li>Bezpečn&eacute; město</li>\r\n<li>Svobodn&eacute;
+    parkov&aacute;n&iacute;</li>\r\n</ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -85,7 +83,7 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    
     </div> 
   </div> 
 
@@ -107,9 +105,9 @@ editable_elements:
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
+        {% for candidate in contents.candidates limit:4 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4, 5 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>

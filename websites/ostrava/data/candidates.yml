@@ -1,1 +1,402 @@
---- []
+---
+- Ing. Jiří Zapletal:
+    _slug: ing-jiri-zapletal
+    photo:
+      cs: /samples/candidates/ing-jiri-zapletal/zapletal_foto.jpg
+    occupation: jednatel
+    political_party: Strana svobodných občanů
+    age: 34
+    email: zapletal@svobodni.cz
+    phone: '774883284'
+    homepage_url: moravskoslezskykraj.svobodni.cz
+    profile: ''
+    priorities: ''
+- Vladimír Menšík:
+    _slug: vladimir-mensik
+    photo:
+      cs: /samples/candidates/vladimir-mensik/men__k_detail.jpg
+    occupation: IT technik
+    political_party: Strana svobodných občanů
+    age: 41
+    homepage_url: moravskoslezskykraj.svobodni.cz
+    profile: ''
+    priorities: ''
+- Bc. Robert Rädisch:
+    _slug: robert-radisch
+    photo:
+      cs: /samples/candidates/robert-radisch/Radisch_detail.jpg
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 22
+    homepage_url: moravskoslezskykraj.svobodni.cz
+    profile: ''
+    priorities: ''
+- Ing. Martin Honajzer:
+    _slug: ing-martin-honajzer
+    photo:
+      cs: /samples/candidates/ing-martin-honajzer/Honajzer_detail.jpg
+    occupation: finanční manažer
+    political_party: Strana svobodných občanů
+    age: 45
+    homepage_url: moravskoslezskykraj.svobodni.cz
+    profile: ''
+    priorities: ''
+- Petr Sedláček:
+    _slug: petr-sedlacek
+    photo:
+      cs: /samples/candidates/petr-sedlacek/sedl__ek_detail.jpg
+    occupation: odhadce
+    political_party: Strana svobodných občanů
+    age: 52
+    homepage_url: ostrava-online.cz
+    profile: ''
+    priorities: ''
+- Dagmar Stachová:
+    _slug: dagmar-stachov
+    occupation: důchodkyně
+    political_party: bez politické příslušnosti
+    age: 66
+    profile: ''
+    priorities: ''
+- Richard Gazda:
+    _slug: richard-gazda
+    occupation: podnikatel
+    political_party: Strana svobodných občanů
+    age: 41
+    profile: ''
+    priorities: ''
+- Lucie Dziubová:
+    _slug: lucie-dziubova
+    occupation: úředník
+    political_party: Strana svobodných občanů
+    age: 29
+    profile: ''
+    priorities: ''
+- Ing. Jaromír Dřízgevič:
+    _slug: ing-jaromir-drizgevic
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 59
+    profile: ''
+    priorities: ''
+- Pavel Husarik:
+    _slug: pavel-husarik
+    occupation: jednatel
+    political_party: bez politické příslušnosti
+    age: 64
+    profile: ''
+    priorities: ''
+- Ing. Pavel Pravda:
+    _slug: ing-pavel-pravda
+    occupation: programátor
+    political_party: Strana svobodných občanů
+    age: 36
+    profile: ''
+    priorities: ''
+- Marcel Brabec, DiS.:
+    _slug: marcel-brabec-dis
+    occupation: konzultant IT
+    political_party: Strana svobodných občanů
+    age: 38
+    profile: ''
+    priorities: ''
+- Cornélie Glabazňová:
+    _slug: cornelie-glabaznov
+    occupation: studentka
+    political_party: bez politické příslušnosti
+    age: 22
+    profile: ''
+    priorities: ''
+- Jindřich Šašek:
+    _slug: jindrich-sasek
+    occupation: IT specialista
+    political_party: Strana svobodných občanů
+    age: 44
+    profile: ''
+    priorities: ''
+- Mgr. Jana Moricová:
+    _slug: mgr-jana-moricova
+    occupation: lektorka angličtiny
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Martin Věncek:
+    _slug: martin-vencek
+    occupation: úředník
+    political_party: Strana svobodných občanů
+    age: 32
+    profile: ''
+    priorities: ''
+- Růžena Raždíková:
+    _slug: ruzena-razdikova
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 53
+    profile: ''
+    priorities: ''
+- Ing. Zdeněk Tomis:
+    _slug: ing-zdenek-tomis
+    occupation: technik
+    political_party: Strana svobodných občanů
+    age: 54
+    profile: ''
+    priorities: ''
+- Martina Veselá:
+    _slug: martina-v
+    occupation: obchodní referentka
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Bc. Vojtěch Trlica:
+    _slug: bc-vojtech-trlica
+    occupation: IT - systémový analytik
+    political_party: Strana svobodných občanů
+    age: 30
+    profile: ''
+    priorities: ''
+- Tomáš Buček:
+    _slug: tomas-bucek
+    occupation: produktový manažer
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Ladislav Dvořák:
+    _slug: ladislav-dvorak
+    occupation: technolog
+    political_party: bez politické příslušnosti
+    age: 52
+    profile: ''
+    priorities: ''
+- Petr Medřík:
+    _slug: petr-medrik
+    occupation: manažer
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Pavel Gajdoš:
+    _slug: pavel-gajdos
+    occupation: kontrolor jakosti
+    political_party: Strana svobodných občanů
+    age: 37
+    profile: ''
+    priorities: ''
+- Lenka Netřebská:
+    _slug: lenka-netrebska
+    occupation: pracovnice v logistice
+    political_party: bez politické příslušnosti
+    age: 39
+    profile: ''
+    priorities: ''
+- Bc. Michal Gavlík:
+    _slug: bc-michal-gavlik
+    occupation: grafik
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Ing. Jiří Gregor:
+    _slug: ing-jiri-gregor
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- Mgr. Simona Guzdková:
+    _slug: mgr-simona-guzdkova
+    occupation: projektový manažer
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Ing. Lubomír Moric:
+    _slug: ing-lubomir-moric
+    occupation: programátor
+    political_party: Strana svobodných občanů
+    age: 31
+    profile: ''
+    priorities: ''
+- Ondřej Koutňák:
+    _slug: ondrej-koutnak
+    occupation: stavební projektant
+    political_party: bez politické příslušnosti
+    age: 43
+    profile: ''
+    priorities: ''
+- Ing. Milan Maďa:
+    _slug: ing-milan-ma
+    occupation: ekonom
+    political_party: bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
+- Jan Kovařčík:
+    _slug: jan-kovarcik
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 37
+    profile: ''
+    priorities: ''
+- Eva Zapletalová:
+    _slug: eva-zaple
+    occupation: důchodkyně
+    political_party: bez politické příslušnosti
+    age: 62
+    profile: ''
+    priorities: ''
+- Barbora Ožanová:
+    _slug: barbora-ozanova
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- Jan Maďa:
+    _slug: jan-mada
+    occupation: zaměstnanec v IT
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Eva Rampáčková:
+    _slug: eva-rampackov
+    occupation: sanitářka
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Šimon Navrátilík:
+    _slug: simon-navratilik
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 21
+    profile: ''
+    priorities: ''
+- Jaroslav Marušák:
+    _slug: jaroslav-marusak
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- Roman Rampáček:
+    _slug: roman-rampac
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 18
+    profile: ''
+    priorities: ''
+- Petr Hadaščok:
+    _slug: petr-hadascok
+    occupation: jednatel
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- David Floryk:
+    _slug: david-floryk
+    occupation: projektový manažer
+    political_party: bez politické příslušnosti
+    age: 47
+    profile: ''
+    priorities: ''
+- Antonín Zapletal:
+    _slug: antonin-zapletal
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 68
+    profile: ''
+    priorities: ''
+- Ing. Vladimír Vašíček:
+    _slug: ing-vladimir-vasicek
+    occupation: projektant
+    political_party: bez politické příslušnosti
+    age: 42
+    profile: ''
+    priorities: ''
+- Petr Hadaščok:
+    _slug: petr-hadascok-1
+    occupation: důchodce
+    political_party: bez politické příslušnosti
+    age: 67
+    profile: ''
+    priorities: ''
+- Lukáš Kudela:
+    _slug: lukas-kudela
+    occupation: manažer
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- Edita Kawková:
+    _slug: edita-kawkova
+    occupation: sociální pracovnice
+    political_party: bez politické příslušnosti
+    age: 44
+    profile: ''
+    priorities: ''
+- Martin Dřízgevič:
+    _slug: martin-drizgevic
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Karla Grunová:
+    _slug: karla-grunov
+    occupation: důchodkyně
+    political_party: bez politické příslušnosti
+    age: 66
+    profile: ''
+    priorities: ''
+- Ing. Ida Menšíková:
+    _slug: ing-ida-mensikova
+    occupation: grafička
+    political_party: bez politické příslušnosti
+    age: 41
+    profile: ''
+    priorities: ''
+- Blanka Cornean:
+    _slug: blanka-cornean
+    occupation: projektový koordinátor
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Jaroslav Dyba:
+    _slug: jaroslav-dyba
+    occupation: programátor
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- Marie Madigarová:
+    _slug: marie-madigarova
+    occupation: prodavačka
+    political_party: bez politické příslušnosti
+    age: 57
+    profile: ''
+    priorities: ''
+- Martina Dziubová:
+    _slug: martina-dziubova
+    occupation: zaměstnance cestovní kanceláře
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- Václav Maďa:
+    _slug: vaclav-mada
+    occupation: zaměstnance IT
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- Ing. Aleš Kozelka:
+    _slug: ing-ales-kozelk
+    occupation: projektant mostů
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''

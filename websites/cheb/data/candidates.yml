@@ -38,7 +38,7 @@
     political_party: člen Svobodných
     age: 51
     profile: |-
-      <p><span style="font-family: helvetica;"><em><span style="color: black;">Pracuje na Z&aacute;padočesk&eacute; Univerzitě, Fakultě ekonomick&eacute; v Chebu, jako spr&aacute;vce informačn&iacute;ch technologi&iacute;. Zde tak&eacute; č&aacute;stečně vyučuje. Kromě toho působ&iacute; i na Central Europe Management Institute Praha, kde vyučuje předmět Informačn&iacute; syst&eacute;my veřejn&eacute; spr&aacute;vy.</span></em></span></p>
+      <p><span style="font-family: helvetica;"><em><span style="color: black;">Pracuje na&nbsp;Fakultě ekonomick&eacute; v Chebu jako spr&aacute;vce informačn&iacute;ch technologi&iacute;&nbsp;a tak&eacute; zde č&aacute;stečně vyučuje. Kromě toho působ&iacute;&nbsp;na Central Europe Management Institute Praha, kde vyučuje předmět Informačn&iacute; syst&eacute;my veřejn&eacute; spr&aacute;vy.</span></em></span></p>
       <p><span style="font-family: helvetica;"><em><span style="color: black;">Členem Strany svobodn&yacute;ch občanů je od roku 2012.&nbsp;V současn&eacute; době je&nbsp;m&iacute;stopředsedou krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch.</span></em></span></p>
       <p><span style="font-family: helvetica;"><em><span style="color: black;">Je předsedou Komise pro informačn&iacute; z&aacute;ležitosti, kde se snaž&iacute; prosazovat otevřenost a průhlednost hospodařen&iacute; Radnice, maxim&aacute;ln&iacute; využ&iacute;v&aacute;n&iacute; informačn&iacute;ch technologi&iacute; k zaji&scaron;těn&iacute; informovanosti občanů a tak&eacute; politickou vyv&aacute;ženost webu a Radničn&iacute;ch listů.</span></em></span></p>
       <p><span style="font-family: helvetica;"><em><span style="color: black;">Jeho kon&iacute;čkem je hudba,&nbsp;předev&scaron;&iacute;m jazzov&aacute; a klasick&aacute;. Zp&iacute;v&aacute; ve sboru při chebsk&eacute; katolick&eacute; farnosti.</span></em></span></p>
@@ -50,11 +50,29 @@
 - Ladislav Tkaczyszyn:
     _slug: ladislav-tkaczyszyn
     photo: /samples/candidates/ladislav-tkaczyszyn/Tkaca1.png
-    occupation: IT technik
+    occupation: IT technik, OSVČ - firma Komtech
     political_party: člen Svobodných
     age: 46
-    profile: ''
-    priorities: ''
+    profile: |-
+      <p><span style="font-family: arial,helvetica,sans-serif; font-size: large;"><em><span style="color: #222222; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: CS;">Je př&iacute;znivcem Svobodn&yacute;ch od r. 2010, členem od r. 2012.</span></em></span></p>
+      <p><span style="font-family: arial,helvetica,sans-serif; font-size: large;"><em><span style="color: #222222; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: CS;">Je&nbsp;členem Majetkopr&aacute;vn&iacute; komise od r. 2010</span></em></span></p>
+      <p style="margin: 0cm 0cm 0pt; line-height: normal;"><span style="color: #222222; font-family: 'Arial','sans-serif'; font-size: 12pt; mso-fareast-font-family: 'Times New Roman'; mso-fareast-language: CS;">&nbsp;</span></p>
+    priorities: |-
+      <p><span style="font-family: %value; font-size: large;"><strong><span style="text-decoration: underline;">Volte mě, protože:</span></strong></span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Svobodn&iacute; maj&iacute; jasn&yacute; program (nejsme neurčit&eacute; uskupen&iacute;)</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem pro vyrovnan&yacute; rozpočet</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Chci zachov&aacute;n&iacute; městsk&eacute; zeleně m&iacute;sto betonu a asfaltu</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem proti klientelismu na radnici &ndash; upřednostňov&aacute;n&iacute; spř&aacute;telen&yacute;ch firem (v&yacute;hody jedněm na &uacute;kor druh&yacute;ch)</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem proti vytv&aacute;řen&iacute; zbytečn&yacute;ch funkc&iacute; (3. m&iacute;stostarosta) &ndash; u&scaron;etřen&eacute; miliony se hod&iacute; pro sport, kulturu &hellip;</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem proti regulaci otv&iacute;rac&iacute; doby, př&iacute;kazům i v&scaron;ech dal&scaron;&iacute;ch z&aacute;ležitost&iacute;, t&yacute;kaj&iacute;c&iacute;ch se na&scaron;ich životů</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem pro podnik&aacute;n&iacute; i občansk&yacute; život bez regulac&iacute;</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Chci průhlednost hospodařen&iacute; města i jeho dceřin&yacute;ch firem</span><br /><span style="font-family: %value; font-size: large;">&nbsp;&nbsp;(Chetes &ndash; čistota za rozumn&eacute; pen&iacute;ze, CHEVAK &ndash; voda pod kontrolou)</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Jsem pro zru&scaron;en&iacute; vět&scaron;iny poplatků - na provoz města mus&iacute; stačit vybran&eacute; daně</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Chci parkov&aacute;n&iacute; zdarma pro v&scaron;echny občany Chebu</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;-&nbsp;Chci, aby město pečovalo o historick&yacute; fond a nestavělo zbytečn&eacute; novostavby</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Chci městskou policii pro klid a bezpečnost občanů, ne jen vyb&iacute;raj&iacute;c&iacute; snadn&eacute; pokuty</span></p>
+      <p><span style="font-family: %value; font-size: large;">&nbsp;- Protože Svobodn&iacute; jsou jednička :-)</span></p>
+      <p><span style="font-family: %value; font-size: large;"><em>&nbsp;</em></span></p>
 - Pavel Pagáč:
     _slug: pavel-pagac
     photo: /samples/candidates/pavel-pagac/Pagac1.png

@@ -3,7 +3,7 @@
     _slug: bc-tomas-stampach
     photo: /samples/candidates/bc-tomas-stampach/S1_Tomas_Stampach_600.jpg
     occupation: specialista veřejných zakázek
-    political_party: Stana svobodných občanů
+    political_party: Strana svobodných občanů
     age: 29
     email: tstampach@gmail.com
     phone: 776 088 872
@@ -36,21 +36,24 @@
     phone: 602 78 78 78
     fb_profile_url: https://www.facebook.com/mojmir.mikulas
     profile: "<p style=\"text-align: justify;\"><br />Mojm&iacute;r Mikul&aacute;&scaron;
-      je rodil&yacute; Žižkov&aacute;k. Cel&yacute; život tak&eacute; na Praze 3 žije,
+      je rodil&yacute; Žižkov&aacute;k. Cel&yacute; život na Praze 3 tak&eacute; žije,
       dnes už i se svou ženou a dvěma dětmi. D&iacute;ky t&eacute;to pevn&eacute;
-      lok&aacute;ln&iacute; vazbě vn&iacute;m&aacute; v&scaron;echny přednosti na&scaron;&iacute;
-      městsk&eacute; č&aacute;sti, ale zn&aacute; i jej&iacute; probl&eacute;my.</p>\r\n<p
-      style=\"text-align: justify;\">Z&aacute;kladn&iacute; &scaron;kolu absolvoval
-      na Praze 3 v&nbsp;ulici Chelčick&eacute;ho, pot&eacute; vystudoval gymn&aacute;zium.
-      V&nbsp;roce 1992 &uacute;spě&scaron;ně ukončil studium na ČVUT, Fakultě stavebn&iacute;,
-      kde se věnoval oboru Ekonomika a ř&iacute;zen&iacute;.<br /> Posledn&iacute;ch
-      10 let je jednatelem mal&eacute; firmy, kter&aacute; se věnuje podnik&aacute;n&iacute;
+      lok&aacute;ln&iacute; vazbě vn&iacute;m&aacute; v&scaron;echny kr&aacute;sy
+      a přednosti na&scaron;&iacute; městsk&eacute; č&aacute;sti, ale zn&aacute; i
+      jej&iacute; probl&eacute;my.</p>\r\n<p style=\"text-align: justify;\">Z&aacute;kladn&iacute;
+      &scaron;kolu absolvoval na Praze 3 v&nbsp;ulici Chelčick&eacute;ho, pot&eacute;
+      vystudoval gymn&aacute;zium. V&nbsp;roce 1992 &uacute;spě&scaron;ně ukončil
+      studium na ČVUT, Fakultě stavebn&iacute;, kde se věnoval oboru Ekonomika a ř&iacute;zen&iacute;.<br
+      />M&aacute; r&aacute;d sport. V ž&aacute;kovsk&eacute;m a dorosteneck&eacute;m
+      věku hr&aacute;l fotbal za Viktorku Žižkov.<br /> Posledn&iacute;ch 10 let je
+      jednatelem mal&eacute; firmy, kter&aacute; se věnuje podnik&aacute;n&iacute;
       v oblasti cestovn&iacute;ho ruchu a nemovitost&iacute; se zaměřen&iacute;m na
       Rakousko.</p>\r\n<p style=\"text-align: justify;\">Před vstupem do Svobodn&yacute;ch
       nikdy nebyl členem ž&aacute;dn&eacute; politick&eacute; strany. V leto&scaron;n&iacute;ch
       komun&aacute;ln&iacute;ch volb&aacute;ch kandiduje jako &bdquo;dvojka Svobodn&yacute;ch&ldquo;
-      na Praze 3 a figuruje tak&eacute; na 11.m&iacute;stě kandid&aacute;tky do MHMP</p>\r\n<p><br
-      /><br /></p>"
+      na Praze 3 a figuruje tak&eacute; na 11.m&iacute;stě kandid&aacute;tky do MHMP.
+      V zastupitelstvu je připraven věcně a slu&scaron;ně realizovat program Svobodn&aacute;
+      Praha 3.</p>"
     quote: „Cena za apatii vůči politice je to, že vám vládnou zlí lidé“ – Platón
     priorities: ''
 - Ing. Mgr. Tomáš Eliáš:
@@ -88,7 +91,7 @@
     priorities: ''
 - Ing. Jan Stoss, CSc.:
     _slug: ing-jan-stoss-csc
-    photo: /samples/candidates/ing-jan-stoss-csc/stoss_600x450.jpg
+    photo: /samples/candidates/ing-jan-stoss-csc/stoss2_600.jpg
     occupation: stavební inženýr
     political_party: Strana svobodných občanů
     age: 73
@@ -141,17 +144,23 @@
 - Erik Vlach:
     _slug: erik-vlach
     photo: /samples/candidates/erik-vlach/avatar_svobodny.png
+    occupation: řidič
+    political_party: Strana svobodných občanů
+    age: 36
     profile: ''
     priorities: ''
 - Martin Milota:
     _slug: martin-milota
     photo: /samples/candidates/martin-milota/avatar_svobodny.png
+    occupation: grafik
+    political_party: Strana svobodných občanů
+    age: 28
     profile: ''
     priorities: ''
 - Bc. Marek Korejs:
     _slug: bc-marek-korejs
     photo: /samples/candidates/bc-marek-korejs/avatar_svobodny.png
-    occupation: Student ekonomie
+    occupation: student ekonomie
     political_party: Strana svobodných občanů
     age: 23
     email: korejsmarek@email.cz
@@ -168,30 +177,188 @@
 - Jan Franěk:
     _slug: jan-franek
     photo: /samples/candidates/jan-franek/avatar_svobodny.png
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 52
     profile: ''
     priorities: ''
 - Bc. Marcela Mojžíšová:
     _slug: bc-marcela-mojzisova-dis
     photo: /samples/candidates/bc-marcela-mojzisova-dis/avatar_svobodny.png
+    occupation: key account manager
+    political_party: Strana svobodných občanů
+    age: 32
     profile: ''
     priorities: ''
 - Ing. Filip Procházka:
     _slug: ing-filip-prochazka
     photo: /samples/candidates/ing-filip-prochazka/avatar_svobodny.png
+    occupation: jednatel
+    political_party: bez politické příslušnosti
+    age: 43
     profile: ''
     priorities: ''
 - Ing. Zuzana Krausová:
     _slug: ing-zuzana-krausova
     photo: /samples/candidates/ing-zuzana-krausova/avatar_svobodny.png
+    occupation: account manager
+    political_party: bez politické příslušnosti
+    age: 44
     profile: ''
     priorities: ''
 - Jakub Hejduk:
     _slug: jakub-hejduk
     photo: /samples/candidates/jakub-hejduk/avatar_svobodny.png
+    occupation: manažer projekční kanceláře
+    political_party: bez politické příslušnosti
+    age: 43
     profile: ''
     priorities: ''
 - Mgr. Pavlína Malinová:
     _slug: mgr-pavlina-malinova
     photo: /samples/candidates/mgr-pavlina-malinova/avatar_svobodny.png
+    occupation: učitelka ZŠ
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- Pavel Fuksa:
+    _slug: pavel-fuksa
+    occupation: konzultant / project manager
+    age: 34
+    profile: ''
+    priorities: ''
+- Bc. Jana Horsáková:
+    _slug: bc-jana-horsakova
+    occupation: sociální pracovnice
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- Ing. Martina Kotrčová:
+    _slug: ing-martina-kotrcova
+    occupation: daňový poradce
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- Roman Zouza:
+    _slug: roman-zouza
+    occupation: výčepní
+    political_party: bez politické příslušnosti
+    age: 46
+    profile: ''
+    priorities: ''
+- Ing. Dana Pinkasová:
+    _slug: ing-dana-pinkasova
+    occupation: finanční konzultant
+    political_party: bez politické příslušnosti
+    age: 40
+    profile: ''
+    priorities: ''
+- Pavel Polda:
+    _slug: pavel-polda
+    occupation: obchodník na kapitálových trzích
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- Ing. Jana Tázlerová:
+    _slug: ing-jana-tazlerova
+    occupation: ekonom
+    political_party: bez politické příslušnosti
+    age: 47
+    profile: ''
+    priorities: ''
+- Ing. Arch. Pavel Kraus:
+    _slug: ing-arch-pavel-kraus
+    occupation: architekt
+    political_party: bez politické příslušnosti
+    age: 58
+    profile: ''
+    priorities: ''
+- Martin Syrový:
+    _slug: martin-syrovy
+    occupation: podnikatel v hostinské činnosti
+    political_party: bez politické příslušnosti
+    age: 35
+    profile: ''
+    priorities: ''
+- Mgr. Jana Bártová:
+    _slug: mgr-jana-bartova
+    occupation: manažer obchodu
+    political_party: bez politické příslušnosti
+    age: 26
+    profile: ''
+    priorities: ''
+- Tomáš Marek:
+    _slug: tomas-marek
+    occupation: mediální a ekonomický poradce
+    political_party: bez politické příslušnosti
+    age: 49
+    profile: ''
+    priorities: ''
+- Helena Vlachová:
+    _slug: helena-vlachova
+    occupation: důchodkyně
+    political_party: bez politické příslušnosti
+    age: 60
+    profile: ''
+    priorities: ''
+- Roman Novák:
+    _slug: roman-novak
+    photo: /samples/candidates/roman-novak/S_28_Roman_Nov_k_600.jpg
+    occupation: výčepní
+    political_party: bez politické příslušnosti
+    age: 43
+    profile: ''
+    priorities: ''
+- Jan Mandík:
+    _slug: jan-mandik
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 18
+    profile: ''
+    priorities: ''
+- Ing. Martin Urbanec:
+    _slug: ing-martin-urbanec
+    occupation: stavební inženýr
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- Mgr. Ondřej Horsák:
+    _slug: mgr-ondrej-horsak
+    occupation: knihovník
+    political_party: bez politické příslušnosti
+    age: 34
+    profile: ''
+    priorities: ''
+- Oldřich Štros:
+    _slug: oldrich-stross
+    occupation: student
+    political_party: Strana svobodných občanů
+    age: 18
+    profile: ''
+    priorities: ''
+- RNDr. Pavel Ložek:
+    _slug: rndr-pavel-lozek
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 67
+    profile: ''
+    priorities: ''
+- Filip Kraus:
+    _slug: filip-kraus
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 20
+    profile: ''
+    priorities: ''
+- Zdeněk Bělka:
+    _slug: zdenek-belka
+    occupation: vývojář software
+    political_party: bez politické příslušnosti
+    age: 33
     profile: ''
     priorities: ''

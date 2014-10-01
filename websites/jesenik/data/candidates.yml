@@ -1,6 +1,7 @@
 ---
 - Ing. Jan Jedlička:
     _slug: ing-jan-jedlicka
+    photo: /samples/candidates/ing-jan-jedlicka/jedlicka_maly.jpg
     occupation: ředitel nemocnice
     political_party: Strana svobodných občanů
     age: 55
@@ -8,6 +9,7 @@
     priorities: ''
 - Mgr. Jana Janíková:
     _slug: mgr-jana-janikova
+    photo: /samples/candidates/mgr-jana-janikova/jan_kova_maly.JPG
     occupation: konzultantka OSSZ pro EU
     political_party: bez politické příslušnosti
     age: 45
@@ -15,6 +17,7 @@
     priorities: ''
 - Ing. Jan Kropáč:
     _slug: ing-jan-kropac
+    photo: /samples/candidates/ing-jan-kropac/kropac.jpg
     occupation: vedoucí IT
     political_party: bez politické příslušnosti
     age: 42
@@ -22,6 +25,7 @@
     priorities: ''
 - Mgr. Petr Krátký:
     _slug: mgr-dot-petr-kratky
+    photo: /samples/candidates/mgr-dot-petr-kratky/kratky_maly.jpg
     occupation: advokát
     political_party: bez politické příslušnosti
     age: 29
@@ -29,6 +33,7 @@
     priorities: ''
 - Lenka Burianková:
     _slug: lenka-buriankova
+    photo: /samples/candidates/lenka-buriankova/buriankova_maly.jpg
     occupation: ředitelka tanečního studia
     political_party: bez politické příslušnosti
     age: 45

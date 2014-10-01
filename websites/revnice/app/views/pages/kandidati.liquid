@@ -7,8 +7,8 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/nadpis: ''
   main/vypis: '999'
+  main/nadpis: ''
 ---
 {% extends parent %}
 
@@ -30,7 +30,7 @@ editable_elements:
 		<a href="/kandidati/{{ candidate._slug }}">
 		<em>{{forloop.index}}.</em>
 		<strong>{{ candidate.name }}</strong>
-		<span>{{ candidate.occupation }}</span>
+		<span>{% if candidate.occupation_short == blank%}{{ candidate.occupation }}{% else %}{{ candidate.occupation_short }}{% endif %}</span>
 		{% if candidate.photo.url == blank%}
         <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
         {% else %}

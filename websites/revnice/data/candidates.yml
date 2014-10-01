@@ -6,18 +6,18 @@
     occupation_short: Manažer, zastupitel města
     political_party: bez politické příslušnosti
     age: 34
-    email: jirka@buchal.cz
+    email: ''
     fb_profile_url: ''
-    profile: <p>V Řevnic&iacute;ch žiji od sv&eacute;ho narozen&iacute; a zde i od
+    profile: "<p>V Řevnic&iacute;ch žiji od sv&eacute;ho narozen&iacute; a zde i od
       roku 1999 podnik&aacute;m. 8 let jsem vedl vod&aacute;cko-turistick&yacute;
-      odd&iacute;l <a href="http://tulaci.cz/" target="_blank">Tul&aacute;ci</a> a
-      již 12 let se snaž&iacute;m pom&aacute;hat zlep&scaron;ovat na&scaron;e město
-      v zastupitelstvu města.</p>
-    priorities: <p>Zaj&iacute;m&aacute;m se hlavně o protipovodňovou a ekonomickou
-      problematiku.&nbsp; M&aacute;m dvě děti nav&scaron;těvuj&iacute;c&iacute; Z&Scaron;
-      Řevnice a několik zdej&scaron;&iacute;ch kroužků. V n&aacute;sleduj&iacute;c&iacute;ch
+      odd&iacute;l <a href=\"http://tulaci.cz/\" target=\"_blank\">Tul&aacute;ci</a>
+      a již 12 let se snaž&iacute;m pom&aacute;hat zlep&scaron;ovat na&scaron;e město
+      v zastupitelstvu města.</p>\r\n<p>M&aacute;m dvě děti nav&scaron;těvuj&iacute;c&iacute;
+      Z&Scaron; Řevnice a několik zdej&scaron;&iacute;ch kroužků.&nbsp;V n&aacute;sleduj&iacute;c&iacute;ch
       čtyřech letech bych byl r&aacute;d členem Městsk&eacute; rady a pom&aacute;hal
-      důsledně prosazovat n&aacute;&scaron; program.&nbsp;</p>
+      důsledně prosazovat n&aacute;&scaron; program.&nbsp;</p>"
+    priorities: <p>Zaj&iacute;m&aacute;m se hlavně o protipovodňovou a ekonomickou
+      problematiku.</p>
 - Ing. Martin Sudek:
     _slug: martin-sudek
     photo: /samples/candidates/martin-sudek/sudek.jpg
@@ -56,7 +56,13 @@
     occupation_short: Pracovník v lesním hospodářství
     political_party: bez politické příslušnosti
     age: 34
-    profile: ''
+    profile: <p>Od sv&eacute;ho dětstv&iacute; jsem se v&nbsp;Řevnic&iacute;ch vždy
+      zaj&iacute;mal o myslivost a les. V&nbsp;tom dnes pokračuji v podobě pomoci
+      při jeho spr&aacute;vě a zlep&scaron;en&iacute; hospod&aacute;řsk&yacute;ch
+      v&yacute;sledků. R&aacute;d bych byl tak&eacute; n&aacute;pomocen v oblasti
+      prevence před povodněmi a to vzhledem ke sv&eacute; zku&scaron;enosti z Berounsk&eacute;
+      radnice, kde jsem byl několik let aktivn&iacute;m členem tamn&iacute; povodňov&eacute;
+      komise.&nbsp;</p>
     priorities: ''
 - Lukáš Kubásek:
     _slug: lukas-kubasek
@@ -72,7 +78,6 @@
     occupation: učitelka na Střední průmyslové škole sdělovací techniky, Panská
     occupation_short: Učitelka na střední škole
     political_party: bez politické příslušnosti
-    age: 30
     email: zkusbachova@gmail.com
     profile: <p>Osm&yacute;m rokem uč&iacute;m na <a href="http://www.panska.cz/"
       target="_blank">středn&iacute; průmyslov&eacute; &scaron;kole v Praze</a>. Dlouhodobě
@@ -100,8 +105,10 @@
     photo: /samples/candidates/roman-chvojka/chvojka.jpg
     occupation: Podnikatel
     political_party: bez politické příslušnosti
-    age: 34
-    profile: ''
+    age: 36
+    profile: <p>Jsem osmin&aacute;sobn&yacute; mistr republiky v&nbsp;Trialu na kole,
+      podnikatel v&nbsp;n&aacute;vrhu a dod&aacute;vk&aacute;ch kuchyňsk&yacute;ch
+      linek ve studiu Bening.&nbsp;</p>
     priorities: ''
 - RNDr. Petr Čermák:
     _slug: petr-cermak
@@ -150,22 +157,26 @@
 - Martin Směšný:
     _slug: martin-smesny
     photo: /samples/candidates/martin-smesny/smesny.jpg
-    occupation: Podnikatel
+    occupation: Podnikatel, vlastník Železářství Hřebík
+    occupation_short: Podnikatel
     political_party: bez politické příslušnosti
     age: 37
-    profile: ''
+    profile: <p>Je mi 37 let a v Řevnic&iacute;ch žiji od narozen&iacute;. Od roku
+      2006 zde provozuji želez&aacute;řstv&iacute; Hřeb&iacute;k, č&iacute;mž jsem
+      nav&aacute;zal na v&iacute;ce jak stoletou rodinnou tradici po pradědečkovi
+      Franti&scaron;kovi Hřeb&iacute;kovi. Svoj&iacute; kandidaturou bych chtěl podpořit
+      stranu Svobodn&yacute;ch Řevnice, jejichž volebn&iacute; program je mi bl&iacute;zk&yacute;.</p>
     priorities: ''
 - Mgr. Ludmila Chroustová:
     _slug: ludmila-chroustova
     photo: /samples/candidates/ludmila-chroustova/chroustova.jpg
     occupation: Učitelka
     political_party: bez politické příslušnosti
-    age: 56
     profile: <p>V&nbsp;na&scaron;em kr&aacute;sn&eacute;m městě žiji od narozen&iacute;.
       Na zdej&scaron;&iacute; &scaron;kole uč&iacute;m od r. 1996. V&nbsp;t&eacute;
-      době jsem založila dětsk&yacute; folklorn&iacute; soubor Kl&iacute;ček. Zaj&iacute;m&aacute;
-      mne historie Řevnic a l&iacute;b&iacute; se mi kr&aacute;sn&aacute; př&iacute;roda
-      v&nbsp;okol&iacute;.&nbsp;</p>
+      době jsem založila dětsk&yacute; folklorn&iacute; soubor <a href="http://www.klicek-soubor.cz/"
+      target="_blank">Kl&iacute;ček</a>. Zaj&iacute;m&aacute; mne historie Řevnic
+      a l&iacute;b&iacute; se mi kr&aacute;sn&aacute; př&iacute;roda v&nbsp;okol&iacute;.&nbsp;</p>
     priorities: <p>Z&aacute;lež&iacute; mi na stabilitě na&scaron;&iacute; &scaron;koly
       a r&aacute;da přispěji ke vz&aacute;jemn&eacute; komunikaci.</p>
 - Ing. Berenika Sitenská:
@@ -173,7 +184,6 @@
     photo: /samples/candidates/berenika-sitenska/sitenska.jpg
     occupation: Účetní
     political_party: bez politické příslušnosti
-    age: 43
     profile: "<p>Žiju v Řevnic&iacute;ch 10 let, ale rodina m&eacute;ho muže je s
       obc&iacute; spojena přes stolet&iacute;.&nbsp;Pracuji tady, syn zde chod&iacute;
       do &scaron;koly a do kroužků. Řevnice jsou na&scaron;&iacute;m domovem.&nbsp;</p>\r\n<p>Pro
@@ -186,8 +196,13 @@
     photo: /samples/candidates/alice-zavadilova/zavadilova.jpg
     occupation: Překladatelka
     political_party: bez politické příslušnosti
-    age: 41
-    profile: ''
+    profile: <p>V&nbsp;Řevnic&iacute;ch žiji už jeden&aacute;ct let. Postupně se mi
+      zde narodily tři děti. V&nbsp;centru m&eacute;ho z&aacute;jmu tedy lež&iacute;
+      předev&scaron;&iacute;m děn&iacute; kolem Z&Scaron; Řevnice. Jsem r&aacute;da,
+      že se poměry na t&eacute;to &scaron;kole podařilo městu stabilizovat a j&aacute;
+      sama chci udělat v&scaron;e pro to, aby atmosf&eacute;ra v&nbsp;n&iacute; zůstala
+      i nad&aacute;le dobr&aacute; a aby jej&iacute; &uacute;roveň (ruku v&nbsp;ruce
+      s&nbsp;jej&iacute; kapacitou) i nad&aacute;le rostla.</p>
     priorities: ''
 - Miroslav Jelínek:
     _slug: miroslav-jelinek
@@ -195,5 +210,12 @@
     occupation: Podnikatel
     political_party: bez politické příslušnosti
     age: 51
-    profile: ''
+    profile: <p>Žiji v&nbsp;Řevnic&iacute;ch od narozen&iacute;, věnuji se včelařen&iacute;,
+      rybařen&iacute; a chovu kaprů. Moje z&aacute;liby se č&aacute;stečně prom&iacute;taj&iacute;
+      i do m&eacute; profese, neboť zde provozuji&nbsp; již 22 let mal&yacute; obchod
+      s&nbsp;dom&aacute;c&iacute;mi a chovatelsk&yacute;mi potřebami a ryb&aacute;řsk&yacute;m
+      zbož&iacute;m. Tak přich&aacute;z&iacute;m do kontaktu s vět&scaron;inou řevnick&yacute;ch
+      lid&iacute; , zn&aacute;m dobře i m&iacute;stn&iacute; prostřed&iacute;. R&aacute;d
+      bych přispěl svoj&iacute; pomoc&iacute; ke&nbsp;zkv&eacute;t&aacute;n&iacute;
+      na&scaron;&iacute; obce a klidn&eacute;mu a pohodov&eacute;mu žit&iacute; v&nbsp;n&iacute;.</p>
     priorities: ''

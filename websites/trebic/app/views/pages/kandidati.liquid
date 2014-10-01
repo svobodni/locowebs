@@ -5,16 +5,16 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 10
+position: 1
 editable_elements:
+  main/vypis: '3'
   main/nadpis: <p>&bdquo;Představujeme kandid&aacute;ty, pro komun&aacute;ln&iacute;
     volby v Třeb&iacute;či 2014.&ldquo; </p>
-  main/vypis: '999'
 ---
 {% extends parent %}
 
 {% block main %}
-{% capture list_from %}{% editable_control "vypis", options: '1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,9=9,10=10,11=11,12=12,13=13,14=14,15=15,999=nikdy', hint: "Od kolikátého kandidáta se má zobrazovat jen tabulka?", priority: 3 %}999{% endeditable_control %}{% endcapture %}
+{% capture list_from %}{% editable_control "vypis", options: '1=1,2=2,3=3,4=4,5=5,6=6,7=7,8=8,9=9,10=10,11=11,12=12,13=13,14=14,15=15,999=nikdy', hint: "Od kolikátého kandidáta se má zobrazovat jen tabulka?", priority: 3 %}3{% endeditable_control %}{% endcapture %}
 
 <div class="container classic-content">
 <h1>{{ page.title }}</h1>

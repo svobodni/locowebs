@@ -104,7 +104,7 @@ editable_elements:
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
+        {% for candidate in contents.candidates limit:2 offset:1 %}
         {% assign person = candidate %}        
         <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
         {% endfor %}

@@ -79,6 +79,8 @@
     priorities: ''
 - RNDr. Pavel Strunz, CSc.:
     _slug: pavel-strunz
+    photo: /samples/candidates/pavel-strunz/strunz.png
+    occupation: vědecký pracovník
     political_party: Svobodní
     age: 49
     email: ''
@@ -86,7 +88,13 @@
     homepage_url: http://strunz.blog.idnes.cz
     fb_profile_url: ''
     fb_page_url: ''
-    profile: ''
+    profile: "<p>RNDr. Pavel Strunz, CSc., je vědeck&yacute;m pracovn&iacute;kem v
+      &Uacute;stavu jadern&eacute; fyziky Akademie věd Česk&eacute; republiky v Řeži
+      u Prahy. V současnosti je vedouc&iacute;m Oddělen&iacute; neutronov&eacute;
+      fyziky. Jeho vědeck&yacute;m oborem je využit&iacute; neutronov&eacute; difrakce
+      v materi&aacute;lov&eacute;m v&yacute;zkumu.&nbsp;</p>\r\n<p>Pavel Strunz je
+      členem Strany svobodn&yacute;ch občanů od roku 2009. Od roku 2010 je i členem
+      jej&iacute;ho Republikov&eacute;ho v&yacute;boru.&nbsp;</p>"
     priorities: ''
 - Tomáš Zilvar:
     _slug: tomas-zilvar

@@ -20,13 +20,6 @@ fields:
     required: true
     unique: false
     localized: false
-- occupation:
-    label: occupation
-    type: string
-    hint: Povolání (např. programátor, podnikatel)
-    required: false
-    unique: false
-    localized: false
 - political_party:
     label: political_party
     type: string

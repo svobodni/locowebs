@@ -9,10 +9,10 @@
     phone: 603 425 961
     homepage_url: http://czpremysl.wordpress.com
     fb_profile_url: https://www.facebook.com/frydrychj
-    fb_page_url: ''
+    fb_page_url: https://www.facebook.com/hk.svobodni.cz
     profile: ''
     priorities: ''
-- Bc. Vít Jedlička:
+- Mgr. Vít Jedlička:
     _slug: vit-jedlicka
     photo: /samples/candidates/vit-jedlicka/jedlicka3.jpg
     occupation: finanční analytik, zakladatel Reformy.cz
@@ -191,7 +191,7 @@
     age: 29
     profile: <p><br data-mce-bogus="1"></p>
     priorities: <p><br data-mce-bogus="1"></p>
-- 'Roman Tobíšek, MBA ':
+- 'Roman Tobišek, MBA ':
     _slug: roman-tobisek
     photo: /samples/candidates/roman-tobisek/09.jpg
     occupation: architekt IT
@@ -242,7 +242,7 @@
     priorities: ''
 - Zdeněk Koutník:
     _slug: zdenek-koutnik
-    photo: /samples/candidates/zdenek-koutnik/avatar_svobodny.png
+    photo: /samples/candidates/zdenek-koutnik/Zden_k_Koutn_k_lowres.jpg
     occupation: grafik, technik
     political_party: Bez politické příslušnosti
     age: 30
@@ -281,7 +281,7 @@
     priorities: ''
 - Vladimír Krupa:
     _slug: vladimir-krupa
-    photo: /samples/candidates/vladimir-krupa/avatar_svobodny.png
+    photo: /samples/candidates/vladimir-krupa/Krupa8.jpg
     occupation: správce IT
     political_party: Bez politické příslušnosti
     age: 50
@@ -292,9 +292,10 @@
     fb_page_url: ''
     profile: ''
     priorities: ''
-- Jiří Ptáček:
+- Ing. Jiří Ptáček:
     _slug: jiri-ptacek
     photo: /samples/candidates/jiri-ptacek/jirka_ptacek-255x340.jpg
+    occupation: projektový inženýr
     political_party: Bez politické příslušnosti
     age: 33
     email: ''
@@ -327,7 +328,8 @@
     priorities: ''
 - Jiří Voseček:
     _slug: jiri-vosecek
-    photo: /samples/candidates/jiri-vosecek/avatar_svobodny.png
+    photo: /samples/candidates/jiri-vosecek/IMG_0782.jpg
+    occupation: OSVČ
     political_party: Bez politické příslušnosti
     age: 26
     email: ''
@@ -337,9 +339,10 @@
     fb_page_url: ''
     profile: ''
     priorities: ''
-- Jiří Pozler:
+- Mgr. Jiří Pozler:
     _slug: jiri-pozler
-    photo: /samples/candidates/jiri-pozler/avatar_svobodny.png
+    photo: /samples/candidates/jiri-pozler/foto3.jpg
+    occupation: sociální pedagog
     political_party: Bez politické příslušnosti
     age: 31
     email: ''
@@ -352,6 +355,7 @@
 - Vlasta Čipčalová:
     _slug: vlasta-cipcalova
     photo: /samples/candidates/vlasta-cipcalova/avatar_svobodny.png
+    occupation: účetní
     political_party: Bez politické příslušnosti
     age: 65
     email: ''
@@ -363,7 +367,7 @@
     priorities: ''
 - Kateřina Boháčová:
     _slug: katerina-bohacova
-    photo: /samples/candidates/katerina-bohacova/avatar_svobodny.png
+    photo: /samples/candidates/katerina-bohacova/k.jpg
     occupation: rodičovská dovolená
     age: 31
     profile: ''
@@ -383,7 +387,7 @@
     priorities: ''
 - Jakub Andrys:
     _slug: jakub-andrys
-    photo: /samples/candidates/jakub-andrys/avatar_svobodny.png
+    photo: /samples/candidates/jakub-andrys/andrys.jpg
     occupation: ICT technik a vývojář
     age: 27
     email: andrys@nopc.cz

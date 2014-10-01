@@ -32,6 +32,7 @@
       pen&iacute;ze utratit.</span></span></p>"
 - Jan Hanžl:
     _slug: jan-hanzl
+    meta_keywords: jan hanžl, hanžl
     photo: /samples/candidates/jan-hanzl/05.jpg
     occupation: Pekař
     political_party: bez politické příslušnosti
@@ -47,6 +48,7 @@
       prostředky. Budu poskytovat pravdiv&eacute; informace.</p>
 - Jiřina Sochová:
     _slug: jirina-sochova
+    meta_keywords: jiřina sochová, sochová
     photo: /samples/candidates/jirina-sochova/06.jpg
     occupation: Exkluzivní poradce České spořitelny
     political_party: Strana svobodných občanů
@@ -66,6 +68,7 @@
       a turist&eacute; se k n&aacute;m r&aacute;di vraceli.&nbsp;</span></p>
 - Zdeněk Jungvirt:
     _slug: zdenek-jungvirt
+    meta_keywords: zdeněk jungvirt, jungvirt
     photo: /samples/candidates/zdenek-jungvirt/03.jpg
     occupation: IT specialista
     political_party: Strana svobodných občanů
@@ -87,6 +90,7 @@
       kasy. Obec mus&iacute; b&yacute;t pro obyvatele oporou ne přek&aacute;žkou.</span></p>
 - Mgr. Pavel Reichart:
     _slug: mgr-pavel-reichart
+    meta_keywords: pavel reichart, reichart
     photo: /samples/candidates/mgr-pavel-reichart/04.jpg
     occupation: Oblastní manažer ČPP servis
     political_party: bez politické příslušnosti
@@ -115,6 +119,7 @@
       akc&iacute;.</p>"
 - Michal Jaroš:
     _slug: michal-jaros
+    meta_keywords: michal jaroš, jaroš
     photo: /samples/candidates/michal-jaros/02.jpg
     occupation: Regionální manažer
     political_party: bez politické příslušnosti
@@ -255,12 +260,19 @@
       potřebuj&iacute; změnit. Pomozte n&aacute;m je změnit dř&iacute;v než bude pozdě.&nbsp;</span></p>
 - Světlana Kysilová:
     _slug: svetlana-kysilova
-    photo: /samples/candidates/svetlana-kysilova/beran2.jpg
+    photo: /samples/candidates/svetlana-kysilova/predstaveni_fotka.png
     occupation: Mateřská dovolená
     political_party: bez politické příslušnosti
     age: 42
-    profile: ''
-    priorities: ''
+    profile: <p><span>Narodila jsem se roku 1971 a žiji se svou rodinou ve Vimperku
+      15 let. M&aacute;m vysoko&scaron;kolsk&eacute; vzděl&aacute;n&iacute; v oboru
+      geochemie. Moment&aacute;lně jsem na mateřsk&eacute; dovolen&eacute;. Mezi m&eacute;
+      z&aacute;liby patř&iacute; hlavně moje rodina, cestov&aacute;n&iacute; a jsem
+      r&aacute;da ve společnosti př&aacute;tel.</span></p>
+    priorities: <p><span>Chci, aby byl Vimperk atraktivn&iacute;m městem, jak pro
+      jeho obytavele, tak i pro turisty. Proto je hlavně důležit&eacute; zv&yacute;&scaron;it
+      bezpečnost města, pos&iacute;lit turistick&yacute; ruch a umožnit klidn&yacute;
+      a spokojen&yacute; život ve městě.</span></p>
 - Ing. Tomáš Frček:
     _slug: ing-tomas-frcek
     photo: /samples/candidates/ing-tomas-frcek/beran2.jpg
@@ -271,9 +283,18 @@
     priorities: ''
 - Jan Vávra:
     _slug: jan-vavra
-    photo: /samples/candidates/jan-vavra/beran2.jpg
+    photo: /samples/candidates/jan-vavra/10716076_10201816925699561_485649544_n.jpg
     occupation: Řidič, automechanik
     political_party: bez politické příslušnosti
     age: 23
-    profile: ''
-    priorities: ''
+    email: vavris.11@seznam.cz
+    profile: <p>Jmenuji se Jan V&aacute;vra. Narodil jsem se ve Vimperku a tak&eacute;
+      zde bydl&iacute;m. Pracuji u firmy Apex Gameing. Vystudoval jsem S&Scaron;ŘS
+      ve Strakonic&iacute;ch obor automechanik. R&aacute;d sportuji (hlavně fotbal)
+      a chod&iacute;m na kulturn&iacute; akce.</p>
+    priorities: <p>Na kandid&aacute;tn&iacute; listině jsem, protože věř&iacute;m,
+      že tato strany by v př&iacute;padě &uacute;spěchu ve volb&aacute;ch dok&aacute;zala
+      změnit negativitu nyněj&scaron;&iacute; radnice k lep&scaron;&iacute;mu. Můj
+      c&iacute;l je takov&yacute;, aby v zastupitelstvu byl někdo, kdo bude zastupovat
+      vimpersk&yacute; lid a ne koukat předev&scaron;&iacute;m na svůj blahobyt. Mysl&iacute;m,
+      že Svobodn&iacute; jako jedni z m&aacute;la takov&eacute; kandid&aacute;ty maj&iacute;.</p>

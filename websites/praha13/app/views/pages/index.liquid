@@ -6,12 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Nezadlužená radnice</li>\r\n
+    \         <li>Svobodné podnikání</li>\r\n          <li>Méně regulací</li>\r\n
+    \       </ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -85,7 +82,7 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
+    <!--<a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>-->
     </div> 
   </div> 
 

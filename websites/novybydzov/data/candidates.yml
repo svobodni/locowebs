@@ -18,7 +18,10 @@
       jeho pr&aacute;ce je tvorba map v GIS programech, pr&aacute;ce s datab&aacute;zemi,
       grafick&aacute; &uacute;prava dokumentů a spolupr&aacute;ce na př&iacute;pravě
       koncepčn&iacute;ch materi&aacute;lů. Ve voln&eacute;m čase hraje na trumpetu
-      a je členem několika kapel včetně novobydžovsk&eacute; dechovky Skleněnka.</p>'
+      a je členem několika kapel včetně novobydžovsk&eacute; dechovky Skleněnka. Tak&eacute;
+      je členem novobydžovsk&eacute;ho lukostřeleck&eacute;ho sdružen&iacute; Pocidlin&scaron;t&iacute;
+      lukostřelci a za novobydžovsk&yacute; t&yacute;m Zase vedle hraje ligovou soutěž
+      V&yacute;chodočesk&eacute;ho oblastn&iacute;ho &scaron;ipkařsk&eacute;ho svazu.</p>'
     quote: ''
     priorities: ''
 - Václav Tauš:
@@ -93,7 +96,15 @@
     occupation: lékař
     political_party: bez politické příslušnosti
     age: 25
-    profile: ''
+    profile: '<p style="text-align: justify;">Michal Poddan&yacute; vystudoval novobydžovsk&eacute;
+      gymn&aacute;zium a pot&eacute; v&scaron;eobecn&eacute; l&eacute;kařstv&iacute;
+      na L&eacute;kařsk&eacute; fakultě Univerzity Karlovy v&nbsp;Hradci Kr&aacute;lov&eacute;.
+      Nyn&iacute; nastoupil na rezidenčn&iacute; m&iacute;sto praktick&eacute;ho l&eacute;kaře
+      do Smidar. Je členem několika orchestrů, mimo jin&eacute; hraje ve Skleněnce
+      z&nbsp;Nov&eacute;ho Bydžova. Jeho kon&iacute;čky jsou hra na baryton a pozoun,
+      běh dlouh&yacute;ch trat&iacute; a zahr&aacute;dkařen&iacute;. Každoročně poř&aacute;d&aacute;
+      s&nbsp;několika členy Svobodn&yacute;ch předpůlnočn&iacute; zp&iacute;v&aacute;n&iacute;
+      koled u kostela Sv. Vavřince.</p>'
     priorities: ''
 - David Schneider:
     _slug: david-schneider
@@ -120,9 +131,10 @@
     profile: <p>Otmar Petyniak je absolventem Gymn&aacute;zia Nov&yacute; Bydžov a
       Univerzity Palack&eacute;ho v Olomouci, obor Geoinformatika. Pracuje v Česk&eacute;
       geologick&eacute; službě jako Specialista geografick&yacute;ch informačn&iacute;ch
-      syst&eacute;mů . Působ&iacute; tak&eacute; jako saxofonista v jazzov&eacute;m
-      big bandu Factorial! Orchestra a jako klarinetista dechov&eacute; hudby Skleněnka
-      Nov&yacute; Bydžov.</p>
+      syst&eacute;mů. Působ&iacute; tak&eacute; jako saxofonista v jazzov&eacute;m
+      big bandu <a title="Faktorial! Orchestra" href="http://www.factorial.eu/" target="_blank">Factorial!
+      Orchestra</a> a jako klarinetista dechov&eacute; hudby Skleněnka Nov&yacute;
+      Bydžov.</p>
     priorities: ''
 - Martina Bártová:
     _slug: martina-bartova

@@ -1,14 +1,38 @@
 ---
 - Oldřich Řáha:
     _slug: oldrich-raha
+    photo: /samples/candidates/oldrich-raha/Raha_WEB.jpg
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 65
-    profile: ''
-    priorities: ''
+    profile: <p>V Žatci pracuji a žiji od roku 1970. V tomto roce jsem zde začal pracovat
+      jako mistr, n&aacute;sledně jsem se stal v&yacute;robn&iacute;m ředitelem podniku.&nbsp;
+      V roce 1990 jsem začal podnikat ve stejn&eacute;m oboru tj. vodohospod&aacute;řsk&yacute;ch
+      a silničn&iacute;ch stavb&aacute;ch. Postupně jsem svoje podnik&aacute;n&iacute;
+      roz&scaron;&iacute;řil na dal&scaron;&iacute; obory jako je energetika, stroj&iacute;renstv&iacute;,
+      v&yacute;roba stavebn&iacute;ch prefabrik&aacute;tů (Prefa Žatec). V r&aacute;mci
+      sv&yacute;ch podnikatelsk&yacute;ch aktivit podporuji mimo&scaron;kolsk&eacute;
+      aktivity dět&iacute;, protože si mysl&iacute;m, že jejich podpora v&yacute;raznou
+      měrou přisp&iacute;v&aacute; k vytvořen&iacute; kvalitn&iacute; n&aacute;stupnick&eacute;
+      mlad&eacute; generace.&nbsp; Svůj voln&yacute; čas vyplňuji rybařen&iacute;m,
+      lyžov&aacute;n&iacute;m, d&aacute;le se věnuji zahradn&iacute;m a stavebn&iacute;m
+      prac&iacute;m. Jsem jednatelem a spolumajitelem několika společnost&iacute;,
+      kter&eacute; zaměstn&aacute;vaj&iacute; cca 1300 zaměstnanců, přev&aacute;žně
+      v severočesk&eacute;m regionu. <br />S ohledem na m&eacute; dlouholet&eacute;
+      zku&scaron;enosti v různ&yacute;ch oblastech bych byl r&aacute;d př&iacute;nosem
+      městu, ve kter&eacute;m žiji a pracuji.<br /><br /></p>
+    priorities: "<ul>\r\n<li>rozvoj mimo&scaron;kolsk&yacute;ch aktivit dět&iacute;
+      a ml&aacute;deže</li>\r\n<li>aktivity směřuj&iacute;c&iacute; k n&aacute;vratu
+      a vzniku nov&yacute;ch průmyslov&yacute;ch podniků do Žatce</li>\r\n<li>takov&eacute;
+      projekty města, kter&eacute; ho v budoucnosti nezat&iacute;ž&iacute; tak, že
+      město&nbsp; na tyto projekty nebude m&iacute;t dostatek finančn&iacute;ch zdrojů
+      (jejich&nbsp; provoz a &uacute;držbu).</li>\r\n<li>v&scaron;echny aktivity vedouc&iacute;
+      k prezentaci Žatce navenek</li>\r\n<li>efektivn&iacute; hospodařen&iacute;,
+      kter&eacute; povede k přebytkov&eacute;mu městsk&eacute;mu rozpočtu</li>\r\n</ul>\r\n<p>&nbsp;</p>"
 - Ing. Aleš Jelínek:
     _slug: ing-ales-jelinek
     meta_keywords: komunikace, chodníky, parky, parkoviště, městské podniky
+    photo: /samples/candidates/ing-ales-jelinek/Jelinek_WEB.jpg
     occupation: jednatel společnosti
     political_party: Strana svobodných občanů
     age: 35
@@ -27,23 +51,47 @@
       věnuji předev&scaron;&iacute;m rodině, lyž&iacute;m a turistice. Mezi m&eacute;
       kon&iacute;čky patř&iacute; volejbal, sportovn&iacute; střelba, myslivost a
       rybařen&iacute;.</p>
-    priorities: <p>M&yacute;m hlavn&iacute;m c&iacute;lem je rozumn&eacute; hospodařen&iacute;
+    quote: Kdo chce, hledá způsob. Kdo nechce, hledá důvod.
+    priorities: "<p>M&yacute;m hlavn&iacute;m c&iacute;lem je rozumn&eacute; hospodařen&iacute;
       města. Předev&scaron;&iacute;m pečliv&eacute; zv&aacute;žen&iacute; investic
       do nov&yacute;ch projektů, kter&eacute; nesm&iacute; zbytečně zatěžovat městsk&yacute;
       rozpočet. D&aacute;le ř&aacute;dn&aacute; p&eacute;če o majetek města, tedy
       o stav komunikac&iacute;, chodn&iacute;ků, parků, parkovi&scaron;ť a dal&scaron;&iacute;ch
       objektů slouž&iacute;c&iacute;ch obyvatelům. V neposledn&iacute; řadě je tak&eacute;
-      snaha o lep&scaron;&iacute; hospodařen&iacute; městsk&yacute;ch firem.</p>
+      snaha o lep&scaron;&iacute; hospodařen&iacute; městsk&yacute;ch firem.</p>\r\n<p>D&aacute;le
+      prosazuji zru&scaron;en&iacute; odměn za v&yacute;kon funkce zastupitele.</p>"
 - Ing. Tomáš Petříček:
     _slug: ing-tomas-petricek
+    photo: /samples/candidates/ing-tomas-petricek/Petricek_WEB.jpg
     occupation: středoškolský učitel
     political_party: bez politické příslušnosti
-    age: 45
-    profile: ''
-    priorities: ''
+    age: 51
+    profile: <p>V Žatci jsem se narodil a s malou přest&aacute;vkou, v době působen&iacute;
+      ve vrcholov&eacute;m sportu, v Žatci tak&eacute; žiji.&nbsp; Vystudoval jsem
+      elektrotechnickou fakultu ČVUT v Praze, během studia až do roku 1992 jsem se
+      byl sv&yacute;m bratrem reprezentantem Česk&eacute; republiky&nbsp; ve vodn&iacute;m
+      slalomu.<br />Po skončen&iacute; z&aacute;vodn&iacute; činnosti jsem začal pracovat
+      v oboru IT. V současnosti působ&iacute;m na žateck&eacute; OAZS kde vyučuji
+      informatiku.&nbsp; D&aacute;le jsem zaměstn&aacute;n v komerčn&iacute; poji&scaron;ťovně
+      jako IT analytik.<br />Jako b&yacute;val&yacute; aktivn&iacute; sportovec bych
+      se chtěl zasadit o rozumnou podporu volnočasov&yacute;ch aktivit zejm&eacute;na
+      pro ml&aacute;dež. Mysl&iacute;m, že jednou z oblast&iacute;, kterou by mělo
+      město podporovat,&nbsp; je umožnit sv&yacute;m občanům aktivně využ&iacute;t
+      svůj voln&yacute; čas. Na jak&eacute; &uacute;rovni se budou sv&yacute;m z&aacute;jmům
+      věnovat je už svobodn&yacute;m rozhodnut&iacute;m každ&eacute;ho z nich. Věř&iacute;m,
+      že s t&iacute;mto př&iacute;stupem se i nad&aacute;le budou talentovan&iacute;
+      žatečan&eacute;&nbsp; prosazovat&nbsp; nejenom ve sv&eacute;m městě.<br />Možn&aacute;
+      nejdůležitěj&scaron;&iacute; oblast&iacute; je udržen&iacute;, př&iacute;padně
+      vylep&scaron;en&iacute; ekonomick&eacute;ho potenci&aacute;lu Žatce a okol&iacute;.
+      V tomto směru by se měl prosazovat minimalistick&yacute; př&iacute;stup z&aacute;stupců
+      města v tom, že požadavky na podnikatelsk&eacute; aktivity nebudou přesahovat
+      r&aacute;mec platn&eacute; legislativy.</p>
+    priorities: "<ul>\r\n<li>udržen&iacute; a rozvoj podm&iacute;nek pro volnočasov&eacute;
+      aktivity občanů</li>\r\n<li>nepřek&aacute;žet v podnik&aacute;n&iacute;</li>\r\n</ul>"
 - Ing. Štěpán Beneš:
     _slug: ing-stepan-benes
     seo_title: štěpán, beneš, ISP, GrapeSC
+    photo: /samples/candidates/ing-stepan-benes/Benes2_WEB.jpg
     occupation: výkonný ředitel
     political_party: bez politické příslušnosti
     age: 39
@@ -68,7 +116,8 @@
     _slug: bc-miroslav-vrabik
     seo_title: Bc. Miroslav Vrábík
     meta_keywords: Vrábík
-    occupation: předseda představenstva a výkonný ředitel
+    photo: /samples/candidates/bc-miroslav-vrabik/Vrabik_WEB.jpg
+    occupation: předseda představenstva
     political_party: bez politické příslušnosti
     age: 39
     email: vrabik@vhsdevelopment.cz
@@ -82,13 +131,26 @@
       i dal&scaron;&iacute; generace.</span></p>'
 - Martin Vrbata:
     _slug: martin-vrbata
-    occupation: na volné noze
+    photo: /samples/candidates/martin-vrbata/Vrbata_WEB.jpg
+    occupation: grafik a vývojář na volné noze
     political_party: bez politické příslušnosti
     age: 35
-    profile: ''
+    email: me@martinvrbata.cz
+    homepage_url: http://martinvrbata.cz
+    profile: "<p><span style=\"line-height: 1.5em;\">Věř&iacute;m, že svobodn&aacute;
+      spolupr&aacute;ce občanů je cestou ke spokojen&eacute;mu soužit&iacute;. Odm&iacute;t&aacute;m
+      se sm&iacute;řit s pocitem, že v komun&aacute;ln&iacute; politice ub&yacute;v&aacute;
+      zodpovědnosti a zdrav&eacute;ho rozumu a naopak přib&yacute;v&aacute; pl&yacute;tv&aacute;n&iacute;,
+      politikařen&iacute; a sebepropagace za pen&iacute;ze v&scaron;ech.</span></p>\r\n<p>Vyzn&aacute;v&aacute;m
+      otevřenost a to bych chtěl přev&eacute;st i do m&eacute; pr&aacute;ce pro město.
+      Zajistit transparentnost je tedy m&yacute;m prim&aacute;rn&iacute;m c&iacute;lem.
+      Chtěl bych Žatec otevřen&yacute; pro obyčejn&eacute; lidi, občany tohoto města,
+      kteř&iacute; nechtěj&iacute; b&yacute;t pouh&yacute;m n&aacute;strojem v rukou
+      politiků prosazuj&iacute;c&iacute; sv&eacute; osobn&iacute; z&aacute;jmy.</p>"
     priorities: ''
 - Mgr. Ing. Dominik Stroukal:
     _slug: mgr-ing-dominik-stroukal
+    photo: /samples/candidates/mgr-ing-dominik-stroukal/Stroukal_WEB.jpg
     occupation: SŠ a VŠ učitel
     political_party: Strana svobodných občanů
     age: 27
@@ -102,55 +164,67 @@
       teorii ekonomick&yacute;ch syst&eacute;mů a kryptoměn&aacute;m.</p>
     quote: ''
     priorities: <p>Tu ne cede malis, sed contra audentior ito.</p>
-- Ing. Eva Skleničková:
+- Ing. Eva Hajná (Skleničková):
     _slug: ing-eva-sklenickova
+    photo: /samples/candidates/ing-eva-sklenickova/Hajna_WEB.jpg
     occupation: finanční poradce
     political_party: bez politické příslušnosti
     age: 39
-    profile: ''
-    priorities: ''
+    profile: <p>Vystudovala jsem ekonomii na Vysok&eacute;&nbsp;&scaron;kole b&aacute;ňsk&eacute;
+      v Ostravě. Vět&scaron;inu sv&eacute; profesn&iacute; kari&eacute;ry jsem&nbsp;působila
+      v&nbsp;soci&aacute;ln&iacute; oblasti. V posledn&iacute;ch letech se zab&yacute;v&aacute;m
+      finančn&iacute;m poradenstv&iacute;m, kde se snaž&iacute;m sv&yacute;m klientům
+      pomoci naj&iacute;t nejsnadněj&scaron;&iacute; cestu k finančn&iacute; stabilitě
+      a zaji&scaron;těn&iacute; do budoucnosti. Ve voln&eacute;m čase se věnuji&nbsp;
+      předev&scaron;&iacute;m rodině, tanci a př&iacute;ležitostně sportu.</p>
+    quote: 'Kdo nechce, hledá důvody, kdo chce, hledá způsoby. '
+    priorities: <p>Bezpečn&eacute; a rozv&iacute;jej&iacute;c&iacute; se město, kde
+      jsem se narodila a vychov&aacute;v&aacute;m sv&eacute; tři děti.</p>
 - Tomáš Hovorka:
     _slug: tomas-hovorka
-    occupation: prodejce zemědělské techniky
+    photo: /samples/candidates/tomas-hovorka/Hovorka_WEB.jpg
+    occupation: předseda představenstva
     political_party: bez politické příslušnosti
     age: 38
     profile: ''
     priorities: ''
 - Bc. Jaroslav Zídek:
     _slug: bc-jaroslav-zidek
-    occupation: VŠ student, OSVČ
+    photo: /samples/candidates/bc-jaroslav-zidek/Zidek_WEB.jpg
+    occupation: VŠ student
     political_party: Strana svobodných občanů
     age: 24
     fb_profile_url: https://www.facebook.com/jaroslav.zidek
-    profile: <p>Student ekonomie na Česk&eacute; zemědělsk&eacute; univerzitě, absolvent
+    profile: "<p>Student ekonomie na Česk&eacute; zemědělsk&eacute; univerzitě, absolvent
       m&iacute;stn&iacute; Obchodn&iacute; akademie, chmelov&yacute; a žateck&yacute;
       patriot, pivař, fanda do nov&yacute;ch technologi&iacute; a př&iacute;ležitostn&yacute;
-      internetov&yacute; kutil narozen&yacute; uprostřed sametov&eacute; revoluce
-      - socialismus tedy nezažil, ale zaž&iacute;t ani nechce. V budoucnu by se r&aacute;d
-      věnoval podnik&aacute;n&iacute; na pln&yacute; &uacute;vazek, ob&aacute;v&aacute;
-      se v&scaron;ak velk&eacute;ho množstv&iacute; regulac&iacute;, předpisů a kontrol,
-      kter&eacute; stav&iacute; mal&eacute; podnikatele do nev&yacute;hodn&eacute;ho
+      internetov&yacute; kutil narozen&yacute; uprostřed sametov&eacute; revoluce.
+      V budoucnu by se r&aacute;d věnoval podnik&aacute;n&iacute; na pln&yacute; &uacute;vazek,
+      ob&aacute;v&aacute; se v&scaron;ak velk&eacute;ho množstv&iacute; regulac&iacute;,
+      předpisů a kontrol, kter&eacute; stav&iacute; mal&eacute; podnikatele do nev&yacute;hodn&eacute;ho
       postaven&iacute; na trhu v porovn&aacute;n&iacute; s velk&yacute;mi podniky,
-      jež jsou naopak st&aacute;tem v&scaron;emožně podporov&aacute;ny. Proto se v
-      ř&iacute;jnu 2013, před sněmovn&iacute;mi volbami, stal členem Svobodn&yacute;ch,
-      kter&eacute; považuje za jedinou platformu se skutečnou snahou ulevit lidem
-      od vysok&yacute;ch dan&iacute;, zbytečn&eacute;ho pap&iacute;rov&aacute;n&iacute;,
-      starost&iacute; s &uacute;řady a s t&iacute;m v&scaron;&iacute;m spojenou korupc&iacute;.</p>
+      jež jsou naopak st&aacute;tem v&scaron;emožně podporov&aacute;ny.</p>\r\n<p>R&aacute;d
+      by odebral politikům a &uacute;ředn&iacute;kům pravomoce umožňuj&iacute;c&iacute;
+      ř&iacute;dit na&scaron;e životy v&iacute;c než je zdr&aacute;vo, platil n&iacute;zk&eacute;
+      daně a zru&scaron;il zbytečn&eacute; pap&iacute;rov&aacute;n&iacute; a chozen&iacute;
+      na &uacute;řady.</p>"
     quote: '"Když bude 10 milionů občanů ČR jen nadávat u piva a tvrdit, že nic nezmění,
       bude se ten zbytek jenom smát. A to přece nechceme?"'
     priorities: <p>Mou prioritou je oživen&iacute; kulturn&iacute;ho a obchodn&iacute;ho
       ruchu ve městě. Město nesm&iacute; přek&aacute;žet v naplňov&aacute;n&iacute;
-      potenci&aacute;lu občanů a podnikatelů. R&aacute;d bych tak&eacute;, aby mlad&iacute;
-      lid&eacute; měli motivaci zůstat ve městě a neodch&aacute;zet jinam.</p>
+      potenci&aacute;lu občanů. R&aacute;d bych tak&eacute;, aby mlad&iacute; lid&eacute;
+      měli motivaci zůstat ve městě a neodch&aacute;zeli jinam.</p>
 - Zdeněk Michalička:
     _slug: zdenek-michalicka
-    occupation: OSVČ
+    photo: /samples/candidates/zdenek-michalicka/Michalicka_WEB.jpg
+    occupation: elektrotechnik
     political_party: bez politické příslušnosti
     age: 64
     profile: ''
     priorities: ''
 - Ing. Nella Stroukalová:
     _slug: ing-nella-stroukalova
+    photo: /samples/candidates/ing-nella-stroukalova/Stroukalova_WEB.jpg
     occupation: asistentka
     political_party: bez politické příslušnosti
     age: 24
@@ -158,6 +232,7 @@
     priorities: ''
 - Luděk Morávek:
     _slug: ludek-moravek
+    photo: /samples/candidates/ludek-moravek/Moravek_WEB.jpg
     occupation: OSVČ
     political_party: bez politické příslušnosti
     age: 43
@@ -165,6 +240,7 @@
     priorities: ''
 - Bc. Martin Hajný:
     _slug: bc-martin-hajny
+    photo: /samples/candidates/bc-martin-hajny/Hajny_WEB.jpg
     occupation: freelancer
     political_party: bez politické příslušnosti
     age: 28
@@ -184,20 +260,31 @@
       jež posl&eacute;ze nejsou efektivně využ&iacute;v&aacute;ny.</p>"
 - Martin Macháček:
     _slug: martin-machacek
+    photo: /samples/candidates/martin-machacek/Machacek_WEB.jpg
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 32
-    profile: ''
+    profile: <p>Rod&aacute;k ze Žatce, vystudoval SO&Scaron; stavebn&iacute; v Kadani.
+      Po &scaron;kole pracoval jako mistr, stavbyvedouc&iacute;, n&aacute;sledně pracoval
+      jako referent Žateck&eacute;ho stavebn&iacute;ho &uacute;řadu. V roce 2011 jsem
+      začal podnikat jako OSVČ v oboru prov&aacute;děn&iacute; staveb.<br /> Svůj
+      voln&yacute; čas tr&aacute;v&iacute;m se sv&yacute;mi dětmi prac&iacute; a relaxac&iacute;
+      na zahradě, proch&aacute;zkami se psem, houbařen&iacute;m, j&iacute;zdou na
+      kole, lyžov&aacute;n&iacute;m.<br /> Se sv&yacute;mi zku&scaron;enostmi bych
+      se r&aacute;d zasadil o rozvoj na&scaron;eho města pro lep&scaron;&iacute; život
+      na&scaron;ich dět&iacute;.</p>
     priorities: ''
 - Adam Svrčina:
     _slug: adam-svrcina
-    occupation: proviziní analytik
+    photo: /samples/candidates/adam-svrcina/Svrcina_WEB.jpg
+    occupation: provizní analytik
     political_party: bez politické příslušnosti
     age: 27
     profile: ''
     priorities: ''
 - Ing. Bc. Jan Koucký:
     _slug: ing-jan-koucky
+    photo: /samples/candidates/ing-jan-koucky/Koucky_WEB.jpg
     occupation: chemik
     political_party: bez politické příslušnosti
     age: 28
@@ -205,6 +292,7 @@
     priorities: ''
 - Pavel Schaller:
     _slug: pavel-schaller
+    photo: /samples/candidates/pavel-schaller/Schaller_WEB.jpg
     occupation: stavební technik
     political_party: bez politické příslušnosti
     age: 44
@@ -212,6 +300,7 @@
     priorities: ''
 - Jan Klíma:
     _slug: jan-klima
+    photo: /samples/candidates/jan-klima/Klima_WEB.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
@@ -219,15 +308,18 @@
     priorities: ''
 - Radka Mráčková:
     _slug: radka-mrackova
-    occupation: bankovní poradce
+    photo: /samples/candidates/radka-mrackova/Mrackova_WEB.jpg
+    occupation: bankovní úřednice
     political_party: bez politické příslušnosti
     age: 44
     profile: ''
     priorities: ''
 - Milan Mikula:
     _slug: milan-mikula
+    photo: /samples/candidates/milan-mikula/Mikula_WEB.jpg
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
     profile: ''
+    quote: Svoboda znamená zodpovědnost. To je důvod, proč se jí většina z nás obává
     priorities: ''

@@ -1,4 +1,31 @@
 ---
+- Anketa Hradeckého deníku:
+    _slug: anketa
+    posted_at: 23. 09. 2014 10:13
+    author: Michal Krejčí
+    teaser: "<p style=\"text-align: justify;\">Na internetov&yacute;ch str&aacute;nk&aacute;ch
+      Hradeck&eacute;ho den&iacute;ku můžete podpořit Novobydžovskou kandid&aacute;tku
+      Svobodn&yacute;ch hlasov&aacute;n&iacute;m v anketě.&nbsp;Děkujeme za v&aacute;&scaron;
+      hlas.&nbsp;</p>\r\n<p><a title=\"Nov&yacute; Bydžov - Michal Krejč&iacute;\"
+      href=\"http://hradecky.denik.cz/spolecenska_rubrika/zvolte-si-sveho-starostu-novy-bydzov-20140909.html?_fid=s7dv#anketa\"
+      target=\"_blank\">Nov&yacute; Bydžov - Michal Krejč&iacute;</a></p>\r\n<p><a
+      title=\"Hradec Kr&aacute;lov&eacute; - Jakub Frydrych\" href=\"http://hradecky.denik.cz/spolecenska_rubrika/zvolte-si-sveho-primatora-hradec-kralove-20140909.html?_fid=fvwe#anketa\"
+      target=\"_blank\">&nbsp;</a></p>"
+    body: "<p style=\"text-align: justify;\">A v př&iacute;padě z&aacute;jmu můžete
+      podpořit i dal&scaron;&iacute; kandid&aacute;tky Svobodn&yacute;ch v r&aacute;mci
+      Kr&aacute;lov&eacute;hradeck&eacute;ho kraje.</p>\r\n<p><a style=\"line-height:
+      1.5em;\" title=\"Hradec Kr&aacute;lov&eacute; - Jakub Frydrych\" href=\"http://hradecky.denik.cz/spolecenska_rubrika/zvolte-si-sveho-primatora-hradec-kralove-20140909.html?_fid=fvwe#anketa\"
+      target=\"_blank\">Hradec Kr&aacute;lov&eacute; - Jakub Frydrych</a></p>\r\n<p><a
+      title=\"Vrchlab&iacute; - Jan Rychl&iacute;k\" href=\"http://krkonossky.denik.cz/zpravy_region/zvolte-si-starostu-vrchlabi-hlasujte-20140923.html?_fid=4kw9#anketa\"
+      target=\"_blank\">Vrchlab&iacute; - Jan Rychl&iacute;k</a></p>\r\n<p><a title=\"Hořice
+      - Hugo Trkal\" href=\"http://jicinsky.denik.cz/zpravy_region/zvolte-si-sveho-starostu-jicina-hlasujte-20140909-6t87.html?_fid=lgdq#anketa\"
+      target=\"_blank\">Hořice - Hugo Trkal</a></p>\r\n<p><a title=\"N&aacute;chod
+      - Tom&aacute;&scaron; &Scaron;ubert\" href=\"http://nachodsky.denik.cz/zpravy_region/zvolte-si-sveho-starostu-nachoda-20140909.html?_fid=hig6#anketa\"
+      target=\"_blank\">N&aacute;chod - Tom&aacute;&scaron; &Scaron;ubert</a></p>\r\n<p><a
+      title=\"L&aacute;zně Bělohrad - Jan &Scaron;ebel&iacute;k\" href=\"http://jicinsky.denik.cz/zpravy_region/zvolte-si-sveho-starostu-lazni-belohradu-hlasujte-20140909.html?_fid=qz08#anketa\"
+      target=\"_blank\">L&aacute;zně Bělohrad - Jan &Scaron;ebel&iacute;k</a></p>\r\n<p><a
+      title=\"T&yacute;ni&scaron;tě nad Orlic&iacute; - Ivan L&aacute;dr\" href=\"http://rychnovsky.denik.cz/zpravy_region/zvolte-si-sveho-starostu-tyniste-nad-orlici-20140909.html?_fid=1z7o#anketa\"
+      target=\"_blank\">T&yacute;ni&scaron;tě nad Orlic&iacute; - Ivan L&aacute;dr</a></p>\r\n<p>&nbsp;</p>"
 - Unikát voleb - dvě kandidátky s totožným programem:
     _slug: unikat-voleb-dve-strany-s-totoznym-programem
     posted_at: 18. 09. 2014 22:34
@@ -42,7 +69,7 @@
 - Fišerův Bydžov 2014:
     _slug: fiseruv-bydzov-2014
     posted_at: 11. 09. 2014 00:00
-    author: Michal Krejčí
+    author: 'Michal Krejčí, foto: Lukáš Bořek'
     tags:
     - fišerův bydžov svobodní dechovka kandidáti kampaň propagace
     teaser: '<p style="text-align: justify;">O uplynul&eacute;m v&iacute;kendu proběhl

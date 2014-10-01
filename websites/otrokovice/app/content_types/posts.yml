@@ -24,21 +24,21 @@ fields:
     label: Author
     type: string
     hint: Autor článku
-    required: false
+    required: true
     unique: false
     localized: false
 - tags:
     label: Tags
     type: tags
     hint: Tagy
-    required: false
+    required: true
     unique: false
     localized: false
 - teaser:
     label: Teaser
     type: text
     hint: Zkrácený text - upoutávka
-    required: false
+    required: true
     unique: false
     localized: false
     text_formatting: html
@@ -46,14 +46,14 @@ fields:
     label: Featured image
     type: file
     hint: Obrázek u článku
-    required: false
+    required: true
     unique: false
     localized: false
 - body:
     label: Body
     type: text
     hint: Text článku
-    required: false
+    required: true
     unique: false
     localized: false
     text_formatting: html

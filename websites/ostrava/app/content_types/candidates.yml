@@ -11,8 +11,8 @@ fields:
     type: file
     hint: Fotografie kandidáta
     required: false
-    unique: false
-    localized: false
+    unique: true
+    localized: true
 - name:
     label: name
     type: string

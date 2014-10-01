@@ -7,7 +7,7 @@ cache_strategy: none
 response_type: text/html
 position: 10
 editable_elements:
-  main/vypis: '2'
+  main/vypis: '3'
   main/nadpis: „Děkujeme za Vaše hlasy. Jdeme do toho naplno.“
 ---
 {% extends parent %}
@@ -48,7 +48,7 @@ editable_elements:
 <div class="cand-list">
   <table class="table">
     {% for candidate in contents.candidates offset:list_from %}
-    <tr><td class="cand-ord">{{ forloop.index | plus:list_from }}.</td><th>{{ candidate.name }}</th><td class="cand-info">{{ candidate.age }} let, {{ candidate.occupation }}, {{ candidate.political_party }}</td></tr>
+    <tr><td class="cand-ord">{{ forloop.index | plus:list_from }}.</td><th>{{ candidate.name }}</th><td class="cand-info">{{ candidate.age }} let <!--, {{ candidate.occupation }}, {{ candidate.political_party }} --></td></tr>
 	{% endfor %}
   </table>
 </div> <!--/.cand-list -->

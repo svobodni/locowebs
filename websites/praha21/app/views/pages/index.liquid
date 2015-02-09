@@ -5,17 +5,17 @@ published: true
 cache_strategy: none
 response_type: text/html
 position: 0
-seo_title: Újezd nad Lesy
+seo_title: "Újezd nad Lesy"
 meta_keywords: Strana svobodných občanů
 meta_description: Praha 21, Újezd nad Lesy
 editable_elements:
   main/duvody: |-
     <ul class="spec-purple-1">
-    <li>Lep&scaron;&iacute; infrastruktura</li>
-    <li>Vět&scaron;&iacute; bezpečnost a poř&aacute;dek</li>
-    <li>Nezadlužen&aacute; radnice</li>
+    <li>Infrastruktura</li>
+    <li>Bezpečnost a poř&aacute;dek</li>
+    <li>B&yacute;t konstruktivn&iacute; opozic&iacute;</li>
     </ul>
-  main/vyzva: Osobnosti, které nabízíme
+  main/vyzva: Osobnosti Svobodných v Újezdě nad Lesy
 ---
 <!DOCTYPE html>
 <html lang="cs">
@@ -96,7 +96,7 @@ editable_elements:
   <div class="container">
         <div class="row">
       <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
+        <h5>Priority Svobodných v Újezdě nad Lesy</h5>
         {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
         <ul class="spec-purple-1">
           <li>Nezadlužená radnice</li>
@@ -104,18 +104,18 @@ editable_elements:
           <li>Méně regulací</li>
         </ul>
         {% endeditable_text %}
-        <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
+        <div class="a-more text-center"><a href="/program">› <span>více z volebního programu</span></a></div>
       </div>
       <div class="col-md-6 cand-top-4">
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
-        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
+        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o zastupiteli"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
         {% for candidate in contents.candidates limit:3 offset:1 %}
         {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
+        <a href="/kandidati/{{ candidate._slug }}" title="Více o náhradníkovi č. {{ i }} {% cycle 1, 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
         {% endfor %}
         </div>
-        <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
+        <div class="a-more text-center"><a href="/kandidati"> <span></span></a></div>
       </div>
     </div>
 

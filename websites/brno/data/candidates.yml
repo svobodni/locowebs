@@ -1,14 +1,14 @@
 ---
 - Jakub Ježek:
     _slug: jakub-jezek
-    photo: /samples/candidates/jakub-jezek/BRN_0069.jpg
+    photo: "/samples/candidates/jakub-jezek/BRN_0069.jpg"
     occupation: právník
     political_party: Strana svobodných občanů
     age: 31
     email: jakubjezek@seznam.cz
     phone: 608 638 311
-    profile: <p>předseda krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch v Jihomoravsk&eacute;m
-      kraji</p>
+    profile: "<p>předseda krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch v Jihomoravsk&eacute;m
+      kraji</p>"
     quote: Svoboda, odpovědnost, spravedlnost
     priorities: "<p>1) Svobodn&eacute; Brno<br />- zru&scaron;&iacute;me zdaňovac&iacute;
       poplatky, předev&scaron;&iacute;m poplatky za odpad, za psy, ze vstupn&eacute;ho,
@@ -28,7 +28,7 @@
       soukromn&iacute;kům</p>"
 - Petr Pořízek:
     _slug: petr-porizek
-    photo: /samples/candidates/petr-porizek/BRN_0082-Porizek.jpeg
+    photo: "/samples/candidates/petr-porizek/BRN_0082-Porizek.jpeg"
     occupation: vedoucí kanceláře europoslance
     political_party: Strana svobodných občanů
     age: 46
@@ -83,7 +83,7 @@
       (zakoupen&iacute;m vstupenky, předplatn&eacute;ho, darem apod.)</p>"
 - Iveta Kubová:
     _slug: iveta-kubova
-    photo: /samples/candidates/iveta-kubova/Kubova.jpeg
+    photo: "/samples/candidates/iveta-kubova/Kubova.jpeg"
     occupation: vedoucí knihovny
     political_party: Strana svobodných občanů
     age: 48
@@ -162,7 +162,7 @@
       a pro samotn&eacute; tyto skupiny nedůstojn&eacute;.</p>"
 - David Bartas:
     _slug: david-bartas
-    photo: /samples/candidates/david-bartas/BRN_0165-Bartas.jpeg
+    photo: "/samples/candidates/david-bartas/BRN_0165-Bartas.jpeg"
     occupation: sales support
     political_party: Strana svobodných občanů
     age: 23
@@ -181,17 +181,17 @@
       Evropa</a>.</p>"
     quote: Volba Svobodných je volbou naděje na návrat liberální pravice do české
       politiky.
-    priorities: <p>Dlouhodobě prosazuji politiku založenou na principech liber&aacute;ln&iacute;
+    priorities: "<p>Dlouhodobě prosazuji politiku založenou na principech liber&aacute;ln&iacute;
       ekonomie a omezov&aacute;n&iacute; z&aacute;sahů st&aacute;tu či obce do života
-      občanů.</p>
+      občanů.</p>"
 - Jan Hlaváček:
     _slug: jan-hlavacek
-    photo: /samples/candidates/jan-hlavacek/BRN_0101-Hlavacek.jpeg
+    photo: "/samples/candidates/jan-hlavacek/BRN_0101-Hlavacek.jpeg"
     occupation: auditor a konzultant
     political_party: Strana svobodných občanů
     age: 38
-    profile: <p>Jsem konzultant a auditor procesů. M&yacute;m povol&aacute;n&iacute;m&nbsp;<span
-      class="st">&mdash;</span> a současně kon&iacute;čkem&nbsp;<span class="st">&mdash;</span>
+    profile: "<p>Jsem konzultant a auditor procesů. M&yacute;m povol&aacute;n&iacute;m&nbsp;<span
+      class=\"st\">&mdash;</span> a současně kon&iacute;čkem&nbsp;<span class=\"st\">&mdash;</span>
       je zjednodu&scaron;ovat lidem ve firm&aacute;ch pr&aacute;ci, odstraňovat zbytečnou
       byrokracii při zachov&aacute;n&iacute; nutn&eacute; dokumentace, zefektivňovat
       firemn&iacute; procesy a komunikaci, upozorňovat na možnosti korupce a odstraňovat
@@ -201,7 +201,7 @@
       a zlevněn&iacute; provozu veřejn&eacute; spr&aacute;vy. Jako vystudovan&yacute;
       ekonom a zodpovědn&yacute; otec rodiny neuzn&aacute;v&aacute; život a spotřebu
       na dluh, proto podporuji my&scaron;lenku vyrovnan&eacute;ho rozpočtu, jak u
-      sebe doma, tak i na v&scaron;ech &uacute;rovn&iacute;ch veřejn&eacute; spr&aacute;vy.</p>
+      sebe doma, tak i na v&scaron;ech &uacute;rovn&iacute;ch veřejn&eacute; spr&aacute;vy.</p>"
     quote: V demokracii je politik služebníkem občana, nikoliv jeho vládcem.
     priorities: "<p>Bezpečn&aacute; a komfortn&iacute; doprava. Pro v&scaron;echny.</p>\r\n<ul>\r\n<li>nasv&iacute;cen&eacute;
       přechody pro chodce</li>\r\n<li>dostatek parkovac&iacute;ch m&iacute;st zdarma,
@@ -213,15 +213,42 @@
       ne na &uacute;ředn&iacute;c&iacute;ch.</p>"
 - Pavel Dvořák:
     _slug: pavel-dvorak
-    photo: /samples/candidates/pavel-dvorak/BRN_0151-Dvorak.jpeg
+    photo: "/samples/candidates/pavel-dvorak/BRN_0151-Dvorak.jpeg"
     occupation: programátor a logistik
     political_party: Strana svobodných občanů
     age: 28
     email: id@dqd.cz
     homepage_url: http://dqd.cz/
     fb_profile_url: http://facebook.com/svobodnypavel
-    profile: <p>Člen Svobodn&yacute;ch od roku 2010.</p>
+    profile: "<p>Člen Svobodn&yacute;ch od roku 2010.</p>"
     quote: Modré zóny nová parkovací místa nepřinesou, o čemž se již přesvědčili v
       Praze.
-    priorities: <p>Do zastupitelstva městsk&eacute; č&aacute;sti chci přin&eacute;st
-      racion&aacute;lně mysl&iacute;c&iacute; a konstruktivn&iacute; opozici.</p>
+    priorities: "<p>Do zastupitelstva městsk&eacute; č&aacute;sti chci přin&eacute;st
+      racion&aacute;lně mysl&iacute;c&iacute; a konstruktivn&iacute; opozici.</p>"
+- Viktor Navrátil:
+    _slug: viktor-navratil
+    photo: "/samples/candidates/viktor-navratil/VN_foto.jpg"
+    occupation: "Živnostník"
+    political_party: Strana svobodných občanů
+    age: 44
+    email: navratil(a)cms-consulting.org
+    phone: 603 478184
+    profile: "<p><span>&Scaron;ťastně ženat&yacute;, 5 dět&iacute;.</span></p>"
+    quote: Město má občanům sloužit a nikoliv být jejich neomezeným pánem.
+    priorities: "<p>Ve stručnosti co prosazuji: <br />1) umožnit voln&eacute; parkov&aacute;n&iacute;
+      v&scaron;ude tam, kde je to technicky možn&eacute;;<br />parkovac&iacute;ch
+      možnost&iacute; m&aacute; přib&yacute;vat a nikoliv ub&yacute;vat;<br />ž&aacute;dn&eacute;
+      parkovac&iacute; z&oacute;ny (ani modr&eacute;, natož zelen&eacute;) a ani ž&aacute;dn&eacute;
+      jin&eacute; formy zpoplatněn&iacute; majitelů aut!<br />městsk&aacute; policie
+      m&aacute; db&aacute;t na poř&aacute;dek a bezpeč&iacute; občanů, k ře&scaron;en&iacute;
+      dopravn&iacute;ch přestupků tu m&aacute;me st&aacute;tn&iacute; policii;<br
+      />2) &scaron;t&iacute;hl&aacute; a transparentn&iacute; radnice;<br />3) ž&aacute;dn&yacute;
+      přesun n&aacute;draž&iacute;, n&aacute;draž&iacute; vyhovuje nejv&iacute;ce
+      tam kde je &mdash; u největ&scaron;&iacute;ho dopravn&iacute;ho uzlu MHD ve
+      středu města.<br /><br /><a title=\"Link na cel&yacute; osobn&iacute; program
+      ve form&aacute;tu PDF\" href=\"http://jmk.svobodni.cz/wp-content/uploads/2014/10/VN_program.pdf\"
+      target=\"_blank\">Link na cel&yacute; osobn&iacute; program ve form&aacute;tu
+      PDF</a><br /><br /><a title=\"Link na osobn&iacute; let&aacute;k s t&eacute;matikou
+      parkov&aacute;n&iacute;\" href=\"http://jmk.svobodni.cz/wp-content/uploads/2014/10/VN_parkovani.pdf\"
+      target=\"_blank\">Link na osobn&iacute; let&aacute;k s t&eacute;matikou parkov&aacute;n&iacute;</a><br
+      /><br /></p>"

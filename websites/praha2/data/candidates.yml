@@ -1,32 +1,65 @@
 ---
 - RNDr. Jiří Payne:
     _slug: rndr-jiri-payne
+    photo: "/samples/candidates/rndr-jiri-payne/payne.png"
     occupation: jaderný fyzik
     political_party: Strana svobodných občanů
     age: 58
     email: payne@svobodni.cz
-    profile: ''
+    phone: '602656949'
+    homepage_url: http://www.payne.cz
+    fb_profile_url: http://www.facebook.com/jiri.payne
+    fb_page_url: http://www.facebook.com/jiri.payne#!/
+    profile: "<p>Jiř&iacute; Payne je zku&scaron;en&yacute; politik. Od vzniku strany
+      (2009) je m&iacute;stopředsedou&nbsp;Svobodn&yacute;ch. Před rokem 1989 pracoval
+      jako jadern&yacute; fyzik, program&aacute;tor,&nbsp;pečovatel, topič, pot&eacute;
+      byl poslancem a mj. t&eacute;ž poradcem prezidenta republiky.</p>"
     priorities: ''
 - Bc. Pavel Štross:
     _slug: bc-pavel-stross
+    photo: "/samples/candidates/bc-pavel-stross/Pavel_S_tross_3.jpg"
     occupation: informatik
     political_party: Strana svobodných občanů
     age: 27
     email: stross@svobodni.cz
+    phone: "+420 777 96 06 05"
+    fb_profile_url: https://www.facebook.com/stross.pavel?fref=ts
     profile: ''
     priorities: ''
 - Mgr. Jan Paluska, DiS:
     _slug: mgr-jan-paluska-dis
+    photo: "/samples/candidates/mgr-jan-paluska-dis/Jan_Paluska_2.jpg"
     occupation: finanční kontrolor
     political_party: Strana svobodných občanů
     age: 32
-    profile: ''
+    email: Paluska.jan@seznam.cz
+    phone: "+420 777 321 302"
+    fb_profile_url: https://www.facebook.com/tristan.mcwray?fref=ts
+    profile: "<p>Narodil se v roce 1982 v Praze 2 na Vinohradech a od narozen&iacute;
+      zde žije. Vystudoval Vysokou &scaron;kolu mezin&aacute;rodn&iacute;ch a veřejn&yacute;ch
+      vztahů Praha, obor Evropsk&aacute; studia a komunit&aacute;rn&iacute; pr&aacute;vo.
+      D&aacute;le absolvoval tř&iacute;let&yacute; studijn&iacute; kurz na Vy&scaron;&scaron;&iacute;
+      odborn&eacute; &scaron;kole se zaměřen&iacute;m na Public Relations. Po ukončen&iacute;
+      studia začal pracovat na &Uacute;řadě městsk&eacute; č&aacute;sti Praha 4 jako
+      finančn&iacute; kontrolor př&iacute;spěvkov&yacute;ch organizac&iacute;, přev&aacute;žně
+      z&aacute;kladn&iacute;ch a mateřsk&yacute;ch &scaron;kol. V letech 2010 až 2013
+      byl členem Komise pro v&yacute;chovu a vzděl&aacute;v&aacute;n&iacute; městsk&eacute;
+      č&aacute;sti Praha 2 a tak&eacute; členem Majetkov&eacute;ho v&yacute;boru zastupitelstva
+      městsk&eacute; č&aacute;sti Praha 2. Je členem &scaron;kolsk&eacute; rady Gymn&aacute;zia
+      Botičsk&aacute;. Do Strany svobodn&yacute;ch občanů vstoupil v roce 2013. Voln&yacute;
+      čas děl&iacute; mezi svoj&iacute; rodinu, př&iacute;telkyni Mark&eacute;tu a
+      Irsk&eacute;ho vlkodava Růženku, a mezi sv&eacute; kon&iacute;čky, ke kter&yacute;m
+      patř&iacute; hlavně golf, lyžov&aacute;n&iacute;, ragby a fotbal.</p>"
     priorities: ''
 - Ivo Slavík:
     _slug: ivo-slavik
+    photo: "/samples/candidates/ivo-slavik/Ivo_Slavi_k_1.jpg"
     occupation: galerista
     political_party: bez politické příslušnosti
     age: 52
+    email: ivoslavik@seznam.cz
+    phone: "+420 602 211 181"
+    fb_profile_url: https://www.facebook.com/ivo.slavik1?fref=ts
     profile: ''
     priorities: ''
 - Petr Sýkora:
@@ -38,7 +71,7 @@
     priorities: ''
 - Martin Voráč:
     _slug: martin-vorac
-    occupation: školník, vychovatel
+    occupation: "školník, vychovatel"
     political_party: bez politické příslušnosti
     age: 56
     profile: ''
@@ -80,7 +113,7 @@
     priorities: ''
 - Daniel Bareš:
     _slug: daniel-bares
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 33
     profile: ''

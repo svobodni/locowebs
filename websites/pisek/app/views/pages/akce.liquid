@@ -1,0 +1,53 @@
+---
+title: Akce
+slug: akce
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 1
+editable_elements:
+  main/Akce: "<h2><span style=\"font-size: xx-large;\">Svobodn&eacute; politick&eacute;
+    &uacute;terky</span></h2>\r\n<p>P&iacute;sečt&iacute; Svobodn&iacute; zvou v&scaron;echny
+    z&aacute;jemce o p&iacute;seck&aacute; komun&aacute;ln&iacute; t&eacute;mata na
+    <strong>pravideln&eacute; diskuzn&iacute; večery</strong>, kter&eacute; prob&iacute;haj&iacute;
+    <strong>každ&eacute; prvn&iacute; &uacute;ter&yacute; v měs&iacute;ci</strong>.
+    Pojďte diskutovat o tom, co se V&aacute;m v P&iacute;sku l&iacute;b&iacute; i
+    naopak o probl&eacute;mech, kter&eacute; město m&aacute;.</p>\r\n<p><span class=\"fsl\"><img
+    style=\"float: right;\" src=\"/samples/assets/spu640.jpg\" alt=\"\" />Pojďte s
+    n&aacute;mi diskutovat o věcech, kter&eacute; se t&yacute;kaj&iacute; města P&iacute;sku.
+    Pojďme <strong>diskutovat o možn&eacute;m ře&scaron;en&iacute;</strong>. Baz&eacute;n,
+    <strong>kulturn&iacute; zař&iacute;zen&iacute;</strong>, l&aacute;vka u sv. V&aacute;clava,
+    <strong>doprava ve městě, </strong>městsk&eacute; komunikace, zeleň, <strong>rozpočet
+    města</strong>, turismus,...</span><br /> <br /> Diskuze prob&iacute;h&aacute;
+    <strong>každ&eacute; prvn&iacute; &uacute;ter&yacute; v měs&iacute;ci</strong>.</p>\r\n<p><br
+    /> M&iacute;sto: <strong>Divadeln&iacute; kav&aacute;rna</strong>, ul. Tylova
+    69, P&iacute;sek<strong><br /> </strong>Čas: <strong>20:00 - 23:00 h.</strong></p>\r\n<p
+    style=\"text-align: justify;\">Pozv&aacute;nky:</p>\r\n<p style=\"text-align:
+    justify;\"><strong>III. politick&yacute; večer proběhne 3. &uacute;nora 2015 -
+    </strong><a href=\"https://www.facebook.com/events/905559436155403\">https://www.facebook.com/events/905559436155403</a></p>\r\n<p
+    style=\"text-align: justify;\">- <strong>Mimoř&aacute;dně</strong> se diskuze
+    bude konat v <strong>Caf&eacute; Restaurantu U Kamenn&eacute;ho mostu</strong>,
+    ul. Karlova 110<strong><br /><br /></strong><strong>II. politick&yacute; večer
+    proběhl 6. ledna 2015</strong> - <a href=\"https://www.facebook.com/events/1526536220948268/\">https://www.facebook.com/events/1526536220948268</a><br
+    /><br /> <strong>I. politick&yacute; večer proběhl 2. prosince 2014</strong> -
+    <a href=\"https://www.facebook.com/events/394187874091391/\" target=\"_blank\">https://www.facebook.com/events/394187874091391</a>
+    <br />- Čl&aacute;nek: <a href=\"http://pisek.svobodni.cz/clanky/svobodne-politicke-uterky-mely-svou-premieru\">Svobodn&eacute;
+    politick&eacute; &uacute;terky měly svou premi&eacute;ru</a></p>"
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+{% editable_text "Akce", hint: "Akce." %}
+{% endeditable_text %}
+
+
+
+</div>
+
+{% endblock %}

@@ -1,7 +1,7 @@
 ---
 - Ing. Martin Halama:
     _slug: ing-martin-halama
-    photo: /samples/candidates/ing-martin-halama/01_halama.jpg
+    photo: "/samples/candidates/ing-martin-halama/01_halama.jpg"
     occupation: tenisový trenér, předseda Kontrol. výboru ZMČ Praha 18
     political_party: Strana svobodných občanů
     age: 40
@@ -15,126 +15,126 @@
       <p style="margin: 0cm 0cm 0pt; text-align: justify;"><span style="line-height: 115%; font-size: 12pt;"><span style="font-family: Calibri;">Podruh&eacute; jsem byl zastupitelem zvolen v&nbsp;roce 2010. Ve volebn&iacute;m obdob&iacute; 2010 - 2014 jsem pracoval nejprve jako předseda Finančn&iacute;ho v&yacute;boru, od loňsk&eacute;ho podzimu jako předseda Kontroln&iacute;ho v&yacute;boru. Sv&eacute; uplatněn&iacute; jsem na&scaron;el t&eacute;ž v&nbsp;redakčn&iacute; radě Letňansk&yacute;ch listů a v&nbsp;komisi v&yacute;stavby a &uacute;zemn&iacute;ho rozvoje. Na podzim loňsk&eacute;ho roku jsem se v&scaron;ak neztotožnil s&nbsp;dal&scaron;&iacute;m směřov&aacute;n&iacute;m veden&iacute; na&scaron;&iacute; městsk&eacute; č&aacute;sti a na pozice v&nbsp;poradn&iacute;ch org&aacute;nech RMČ jsem rezignoval. </span></span></p>
       <p style="margin: 0cm 0cm 0pt; text-align: justify;"><span style="line-height: 115%; font-size: 12pt;"><span style="font-family: Calibri;">V&nbsp;červnu leto&scaron;n&iacute;ho roku jsem vystoupil z&nbsp;ODS a sv&eacute; dal&scaron;&iacute; politick&eacute; angažov&aacute;n&iacute; jsem spojil se Stranou svobodn&yacute;ch občanů, za kterou jako l&iacute;dr jej&iacute; letňansk&eacute; kandid&aacute;tn&iacute; listiny předstupuji před V&aacute;s, letňansk&eacute; voliče. Na t&yacute;m, kter&yacute; se mi podařilo vytvořit jsem hrd&yacute; a budu r&aacute;d, když n&aacute;s v&nbsp;ř&iacute;jnov&yacute;ch volb&aacute;ch podpoř&iacute;te. V&scaron;ichni na&scaron;i kandiduj&iacute;c&iacute; maj&iacute; Letňany v&nbsp;srdci a ř&iacute;d&iacute; se na&scaron;&iacute;m volebn&iacute;m heslem Modr&aacute; b&iacute;l&aacute; zelen&aacute; &ndash; pro n&aacute;s domov znamen&aacute;!</span></span></p>
     quote: Modrá bílá zelená - pro nás domov znamená!
-    priorities: '<p><span style="font-family: Calibri;">&bdquo;Strana svobodn&yacute;ch
+    priorities: "<p><span style=\"font-family: Calibri;\">&bdquo;Strana svobodn&yacute;ch
       občanů h&aacute;j&iacute; principy svobody, odpovědnosti a spravedlnosti. Prosazujeme
       z&aacute;sadn&iacute; sn&iacute;žen&iacute; dan&iacute; a byrokracie. Chceme,
       aby hlas občanů ve volb&aacute;ch měl vět&scaron;&iacute; v&aacute;hu, obzvl&aacute;&scaron;ť
       na komun&aacute;ln&iacute; &uacute;rovni. Život v&nbsp;městsk&eacute; č&aacute;sti
       m&aacute; b&yacute;t spravedliv&yacute;m odrazem vůle odpovědn&yacute;ch a svobodn&yacute;ch
-      voličů.&ldquo;</span></p>'
+      voličů.&ldquo;</span></p>"
 - Barbora Kašíková:
     _slug: barbora-kasikova
-    photo: /samples/candidates/barbora-kasikova/02_kasikova.jpg
+    photo: "/samples/candidates/barbora-kasikova/02_kasikova.jpg"
     occupation: administrativní pracovnice
     political_party: bez politické příslušnosti
     age: 34
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Jako
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Jako
       rodil&aacute; Pražačka jsem se před sedmi lety přestěhovala s rodinou do Letňan,
       kde bydl&iacute;me dodnes. Před 16 lety jsem odmaturovala na středn&iacute;
       &scaron;kole podnikatelsk&eacute; v oboru hotelnictv&iacute; a cestovn&iacute;ho
       ruchu. Tomuto oboru se v současn&eacute; době věnuji formou př&iacute;pr</span></span><span
-      data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">av
+      data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">av
       a veden&iacute; letn&iacute;ch a zimn&iacute;ch t&aacute;borů pro děti i rodiče
       s dětmi. Tuto pr&aacute;ci vykon&aacute;v&aacute;m pro občansk&eacute; sdružen&iacute;
       Děti bez hranic, kde m&aacute;m na starosti ve&scaron;kerou administrativu a
       produkčn&iacute; činnost. Na t&aacute;bory jezd&iacute;m i se sv&yacute;mi dvěma
-      kluky, kter&yacute;m je 6 a 3 roky.</span><br data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$1:0"
-      /><span data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$2:0">Ve
+      kluky, kter&yacute;m je 6 a 3 roky.</span><br data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$1:0\"
+      /><span data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$2:0\">Ve
       voln&eacute;m čase hraji česk&yacute; lakros, volejbal a jsem čast&yacute;m
       n&aacute;v&scaron;těvn&iacute;kem letňansk&eacute; knihovny, kde si r&aacute;da
       zapůjč&iacute;m pěknou kn&iacute;žku. V zimě cel&aacute; rodina r&aacute;di
-      lyžujeme.</span><br data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$3:0"
-      /><span data-reactid=".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$4:0">V
+      lyžujeme.</span><br data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$3:0\"
+      /><span data-reactid=\".92.1:3:1:$comment284161568374539_284161791707850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$4:0\">V
       Letňanech bych se r&aacute;da pod&iacute;lela na spolupr&aacute;ci v oblasti
       &scaron;kolstv&iacute;, ml&aacute;deže a sportu. Zku&scaron;enosti jsem z&iacute;skala
       na Krajsk&eacute;m &uacute;řadě Středočesk&eacute;ho kraje (oddělen&iacute;
       ml&aacute;deže a sportu), kde jsem před n&aacute;stupem na mateřskou dovolenou
       pracovala. D&iacute;ky zaměstn&aacute;n&iacute; sv&eacute;ho manžela, kter&yacute;
-      je l&eacute;kař, se r&aacute;da zapoj&iacute;m i do problematiky zdravotnictv&iacute;.</span></span></span></span></span></p>
+      je l&eacute;kař, se r&aacute;da zapoj&iacute;m i do problematiky zdravotnictv&iacute;.</span></span></span></span></span></p>"
     priorities: ''
 - Vladimír Lukavský:
     _slug: vladimir-lukavsky
-    photo: /samples/candidates/vladimir-lukavsky/03_lukavsky.jpg
-    occupation: živnostník, elektrikář
+    photo: "/samples/candidates/vladimir-lukavsky/03_lukavsky.jpg"
+    occupation: "živnostník, elektrikář"
     political_party: bez politické příslušnosti
     age: 43
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Je
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Je
       mi 43 let, jsem ženat&yacute; a s manželkou Kateřinou m&aacute;me jednoho syna.
       Vystudoval jsem Středn&iacute; odborn&eacute; učili&scaron;tě + Středn&iacute;
       průmyslovou &scaron;kolu elektrotechnickou. Do Letňan jsem se přiženil před
       22 lety a jsme tu jako rodina spokojeni. Pracuji jako OSVČ v ob</span></span><span
-      data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">oru
+      data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".97.1:3:1:$comment283887965068566_284160915041271:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">oru
       elektro. V Letňanech jsem d&iacute;ky sv&eacute; profesi nav&scaron;t&iacute;vil
       nejednu dom&aacute;cnost a firmu, proto jsem pro mnoho lid&iacute; dobře zn&aacute;m&yacute;.
       K m&yacute;m z&aacute;jmům patř&iacute; moji dva psi, rybařen&iacute;, hudba,
       kytara a cyklistika. Protože jsou pro mne Letňany synonymem domova, kter&yacute;
       se mus&iacute; udržovat a zvelebovat, rozhodl jsem se kandidovat za Svobodn&eacute;
-      do ZMČ P18. R&aacute;d se budu angažovat v oblastech sportu, kultury a v&yacute;stavby.</span></span></span></span></span></p>
+      do ZMČ P18. R&aacute;d se budu angažovat v oblastech sportu, kultury a v&yacute;stavby.</span></span></span></span></span></p>"
     priorities: ''
 - Bc. Lenka Trnková:
     _slug: bc-lenka-trnkova
-    photo: /samples/candidates/bc-lenka-trnkova/04_trnkova.jpg
+    photo: "/samples/candidates/bc-lenka-trnkova/04_trnkova.jpg"
     occupation: studentka mezinárodních vztahů
     political_party: bez politické příslušnosti
     age: 27
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Narodila
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Narodila
       jsem se v Praze. Vystudovala jsem Tanečn&iacute; konzervatoř a pot&eacute; působila
       4 roky v angažm&aacute; plzeňsk&eacute;ho baletu v divadle Josefa Kajet&aacute;na
       Tyla. Moment&aacute;lně studuji na vysok&eacute; &scaron;kole magistersk&yacute;
       obor Mezin&aacute;rodn&iacute; vztahy a evropsk&aacute; studia a př&iacute;&scaron;t&iacute;
-      rok budu</span></span><span data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">
+      rok budu</span></span><span data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".aa.1:3:1:$comment283883541735675_284159695041393:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">
       promovat. Pracuji v oblasti v&iacute;zov&eacute;ho poradenstv&iacute; pro Čechy
       cestuj&iacute;c&iacute; na Bl&iacute;zk&yacute; v&yacute;chod a i nad&aacute;le
       se věnuji tanci na profesion&aacute;ln&iacute; &uacute;rovni. Ve sv&eacute;m
       voln&eacute;m čase se věnuji dobrovolnick&eacute; činnosti na oddělen&iacute;
       dlouhodobě nemocn&yacute;ch ve Fakultn&iacute; nemocnici v Motole a v&yacute;uce
-      tanečn&iacute; průpravy pro nejmen&scaron;&iacute;.</span></span></span></span></span></p>
+      tanečn&iacute; průpravy pro nejmen&scaron;&iacute;.</span></span></span></span></span></p>"
     priorities: ''
 - Mgr. Jakub Kratochvíl:
     _slug: mgr-jakub-kratochvil
-    photo: /samples/candidates/mgr-jakub-kratochvil/05_kratochvil.jpg
+    photo: "/samples/candidates/mgr-jakub-kratochvil/05_kratochvil.jpg"
     occupation: advokát
     political_party: bez politické příslušnosti
     age: 35
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Je
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Je
       mi 35 let, vystudoval jsem Pr&aacute;vnickou fakultu Univerzity Karlovy v Praze.
       S př&iacute;telkyn&iacute; m&aacute;me dvě děti a v Letňanech spolu bydl&iacute;me
       již 13 let. V současnosti pracuji jako advok&aacute;t. Mezi m&eacute; kon&iacute;čky
       patř&iacute; sport, historie, četba. Letňany vn&iacute;m&aacute;m jako svůj
-      d</span></span><span data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">omov,
+      d</span></span><span data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".af.1:3:1:$comment283858921738137_284158458374850:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">omov,
       kde bych chtěl ž&iacute;t s rodinou svobodně, v klidu a bezpeč&iacute;. Proto
       bych se chtěl v př&iacute;padě zvolen&iacute; zab&yacute;vat předev&scaron;&iacute;m
-      ot&aacute;zkami bezpečnosti a dopravy v na&scaron;&iacute; městsk&eacute; č&aacute;sti.</span></span></span></span></span></p>
+      ot&aacute;zkami bezpečnosti a dopravy v na&scaron;&iacute; městsk&eacute; č&aacute;sti.</span></span></span></span></span></p>"
     priorities: ''
 - PhDr. Romana Škopová:
     _slug: phdr-romana-skopova
-    photo: /samples/candidates/phdr-romana-skopova/06_skopova.jpg
+    photo: "/samples/candidates/phdr-romana-skopova/06_skopova.jpg"
     occupation: překladatelka
     political_party: bez politické příslušnosti
     age: 53
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0">Jsem
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".ak.1:3:1:$comment283637565093606_284157381708291:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0\">Jsem
       překladatelka a tlumočnice se statusem OSVČ. V Letňanech jsem se narodila a
       cel&yacute; život tady i žiji, stejně jako moje &scaron;irok&aacute; rodina,
       kter&aacute; se tu us&iacute;dlila už v 18. stolet&iacute;. Byla bych velmi
@@ -144,17 +144,17 @@
       a &uacute;rodn&eacute; půdy. M&yacute;m celoživotn&iacute;m z&aacute;jmem je
       krajinn&aacute; architektura a zeleň obecně, což je obor, kter&yacute; teď studuji,
       proto bych se i v r&aacute;mci MČ r&aacute;da zab&yacute;vala pr&aacute;vě touto
-      problematikou.</span></span></span></p>
+      problematikou.</span></span></span></p>"
     priorities: ''
 - MgA. Romana Khauerová:
     _slug: mga-romana-khauerova
-    photo: /samples/candidates/mga-romana-khauerova/07_khauerova.jpg
+    photo: "/samples/candidates/mga-romana-khauerova/07_khauerova.jpg"
     occupation: zástupkyně ředitele a umělecká vedoucí v taneční konzervatoři
     political_party: bez politické příslušnosti
     age: 41
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0">Narodila
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$0:0\">Narodila
       jsem se v roce 1972 v Praze, jsem vdan&aacute; a s manželem vychov&aacute;v&aacute;me
       tři děti. Nejstar&scaron;&iacute; Jakub bude v z&aacute;ř&iacute; plnolet&yacute;
       a v ř&iacute;jnu půjde poprv&eacute; k volb&aacute;m. Po studiu na Akademii
@@ -162,8 +162,8 @@
       titul MgA. Tanci se věnuji již od mala. Ve třet&iacute;m ročn&iacute;ku gymn&aacute;zia
       jsem byla přijata na Konzervatoř Jaroslava Ježka (obor sc&eacute;nick&yacute;
       tanec). Gymn&aacute;zium jsem ukončila maturitou a tanečn&iacute; konzervatoř
-      absolutoriem a titulem DiS.</span><br data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$1:0"
-      /><span data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$2:0">Nyn&iacute;
+      absolutoriem a titulem DiS.</span><br data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$1:0\"
+      /><span data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$2:0\">Nyn&iacute;
       pracuji jako uměleck&aacute; vedouc&iacute; a z&aacute;stupkyně ředitele &scaron;koly
       na Pražsk&eacute; tanečn&iacute; konzervatoři a středn&iacute; odborn&eacute;
       &scaron;kole, s.r.o.. Předt&iacute;m jsem postupně spolupracovala s čern&yacute;m
@@ -173,15 +173,15 @@
       na m&iacute;sto uměleck&eacute; vedouc&iacute;, dodnes vystupuji s uměleck&yacute;m
       tělesem Chorea Bohemica v programu nazvan&eacute;m V&aacute;noce s Choreou a
       jako choreografka a pedagog působ&iacute;m v dětsk&eacute;m folkl&oacute;rn&iacute;m
-      souboru &Scaron;&aacute;teček. </span><br data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$3:0"
-      /><span data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$4:0">Ve
+      souboru &Scaron;&aacute;teček. </span><br data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$3:0\"
+      /><span data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$4:0\">Ve
       vztahu k Letňanům jsem vzhledem ke sv&eacute; specializaci na folkl&oacute;r
       měla možnost pod&iacute;let se na vytv&aacute;řen&iacute; a dramaturgii Pivobran&iacute;,
       Masopustu a Rozsvěcen&iacute; v&aacute;nočn&iacute;ho stromku. Pro Letňany jsem
-      "objevila" např. cimb&aacute;lovou muziku, Pražsk&yacute; pouťov&yacute; orchestr,
+      \"objevila\" např. cimb&aacute;lovou muziku, Pražsk&yacute; pouťov&yacute; orchestr,
       hudebn&iacute; skupinu Timbre Music. Pracovala jsem v kulturn&iacute; komisi,
-      kter&aacute; akce připravovala.</span><br data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$5:0"
-      /><span data-reactid=".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$6:0">K
+      kter&aacute; akce připravovala.</span><br data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$5:0\"
+      /><span data-reactid=\".ak.1:3:1:$comment283637565093606_284835474973815:0.0.$right.0.$left.0.0.1:$comment-body.0.$end:0:$6:0\">K
       Letňanům m&aacute;m vřel&yacute; vztah už od mala, protože nejdř&iacute;v jsem
       do Letňan z Proseku m&iacute;řila každou volnou chv&iacute;li za sestrou, kter&aacute;
       zde bydlela a posl&eacute;ze od 7. tř&iacute;dy Z&Scaron; za sv&yacute;m dne&scaron;n&iacute;m
@@ -190,25 +190,25 @@
       vzděl&aacute;n&iacute;, dlouholet&eacute; zku&scaron;enosti s organizov&aacute;n&iacute;m
       kulturn&iacute;ch a společensk&yacute;ch akc&iacute; a hlavně chuť a z&aacute;jem
       nejen obnovovat tradice, ale objevovat dal&scaron;&iacute; možnosti zapojen&iacute;
-      obyvatel Letňan do společensk&eacute;ho děn&iacute;.</span></span></span></p>
+      obyvatel Letňan do společensk&eacute;ho děn&iacute;.</span></span></span></p>"
     priorities: ''
 - MUDr. Josef Kašík:
     _slug: mudr-josef-kasik
-    photo: /samples/candidates/mudr-josef-kasik/08_kasik.jpg
+    photo: "/samples/candidates/mudr-josef-kasik/08_kasik.jpg"
     occupation: neurochirurg
     political_party: bez politické příslušnosti
     age: 36
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Narodil
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Narodil
       jsem se 7. 4. 1978 v Mostě, v Letňanech bydl&iacute;m 7 let. Po absolvov&aacute;n&iacute;
       Gymnazia F. Palack&eacute;ho v Neratovic&iacute;ch jsem vystudoval V&scaron;eobecn&eacute;
       l&eacute;kařstv&iacute; na 1. L&eacute;kařsk&eacute; fakultě Univerzity Karlovy
       v Praze. Nyn&iacute; pracuji jako neurochirurg v Nemocnici na Homol</span></span><span
-      data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">ce.
+      data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".ap.1:3:1:$comment283636788427017_284154515041911:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">ce.
       Letňany považuji za ide&aacute;ln&iacute; m&iacute;sto pro sklouben&iacute;
       městsk&eacute;ho života se v&scaron;emi jeho atributy, tzn. dostupnost kultury,
       sportovi&scaron;ť, atd., se sv&yacute;m zaměstn&aacute;n&iacute;m, kdy je potřeba
@@ -221,80 +221,80 @@
       za star&scaron;&iacute;mi pacienty domů, stran akutn&iacute; p&eacute;če např.
       zř&iacute;zen&iacute; akutn&iacute; zubn&iacute; ambulance v součinnosti s jin&yacute;mi
       MČ, atp. Fand&iacute;m t&eacute;ž rozvoji sportovi&scaron;ť a prostorů pro voln&yacute;
-      čas dět&iacute; a ml&aacute;deže.</span></span></span></span></span></p>
+      čas dět&iacute; a ml&aacute;deže.</span></span></span></span></span></p>"
     priorities: ''
 - Markéta Krummerová:
     _slug: marketa-krummerova
-    photo: /samples/candidates/marketa-krummerova/09_krummerova.jpg
+    photo: "/samples/candidates/marketa-krummerova/09_krummerova.jpg"
     occupation: obchodní manažerka
     political_party: bez politické příslušnosti
     age: 34
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Narodila
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Narodila
       jsem se roku 1980 v Praze. Vystudovala jsem z&aacute;kladn&iacute; jazykovou
       &scaron;kolu se zaměřen&iacute;m na francouzsk&yacute; a anglick&yacute; jazyk
       a pot&eacute; Gymn&aacute;zium Českolipsk&aacute;. T&eacute;měř 10 let jsem
       pracovala v telekomunikačn&iacute; firmě, od pozice oper&aacute;torky až po
-      manažerskou pozici.</span></span><span data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">
+      manažerskou pozici.</span></span><span data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".60.1:3:1:$comment283539881770041_283540405103322:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">
       V Letňanech žiji 10 let a na&scaron;la jsem tu mnoho př&aacute;tel a skvěl&eacute;
       m&iacute;sto k životu poskytuj&iacute;c&iacute; prostor pro rozmanit&eacute;
       aktivity. Jsem vdan&aacute; a m&aacute;m 2 dcery, Emu a Anežku - několikr&aacute;t
       jsem se z&uacute;častnila z&aacute;pisu do mateřsk&eacute; &scaron;koly a proto
       bych chtěla prosadit jeho zjednodu&scaron;en&iacute; a sjednocen&iacute; v r&aacute;mci
-      Letňan.</span></span></span></span></span></p>
+      Letňan.</span></span></span></span></span></p>"
     priorities: ''
 - Petr Bursík:
     _slug: petr-bursik
-    photo: /samples/candidates/petr-bursik/10_bursik.jpg
+    photo: "/samples/candidates/petr-bursik/10_bursik.jpg"
     occupation: regionální ředitel
     political_party: bez politické příslušnosti
     age: 34
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Narodil
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Narodil
       jsem se v roce 1980 v Jihlavě a v Letňanech bydl&iacute;m 4 roky. Jsem ženat&yacute;
       a s manželkou Evou vychov&aacute;v&aacute;me ročn&iacute; dceru Aničku. Po studiu
       na středn&iacute; stavebn&iacute; &scaron;kole jsem pracoval (v Jihlavě i v
       Praze) na různ&yacute;ch pracovn&iacute;ch pozic&iacute;ch ve stavebn&iacute;ch
-      firm&aacute;</span></span><span data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">ch.
+      firm&aacute;</span></span><span data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".65.1:3:1:$comment283539335103429_284152955042067:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">ch.
       Po absolvov&aacute;n&iacute; speci&aacute;ln&iacute;ch &scaron;kolen&iacute;
       a &uacute;spě&scaron;n&eacute;m složen&iacute; zkou&scaron;ek se nyn&iacute;
       věnuji finančn&iacute;mu poradenstv&iacute;. R&aacute;d bych z Letňan pomohl
-      vytvořit ide&aacute;ln&iacute; m&iacute;sto pro rodiny s dětmi.</span></span></span></span></span></p>
+      vytvořit ide&aacute;ln&iacute; m&iacute;sto pro rodiny s dětmi.</span></span></span></span></span></p>"
     priorities: ''
 - Vladimíra Koubová:
     _slug: vladimira-koubova
-    photo: /samples/candidates/vladimira-koubova/11_koubova.jpg
+    photo: "/samples/candidates/vladimira-koubova/11_koubova.jpg"
     occupation: trenérka fitness, masérka
     political_party: bez politické příslušnosti
     age: 35
-    profile: <p><span data-ft="{&quot;tn&quot;:&quot;K&quot;}" data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body"><span
-      class="UFICommentBody" data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0"><span
-      data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.0"><span
-      data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0">Narodila
+    profile: "<p><span data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\" data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body\"><span
+      class=\"UFICommentBody\" data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0\"><span
+      data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.0\"><span
+      data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.0.$end:0:$0:0\">Narodila
       jsem se v roce 1979 v Žatci. V Praze žiju již osm let. Jsem vdan&aacute; a m&aacute;me
       syna Jakuba. Vystudovala jsem osmilet&eacute; gymn&aacute;zium. D&aacute;le
       jsem pokračovala na ČVUT fakulta stavebn&iacute;, ale bohužel ze zdravotn&iacute;ch
-      důvodů jsem studium nedokončila. Postupně jse</span></span><span data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3"><span
-      data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0"><span
-      data-reactid=".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0">m
+      důvodů jsem studium nedokončila. Postupně jse</span></span><span data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3\"><span
+      data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0\"><span
+      data-reactid=\".6a.1:3:1:$comment283538978436798_284152048375491:0.0.$right.0.$left.0.0.1:$comment-body.0.3.0.$end:0:$0:0\">m
       se začala vzděl&aacute;vat v oblasti sportu a regenerace. M&eacute; kon&iacute;čky?
       Moje Fitko, syn a manžel, pr&aacute;ce na chalupě &ndash; hlavně stavařina,
       různ&eacute; ručn&iacute; pr&aacute;ce. V Letňanech se n&aacute;m moc l&iacute;b&iacute;,
       nalezneme zde v&scaron;e potřebn&eacute; pro spokojen&yacute; život. Co bych
       změnila? V&iacute;ce m&iacute;st na parkov&aacute;n&iacute; a v&iacute;ce bezpečn&yacute;ch
-      dětsk&yacute;ch hři&scaron;ť, aby nebylo plno jen u n&aacute;s <span class="emoticon_text">:-)</span></span></span></span></span></span></p>
+      dětsk&yacute;ch hři&scaron;ť, aby nebylo plno jen u n&aacute;s <span class=\"emoticon_text\">:-)</span></span></span></span></span></span></p>"
     priorities: ''
 - Irena Šípová:
     _slug: irena-sipova
-    photo: /samples/candidates/irena-sipova/logo_beran.png
+    photo: "/samples/candidates/irena-sipova/logo_beran.png"
     occupation: projektová manažerka, lektorka AJ
     political_party: bez politické příslušnosti
     age: 36
@@ -302,7 +302,7 @@
     priorities: ''
 - Vasyl Tarčynec:
     _slug: vasyl-tarcynec
-    photo: /samples/candidates/vasyl-tarcynec/logo_beran.png
+    photo: "/samples/candidates/vasyl-tarcynec/logo_beran.png"
     occupation: truhlář
     political_party: Strana svobodných občanů
     age: 41
@@ -310,7 +310,7 @@
     priorities: ''
 - Mgr. Lenka Literová:
     _slug: mgr-lenka-litero
-    photo: /samples/candidates/mgr-lenka-litero/logo_beran.png
+    photo: "/samples/candidates/mgr-lenka-litero/logo_beran.png"
     occupation: koncipientka
     political_party: bez politické příslušnosti
     age: 35
@@ -318,7 +318,7 @@
     priorities: ''
 - Ing. Pavel Moses Phd.:
     _slug: ing-pavel-moses-phd
-    photo: /samples/candidates/ing-pavel-moses-phd/logo_beran.png
+    photo: "/samples/candidates/ing-pavel-moses-phd/logo_beran.png"
     occupation: VŠ pedagog
     political_party: bez politické příslušnosti
     age: 36
@@ -326,7 +326,7 @@
     priorities: ''
 - Tomáš Brich:
     _slug: tomas-brich
-    photo: /samples/candidates/tomas-brich/logo_beran.png
+    photo: "/samples/candidates/tomas-brich/logo_beran.png"
     occupation: VŠ student
     political_party: bez politické příslušnosti
     age: 20
@@ -334,7 +334,7 @@
     priorities: ''
 - Milan Svatoš:
     _slug: milan-svatos
-    photo: /samples/candidates/milan-svatos/logo_beran.png
+    photo: "/samples/candidates/milan-svatos/logo_beran.png"
     occupation: grafik
     political_party: bez politické příslušnosti
     age: 42
@@ -342,7 +342,7 @@
     priorities: ''
 - Vojtěch Flégl:
     _slug: vojtech-flegl
-    photo: /samples/candidates/vojtech-flegl/logo_beran.png
+    photo: "/samples/candidates/vojtech-flegl/logo_beran.png"
     occupation: důchodce
     political_party: bez politické příslušnosti
     age: 70
@@ -350,7 +350,7 @@
     priorities: ''
 - Ing. Jan Jouza:
     _slug: ing-jan-jouza
-    photo: /samples/candidates/ing-jan-jouza/logo_beran.png
+    photo: "/samples/candidates/ing-jan-jouza/logo_beran.png"
     occupation: ekonom
     political_party: bez politické příslušnosti
     age: 35
@@ -358,7 +358,7 @@
     priorities: ''
 - Lenka Vilánková:
     _slug: lenka-vilankova
-    photo: /samples/candidates/lenka-vilankova/logo_beran.png
+    photo: "/samples/candidates/lenka-vilankova/logo_beran.png"
     occupation: na mateřské dovolené
     political_party: bez politické příslušnosti
     age: 37
@@ -366,7 +366,7 @@
     priorities: ''
 - Vojtěch Šamla:
     _slug: vojtech-samla
-    photo: /samples/candidates/vojtech-samla/logo_beran.png
+    photo: "/samples/candidates/vojtech-samla/logo_beran.png"
     occupation: student
     political_party: Strana svobodných občanů
     age: 22

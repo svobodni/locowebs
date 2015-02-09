@@ -1,5 +1,5 @@
 ---
-title: Články
+title: "Články"
 slug: clanky
 listed: false
 published: true
@@ -15,7 +15,7 @@ position: 10
   <h1>Aktuálně</h1>
 
   <div class="news-feed">
-  {% for post in contents.posts limit:8 %}
+  {% for post in contents.posts limit:64 %}
     <div class="media">
     <a class="pull-left" href="/clanky/{{ post._slug }}">
     {% if post.featured_image.url %}

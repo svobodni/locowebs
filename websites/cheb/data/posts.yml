@@ -1,15 +1,513 @@
 ---
+- Výsledky komunálních voleb 2014 v Chebu:
+    _slug: vysledky-komunalnich-voleb-v-chebu-2014
+    posted_at: 12. 10. 2014 00:00
+    teaser: "<p><span style=\"font-size: medium;\"><strong>M&aacute;me opět dva mand&aacute;ty!</strong></span></p>"
+    body: |-
+      <p>&nbsp;</p>
+      <p><span style="font-family: %value; font-size: large;"><strong>Pořad&iacute; stran podle z&iacute;skan&yacute;ch mand&aacute;tů a&nbsp;přepočten&eacute;ho procenta platn&yacute;ch&nbsp;hlasů:<br /></strong></span></p>
+      <table style="width: 657px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col width="64" /></colgroup><colgroup><col width="198" /></colgroup><colgroup><col width="65" /></colgroup><colgroup><col width="64" /></colgroup><colgroup><col width="110" /></colgroup><colgroup><col width="86" /></colgroup><colgroup><col width="70" /></colgroup>
+      <tbody>
+      <tr>
+      <td rowspan="3" colspan="2" width="262" height="96"><strong><span style="font-family: Calibri; font-size: medium;">Kandid&aacute;tn&iacute; listina</span></strong></td>
+      <td rowspan="3" colspan="2" width="129"><strong><span style="font-family: Calibri; font-size: medium;">Hlasy</span></strong></td>
+      <td width="110"><strong><span style="font-family: Calibri; font-size: medium;">Počet</span></strong></td>
+      <td width="86"><strong><span style="font-family: Calibri; font-size: medium;">Přepočten&eacute; %</span></strong></td>
+      <td width="70"><strong><span style="font-family: Calibri; font-size: medium;">Počet</span></strong></td>
+      </tr>
+      <tr>
+      <td width="110" height="38"><strong><span style="font-family: Calibri; font-size: medium;">kandid&aacute;tů</span></strong></td>
+      <td width="86"><strong><span style="font-family: Calibri; font-size: medium;">platn&yacute;ch hlasů</span></strong></td>
+      <td width="70"><strong><span style="font-family: Calibri; font-size: medium;">mand&aacute;tů</span></strong></td>
+      </tr>
+      <tr>
+      <td width="110" height="20"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="86"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="70"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      </tr>
+      <tr>
+      <td width="64" height="20"><strong><span style="font-family: Calibri; font-size: medium;">č&iacute;slo</span></strong></td>
+      <td width="198"><strong><span style="font-family: Calibri; font-size: medium;">n&aacute;zev</span></strong></td>
+      <td width="65"><strong><span style="font-family: Calibri; font-size: medium;">abs.</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">v %</span></strong></td>
+      <td width="110"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="86"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="70"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=476&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">2</span></a></td>
+      <td style="text-align: left;" headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">VPM - ALETERNATIVA</span></td>
+      <td style="text-align: left;" headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">32&nbsp;484</span></td>
+      <td style="text-align: right;" headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">16,82</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td style="text-align: right;" headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">16,81</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">6</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=768&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">11</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">ANO 2011</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">29&nbsp;903</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">15,48</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">28</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">16,58</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">5</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=7&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">4</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Česk&aacute; str.soci&aacute;lně demokrat.</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">30&nbsp;846</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">15,97</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">15,97</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">5</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=47&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">9</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Komunistick&aacute; str.Čech a Moravy</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">27&nbsp;575</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">14,28</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">14,27</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">5</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=389&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">5</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Sdružen&iacute; ODS, NK</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">23&nbsp;284</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">12,06</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">12,05</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">4</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=479&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">3</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">KOALICE PRO CHEB</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">17&nbsp;727</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">9,18</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">9,17</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">3</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=714&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">1</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Strana svobodn&yacute;ch občanů</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">11&nbsp;576</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">5,99</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">5,99</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">2</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=721&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">6</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">TOP 09</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">9&nbsp;306</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">4,82</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">4,81</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">0</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=774&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">7</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Koalice MOJE MĚSTO</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">4&nbsp;066</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,11</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">22</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">2,87</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">0</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=600&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">8</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">Koalice DSSS a SPE</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">4&nbsp;041</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,09</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">29</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">2,16</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">0</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="t2sa2 t2sb1" align="right" width="64" height="26"><a href="http://volby.cz/pls/kv2014/kv111111?xjazyk=CZ&amp;xid=1&amp;xdz=2&amp;xnumnuts=4101&amp;xobec=554481&amp;xstrana=155&amp;xstat=0&amp;xvyber=0"><span style="color: #0000ff; font-family: Calibri; font-size: medium;">10</span></a></td>
+      <td headers="t2sa2 t2sb2" width="198"><span style="font-family: Calibri; font-size: medium;">N&Aacute;&Scaron; DOMOV CHEB</span></td>
+      <td headers="t2sa3 t2sb3" width="65"><span style="font-family: Calibri; font-size: medium;">2&nbsp;330</span></td>
+      <td headers="t2sa3 t2sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">1,21</span></td>
+      <td style="text-align: center;" headers="t2sa4" align="right" width="110"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="t2sa6" align="right" width="86"><span style="font-family: Calibri; font-size: medium;">1,2</span></td>
+      <td style="text-align: center;" headers="t2sa7" align="right" width="70"><span style="font-family: Calibri; font-size: medium;">0</span></td>
+      </tr>
+      </tbody>
+      </table>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><span><strong><span style="font-size: large;">Pořad&iacute; z&iacute;skan&yacute;ch hlasů&nbsp;kandid&aacute;tů Svobodn&yacute;ch:</span></strong></span></p>
+      <table style="width: 505px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col width="64" /></colgroup><colgroup><col width="166" /></colgroup><colgroup><col span="2" width="64" /></colgroup><colgroup><col width="83" /></colgroup><colgroup><col width="64" /></colgroup>
+      <tbody>
+      <tr>
+      <td rowspan="2" colspan="2" width="230" height="39"><strong><span style="font-family: Calibri; font-size: medium;">Kandid&aacute;t</span></strong></td>
+      <td rowspan="2" colspan="2" width="128"><strong><span style="font-family: Calibri; font-size: medium;">Počet hlasů</span></strong></td>
+      <td width="83"><strong><span style="font-family: Calibri; font-size: medium;">Pořad&iacute;</span></strong></td>
+      <td rowspan="3" width="64"><strong><span style="font-family: Calibri; font-size: medium;">Mand&aacute;t</span></strong></td>
+      </tr>
+      <tr>
+      <td width="83" height="20"><strong><span style="font-family: Calibri; font-size: medium;">zvolen&iacute;</span></strong></td>
+      </tr>
+      <tr>
+      <td width="64" height="38"><strong><span style="font-family: Calibri; font-size: medium;">poř.</span></strong></td>
+      <td width="166"><strong><span style="font-family: Calibri; font-size: medium;">př&iacute;jmen&iacute;, jm&eacute;no, tituly</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">abs.</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">v %</span></strong></td>
+      <td width="83"><strong><span style="font-family: Calibri; font-size: medium;">/ pořad&iacute; n&aacute;hradn&iacute;ka</span></strong></td>
+      </tr>
+      <tr>
+      <td width="64" height="20"><strong><span style="font-family: Calibri; font-size: medium;">č&iacute;slo</span></strong></td>
+      <td width="166"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="83"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      <td width="64"><strong><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></strong></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">1</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Jakl V&aacute;clav Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">856</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">7,39</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">1</span></td>
+      <td style="text-align: center;" headers="sa4" width="64"><span style="font-family: Calibri; font-size: medium;">*</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">3</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Pimek Stanislav Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">605</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">5,22</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">2</span></td>
+      <td style="text-align: center;" headers="sa4" width="64"><span style="font-family: Calibri; font-size: medium;">*</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">5</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Pag&aacute;č Pavel</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">562</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">4,85</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">1</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">10</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Vejražka Alan</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">479</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">4,13</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">2</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">2</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Lacina Jiř&iacute; Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">456</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,93</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">3</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">4</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Tkaczyszyn Ladislav</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">444</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,83</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">4</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">12</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Matěj&iacute;ček Tom&aacute;&scaron; Ing. arch.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">436</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,76</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">5</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">16</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Pavl&aacute;k Miroslav Ing. Ph.D.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">420</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,62</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">14</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">23</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Vejražkov&aacute; Ivana Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">388</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,35</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">21</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">19</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Lhot&aacute;kov&aacute; Petra Mgr.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">378</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,26</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">17</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">13</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Hendrychov&aacute; Dana Mgr.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">372</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,21</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">11</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">8</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Kubincov&aacute; Andrea</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">369</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,18</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">8</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">7</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Kremla Petr Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">368</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,17</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">7</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">14</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Vejražkov&aacute; Jana</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">362</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,12</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">12</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">11</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Moses Petr Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">356</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,07</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">10</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">21</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Krejč&iacute; Tom&aacute;&scaron;</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">354</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,05</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">19</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">27</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Syrov&aacute;tka Zbyněk Mgr.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">352</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">3,04</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">25</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">20</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Pař&iacute;zek Petr</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">343</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,96</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">18</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">6</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">&Scaron;merda Jan</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">339</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,92</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">6</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">17</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Li&scaron;kov&aacute; Petra</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">331</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,85</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">15</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">24</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Vomelov&aacute; Ljubov Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">327</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,82</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">22</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">15</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Zavadil Radovan</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">322</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,78</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">13</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">22</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Dzurind&aacute;k Martin</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">316</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,72</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">20</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">18</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Kr&aacute;sov&aacute; Jitka</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">313</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,7</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">16</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">26</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Jirou&scaron;kov&aacute; Radka Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">310</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,67</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">24</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">9</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Panč&iacute;kov&aacute; Jana</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">309</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,66</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">9</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">25</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Havl&iacute;ček Petr Ing.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">304</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,62</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">23</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">29</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Mottl V&aacute;clav</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">277</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,39</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">27</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">30</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Str&aacute;nsk&yacute; Martin Bc.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">274</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,36</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">28</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      <tr>
+      <td style="text-align: center;" headers="sa1 sb1" align="right" width="64" height="26"><span style="font-family: Calibri; font-size: medium;">28</span></td>
+      <td headers="sa1 sb2" width="166"><span style="font-family: Calibri; font-size: medium;">Mytnickij Artur Bc.</span></td>
+      <td headers="sa2 sb3" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">254</span></td>
+      <td headers="sa2 sb4" align="right" width="64"><span style="font-family: Calibri; font-size: medium;">2,19</span></td>
+      <td headers="sa3" align="right" width="83"><span style="font-family: Calibri; font-size: medium;">26</span></td>
+      <td width="64"><span style="font-family: Calibri; font-size: medium;">&nbsp;</span></td>
+      </tr>
+      </tbody>
+      </table>
+      <p style="text-align: left;">&nbsp;</p>
+      <p style="text-align: left;"><span style="font-size: small;">Pozn.: Hranice pro změnu pořad&iacute; kandid&aacute;ta je&nbsp;423,5 - tj. kdo m&aacute; m&eacute;ně, nepřeskakuje.<br />Proto konečn&eacute; pořad&iacute; n&aacute;hradn&iacute;ků neodpov&iacute;d&aacute;&nbsp;pořad&iacute; počtu&nbsp;z&iacute;skan&yacute;ch hlasů.<br /></span></p>
+- Nebojte se volit menší strany!:
+    _slug: nebojte-se-volit-mensi-strany
+    posted_at: 08. 10. 2014 00:00
+    author: Stanislav Pimek
+    teaser: "<p><span style=\"font-size: medium;\">Chcete m&iacute;t na radnici koalici
+      ANO a ČSSD s tichou podporou komunistů?</span></p>"
+    body: "<p><a title=\"Stanislav Pimek\" href=\"http://www.cheb.svobodni.cz/kandidati/ing-stanislav-pimek\"
+      target=\"_blank\"><img src=\"/samples/assets/PimekShd2mini.png\" alt=\"\" /></a><br
+      />Chcete m&iacute;t na chebsk&eacute; radnici vl&aacute;du rychlokva&scaron;n&eacute;ho&nbsp;
+      a mocichtiv&eacute;ho hnut&iacute; ANO, a zaveden&eacute; ČSSD, kter&aacute;
+      už m&aacute; sv&eacute; lidi v&scaron;ude kde potřebuje, a&nbsp;velkoryse přes
+      ně rozhazuje va&scaron;e pen&iacute;ze?&nbsp;A&nbsp;k tomu s podporou komunistů,
+      kteř&iacute; n&aacute;m nen&aacute;padně pronikaj&iacute; v cel&eacute;m kraji
+      do spr&aacute;vn&iacute;ch a dozorč&iacute;ch rad v&scaron;ech polost&aacute;tn&iacute;ch
+      podniků?<br />Pokud nechcete, nebojte se volit men&scaron;&iacute; strany, v&aacute;&scaron;
+      hlas nepropadne! <br />Povědom&iacute; o tom, jak dosud vl&aacute;dnouc&iacute;
+      koalice přehl&iacute;ž&iacute; občany, o tom, jak pan Bc. Linda v&iacute; v&scaron;e
+      nejl&iacute;p a nepotřebuje se s nik&yacute;m radit a o tom, jak se rozděluj&iacute;
+      trafiky&nbsp;těm, kteř&iacute; jsou loaj&aacute;ln&iacute;, tak toto povědom&iacute;
+      je už mezi občany dost velk&eacute; na to, aby men&scaron;&iacute; strany ve
+      volb&aacute;ch nepropadly. Jen je potřeba to předem nevzdat a přij&iacute;t
+      k volb&aacute;m.<br />Pokud budou tyto men&scaron;&iacute; strany &uacute;spě&scaron;n&eacute;,
+      budou moci vytvořit vl&aacute;dnouc&iacute; koalici, ve kter&eacute; se navz&aacute;jem
+      ohl&iacute;daj&iacute; a společně mohou opravdu vym&yacute;tit klientelismus
+      z Radnice a pracovat pro občany.<br />Pokud budou men&scaron;&iacute; strany
+      m&eacute;ně &uacute;spě&scaron;n&eacute;, poř&aacute;d je&scaron;tě mohou vytvořit
+      dostatečně silnou opozici, kter&aacute; bude vl&aacute;dnouc&iacute;m velk&yacute;m
+      stran&aacute;m znesnadňovat jejich \"městsk&eacute; podnik&aacute;n&iacute;\".<br
+      />Nepůjdete-li k volb&aacute;m a vyhraje ANO a ČSSD s velk&yacute;m&nbsp;n&aacute;skokem,
+      pak se v&aacute;s nikdo na nic už pt&aacute;t nebude a oni si to na&nbsp;městě
+      \"prostě zař&iacute;d&iacute;\"&nbsp; a \"zamakaj&iacute;\" tak, jak&nbsp;JIM,
+      a ne V&Aacute;M, to bude&nbsp;vyhovovat...</p>"
+- Nezdá se vám, že sebechvála v posledních Radničních listech tak trochu smrdí?:
+    _slug: nezda-se-vam-ze-sebechvala-v-poslednich-radnicnich-listech-tak-trochu-smrdi
+    posted_at: 05. 10. 2014 00:00
+    author: Stanislav Pimek
+    teaser: ''
+    body: |-
+      <p><a title="Stanislav Pimek" href="http://cheb.svobodni.cz/kandidati/ing-stanislav-pimek" target="_blank"><img src="/samples/assets/PimekShd2mini.png" alt="" /></a><br />Mnoh&eacute; z toho, č&iacute;m se zde současn&eacute; veden&iacute; města chlub&iacute;, je buď ciz&iacute; peř&iacute; a nebo to nemus&iacute; b&yacute;t každ&yacute;m vn&iacute;m&aacute;no pozitivně.</p>
+      <p>Proinvestovat za 4 roky 900 mili&oacute;nů, tedy&nbsp;cel&yacute; ročn&iacute; rozpočet Chebu, nevn&iacute;m&aacute;m jako klad. Zvl&aacute;&scaron;tě když mnoh&eacute; z těch investic byly předražen&eacute; (lavičky na lev&eacute;m břehu) nebo nevyveden&eacute; (dlažba na pě&scaron;&iacute; z&oacute;ně)&nbsp;a mnoh&eacute; z nich budou v budoucnu opakovaně vyžadovat&nbsp;mnoho&nbsp;dal&scaron;&iacute;ch peněz&nbsp;na &uacute;držbu. Mnoho milionů se utopilo ve stavebn&iacute;ch studi&iacute;ch, kter&eacute; se nakonec nerealizovaly a nejsp&iacute;&scaron;e se ani realizovat nebudou. Stavebn&iacute; studie se zad&aacute;valy zejm&eacute;na v posledn&iacute;m roce jak na běž&iacute;c&iacute;m p&aacute;su a to bez v&yacute;běrov&yacute;ch ř&iacute;zen&iacute;.</p>
+      <p>Z&iacute;sk&aacute;n&iacute; majetku města v Německu trvalo 20 let, jak s&aacute;m uv&aacute;d&iacute; pan starosta Vanou&scaron;ek, z&aacute;sluha posledn&iacute;ho&nbsp;veden&iacute; města může b&yacute;t za 4 roky tedy nejv&yacute;&scaron;e tak 20%.<br />Omezen&iacute; otv&iacute;rac&iacute; doby postihlo nejen herny, ale i norm&aacute;ln&iacute; hospody, kter&eacute; jen maj&iacute; tak&eacute; nějak&yacute; hrac&iacute; automat nebo jsou jen bl&iacute;zko středu města.<br />Vylidněn&iacute; n&aacute;měst&iacute; v důsledku omezen&iacute; parkov&aacute;n&iacute;, omezen&iacute; otv&iacute;rac&iacute;ch dob a vysok&yacute;ch n&aacute;jmů se začalo populisticky ře&scaron;it narychlo až půl roku před volbami. A opět &scaron;patně. Občan&eacute; Chebu by měli m&iacute;t parkov&aacute;n&iacute; zdarma, ale ne turist&eacute;.</p>
+      <p>&Scaron;pal&iacute;ček fest a V&aacute;nočn&iacute; trhy nejsou &scaron;patn&eacute; n&aacute;pady. Ale tak&eacute; jsou to zč&aacute;sti tunely na pen&iacute;ze. Konečně bych r&aacute;d zase jednou na V&aacute;noce viděl zasněžen&yacute; &Scaron;pal&iacute;ček&nbsp;nezakryt&yacute; konstrukc&iacute; kluzi&scaron;tě a nebyl při tom nav&iacute;c ru&scaron;en&nbsp;řevem Maxim Turbulenc a jin&eacute; "z&aacute;bavy", kter&aacute; nem&aacute; nic společn&eacute;ho s V&aacute;nocemi. Nen&iacute; skoro možn&eacute; si udělat v&aacute;nočn&iacute; fotku &Scaron;pal&iacute;čku bez konstrukce nebo k&yacute;čovit&yacute;ch sněhul&aacute;ků. Jinak jsou V&aacute;nočn&iacute; trhy kr&aacute;sn&eacute; a asi se opravdu vyplat&iacute;, ale měli by se na nich v&iacute;ce pod&iacute;let m&iacute;stn&iacute; lid&eacute; a děti ze &scaron;kol, což jim&nbsp;moc umožněno nen&iacute;.</p>
+      <p>Veden&iacute;m města jsou podporov&aacute;ny i pochybn&eacute; stavby jako je přestavba hotelu Hradn&iacute; dvůr, zastavov&aacute;n&iacute; zeleně v M&aacute;jov&eacute; ulici a u n&aacute;draž&iacute; a megalomansk&eacute; městsk&eacute; l&aacute;zně, jejichž v&yacute;stavbou&nbsp;by se město opět zadlužilo na mnoho let.</p>
+      <p>Zaj&iacute;malo by mne, kolik z těch n&aacute;padů a investic vymysleli členov&eacute; veden&iacute; města a kolik si jen přivlastnili, protože na ně dali pen&iacute;ze? Mimochodem pen&iacute;ze n&aacute;s občanů.</p>
+      <p>Tak&eacute; by mne zaj&iacute;malo, když se tolik utr&aacute;c&iacute; a investuje, zda někdo z veden&iacute; města myslel na to, že třeba někdy může přij&iacute;t opravdov&aacute; krize, ne jako ta z roku 2008, a zda m&aacute; pro tento př&iacute;pad město vybudov&aacute;no nějak&eacute; rezervy a sc&eacute;n&aacute;ře?</p>
+      <p>Co mohu pochv&aacute;lit, je zlep&scaron;en&iacute; pr&aacute;ce městsk&eacute; policie (i když by to snad &scaron;lo i bez uměl&eacute; funkce třet&iacute;ho m&iacute;stostarosty), d&aacute;le podporu soci&aacute;ln&iacute;ch služeb (a mohla by b&yacute;t je&scaron;tě lep&scaron;&iacute;)&nbsp;a květinovou v&yacute;zdobu př&iacute;jezdů do Chebu i v centru města (snad kromě beru&scaron;ek, to už na mne bylo trochu moc).</p>
+      <p>Město bylo oceněno za p&eacute;či o pam&aacute;tkovou rezervaci. Ano, o Hrad a n&aacute;měst&iacute; se star&aacute; opravdu dobře, to je zaběhnut&eacute; už mnoho let. Bohužel ale zcela stagnuje např&iacute;klad z&aacute;chrana komplexu Franti&scaron;k&aacute;n s nejstar&scaron;&iacute;m kostelem v Chebu.</p>
+      <p>A č&iacute;m se&nbsp;Radničn&iacute; listy nepochlubily?&nbsp;Třeba t&iacute;m, že&nbsp;veden&iacute; města až pětin&aacute;sobně zv&yacute;&scaron;ilo n&aacute;jmy ze zahr&aacute;dek, zv&yacute;&scaron;il se poplatek za odpad a chyst&aacute; se zv&yacute;&scaron;en&iacute; daně z nemovitosti. V rozpočtu je opět čtvrt miliardy na investice a zč&aacute;sti opět nen&iacute; jist&eacute;, zda se k nim podař&iacute; z&iacute;skat dotace. Město by teoreticky mohlo skončit až ve stomilionov&eacute; ztr&aacute;tě.</p>
+      <p>&nbsp;</p>
+      <p>Dal&scaron;&iacute;&nbsp;informace najdete na adrese: <img style="width: 19px; height: 19px;" src="/samples/assets/fb-i.png" alt="" width="28" height="28" />&nbsp;<span style="font-size: medium;"><a href="http://facebook.com/SvobodniCheb" target="_blank"><span style="color: #00654e;">facebook.com/SvobodniCheb</span></a></span></p>
+- Cheb - co se povedlo a co ne:
+    _slug: cheb-co-se-povedlo-a-co-ne
+    posted_at: 04. 10. 2014 00:00
+    teaser: "<p>( Odpovědi V&aacute;clava Jakla pro redaktorku 5+2 a MF Dnes )</p>"
+    body: |-
+      <p>&nbsp;</p>
+      <p><strong><span style="font-family: Calibri;">1. Jak&yacute; probl&eacute;m podle V&aacute;s nejv&iacute;c p&aacute;l&iacute; Cheb a jeho obyvatele? </span></strong></p>
+      <p><span style="font-family: Calibri;">Velk&yacute;m probl&eacute;mem&nbsp; Chebu je nedostatek pracovn&iacute;ch př&iacute;ležitost&iacute; a n&iacute;zk&aacute; průměrn&aacute; mzda. Kdo může, tak z Chebu odch&aacute;z&iacute;. Zejm&eacute;na mlad&iacute;, kteř&iacute; studuj&iacute; v Praze nebo třeba v Plzni, se už neradi do Chebu vracej&iacute;. </span></p>
+      <p><span style="font-family: Calibri;">K tomu bezpečnost, přesněji nebezpečnost v ulic&iacute;ch v nočn&iacute;ch hodin&aacute;ch, nepoř&aacute;dek, nebo třeba nedostatek parkovac&iacute;ch m&iacute;st. </span></p>
+      <p><span style="font-family: Calibri;">A arogantn&iacute; chov&aacute;n&iacute; radnice, kter&aacute; rozhoduje ve stylu &bdquo;zvolili jste si n&aacute;s, tak n&aacute;m do toho nemluvte&ldquo;. Nov&eacute; funkce na radnici, obsazov&aacute;n&iacute; vedouc&iacute;ch m&iacute;st loaj&aacute;ln&iacute;mi spolustran&iacute;ky někdy bez v&yacute;běrov&eacute;ho ř&iacute;zen&iacute;, se staly standardem. Přidělov&aacute;n&iacute; prostředků podnikatelsk&yacute;m subjektům formou v&yacute;jimek z grantov&eacute;ho syst&eacute;mu se už tak&eacute; stalo pravidlem.</span></p>
+      <p><span style="font-family: Calibri;">Je třeba znovu nastolit f&eacute;rov&aacute; pravidla, kter&aacute; budou platit pro v&scaron;echny, aby politici nerozhodovali o n&aacute;s bez n&aacute;s a nepropojovali se s mocn&yacute;mi z&aacute;jmov&yacute;mi skupinami k prosazen&iacute; v&yacute;hod pro jedny na &uacute;kor druh&yacute;ch.</span></p>
+      <p>&nbsp;</p>
+      <p><strong><span style="font-family: Calibri;">2. Jak&yacute; je V&aacute;&scaron; n&aacute;zor na stavbu spalovny komun&aacute;ln&iacute;ch odpadů?</span></strong></p>
+      <p><span style="font-family: Calibri;">Pravdou je, že se skl&aacute;dkovn&eacute; bude z důvodů legislativn&iacute;ch změn postupně zdražovat, až dojde k&nbsp; &uacute;pln&eacute;mu z&aacute;kazu skl&aacute;dkov&aacute;n&iacute;. Pl&aacute;novan&yacute; z&aacute;vod ekologick&eacute;ho využit&iacute; odpadů může b&yacute;t pro Cheb a okoln&iacute; obce včasn&yacute;m ře&scaron;en&iacute;m tohoto probl&eacute;mu. Vybudov&aacute;n&iacute;m tohoto zař&iacute;zen&iacute; m&aacute; doj&iacute;t k &uacute;spoře n&aacute;kladů na svoz a dopravu komun&aacute;ln&iacute;ho odpadu na 30 km vzd&aacute;lenou skl&aacute;dku a k &uacute;spoře n&aacute;kladů na v&yacute;robu tepla. Je třeba ale tak&eacute; posoudit, jak&eacute; negativn&iacute; dopady na životn&iacute; prostřed&iacute; může tohoto zař&iacute;zen&iacute; v Chebu m&iacute;t, a pak se rozhodnout na z&aacute;kladě faktů. </span></p>
+      <p>&nbsp;</p>
+      <p><strong><span style="font-family: Calibri;">3. Co se v Chebu povedlo za minul&eacute; volebn&iacute; obdob&iacute; a co byl naopak největ&scaron;&iacute; propad&aacute;k?</span></strong></p>
+      <p><span style="font-family: Calibri;">Co se v Chebu povedlo? Rekonstruuj&iacute; se ulice, opravuj&iacute; se domy. To je určitě dobře. Město se m&aacute; starat o svůj majetek, a to předev&scaron;&iacute;m. Ot&aacute;zkou je, jestli se star&aacute; dostatečně a jestli jsou jeho rozhodnut&iacute; spr&aacute;vn&aacute;. Někdej&scaron;&iacute; koupě předražen&eacute; Svobody a jej&iacute; rekonstrukce za cenu obrovsk&eacute;ho zadlužen&iacute; města znemožnily obnovu a využit&iacute; are&aacute;lu Franti&scaron;k&aacute;n, Dominik&aacute;nsk&eacute;ho kl&aacute;&scaron;tera, Chebsk&eacute;ho hradu&hellip;, v rozsahu, jak&yacute; by tyto historicky cenn&eacute; objekty potřebovaly. Koupě hotelu Hradn&iacute; dvůr tak&eacute; vzbuzuje pochybnosti.</span></p>
+      <p><span style="font-family: Calibri;">A co se je&scaron;tě povedlo? Lid&eacute; si už nenechaj&iacute; v&scaron;echno l&iacute;bit. Zvr&aacute;tili několik nesmysln&yacute;ch rozhodnut&iacute; radnice, např&iacute;klad absurdn&iacute; plo&scaron;n&eacute; omezen&iacute; provozn&iacute; doby ve v&scaron;ech restaurac&iacute;ch a hospod&aacute;ch ve městě. Tak&eacute; pomohli zabr&aacute;nit nesmysln&yacute;m stavb&aacute;m na M&aacute;jov&eacute; a před chebsk&yacute;m n&aacute;draž&iacute;m a vynutili si bezpečnostn&iacute; &uacute;pravy &scaron;patně připraven&eacute;ho jihov&yacute;chodn&iacute;ho obchvatu města&hellip;</span></p>
+      <p><span style="font-family: Calibri;">A co se nepovedlo? Propad&aacute;k? Tak třeba lavičky v Poohř&iacute;, kdy jedna je za půl mili&oacute;nu. No nekupte to, když je to z dotace... Dal&scaron;&iacute;m probl&eacute;mem je obrovsk&yacute; počet nejrůzněj&scaron;&iacute;ch nerealizovan&yacute;ch projektů a studi&iacute;. Snaha protlačit někter&eacute; projekty, třebaže jejich realizace je věc&iacute; dalek&eacute; budoucnosti. Prostě snaha utratit co nejrychleji co nejv&iacute;c peněz.</span></p>
+- Anketa s lídry ke komunálním volbám v Chebském deníku:
+    _slug: anketa-s-lidry-ke-komunalnim-volbam-v-chebskem-deniku
+    posted_at: 03. 10. 2014 00:00
+    teaser: "<p><span style=\"font-size: large;\">( Za Svobodn&eacute; odpov&iacute;d&aacute;
+      V&aacute;clav Jakl )</span></p>"
+    body: |-
+      <div>
+      <p>&nbsp;</p>
+      <p><strong>1. Mělo by město finančně podporovat chebsk&yacute; hospic? </strong></p>
+      <p>Sp&iacute;&scaron;e ANO. Město vyhazuje na&scaron;e pen&iacute;ze na spoustu nesmyslů. Př&iacute;spěvky často dost&aacute;vaj&iacute; firmy, kter&eacute; si jimi navy&scaron;uj&iacute; svůj zisk. Ti, kdo pomoc skutečně potřebuj&iacute;, nejsou sly&scaron;et. Raději hospic než kluzi&scaron;tě před &Scaron;pal&iacute;čkem.&nbsp;</p>
+      <p><strong>2. Chcete v Chebu spalovnu? </strong></p>
+      <p>Sp&iacute;&scaron;e ANO. Skl&aacute;dkovn&eacute; se bude zdražovat, až dojde k &uacute;pln&eacute;mu z&aacute;kazu skl&aacute;dkov&aacute;n&iacute;. ZEVO může u&scaron;etřit n&aacute;klady na dopravu na skl&aacute;dku, přitom sn&iacute;žit n&aacute;klady na teplo. Možn&eacute; negativn&iacute; dopady na životn&iacute; prostřed&iacute; je třeba vz&iacute;t v &uacute;vahu.</p>
+      <p><strong>3. Jste pro krajskou d&aacute;lničn&iacute; zn&aacute;mku? </strong></p>
+      <p>ANO. Řidiči by u&scaron;etřili. St&aacute;t vyb&iacute;r&aacute; od řidičů pen&iacute;ze několiker&yacute;m zdaněn&iacute;m. Mus&iacute;me platit d&aacute;lničn&iacute; zn&aacute;mku, vysokou spotřebn&iacute; daň, živnostn&iacute;ci nav&iacute;c silničn&iacute; daň. Celkově bych byl pro &uacute;pln&eacute; zru&scaron;en&iacute; d&aacute;lničn&iacute;ch zn&aacute;mek.</p>
+      <p><strong>4. Jste pro v&yacute;stavbu městsk&yacute;ch l&aacute;zn&iacute;? (dle zat&iacute;m zveřejněn&eacute;ho pl&aacute;nu)</strong></p>
+      <p>NE. Město by se mělo starat předev&scaron;&iacute;m o svůj majetek. S projekty se na radnici roztrhl pytel. Podle mě někdo chce městsk&eacute; pen&iacute;ze utratit i za cenu zadlužen&iacute; bez ohledu na co. Městsk&eacute; l&aacute;zně jsou typick&yacute;m př&iacute;kladem.</p>
+      </div>
+      <div>
+      <p>&nbsp;</p>
+      </div>
 - Volební vizitka s Václavem Jaklem pro Český rozhlas:
     _slug: volebni-vizitka-s-vaclavem-jaklem-pro-cesky-rozhlas
     posted_at: 29. 09. 2014 00:00
-    teaser: '<p style="margin: 0cm 0cm 10pt;"><span style="font-size: medium;"><strong><em><span
-      style="font-family: Calibri;">1) Teď m&aacute;te přesně jednu minutu na představen&iacute;
-      sv&eacute;ho programu&hellip;<br /></span><span style="font-family: Calibri;">2)
+    teaser: "<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-size: medium;\"><strong><em><span
+      style=\"font-family: Calibri;\">1) Teď m&aacute;te přesně jednu minutu na představen&iacute;
+      sv&eacute;ho programu&hellip;<br /></span><span style=\"font-family: Calibri;\">2)
       Co je podle V&aacute;s největ&scaron;&iacute;m probl&eacute;mem sen&aacute;tn&iacute;ho
-      obvodu, ve kter&eacute;m kandidujete?<br /></span><span style="font-family:
-      Calibri;">3) Jak byste z pozice sen&aacute;tora/sen&aacute;torky chtěl/a pomoci
-      tento probl&eacute;m ře&scaron;it?<br /></span></em></strong><em><span style="font-family:
-      Calibri;">a dal&scaron;&iacute; ot&aacute;zky...<br /></span></em></span></p>'
+      obvodu, ve kter&eacute;m kandidujete?<br /></span><span style=\"font-family:
+      Calibri;\">3) Jak byste z pozice sen&aacute;tora/sen&aacute;torky chtěl/a pomoci
+      tento probl&eacute;m ře&scaron;it?<br /></span></em></strong><em><span style=\"font-family:
+      Calibri;\">a dal&scaron;&iacute; ot&aacute;zky...<br /></span></em></span></p>"
     body: |-
       <p><strong><span style="font-family: Calibri; font-size: medium;">1) Teď m&aacute;te přesně jednu minutu na představen&iacute; programu sv&eacute; strany</span></strong></p>
       <p><span style="font-family: Calibri; font-size: medium;">Strana svobodn&yacute;ch občanů je jedinou stranou u n&aacute;s, kter&aacute; h&aacute;j&iacute; n&aacute;zor, že občan v&iacute; nejl&iacute;p, jak naložit se sv&yacute;mi penězi, jak naložit se sv&yacute;m životem.<br /></span><span style="font-family: Calibri; font-size: medium;"> Pro Svobodn&eacute; je nejvy&scaron;&scaron;&iacute; hodnotou - svoboda. Od toho se odv&iacute;j&iacute; politick&yacute; program Svobodn&yacute;ch.<br /> Hlavn&iacute;mi body programu do leto&scaron;n&iacute;ch sen&aacute;tn&iacute;ch voleb jsou:<br /> &Scaron;t&iacute;hl&yacute; st&aacute;t = bohat&yacute; občan</span><span style="font-size: medium;"><span style="font-family: Calibri;">&nbsp; <br /></span></span><span style="font-family: Calibri; font-size: medium;"> Evropsk&aacute; Unie m&aacute; alternativu<br /> Omez&iacute;me pravomoci politiků<br /> Stop uz&aacute;koněn&yacute;m loupež&iacute;m<br /> Politici zvolen&iacute; za Svobodn&eacute; budou v Sen&aacute;tu bojovat proti v&scaron;em nesmysln&yacute;m nař&iacute;zen&iacute;m, z&aacute;kazům, regulac&iacute;m, proti přebujel&eacute; byrokracii. <br /> V&scaron;echny z&aacute;kazy, kter&yacute;mi chtěj&iacute; politici občany vychov&aacute;vat, vedou postupně ke ztr&aacute;tě svobody.<br /> Proto jsem si na svůj volebn&iacute; sen&aacute;tn&iacute; let&aacute;k vybral heslo: &bdquo;Nechci parlament jako fabriku na z&aacute;kazy&ldquo;.<br /><br /></span></p>
@@ -26,16 +524,16 @@
 - Mají občané právo se bránit?:
     _slug: maji-obcane-pravo-se-branit
     posted_at: 22. 09. 2014 00:00
-    teaser: <p><strong>Pozor - předn&aacute;&scaron;ka z technick&yacute;ch důvodů
+    teaser: "<p><strong>Pozor - předn&aacute;&scaron;ka z technick&yacute;ch důvodů
       odložena, proběhne až v druh&eacute; polovině ř&iacute;jna.</strong><br /><strong>Děkujeme
       za pochopen&iacute;.</strong><br /><br />Předn&aacute;&scaron;ka a beseda na
-      t&eacute;ma "Střeln&eacute; zbraně - maj&iacute; občan&eacute; pr&aacute;vo
-      se br&aacute;nit?"<br />Čtvrtek 2.10.2014 od 17h<br />Hotel Hvězda, n&aacute;měst&iacute;
-      Kr&aacute;le Jiř&iacute;ho z Poděbrad, Cheb</p>
+      t&eacute;ma \"Střeln&eacute; zbraně - maj&iacute; občan&eacute; pr&aacute;vo
+      se br&aacute;nit?\"<br />Čtvrtek 2.10.2014 od 17h<br />Hotel Hvězda, n&aacute;měst&iacute;
+      Kr&aacute;le Jiř&iacute;ho z Poděbrad, Cheb</p>"
     body: |-
       <p><img src="/samples/assets/Zbran_.png" alt="" /></p>
       <p><strong>Ofici&aacute;ln&iacute; postoj Svobodn&yacute;ch:</strong><br />Ž&aacute;dn&yacute; org&aacute;n Svobodn&yacute;ch k ot&aacute;zce držen&iacute; zbran&iacute; dosud nepřijal ž&aacute;dn&eacute; stanovisko. Někteř&iacute; členov&eacute; diskutuj&iacute; slovenskou &uacute;pravu či principy zn&aacute;m&eacute; jako &bdquo;Castle doctrine&ldquo;. Obecně se v&scaron;ak Svobodn&iacute; ř&iacute;d&iacute; konzervativn&iacute; z&aacute;sadou neopravovat to, co funguje (minim&aacute;lně tedy, dokud je co napravovat jinde). V př&iacute;padě držen&iacute; zbran&iacute; je třeba m&iacute;t zejm&eacute;na na zřeteli to, že pravidla ovlivn&iacute; předev&scaron;&iacute;m ty, kdož pravidla dodržuj&iacute;. V př&iacute;padě držitelů zbran&iacute; tedy zejm&eacute;na př&iacute;padn&eacute; oběti, kter&eacute; si pořizuj&iacute; zbraně ke sv&eacute; obraně. Ti, kteř&iacute; se ne&scaron;t&iacute;t&iacute; loupit či vraždit, se nebudou &scaron;t&iacute;tit ani opatřit si zbraň neleg&aacute;ln&iacute; cestou. Proto by pravidla měla maxim&aacute;lně naplňovat smysl bezpečnosti držen&iacute; zbraně (aby si&nbsp;držitel uvědomoval, co z držen&iacute; zbraně plyne), ale neměla by sloužit ke znepř&iacute;jemněn&iacute; cesty k poř&iacute;zen&iacute; zbraně tomu, kdo se chce br&aacute;nit. V tomto smyslu je současn&yacute; stav poměrně funkčn&iacute;.<br /><br />Umožňujeme a podporujeme diskusi na toto t&eacute;ma. Zde jsou např&iacute;klad n&aacute;zory někter&yacute;ch členů Svobodn&yacute;ch&nbsp;z roku&nbsp;2009:<br />http://gunlex.cz/domu/32-clanky/volby/555-kandidati-podporujici-pravo-na-zbran-strana-svobodnych-obcanu</p>
-- Máme také kandidáta do senátu:
+- Máme kandidáta do senátu:
     _slug: mame-take-kandidata-do-senatu
     posted_at: 04. 09. 2014 00:00
     author: Stanislav Pimek

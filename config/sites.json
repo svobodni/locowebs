@@ -496,6 +496,7 @@
 		"region_url": "http://jmk.svobodni.cz"
 	},{
 		"name":"kubicek",
+		"type":"candidate",
 		"title":"Ing. Jiří Kubíček",
 		"short_title":"Jiří Kubíček",
 		"fb_page_name":"kubicek.cz",

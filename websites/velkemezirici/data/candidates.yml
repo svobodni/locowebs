@@ -1,12 +1,13 @@
 ---
 - Ing. Ivana Horká:
     _slug: ing-ivana-h
-    photo: /samples/candidates/ing-ivana-h/Iva_2014_zleva_final.jpg
+    _visible: false
+    photo: "/samples/candidates/ing-ivana-h/Iva_2014_zleva_final.jpg"
     occupation: novinářka
     political_party: bez politické příslušnosti
     age: 51
     email: svobodni.velkemezirici@seznam.cz
-    phone: +420 732 203 787
+    phone: "+420 732 203 787"
     profile: |-
       <p><strong>Ing. Ivana Hork&aacute;</strong> je l&iacute;dryn&iacute; kandid&aacute;tky Svobodn&yacute;ch pro komun&aacute;ln&iacute; volby 2014&nbsp;ve&nbsp;Velk&eacute;m Meziř&iacute;č&iacute;&nbsp;a kandid&aacute;tkou Svobodn&yacute;ch na&nbsp;starostku Velk&eacute;ho Meziř&iacute;č&iacute;. Pracuje jako&nbsp;novin&aacute;řka.&nbsp;Studovala na třech v&yacute;znamn&yacute;ch vysok&yacute;ch &scaron;kol&aacute;ch v Česk&eacute; republice - ekonomiku na Mendlově univerzitě v Brně, doplňuj&iacute;c&iacute; pedagogick&eacute; studium odborn&yacute;ch předmětů pro středn&iacute; &scaron;koly&nbsp;na Univerzitě Karlově v Praze a nyn&iacute; dokončuje dějiny uměn&iacute; a kultury na Filozofick&eacute; fakultě Masarykovy univerzity v Brně. Aktivně se věnuje hudbě, založila se sv&yacute;m synem folklorn&iacute; soubor. Pr&aacute;vě kultura, uměn&iacute; a&nbsp;m&iacute;stn&iacute; tradice&nbsp;jsou jej&iacute;mi prioritami, kter&yacute;m se chce&nbsp;mimo jin&eacute;&nbsp;na radnici věnovat.&nbsp;</p>
       <p>&nbsp;</p>

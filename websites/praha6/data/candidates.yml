@@ -1,7 +1,7 @@
 ---
 - Mgr. Ondřej Pecák:
     _slug: mgr-ondrej-pecak
-    photo: /samples/candidates/mgr-ondrej-pecak/pecak.jpg
+    photo: "/samples/candidates/mgr-ondrej-pecak/pecak.jpg"
     occupation: Advokát
     political_party: Strana svobodných občanů
     age: 30
@@ -29,7 +29,7 @@
     priorities: ''
 - Mgr. Jan Maršál:
     _slug: mgr-jan-marsal
-    photo: /samples/candidates/mgr-jan-marsal/marsal.jpg
+    photo: "/samples/candidates/mgr-jan-marsal/marsal.jpg"
     occupation: Advokát
     political_party: bez stranické příslušnosti
     age: 41
@@ -51,7 +51,7 @@
     priorities: ''
 - Ing. Tomáš Dohnal:
     _slug: ing-tomas-dohnal
-    photo: /samples/candidates/ing-tomas-dohnal/dohnal.jpg
+    photo: "/samples/candidates/ing-tomas-dohnal/dohnal.jpg"
     occupation: Učitel, manažer
     political_party: Strana svobodných občanů
     age: 31
@@ -66,18 +66,18 @@
     priorities: ''
 - Andrej Tenzer:
     _slug: andrej-tenzer
-    photo: /samples/candidates/andrej-tenzer/tenzer.jpg
+    photo: "/samples/candidates/andrej-tenzer/tenzer.jpg"
     occupation: Manažer
     political_party: Strana svobodných občanů
     age: 47
-    profile: <p>Stranu Svobodn&yacute;ch Občanů vol&iacute;m od roku 2010, od roku
+    profile: "<p>Stranu Svobodn&yacute;ch Občanů vol&iacute;m od roku 2010, od roku
       2013 jsem jej&iacute;m členem.&nbsp;Vol&iacute;m aktivn&iacute; občansk&yacute;
       př&iacute;stup, nad&aacute;v&aacute;n&iacute; u televize na politick&eacute;
-      poměry nic nezměn&iacute;.</p>
+      poměry nic nezměn&iacute;.</p>"
     priorities: ''
 - Josef Sekava:
     _slug: josef-sekava
-    photo: /samples/candidates/josef-sekava/profil-joska.jpg
+    photo: "/samples/candidates/josef-sekava/profil-joska.jpg"
     occupation: programátor, OSVČ
     political_party: Strana svobodných občanů
     age: 24
@@ -95,7 +95,7 @@
     priorities: ''
 - Ondřej Příhonský:
     _slug: prihonsky-ondrej
-    photo: /samples/candidates/prihonsky-ondrej/placeholder.jpg
+    photo: "/samples/candidates/prihonsky-ondrej/placeholder.jpg"
     occupation: Student
     political_party: Strana svobodných občanů
     age: 25

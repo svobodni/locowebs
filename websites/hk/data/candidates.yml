@@ -1,7 +1,7 @@
 ---
 - Mgr. Jakub Frydrych:
     _slug: jakub-frydrych
-    photo: /samples/candidates/jakub-frydrych/frydrych9.png
+    photo: "/samples/candidates/jakub-frydrych/frydrych9.png"
     occupation: vedoucí, kouč
     political_party: Strana svobodných občanů
     age: 31
@@ -14,7 +14,7 @@
     priorities: ''
 - Mgr. Vít Jedlička:
     _slug: vit-jedlicka
-    photo: /samples/candidates/vit-jedlicka/jedlicka3.jpg
+    photo: "/samples/candidates/vit-jedlicka/jedlicka3.jpg"
     occupation: finanční analytik, zakladatel Reformy.cz
     political_party: Strana svobodných občanů
     age: 30
@@ -27,7 +27,7 @@
     priorities: ''
 - Bc. Natálie Vachatová:
     _slug: natalie-vachatova
-    photo: /samples/candidates/natalie-vachatova/nat.jpg
+    photo: "/samples/candidates/natalie-vachatova/nat.jpg"
     occupation: soudní překladatelka
     political_party: Strana svobodných občanů
     age: 29
@@ -40,8 +40,8 @@
     priorities: ''
 - Mgr. Helena Hejhálková:
     _slug: helena-hejhalkova
-    photo: /samples/candidates/helena-hejhalkova/03.jpg
-    occupation: ředitelka obchodu
+    photo: "/samples/candidates/helena-hejhalkova/03.jpg"
+    occupation: "ředitelka obchodu"
     political_party: Strana svobodných občanů
     age: 53
     email: hejhalkova@vega.cz
@@ -53,7 +53,7 @@
     priorities: ''
 - Mgr.  Hynek Dostál, Ph.D.:
     _slug: hynek-dostal
-    photo: /samples/candidates/hynek-dostal/04.jpg
+    photo: "/samples/candidates/hynek-dostal/04.jpg"
     occupation: učitel
     political_party: Bez politické příslušnosti
     age: 41
@@ -66,8 +66,8 @@
     priorities: ''
 - RNDr. Jiří Hejhálek:
     _slug: jiri-hejhalek
-    photo: /samples/candidates/jiri-hejhalek/02.jpg
-    occupation: šéfredaktor
+    photo: "/samples/candidates/jiri-hejhalek/02.jpg"
+    occupation: "šéfredaktor"
     political_party: Strana svobodných občanů
     age: 57
     email: hejhalek@vega.cz
@@ -79,7 +79,7 @@
     priorities: ''
 - Jan Husák:
     _slug: jan-husak
-    photo: /samples/candidates/jan-husak/06.jpg
+    photo: "/samples/candidates/jan-husak/06.jpg"
     occupation: vývojář
     political_party: Strana svobodných občanů
     age: 34
@@ -92,7 +92,7 @@
     priorities: ''
 - Alois Langer:
     _slug: alois-langer
-    photo: /samples/candidates/alois-langer/avatar_svobodny.png
+    photo: "/samples/candidates/alois-langer/Alois_Langer.jpg"
     occupation: podnikatel
     political_party: Strana svobodných občanů
     age: 46
@@ -105,8 +105,8 @@
     priorities: ''
 - Miroslav Petrů:
     _slug: miroslav-petru
-    photo: /samples/candidates/miroslav-petru/07.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/miroslav-petru/07.jpg"
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 29
     email: ''
@@ -118,14 +118,14 @@
     priorities: ''
 - Mgr. Jaroslav Tachovský:
     _slug: jaroslav-tachovsky
-    photo: /samples/candidates/jaroslav-tachovsky/avatar_svobodny.png
+    photo: "/samples/candidates/jaroslav-tachovsky/avatar_svobodny.png"
     occupation: IT, OSVČ
     age: 47
     profile: ''
     priorities: ''
 - Jan Cicvárek:
     _slug: jan-cicvarek
-    photo: /samples/candidates/jan-cicvarek/01.jpg
+    photo: "/samples/candidates/jan-cicvarek/01.jpg"
     occupation: analytik agentních systémů
     political_party: Bez politické příslušnosti
     age: 21
@@ -138,7 +138,7 @@
     priorities: ''
 - Ing. Svatopluk Tomšů:
     _slug: svatopluk-tomsu
-    photo: /samples/candidates/svatopluk-tomsu/svob_tomsu.png
+    photo: "/samples/candidates/svatopluk-tomsu/svob_tomsu.png"
     occupation: analytik
     political_party: Bez politické příslušnosti
     age: 41
@@ -151,7 +151,7 @@
     priorities: ''
 - JUDr.  Jan Bureš, Ph.D.:
     _slug: jan-bures
-    photo: /samples/candidates/jan-bures/05.jpg
+    photo: "/samples/candidates/jan-bures/05.jpg"
     occupation: právník
     political_party: bez politické příslušnosti
     age: 31
@@ -159,7 +159,7 @@
     priorities: ''
 - Mgr. Lukáš Horák, Ph.D.:
     _slug: lukas-horak
-    photo: /samples/candidates/lukas-horak/horak.jpg
+    photo: "/samples/candidates/lukas-horak/horak.jpg"
     occupation: vědecký pracovník
     political_party: Bez politické příslušnosti
     age: 32
@@ -172,7 +172,7 @@
     priorities: ''
 - Miroslav Christ:
     _slug: miroslav-christ
-    photo: /samples/candidates/miroslav-christ/avatar_svobodny.png
+    photo: "/samples/candidates/miroslav-christ/avatar_svobodny.png"
     occupation: privátní bankéř
     political_party: Strana svobodných občanů
     age: 22
@@ -185,15 +185,15 @@
     priorities: ''
 - Ing. Tomáš Stehlík:
     _slug: tomas-stehlik
-    photo: /samples/candidates/tomas-stehlik/IMG_8256.jpg
+    photo: "/samples/candidates/tomas-stehlik/IMG_8256.jpg"
     occupation: finanční poradce
     political_party: bez politické příslušnosti
     age: 29
-    profile: <p><br data-mce-bogus="1"></p>
-    priorities: <p><br data-mce-bogus="1"></p>
+    profile: "<p><br data-mce-bogus=\"1\"></p>"
+    priorities: "<p><br data-mce-bogus=\"1\"></p>"
 - 'Roman Tobišek, MBA ':
     _slug: roman-tobisek
-    photo: /samples/candidates/roman-tobisek/09.jpg
+    photo: "/samples/candidates/roman-tobisek/09.jpg"
     occupation: architekt IT
     political_party: bez politické příslušnosti
     age: 40
@@ -201,7 +201,7 @@
     priorities: ''
 - Ing. Pavel Škvrna:
     _slug: pavel-skvrna
-    photo: /samples/candidates/pavel-skvrna/avatar_svobodny.png
+    photo: "/samples/candidates/pavel-skvrna/avatar_svobodny.png"
     occupation: projektant pozemních staveb
     political_party: Strana svobodných občanů
     age: 43
@@ -209,7 +209,7 @@
     priorities: ''
 - Petr Kalhous:
     _slug: petr-kalhous
-    photo: /samples/candidates/petr-kalhous/avatar_svobodny.png
+    photo: "/samples/candidates/petr-kalhous/avatar_svobodny.png"
     occupation: podnikatel, OSVČ
     political_party: Strana svobodných občanů
     age: 54
@@ -222,7 +222,7 @@
     priorities: ''
 - Bc. Vanda Marešová:
     _slug: vanda-maresova
-    photo: /samples/candidates/vanda-maresova/foto___kopie.jpg
+    photo: "/samples/candidates/vanda-maresova/foto___kopie.jpg"
     occupation: studentka
     political_party: Bez politické příslušnosti
     age: 24
@@ -235,14 +235,14 @@
     priorities: ''
 - Ing. Štepán Vyčichlo:
     _slug: stepan-vycichlo
-    photo: /samples/candidates/stepan-vycichlo/avatar_svobodny.png
+    photo: "/samples/candidates/stepan-vycichlo/avatar_svobodny.png"
     occupation: projektant
     age: 33
     profile: ''
     priorities: ''
 - Zdeněk Koutník:
     _slug: zdenek-koutnik
-    photo: /samples/candidates/zdenek-koutnik/Zden_k_Koutn_k_lowres.jpg
+    photo: "/samples/candidates/zdenek-koutnik/Zden_k_Koutn_k_lowres.jpg"
     occupation: grafik, technik
     political_party: Bez politické příslušnosti
     age: 30
@@ -255,8 +255,8 @@
     priorities: ''
 - 'Tomáš Vršinský, DiS. ':
     _slug: tomas-vrsinsky
-    photo: /samples/candidates/tomas-vrsinsky/avatar_svobodny.png
-    occupation: živnostník
+    photo: "/samples/candidates/tomas-vrsinsky/vr_isnk_.jpg"
+    occupation: "živnostník"
     political_party: Bez politické příslušnosti
     age: 34
     email: ''
@@ -268,7 +268,7 @@
     priorities: ''
 - Ing. Zdeněk Nový:
     _slug: zdenek-novy
-    photo: /samples/candidates/zdenek-novy/avatar_svobodny.png
+    photo: "/samples/candidates/zdenek-novy/nov_.jpg"
     occupation: podnikatel
     political_party: Bez politické příslušnosti
     age: 33
@@ -281,7 +281,7 @@
     priorities: ''
 - Vladimír Krupa:
     _slug: vladimir-krupa
-    photo: /samples/candidates/vladimir-krupa/Krupa8.jpg
+    photo: "/samples/candidates/vladimir-krupa/Krupa8.jpg"
     occupation: správce IT
     political_party: Bez politické příslušnosti
     age: 50
@@ -294,7 +294,7 @@
     priorities: ''
 - Ing. Jiří Ptáček:
     _slug: jiri-ptacek
-    photo: /samples/candidates/jiri-ptacek/jirka_ptacek-255x340.jpg
+    photo: "/samples/candidates/jiri-ptacek/jirka_ptacek-255x340.jpg"
     occupation: projektový inženýr
     political_party: Bez politické příslušnosti
     age: 33
@@ -307,7 +307,7 @@
     priorities: ''
 - Jana Voltrová:
     _slug: jana-voltrova
-    photo: /samples/candidates/jana-voltrova/avatar_svobodny.png
+    photo: "/samples/candidates/jana-voltrova/avatar_svobodny.png"
     occupation: OSVČ
     political_party: Bez politické příslušnosti
     age: 52
@@ -315,7 +315,7 @@
     priorities: ''
 - Soňa Zimmerová:
     _slug: sona-zimmerova
-    photo: /samples/candidates/sona-zimmerova/avatar_svobodny.png
+    photo: "/samples/candidates/sona-zimmerova/avatar_svobodny.png"
     occupation: podnikatelka
     political_party: Bez politické příslušnosti
     age: 40
@@ -328,7 +328,7 @@
     priorities: ''
 - Jiří Voseček:
     _slug: jiri-vosecek
-    photo: /samples/candidates/jiri-vosecek/IMG_0782.jpg
+    photo: "/samples/candidates/jiri-vosecek/IMG_0782.jpg"
     occupation: OSVČ
     political_party: Bez politické příslušnosti
     age: 26
@@ -341,7 +341,7 @@
     priorities: ''
 - Mgr. Jiří Pozler:
     _slug: jiri-pozler
-    photo: /samples/candidates/jiri-pozler/foto3.jpg
+    photo: "/samples/candidates/jiri-pozler/foto3.jpg"
     occupation: sociální pedagog
     political_party: Bez politické příslušnosti
     age: 31
@@ -354,8 +354,8 @@
     priorities: ''
 - Vlasta Čipčalová:
     _slug: vlasta-cipcalova
-    photo: /samples/candidates/vlasta-cipcalova/avatar_svobodny.png
-    occupation: účetní
+    photo: "/samples/candidates/vlasta-cipcalova/avatar_svobodny.png"
+    occupation: "účetní"
     political_party: Bez politické příslušnosti
     age: 65
     email: ''
@@ -367,14 +367,14 @@
     priorities: ''
 - Kateřina Boháčová:
     _slug: katerina-bohacova
-    photo: /samples/candidates/katerina-bohacova/k.jpg
+    photo: "/samples/candidates/katerina-bohacova/k.jpg"
     occupation: rodičovská dovolená
     age: 31
     profile: ''
     priorities: ''
 - Ing. Luboš Remplík:
     _slug: lubos-remplik
-    photo: /samples/candidates/lubos-remplik/avatar_svobodny.png
+    photo: "/samples/candidates/lubos-remplik/avatar_svobodny.png"
     occupation: programátor
     political_party: Strana svobodných občanů
     age: 29
@@ -387,7 +387,7 @@
     priorities: ''
 - Jakub Andrys:
     _slug: jakub-andrys
-    photo: /samples/candidates/jakub-andrys/andrys.jpg
+    photo: "/samples/candidates/jakub-andrys/andrys.jpg"
     occupation: ICT technik a vývojář
     age: 27
     email: andrys@nopc.cz
@@ -395,7 +395,7 @@
     priorities: ''
 - Michaela Smetanová:
     _slug: michaela-smetanova
-    photo: /samples/candidates/michaela-smetanova/avatar_svobodny.png
+    photo: "/samples/candidates/michaela-smetanova/avatar_svobodny.png"
     occupation: pracovník v sociálních službách
     political_party: Bez politické příslušnosti
     age: 34
@@ -403,7 +403,7 @@
     priorities: ''
 - Ing. Bc. Petr Hladík:
     _slug: petr-hladik
-    photo: /samples/candidates/petr-hladik/avatar_svobodny.png
+    photo: "/samples/candidates/petr-hladik/avatar_svobodny.png"
     occupation: finanční ředitel
     political_party: Bez politické příslušnosti
     age: 57
@@ -411,7 +411,7 @@
     priorities: ''
 - Ing. Petr Netík:
     _slug: petr-netik
-    photo: /samples/candidates/petr-netik/avatar_svobodny.png
+    photo: "/samples/candidates/petr-netik/avatar_svobodny.png"
     occupation: projektant
     political_party: Strana svobodných občanů
     age: 57

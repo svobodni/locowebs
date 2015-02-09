@@ -12,8 +12,8 @@
     _slug: anketni-listek
     posted_at: 25. 09. 2014 18:00
     author: David Kokeš
-    teaser: '<p style="margin: 0cm 0cm 10pt;"><span style="font-family: Calibri; font-size:
-      medium;">Dnes se do schr&aacute;nek občanů Jablůnky dostal n&aacute;&scaron;
+    teaser: "<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-family: Calibri;
+      font-size: medium;\">Dnes se do schr&aacute;nek občanů Jablůnky dostal n&aacute;&scaron;
       volebn&iacute; let&aacute;k, pozv&aacute;nka na sobotn&iacute; sportovn&iacute;
       z&aacute;bavn&eacute; odpoledne a anketn&iacute; l&iacute;stek. Př&aacute;tel&eacute;,
       anketn&iacute; l&iacute;stek slouž&iacute; k tomu, aby jsme zjistili, jak&eacute;
@@ -22,8 +22,8 @@
       Body n&aacute;sledně zařad&iacute;me k projedn&aacute;n&iacute; v zastupitelstvu.
       N&aacute;zor občanů je pro n&aacute;s důležit&yacute;. Na sběrn&yacute;ch m&iacute;stech
       uveden&yacute;ch na let&aacute;čku odevzdejte pros&iacute;m anketn&iacute; l&iacute;stky.
-      Děkujeme!</span></p>'
-    featured_image: /samples/posts/anketni-listek/IMAG0510.jpg
+      Děkujeme!</span></p>"
+    featured_image: "/samples/posts/anketni-listek/IMAG0510.jpg"
     body: ''
 - Aktualizovaná pozvánka na sobotní odpoledne:
     _slug: aktualizovana-pozvanka-na-sobotni-odpoeldne
@@ -32,7 +32,7 @@
     tags:
     - Sobota 27. září od 14:00
     teaser: ''
-    featured_image: /samples/posts/aktualizovana-pozvanka-na-sobotni-odpoeldne/akce.jpg
+    featured_image: "/samples/posts/aktualizovana-pozvanka-na-sobotni-odpoeldne/akce.jpg"
     body: |-
       <p>Sobotn&iacute; odpoledne se bl&iacute;ž&iacute;, počas&iacute; je objedn&aacute;no. Zb&yacute;v&aacute; už jen přij&iacute;t.</p>
       <p>Pro děti je připravena spousta her. Dospěl&aacute;ci si v&scaron;ak tak&eacute; přijdou na sv&eacute; - nudit se rozhodně nebudou!</p>
@@ -41,14 +41,14 @@
     posted_at: 22. 09. 2014 11:50
     author: David Kokeš
     teaser: ''
-    featured_image: /samples/posts/nas-volebni-plakat/A2_Jablunka_kandidati_TISK.jpg
+    featured_image: "/samples/posts/nas-volebni-plakat/A2_Jablunka_kandidati_TISK.jpg"
     body: ''
 - Pozvánka na sportovně zábavné odpoledne:
     _slug: pozvanka-na-sportovne-zabavne-odpoledne
     posted_at: 09. 09. 2014 11:45
     author: David Kokeš
     teaser: ''
-    featured_image: /samples/posts/pozvanka-na-sportovne-zabavne-odpoledne/Volebn__let_k_-_Microsoft_Word_2014-09-09_11-39-15.jpg
+    featured_image: "/samples/posts/pozvanka-na-sportovne-zabavne-odpoledne/Volebn__let_k_-_Microsoft_Word_2014-09-09_11-39-15.jpg"
     body: ''
 - Vítejte na našem webu!:
     _slug: vitejte-na-nasem-webu

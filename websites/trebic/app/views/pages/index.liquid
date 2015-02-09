@@ -61,7 +61,7 @@ editable_elements:
           <a class="navbar-brand" href="/">
             <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo.png" alt="Svobodní">            
             <span class="navbar-city">Třebíč<span> 
-			<span class="navbar-number">4</span>
+			<!--<span class="navbar-number" style="top: 15px">4</span>-->
           </a>
         </div>
     <style>
@@ -84,7 +84,8 @@ editable_elements:
 	{% block main %}
   <div class="container text-center">
     <div class="intro-catcher">
-    <img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Posvítíme si na radnici! 10. a 11. října 2014 volte stranu číslo 4, volte Svobodné">
+    <!--<img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Posvítíme si na radnici! 10. a 11. října 2014 volte stranu číslo 4, volte Svobodné">-->
+	<img src="{{ 'poutac_dekujeme.png' | theme_image_url }}" class="img-responsive" alt="Děkujeme, za Vaši podporu">      
     </div> 
   </div> 
 
@@ -102,7 +103,7 @@ editable_elements:
         {% endeditable_text %}
         <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
       </div>
-      <div class="col-md-6 cand-top-4">
+      <!--<div class="col-md-6 cand-top-4">
         <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
         <div class="row">
         <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
@@ -112,7 +113,7 @@ editable_elements:
         {% endfor %}
         </div>
         <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
-      </div>
+      </div>-->
     </div>
 
     </div> <!-- /container -->
@@ -193,5 +194,21 @@ editable_elements:
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
     {% block extrajs %}{% endblock extrajs %}
+    <script type="text/javascript">
+      var _paq = _paq || [];
+      _paq.push(["trackPageView"]);
+      _paq.push(["enableLinkTracking"]);
+
+      (function() {
+        var u="http://statistiky.trifingo.cz/";
+        _paq.push(["setTrackerUrl", u+"piwik.php"]);
+        _paq.push(["setSiteId", "8"]);
+        var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+        g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+      })();
+    </script>
+    <noscript>
+      <img src="http://statistiky.trifingo.cz/piwik.php?idsite=8&amp;rec=1" style="border:0" alt="">
+    </noscript>
   </body>
 </html>

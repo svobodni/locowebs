@@ -1,7 +1,7 @@
 ---
 - Jiří Vávra:
     _slug: jiri-vavra
-    photo: /samples/candidates/jiri-vavra/jiri-vavra.JPG
+    photo: "/samples/candidates/jiri-vavra/jiri-vavra.JPG"
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 52
@@ -9,18 +9,18 @@
     priorities: ''
 - Ing. Pavel Otta:
     _slug: ing-pavel-otta
-    photo: /samples/candidates/ing-pavel-otta/ing-pavel-otta.jpg
+    photo: "/samples/candidates/ing-pavel-otta/ing-pavel-otta.jpg"
     occupation: postgraduální student
     political_party: bez politické příslušnosti
     age: 25
     email: ottapav@gmail.com
-    phone: +420 724068865
+    phone: "+420 724068865"
     profile: ''
-    quote: '"Kdo nic nedělá, nic neudělá!"'
+    quote: "\"Kdo nic nedělá, nic neudělá!\""
     priorities: ''
 - Radka Marhonsová:
     _slug: radka-marhonsova
-    photo: /samples/candidates/radka-marhonsova/radka-marhonsova.jpg
+    photo: "/samples/candidates/radka-marhonsova/radka-marhonsova.jpg"
     occupation: zdravotní sestra
     political_party: bez politické příslušnosti
     age: 44
@@ -28,7 +28,7 @@
     priorities: ''
 - Jiří Čaj:
     _slug: jiri-caj
-    photo: /samples/candidates/jiri-caj/jiri-caj.JPG
+    photo: "/samples/candidates/jiri-caj/jiri-caj.JPG"
     occupation: technik kontroly kvality
     political_party: bez politické příslušnosti
     age: 28
@@ -36,7 +36,7 @@
     priorities: ''
 - Roman Konyvka:
     _slug: roman-konyvka
-    photo: /samples/candidates/roman-konyvka/roman-konyvka.JPG
+    photo: "/samples/candidates/roman-konyvka/roman-konyvka.JPG"
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 48
@@ -44,7 +44,7 @@
     priorities: ''
 - Mgr. Dušan Knop:
     _slug: mgr-dusan-knop
-    photo: /samples/candidates/mgr-dusan-knop/mgr-dusan-knop.JPG
+    photo: "/samples/candidates/mgr-dusan-knop/mgr-dusan-knop.JPG"
     occupation: postgraduální student
     political_party: bez politické příslušnosti
     age: 29
@@ -52,7 +52,7 @@
     priorities: ''
 - Jan Pánek:
     _slug: jan-panek
-    photo: /samples/candidates/jan-panek/jan-panek.JPG
+    photo: "/samples/candidates/jan-panek/jan-panek.JPG"
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
@@ -60,7 +60,7 @@
     priorities: ''
 - Jan Dočkal:
     _slug: jan-dockal
-    photo: /samples/candidates/jan-dockal/jan-dockal.JPG
+    photo: "/samples/candidates/jan-dockal/jan-dockal.JPG"
     occupation: student
     political_party: bez politické příslušnosti
     age: 22
@@ -68,7 +68,7 @@
     priorities: ''
 - Romana Hrušková:
     _slug: romana-hruskova
-    photo: /samples/candidates/romana-hruskova/romana-hruskova.jpg
+    photo: "/samples/candidates/romana-hruskova/romana-hruskova.jpg"
     occupation: zdravotní laborantka
     political_party: bez politické příslušnosti
     age: 49
@@ -76,7 +76,7 @@
     priorities: ''
 - Ing. Lukáš Paroulek:
     _slug: ing-lukas-paroulek
-    photo: /samples/candidates/ing-lukas-paroulek/ing-lukas-paroulek.jpg
+    photo: "/samples/candidates/ing-lukas-paroulek/ing-lukas-paroulek.jpg"
     occupation: vývojový pracovník
     political_party: bez politické příslušnosti
     age: 25
@@ -84,7 +84,7 @@
     priorities: ''
 - Karel Novotný:
     _slug: karel-novotny
-    photo: /samples/candidates/karel-novotny/karel-novotny.JPG
+    photo: "/samples/candidates/karel-novotny/karel-novotny.JPG"
     occupation: brusič kovu
     political_party: bez politické příslušnosti
     age: 58
@@ -92,7 +92,7 @@
     priorities: ''
 - Marie Blažková:
     _slug: marie-blazkova
-    photo: /samples/candidates/marie-blazkova/marie-blazkova.JPG
+    photo: "/samples/candidates/marie-blazkova/marie-blazkova.JPG"
     occupation: důchodkyně
     political_party: bez politické příslušnosti
     age: 69
@@ -100,7 +100,7 @@
     priorities: ''
 - Ladislav Štěpař:
     _slug: ladislav-stepar
-    photo: /samples/candidates/ladislav-stepar/lada-stepar.jpg
+    photo: "/samples/candidates/ladislav-stepar/lada-stepar.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
@@ -108,7 +108,7 @@
     priorities: ''
 - Michal Novotný:
     _slug: michal-novotny
-    photo: /samples/candidates/michal-novotny/michal-novotny.JPG
+    photo: "/samples/candidates/michal-novotny/michal-novotny.JPG"
     occupation: student
     political_party: bez politické příslušnosti
     age: 21
@@ -116,7 +116,7 @@
     priorities: ''
 - Luboš Szmatana:
     _slug: lubos-szmatana
-    photo: /samples/candidates/lubos-szmatana/lubos-szmatana.JPG
+    photo: "/samples/candidates/lubos-szmatana/lubos-szmatana.JPG"
     occupation: pracovník úklidu
     political_party: bez politické příslušnosti
     age: 52

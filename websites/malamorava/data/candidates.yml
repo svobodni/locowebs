@@ -1,13 +1,13 @@
 ---
 - Rostislav Ščambura:
     _slug: rostislav-scambura
-    photo: /samples/candidates/rostislav-scambura/uprava_foto.jpg
+    photo: "/samples/candidates/rostislav-scambura/uprava_foto.jpg"
     occupation: Traktorista
     political_party: bez politické příslušnosti
     age: 44
     email: scambura@svobodni.cz
     phone: ''
     homepage_url: http://www.obecmalamorava.cz/
-    profile: <p>S pomoc&iacute; Svobodn&yacute;ch jdeme do voleb NAPLNO!</p>
+    profile: "<p>S pomoc&iacute; Svobodn&yacute;ch jdeme do voleb NAPLNO!</p>"
     quote: Posvítíme si na obecní nesmysly!
     priorities: ''

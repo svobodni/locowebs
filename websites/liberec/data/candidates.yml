@@ -1,7 +1,7 @@
 ---
 - David Forbelský:
     _slug: david-forbelsky
-    photo: /samples/candidates/david-forbelsky/1.JPG
+    photo: "/samples/candidates/david-forbelsky/1.JPG"
     occupation: správce IT
     political_party: Strana svobodných občanů
     age: 42
@@ -89,7 +89,7 @@
     priorities: ''
 - "Mgr.\tJan\tČertík":
     _slug: mgr-jan-certik
-    photo: /samples/candidates/mgr-jan-certik/2.JPG
+    photo: "/samples/candidates/mgr-jan-certik/2.JPG"
     occupation: konstruktér
     political_party: Svobodní
     age: 30
@@ -97,8 +97,8 @@
     priorities: ''
 - "Jana\tProcházková":
     _slug: jana-prochazkova
-    photo: /samples/candidates/jana-prochazkova/2767.png
-    occupation: ředitelka hotelu
+    photo: "/samples/candidates/jana-prochazkova/2767.png"
+    occupation: "ředitelka hotelu"
     political_party: Svobodní
     age: 29
     email: prochazkova.pytloun@gmail.com
@@ -106,7 +106,7 @@
     priorities: ''
 - David  Vorel:
     _slug: david-vorel
-    photo: /samples/candidates/david-vorel/4.jpg
+    photo: "/samples/candidates/david-vorel/4.jpg"
     occupation: administrativní pracovník
     political_party: Svobodní
     age: 30
@@ -114,7 +114,7 @@
     priorities: ''
 - "Ing.\tMiroslav\tKapoun":
     _slug: ing-miroslav-kapoun
-    photo: /samples/candidates/ing-miroslav-kapoun/5.jpg
+    photo: "/samples/candidates/ing-miroslav-kapoun/5.jpg"
     occupation: technická podpora IT a zabezpečovací systémy
     political_party: bez politické příslušnosti
     age: 40
@@ -122,7 +122,7 @@
     priorities: ''
 - "Ing.\tFrantišek\tPetrík":
     _slug: ing-frantisek-petrik
-    photo: /samples/candidates/ing-frantisek-petrik/6.jpg
+    photo: "/samples/candidates/ing-frantisek-petrik/6.jpg"
     occupation: matematický inženýr
     political_party: bez politické příslušnosti
     age: 53
@@ -159,15 +159,15 @@
     priorities: ''
 - Václav Kočí:
     _slug: vaclav-koci
-    photo: /samples/candidates/vaclav-koci/koci_vaclav_stredni.jpg
+    photo: "/samples/candidates/vaclav-koci/koci_vaclav_stredni.jpg"
     occupation: Hokejista
     political_party: bez politické příslušnosti
     age: 35
     profile: ''
     priorities: ''
-- Černá Gabriela Mgr.:
+- "Černá Gabriela Mgr.":
     _slug: cerna-gabriela-mgr
-    photo: /samples/candidates/cerna-gabriela-mgr/8.jpg
+    photo: "/samples/candidates/cerna-gabriela-mgr/8.jpg"
     occupation: rodičovská dovolená
     political_party: Svobodní
     age: 32
@@ -175,7 +175,7 @@
     priorities: ''
 - Doležal Petr:
     _slug: dolezal-petr
-    photo: /samples/candidates/dolezal-petr/9.jpg
+    photo: "/samples/candidates/dolezal-petr/9.jpg"
     occupation: bezpečnostní IT technik
     political_party: Svobodní
     age: 40
@@ -183,15 +183,15 @@
     priorities: ''
 - Pilař Tomáš:
     _slug: pilar-tomas
-    photo: /samples/candidates/pilar-tomas/10.jpg
+    photo: "/samples/candidates/pilar-tomas/10.jpg"
     occupation: administrátor, OSVČ
     political_party: bez politické příslušnosti
     age: 49
     profile: ''
     priorities: ''
-- Šašková Miroslava Mgr.:
+- "Šašková Miroslava Mgr.":
     _slug: saskova-miroslava-mgr
-    photo: /samples/candidates/saskova-miroslava-mgr/11.JPG
+    photo: "/samples/candidates/saskova-miroslava-mgr/11.JPG"
     occupation: psychoterapeut
     political_party: bez politické příslušnosti
     age: 50
@@ -223,7 +223,7 @@
     priorities: ''
 - Sejkora Milan:
     _slug: sejkora-milan
-    photo: /samples/candidates/sejkora-milan/SEJKORA_Milan.jpg
+    photo: "/samples/candidates/sejkora-milan/SEJKORA_Milan.jpg"
     occupation: tavební dozor, OSVČ
     political_party: bez politické příslušnosti
     age: 60
@@ -238,13 +238,13 @@
     priorities: ''
 - Hubínka Zbyněk:
     _slug: hubinka-zbynek
-    photo: /samples/candidates/hubinka-zbynek/14.jpg
+    photo: "/samples/candidates/hubinka-zbynek/14.jpg"
     occupation: odborný asistent
     political_party: Svobodní
     age: 38
     profile: ''
     priorities: ''
-- Česáková Alena MVDr:
+- "Česáková Alena MVDr":
     _slug: cesakova-alena-mvdr
     occupation: veterinární lékařka, učitelka
     political_party: Svobodní
@@ -287,7 +287,7 @@
     priorities: ''
 - Lakomá Romana Ing.:
     _slug: lakoma-romana-ing
-    photo: /samples/candidates/lakoma-romana-ing/5__1_of_1_.jpg
+    photo: "/samples/candidates/lakoma-romana-ing/5__1_of_1_.jpg"
     occupation: OSVČ, předsedkyně sdružení
     political_party: bez politické příslušnosti
     age: 45
@@ -325,28 +325,28 @@
 - Doubková Andrea:
     _slug: doubkova-andrea
     occupation: administrativní pracovník
-    political_party: ' bez politické příslušnost'
+    political_party: " bez politické příslušnost"
     age: 41
     profile: ''
     priorities: ''
 - Kladivo Josef:
     _slug: kladivo-josef
-    photo: /samples/candidates/kladivo-josef/24.jpg
+    photo: "/samples/candidates/kladivo-josef/24.jpg"
     occupation: logistik - skladník
-    political_party: ' bez politické příslušnosti'
+    political_party: " bez politické příslušnosti"
     age: 29
     profile: ''
     priorities: ''
 - Koplík Raimund:
     _slug: koplik-raimund
     occupation: překladatel
-    political_party: ' bez politické příslušnosti'
+    political_party: " bez politické příslušnosti"
     age: 67
     profile: ''
     priorities: ''
-- Šebková Šárka:
+- "Šebková Šárka":
     _slug: sebkova-sarka
-    photo: /samples/candidates/sebkova-sarka/26.jpg
+    photo: "/samples/candidates/sebkova-sarka/26.jpg"
     occupation: laborantka
     political_party: bez politické příslušnosti
     age: 44
@@ -355,13 +355,13 @@
     priorities: ''
 - Nesler Ivo:
     _slug: nesler-ivo
-    photo: /samples/candidates/nesler-ivo/27.jpg
-    occupation: číšník
+    photo: "/samples/candidates/nesler-ivo/27.jpg"
+    occupation: "číšník"
     political_party: bez politické příslušnosti
     age: 27
     profile: ''
     priorities: ''
-- Čuka Přemysl:
+- "Čuka Přemysl":
     _slug: cuka-premysl
     occupation: hostinský
     political_party: bez politické příslušnosti
@@ -371,7 +371,7 @@
 - Kolafová Eva:
     _slug: kolafova-eva
     occupation: veterinární sestra
-    political_party: ' bez politické příslušnosti'
+    political_party: " bez politické příslušnosti"
     profile: ''
     priorities: ''
 - Adamec Antonín:
@@ -383,7 +383,7 @@
     priorities: ''
 - Válek Petr:
     _slug: valek-petr
-    occupation: údržbář, zvukař, frontman kapely M.O.R.
+    occupation: "údržbář, zvukař, frontman kapely M.O.R."
     political_party: bez politické příslušnosti
     age: 41
     profile: ''
@@ -404,7 +404,7 @@
     priorities: ''
 - Doležalová Ilona:
     _slug: dolezalova-ilona
-    photo: /samples/candidates/dolezalova-ilona/34.jpg
+    photo: "/samples/candidates/dolezalova-ilona/34.jpg"
     occupation: prodavačka - specialistka, pracovnice maloobchodu
     political_party: bez politické příslušnosti
     profile: ''

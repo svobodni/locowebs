@@ -123,13 +123,13 @@
       bylo nam fajně a neměli zme pocit, že žereme polyvinylchloridovy bazmek.</p>\r\n<p>Tak
       si řikam, jak je kurva možne, že vlastně je&scaron;tě žiju.</p>\r\n<p>Jak zme
       to mohli bez předpisu EuroSajuzu přežit?</p>\r\n</div>"
-    featured_image: /samples/posts/klepac/klepa_.jpg
+    featured_image: "/samples/posts/klepac/klepa_.jpg"
     body: ''
 - Střelné zbraně a právo na obranu v dnešní společnosti:
     _slug: strelne-zbrane-a-pravo-na-obranu-v-dnesni-spolecnosti
     posted_at: 17. 09. 2014 00:00
     teaser: ''
-    featured_image: /samples/posts/strelne-zbrane-a-pravo-na-obranu-v-dnesni-spolecnosti/zbran_.png
+    featured_image: "/samples/posts/strelne-zbrane-a-pravo-na-obranu-v-dnesni-spolecnosti/zbran_.png"
     body: ''
 - http://web.svobodni.cz/clanky/jiri-payne-inflace-dopravniho-znaceni:
     _slug: http-slash-slash-web-dot-svobodni-dot-cz-slash-clanky-slash-jiri-payne-inflace-dopravniho-znaceni

@@ -1,7 +1,7 @@
 ---
 - Tomáš Brabenec:
     _slug: tomas-brabenec
-    photo: /samples/candidates/tomas-brabenec/brabenec.jpg
+    photo: "/samples/candidates/tomas-brabenec/brabenec.jpg"
     occupation: vývojář software
     political_party: Strana svobodných občanů
     age: 32
@@ -9,7 +9,7 @@
     priorities: ''
 - Bc. Michal Zima:
     _slug: michal-zima
-    photo: /samples/candidates/michal-zima/zima.jpg
+    photo: "/samples/candidates/michal-zima/zima.jpg"
     occupation: informatik
     political_party: Strana svobodných občanů
     age: 24
@@ -18,7 +18,7 @@
     priorities: ''
 - Bc. Petr Adam:
     _slug: petr-adam
-    photo: /samples/candidates/petr-adam/adam.jpg
+    photo: "/samples/candidates/petr-adam/adam.jpg"
     occupation: ICT specialista
     political_party: Strana svobodných občanů
     age: 32
@@ -26,7 +26,7 @@
     priorities: ''
 - Tomáš Böhm:
     _slug: tomas-bohm
-    photo: /samples/candidates/tomas-bohm/svobodni_person.png
+    photo: "/samples/candidates/tomas-bohm/svobodni_person.png"
     occupation: student
     political_party: Strana svobodných občanů
     age: 21
@@ -34,7 +34,7 @@
     priorities: ''
 - Bc. Antonín Kühtreiber:
     _slug: antonin-kuhtreiber
-    photo: /samples/candidates/antonin-kuhtreiber/svobodni_person.png
+    photo: "/samples/candidates/antonin-kuhtreiber/svobodni_person.png"
     occupation: student
     political_party: Strana svobodných občanů
     age: 26
@@ -42,7 +42,7 @@
     priorities: ''
 - Tomáš Frantík:
     _slug: tomas-frantik
-    photo: /samples/candidates/tomas-frantik/svobodni_person.png
+    photo: "/samples/candidates/tomas-frantik/svobodni_person.png"
     occupation: freelancer
     political_party: bez politické příslušnosti
     age: 25
@@ -50,7 +50,7 @@
     priorities: ''
 - Věra Brabencová:
     _slug: vera-brabencova
-    photo: /samples/candidates/vera-brabencova/svobodni_person.png
+    photo: "/samples/candidates/vera-brabencova/svobodni_person.png"
     occupation: administrativní pracovnice
     political_party: Strana svobodných občanů
     age: 32
@@ -58,7 +58,7 @@
     priorities: ''
 - Milan Píša:
     _slug: milan-pisa
-    photo: /samples/candidates/milan-pisa/svobodni_person.png
+    photo: "/samples/candidates/milan-pisa/svobodni_person.png"
     occupation: specialista
     political_party: bez politické příslušnosti
     age: 40
@@ -66,7 +66,7 @@
     priorities: ''
 - Jan Pohl:
     _slug: jan-pohl
-    photo: /samples/candidates/jan-pohl/svobodni_person.png
+    photo: "/samples/candidates/jan-pohl/svobodni_person.png"
     occupation: obchodní zástupce
     political_party: bez politické příslušnosti
     age: 25
@@ -74,7 +74,7 @@
     priorities: ''
 - Lenka Kühtreiberová:
     _slug: lenka-kuhtreiberova
-    photo: /samples/candidates/lenka-kuhtreiberova/svobodni_person.png
+    photo: "/samples/candidates/lenka-kuhtreiberova/svobodni_person.png"
     occupation: podnikatelka
     political_party: bez politické příslušnosti
     age: 63
@@ -82,7 +82,7 @@
     priorities: ''
 - Bc. Tomáš Novotný:
     _slug: tomas-novotny
-    photo: /samples/candidates/tomas-novotny/svobodni_person.png
+    photo: "/samples/candidates/tomas-novotny/svobodni_person.png"
     occupation: student
     political_party: bez politické příslušnosti
     age: 23
@@ -90,15 +90,15 @@
     priorities: ''
 - Vojtěch Tekal:
     _slug: vojtech-tekal
-    photo: /samples/candidates/vojtech-tekal/svobodni_person.png
-    occupation: řidič
+    photo: "/samples/candidates/vojtech-tekal/svobodni_person.png"
+    occupation: "řidič"
     political_party: Strana svobodných občanů
     age: 28
     profile: ''
     priorities: ''
 - Michal Dudáš:
     _slug: michal-dudas
-    photo: /samples/candidates/michal-dudas/svobodni_person.png
+    photo: "/samples/candidates/michal-dudas/svobodni_person.png"
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
@@ -106,7 +106,7 @@
     priorities: ''
 - Bc. Pavel Štadáni:
     _slug: pavel-stadani
-    photo: /samples/candidates/pavel-stadani/svobodni_person.png
+    photo: "/samples/candidates/pavel-stadani/svobodni_person.png"
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
@@ -114,7 +114,7 @@
     priorities: ''
 - Helena Zimová:
     _slug: helena-zimova
-    photo: /samples/candidates/helena-zimova/svobodni_person.png
+    photo: "/samples/candidates/helena-zimova/svobodni_person.png"
     occupation: sociální pracovnice
     political_party: bez politické příslušnosti
     age: 49
@@ -122,7 +122,7 @@
     priorities: ''
 - Petr Polák:
     _slug: petr-polak
-    photo: /samples/candidates/petr-polak/svobodni_person.png
+    photo: "/samples/candidates/petr-polak/svobodni_person.png"
     occupation: elektronik – specialista testování
     political_party: bez politické příslušnosti
     age: 32
@@ -130,7 +130,7 @@
     priorities: ''
 - Ing. David Murár:
     _slug: david-murar
-    photo: /samples/candidates/david-murar/svobodni_person.png
+    photo: "/samples/candidates/david-murar/svobodni_person.png"
     occupation: ekonom
     political_party: bez politické příslušnosti
     age: 26
@@ -138,7 +138,7 @@
     priorities: ''
 - Lukáš Pavlík:
     _slug: lukas-pavlik
-    photo: /samples/candidates/lukas-pavlik/svobodni_person.png
+    photo: "/samples/candidates/lukas-pavlik/svobodni_person.png"
     occupation: student
     political_party: bez politické příslušnosti
     age: 20
@@ -146,7 +146,7 @@
     priorities: ''
 - Božena Hrnčiariková:
     _slug: bozena-hrnciarikova
-    photo: /samples/candidates/bozena-hrnciarikova/svobodni_person.png
+    photo: "/samples/candidates/bozena-hrnciarikova/svobodni_person.png"
     occupation: studentka
     political_party: bez politické příslušnosti
     age: 19
@@ -154,7 +154,7 @@
     priorities: ''
 - Lenka Terazová:
     _slug: lenka-terazova
-    photo: /samples/candidates/lenka-terazova/svobodni_person.png
+    photo: "/samples/candidates/lenka-terazova/svobodni_person.png"
     occupation: kuchařka-servírka
     political_party: bez politické příslušnosti
     age: 47
@@ -162,7 +162,7 @@
     priorities: ''
 - Tomáš Krčál:
     _slug: tomas-krcal
-    photo: /samples/candidates/tomas-krcal/svobodni_person.png
+    photo: "/samples/candidates/tomas-krcal/svobodni_person.png"
     occupation: OSVČ
     political_party: bez politické příslušnosti
     age: 39
@@ -170,7 +170,7 @@
     priorities: ''
 - Ing. Ondřej Venhoda:
     _slug: ondrej-venhoda
-    photo: /samples/candidates/ondrej-venhoda/svobodni_person.png
+    photo: "/samples/candidates/ondrej-venhoda/svobodni_person.png"
     occupation: poradce
     political_party: bez politické příslušnosti
     age: 30

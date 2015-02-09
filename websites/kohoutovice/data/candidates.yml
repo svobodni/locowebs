@@ -1,8 +1,8 @@
 ---
 - Václav Dvořák:
     _slug: v
-    photo: /samples/candidates/v/fotka_Va_ek.JPEG
-    occupation: živnostník, včelař
+    photo: "/samples/candidates/v/fotka_Va_ek.JPEG"
+    occupation: "živnostník, včelař"
     political_party: Strana svobodných občanů
     age: 41
     email: avatarbrno@gmail.com
@@ -50,7 +50,7 @@
     priorities: ''
 - Mgr. Tomáš Zdražil:
     _slug: to
-    photo: /samples/candidates/to/SDC12518.JPG
+    photo: "/samples/candidates/to/SDC12518.JPG"
     occupation: statistik
     political_party: Strana svobodných občanů
     age: 29
@@ -78,7 +78,7 @@
     priorities: ''
 - Mgr. Jiří Hamerský:
     _slug: mgr
-    photo: /samples/candidates/mgr/fotka_Ji___Hamersk_.JPG
+    photo: "/samples/candidates/mgr/fotka_Ji___Hamersk_.JPG"
     occupation: OSVČ (lektor, spisovatel, terapeut)
     political_party: bez politické příslušnosti
     age: 36
@@ -102,12 +102,12 @@
     priorities: ''
 - Olga Kyliánová:
     _slug: olga-kylianova
-    photo: /samples/candidates/olga-kylianova/olga-kylianova-318437.gif
+    photo: "/samples/candidates/olga-kylianova/olga-kylianova-318437.gif"
     occupation: brašnářka
     political_party: bez politické příslušnosti
     age: 56
     email: olga.kylianova@email.cz
-    phone: +420 547 383 483
+    phone: "+420 547 383 483"
     homepage_url: http://www.firmy.cz/detail/1459765-olga-kylianova-brno-kohoutovice.html
     profile: "<p><img src=\"/samples/assets/522edbe4dceb6e8724580700.jpg\" alt=\"\"
       width=\"213\" height=\"142\" /></p>\r\n<p>Bra&scaron;n&aacute;řstv&iacute; Kyli&aacute;nov&aacute;
@@ -117,11 +117,11 @@
     priorities: ''
 - Gabriela Kopecká:
     _slug: gabriela-kopecka
-    photo: /samples/candidates/gabriela-kopecka/sta_en__soubor.jpg
+    photo: "/samples/candidates/gabriela-kopecka/sta_en__soubor.jpg"
     occupation: kadeřnice
     political_party: bez politické příslušnosti
     age: 49
-    phone: +420 547 220 798
+    phone: "+420 547 220 798"
     homepage_url: http://www.firmy.cz/detail/12816566-kadernictvi-gabriela-kopecka-brno.html
     profile: "<p>Kadeřnictv&iacute; pan&iacute; Kopeck&eacute; na Pavlovsk&eacute;
       jistě mnoz&iacute; zn&aacute;te.</p>\r\n<p>Jak se tato kohoutovick&aacute; živnostnice

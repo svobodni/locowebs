@@ -1,14 +1,14 @@
 ---
 - Jakub Ježek:
     _slug: jakub-jezek
-    photo: /samples/candidates/jakub-jezek/BRN_0069.jpg
+    photo: "/samples/candidates/jakub-jezek/BRN_0069.jpg"
     occupation: právník
     political_party: Strana svobodných občanů
     age: 31
     email: jakubjezek@seznam.cz
     phone: 608 638 311
-    profile: <p>předseda krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch v Jihomoravsk&eacute;m
-      kraji</p>
+    profile: "<p>předseda krajsk&eacute;ho sdružen&iacute; Svobodn&yacute;ch v Jihomoravsk&eacute;m
+      kraji</p>"
     quote: Svoboda, odpovědnost, spravedlnost
     priorities: "<p>1) Parkov&aacute;n&iacute;<br />- město m&aacute; zaji&scaron;ťovat
       předev&scaron;&iacute;m veřejn&eacute; statky, kam patř&iacute; infrastruktura
@@ -46,7 +46,7 @@
       Brna i Brna-střed<br />- odm&iacute;t&aacute;me zadlužovat budouc&iacute; generace</p>"
 - Pavel Dvořák:
     _slug: pavel-dvorak
-    photo: /samples/candidates/pavel-dvorak/BRN_0151-Dvorak.jpeg
+    photo: "/samples/candidates/pavel-dvorak/BRN_0151-Dvorak.jpeg"
     occupation: programátor a logistik
     political_party: Strana svobodných občanů
     age: 28
@@ -54,8 +54,35 @@
     phone: ''
     homepage_url: http://dqd.cz/
     fb_profile_url: http://facebook.com/svobodnypavel
-    profile: <p>Člen Svobodn&yacute;ch od roku 2010.</p>
+    profile: "<p>Člen Svobodn&yacute;ch od roku 2010.</p>"
     quote: Modré zóny nová parkovací místa nepřinesou, o čemž se již přesvědčili v
       Praze.
-    priorities: <p>Do zastupitelstva městsk&eacute; č&aacute;sti chci přin&eacute;st
-      racion&aacute;lně mysl&iacute;c&iacute; a konstruktivn&iacute; opozici.</p>
+    priorities: "<p>Do zastupitelstva městsk&eacute; č&aacute;sti chci přin&eacute;st
+      racion&aacute;lně mysl&iacute;c&iacute; a konstruktivn&iacute; opozici.</p>"
+- Viktor Navrátil:
+    _slug: viktor-navratil
+    photo: "/samples/candidates/viktor-navratil/VN_foto.jpg"
+    occupation: "Živnostník"
+    political_party: Strana svobodných občanů
+    age: 44
+    email: navratil(a)cms-consulting.org
+    phone: 603 478184
+    profile: "<p>&Scaron;ťastně ženat&yacute;, 5 dět&iacute;.</p>"
+    quote: Město má občanům sloužit a nikoliv být jejich neomezeným pánem.
+    priorities: "<p><span>Ve stručnosti co prosazuji:&nbsp;</span><br /><span>1) umožnit
+      voln&eacute; parkov&aacute;n&iacute; v&scaron;ude tam, kde je to technicky možn&eacute;;</span><br
+      /><span>parkovac&iacute;ch možnost&iacute; m&aacute; přib&yacute;vat a nikoliv
+      ub&yacute;vat;</span><br /><span>ž&aacute;dn&eacute; parkovac&iacute; z&oacute;ny
+      (ani modr&eacute;, natož zelen&eacute;) a ani ž&aacute;dn&eacute; jin&eacute;
+      formy zpoplatněn&iacute; majitelů aut!</span><br /><span>městsk&aacute; policie
+      m&aacute; db&aacute;t na poř&aacute;dek a bezpeč&iacute; občanů, k ře&scaron;en&iacute;
+      dopravn&iacute;ch přestupků tu m&aacute;me st&aacute;tn&iacute; policii;</span><br
+      /><span>2) &scaron;t&iacute;hl&aacute; a transparentn&iacute; radnice;</span><br
+      /><span>3) ž&aacute;dn&yacute; přesun n&aacute;draž&iacute;, n&aacute;draž&iacute;
+      vyhovuje nejv&iacute;ce tam kde je &mdash; u největ&scaron;&iacute;ho dopravn&iacute;ho
+      uzlu MHD ve středu města.</span><br /><br /><a title=\"Link na cel&yacute; osobn&iacute;
+      program ve form&aacute;tu PDF\" href=\"http://jmk.svobodni.cz/wp-content/uploads/2014/10/VN_program.pdf\"
+      target=\"_blank\">Link na cel&yacute; osobn&iacute; program ve form&aacute;tu
+      PDF</a><br /><br /><a title=\"Link na osobn&iacute; let&aacute;k s t&eacute;matikou
+      parkov&aacute;n&iacute;\" href=\"http://jmk.svobodni.cz/wp-content/uploads/2014/10/VN_parkovani.pdf\"
+      target=\"_blank\">Link na osobn&iacute; let&aacute;k s t&eacute;matikou parkov&aacute;n&iacute;</a></p>"

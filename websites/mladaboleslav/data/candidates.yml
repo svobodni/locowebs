@@ -1,12 +1,12 @@
 ---
 - Bc. Jan Matyásko:
     _slug: bc-jan-matyasko
-    photo: /samples/candidates/bc-jan-matyasko/honza.JPG
+    photo: "/samples/candidates/bc-jan-matyasko/honza.JPG"
     occupation: Energetický analytik
     political_party: Strana svobodných občanů
     age: 26
     email: jan.matyasko@svobodni.cz
-    phone: +420 603 320 421
+    phone: "+420 603 320 421"
     homepage_url: http://mladaboleslav.svobodni.cz
     fb_profile_url: http://www.facebook.com/honza.matyasko
     fb_page_url: http://www.facebook.com/svobodni.mb
@@ -20,7 +20,7 @@
     priorities: ''
 - Ing. David Bucek:
     _slug: ing-david-bucek
-    photo: /samples/candidates/ing-david-bucek/david.JPG
+    photo: "/samples/candidates/ing-david-bucek/david.JPG"
     occupation: Programátor
     political_party: Strana svobodných občanů
     age: 35
@@ -39,8 +39,8 @@
     priorities: ''
 - Lukáš Abík:
     _slug: lukas-abik
-    photo: /samples/candidates/lukas-abik/lukas.JPG
-    occupation: Řemeslník
+    photo: "/samples/candidates/lukas-abik/lukas.JPG"
+    occupation: "Řemeslník"
     political_party: Strana svobodných občanů
     age: 36
     homepage_url: http://mladaboleslav.svobodni.cz
@@ -56,8 +56,8 @@
     priorities: ''
 - Ivana Burešová Marková:
     _slug: ivana-buresova
-    photo: /samples/candidates/ivana-buresova/ivana.JPG
-    occupation: Živnostník
+    photo: "/samples/candidates/ivana-buresova/ivana.JPG"
+    occupation: "Živnostník"
     political_party: Strana svobodných občanů
     age: 38
     homepage_url: http://mladaboleslav.svobodni.cz
@@ -73,7 +73,7 @@
     priorities: ''
 - Zdeněk Zajíček:
     _slug: zdenek-zajicek
-    photo: /samples/candidates/zdenek-zajicek/zdenek.jpg
+    photo: "/samples/candidates/zdenek-zajicek/zdenek.jpg"
     occupation: Services manager
     political_party: Strana svobodných občanů
     age: 26
@@ -89,7 +89,7 @@
     priorities: ''
 - Stanislav Mlejnek:
     _slug: stanislav-mlejnek
-    occupation: účetní
+    occupation: "účetní"
     political_party: Svobodní
     age: 45
     homepage_url: http://mladaboleslav.svobodni.cz

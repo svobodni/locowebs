@@ -1,7 +1,7 @@
 ---
 - 'Ing. Jaroslava  Bedřichová ':
     _slug: ing-jaroslava-bedrichova
-    photo: /samples/candidates/ing-jaroslava-bedrichova/kand1s.jpg
+    photo: "/samples/candidates/ing-jaroslava-bedrichova/kand1s.jpg"
     occupation: vedoucí referátu dotací, FÚ
     political_party: nezávislá
     age: 48
@@ -28,7 +28,7 @@
     priorities: ''
 - 'Ing. Jaromír  Lažek ':
     _slug: ing-jaromir-lazek
-    photo: /samples/candidates/ing-jaromir-lazek/kand2s.jpg
+    photo: "/samples/candidates/ing-jaromir-lazek/kand2s.jpg"
     occupation: technický ředitel
     political_party: nezávislý
     age: 48
@@ -39,7 +39,7 @@
     priorities: ''
 - Ing. Ondřej  Stloukal:
     _slug: ing-ondrej-stloukal
-    photo: /samples/candidates/ing-ondrej-stloukal/kand3s.jpg
+    photo: "/samples/candidates/ing-ondrej-stloukal/kand3s.jpg"
     occupation: vývoj software, IT služby
     political_party: Strana svobodných občanů
     age: 41
@@ -50,7 +50,7 @@
     priorities: ''
 - Ing. Martin Tischer:
     _slug: ing-martin-tischer
-    photo: /samples/candidates/ing-martin-tischer/MartinTischer.jpg
+    photo: "/samples/candidates/ing-martin-tischer/MartinTischer.jpg"
     occupation: obchodní manažer
     political_party: nezávislý
     age: 42
@@ -61,7 +61,7 @@
     priorities: ''
 - Mgr.Pavla Bordovská:
     _slug: mgr-dot-pavla-bordovska
-    photo: /samples/candidates/mgr-dot-pavla-bordovska/PavlaBordovska.JPG
+    photo: "/samples/candidates/mgr-dot-pavla-bordovska/PavlaBordovska.JPG"
     occupation: pedagog, zástupce ředitele
     political_party: nezávislá
     age: 50
@@ -72,7 +72,7 @@
     priorities: ''
 - Ing. Petr   Gallia:
     _slug: ing-petr-gallia
-    photo: /samples/candidates/ing-petr-gallia/PetaGallia.jpg
+    photo: "/samples/candidates/ing-petr-gallia/PetaGallia.jpg"
     occupation: vinař, OSVČ
     political_party: nezávislý
     age: 34
@@ -83,7 +83,7 @@
     priorities: ''
 - Josef Klabačka:
     _slug: josef-klabacka
-    photo: /samples/candidates/josef-klabacka/JosefKlabacka.jpg
+    photo: "/samples/candidates/josef-klabacka/JosefKlabacka.jpg"
     occupation: manažer nákupu
     political_party: nezávislý
     age: 45
@@ -94,7 +94,7 @@
     priorities: ''
 - Ing. Hana  Červenáková:
     _slug: ing-hana-cervenakova
-    photo: /samples/candidates/ing-hana-cervenakova/HanaCervenakova.jpg
+    photo: "/samples/candidates/ing-hana-cervenakova/HanaCervenakova.jpg"
     occupation: ekonomka
     political_party: nezávislá
     age: 47
@@ -105,7 +105,7 @@
     priorities: ''
 - Ing. František Slezák:
     _slug: ing-frantisek-slezak
-    photo: /samples/candidates/ing-frantisek-slezak/FrantaSlezak.jpg
+    photo: "/samples/candidates/ing-frantisek-slezak/FrantaSlezak.jpg"
     occupation: obchodní ředitel
     political_party: nezávislý
     age: 54
@@ -116,7 +116,7 @@
     priorities: ''
 - Ing. Miroslav Kosík:
     _slug: ing-miroslav-kosik
-    photo: /samples/candidates/ing-miroslav-kosik/MirekKosik.jpg
+    photo: "/samples/candidates/ing-miroslav-kosik/MirekKosik.jpg"
     occupation: ekonom
     political_party: nezávislý
     age: 60
@@ -127,7 +127,7 @@
     priorities: ''
 - Ludmila Obdržálková:
     _slug: ludmila-obdrzalkova
-    photo: /samples/candidates/ludmila-obdrzalkova/LidkaObdrzalkova.jpg
+    photo: "/samples/candidates/ludmila-obdrzalkova/LidkaObdrzalkova.jpg"
     occupation: vedoucí pošty
     political_party: nezávislá
     age: 54
@@ -138,7 +138,7 @@
     priorities: ''
 - Mgr. Vít Pjajčík:
     _slug: mgr-vit-pjajcik
-    photo: /samples/candidates/mgr-vit-pjajcik/VitaPjajcik.jpg
+    photo: "/samples/candidates/mgr-vit-pjajcik/VitaPjajcik.jpg"
     occupation: pedagog, sportovní manažer a předseda spolku
     political_party: nezávislý
     age: 45
@@ -149,7 +149,7 @@
     priorities: ''
 - Ivo Bedřich:
     _slug: ivo-bedrich
-    photo: /samples/candidates/ivo-bedrich/IvoBedrich.jpg
+    photo: "/samples/candidates/ivo-bedrich/IvoBedrich.jpg"
     occupation: grafik
     political_party: nezávislý
     age: 45
@@ -160,7 +160,7 @@
     priorities: ''
 - Mgr. Přemysl Paška:
     _slug: mgr-premysl-paska
-    photo: /samples/candidates/mgr-premysl-paska/PremekPaska.jpg
+    photo: "/samples/candidates/mgr-premysl-paska/PremekPaska.jpg"
     occupation: programátor
     political_party: Strana svobodných občanů
     age: 31
@@ -171,7 +171,7 @@
     priorities: ''
 - Mgr. Markéta Frantová:
     _slug: mgr-marketa-frantova
-    photo: /samples/candidates/mgr-marketa-frantova/MarketaFrantova.jpg
+    photo: "/samples/candidates/mgr-marketa-frantova/MarketaFrantova.jpg"
     occupation: pedagog, ZŠ
     political_party: nezávislá
     age: 42
@@ -182,7 +182,7 @@
     priorities: ''
 - Mgr. Miroslava Prchlíková:
     _slug: mgr-miroslava-prchlikova
-    photo: /samples/candidates/mgr-miroslava-prchlikova/MirkaPrchlikova.jpg
+    photo: "/samples/candidates/mgr-miroslava-prchlikova/MirkaPrchlikova.jpg"
     occupation: pedagog, ZŠ
     political_party: nezávislá
     age: 35
@@ -193,7 +193,7 @@
     priorities: ''
 - Ing. Richard Boček:
     _slug: ing-richard-bocek
-    photo: /samples/candidates/ing-richard-bocek/RichardBocek.jpg
+    photo: "/samples/candidates/ing-richard-bocek/RichardBocek.jpg"
     occupation: manažer řízení kvality
     political_party: nezávislý
     age: 40

@@ -1,7 +1,7 @@
 ---
 - Mgr. Roman Nepšinský:
     _slug: roman-nepsinsky
-    photo: /samples/candidates/roman-nepsinsky/Roman_Nepsinsky.jpg
+    photo: "/samples/candidates/roman-nepsinsky/Roman_Nepsinsky.jpg"
     occupation: výrobní ředitel v IT
     political_party: Strana svobodných občanů
     age: 35
@@ -56,7 +56,7 @@
       a t&iacute;m deformovat tržn&iacute; prostřed&iacute; nekalou konkurenc&iacute;.</span></li>\r\n</ul>"
 - Mgr. Radek Dulka:
     _slug: mgr-radek-dulka
-    photo: /samples/candidates/mgr-radek-dulka/Radek_Dulka.jpg
+    photo: "/samples/candidates/mgr-radek-dulka/Radek_Dulka.jpg"
     occupation: softwarový inženýr
     political_party: Strana svobodných občanů
     age: 34
@@ -109,7 +109,7 @@
       pracovat na jeho naplněn&iacute; už po těchto volb&aacute;ch.</p>"
 - Mgr. Pavla Hrušková Břeňová:
     _slug: mgr-pavla-hruskova-brenova
-    photo: /samples/candidates/mgr-pavla-hruskova-brenova/Pavla_Brenova.jpg
+    photo: "/samples/candidates/mgr-pavla-hruskova-brenova/Pavla_Brenova.jpg"
     occupation: překladatelka
     political_party: Strana svobodných občanů
     age: 35
@@ -180,8 +180,8 @@
       čtyř m&iacute;stopředsedů krajsk&eacute;ho sdružen&iacute;.</p>"
 - Jana Fraitová:
     _slug: jana-fraitova
-    photo: /samples/candidates/jana-fraitova/Jana_Fraitova.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/jana-fraitova/Jana_Fraitova.jpg"
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 69
     email: janaff@seznam.cz
@@ -199,14 +199,14 @@
       členem t&yacute;mu a pom&aacute;hat světu kolem sebe ve svobodn&eacute;m, spravedliv&eacute;m
       a zodpovědn&eacute;m rozvoji.</p>\r\n<p class=\"Standard\">Jsem vdan&aacute;
       a m&aacute;me dvě vnučky.</p>"
-    priorities: <p class="Standard">Jako pravicov&aacute; volička jsem uv&iacute;tala
+    priorities: "<p class=\"Standard\">Jako pravicov&aacute; volička jsem uv&iacute;tala
       vznik Strany svobodn&yacute;ch občanů, vedenou ekonomem Petrem Machem a na jaře
       2009 jsem se stala jej&iacute; členkou. Koncem roku 2009 jsem byla zvolena m&iacute;stopředsedkyn&iacute;
       Krajsk&eacute;ho sdružen&iacute; OK, později na dva roky předsedkyn&iacute;
       a n&aacute;sledně členkou Republikov&eacute;ho v&yacute;boru. Konzervativně-liber&aacute;ln&iacute;
       orientace Strany svobodn&yacute;ch občanů zcela souzn&iacute; s m&yacute;mi
       představami o tom, jak by měla fungovat občansk&aacute; společnost. Politku
-      ch&aacute;pu jako prostor pro službu občanům a ne pro sv&eacute; podnik&aacute;n&iacute;.</p>
+      ch&aacute;pu jako prostor pro službu občanům a ne pro sv&eacute; podnik&aacute;n&iacute;.</p>"
 - Mgr. Pavel Hruška:
     _slug: mgr-pavel-hruska
     occupation: softwarový inženýr
@@ -216,7 +216,7 @@
     priorities: ''
 - Miroslav Modrianský:
     _slug: miroslav-modriansky
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 59
     profile: ''
@@ -237,7 +237,7 @@
     priorities: ''
 - Ing. Petr Pracný:
     _slug: ing-petr-pracny
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 60
     profile: ''
@@ -363,7 +363,7 @@
     priorities: ''
 - Vladimíra Němcová:
     _slug: vladimira-nemcova
-    occupation: účetní
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 54
     profile: ''
@@ -377,7 +377,7 @@
     priorities: ''
 - Lenka Novotná Faltýnková:
     _slug: lenka-novotna-faltynkova
-    occupation: účetní
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 51
     profile: ''
@@ -398,7 +398,7 @@
     priorities: ''
 - Jiří Šimek:
     _slug: jiri-simek
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 36
     profile: ''
@@ -433,7 +433,7 @@
     priorities: ''
 - Miloš Linhart:
     _slug: milos-linhart
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 43
     profile: ''
@@ -447,7 +447,7 @@
     priorities: ''
 - Ing. Jiří Němec:
     _slug: ing-jiri-nemec
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 31
     profile: ''

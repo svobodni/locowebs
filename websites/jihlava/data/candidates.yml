@@ -6,7 +6,7 @@
     age: 56
     email: paulat@svobodni.cz
     phone: '724651797'
-    profile: <p>Narozen v Jihlavě, je ženat&yacute;, m&aacute; jedno d&iacute;tě.
+    profile: "<p>Narozen v Jihlavě, je ženat&yacute;, m&aacute; jedno d&iacute;tě.
       Absolvent Středn&iacute; &scaron;koly strojn&iacute; v Jihlavě, jazykov&eacute;
       &scaron;koly a v devades&aacute;t&yacute;ch letech i Středn&iacute; &scaron;koly
       obchodn&iacute; v Jihlavě. Pracuje jako vedouc&iacute; směny technick&eacute;ho
@@ -38,10 +38,10 @@
       někter&yacute;ch volen&yacute;ch z&aacute;stupců v minul&eacute;m obdob&iacute;,
       nen&iacute; důvod stejn&eacute; politiky volit znovu. Využit&iacute; sv&eacute;ho
       volebn&iacute;ho pr&aacute;va je jedn&iacute;m z v&yacute;dobytků svobody. Nevzd&aacute;vejme
-      se tohoto pr&aacute;va&ldquo;.</strong></em></p>
+      se tohoto pr&aacute;va&ldquo;.</strong></em></p>"
     quote: Za Jihlavu bez dluhů, čistou a bezpečnou
     priorities: ''
-    photo: /samples/candidates/pavel-paulat/01-Paulat-web.jpg
+    photo: "/samples/candidates/pavel-paulat/01-Paulat-web.jpg"
 - Petr Čása:
     _slug: petr-casa
     occupation: softwarový konzultant a analytik
@@ -53,7 +53,7 @@
     profile: ''
     quote: Levná a přívětivá Jihlava pro všechny
     priorities: ''
-    photo: /samples/candidates/petr-casa/02-Casa-web.jpg
+    photo: "/samples/candidates/petr-casa/02-Casa-web.jpg"
 - Lubomír Hron:
     _slug: lubomir-hron
     occupation: asistent pedagoga
@@ -65,7 +65,7 @@
     profile: ''
     quote: Chodců je více než cyklistů - změňme priority veřejných staveb
     priorities: ''
-    photo: /samples/candidates/lubomir-hron/03-Hron-web.jpg
+    photo: "/samples/candidates/lubomir-hron/03-Hron-web.jpg"
 - Martin Rumler:
     _slug: martin-rumler
     occupation: PR konzultant
@@ -75,8 +75,8 @@
     phone: '734517041'
     homepage_url: http://www.rumlerbloguje.cz
     fb_profile_url: https://www.facebook.com/martin.rumler1
-    profile: <p>Dlouh&aacute; l&eacute;ta jsem pracoval jako novin&aacute;ř v MF DNES.
-      Od roku 2012 se věnuju poradenstv&iacute; v oblasti vztahů s veřejnost&iacute;
+    profile: "<p>Dlouh&aacute; l&eacute;ta jsem pracoval jako novin&aacute;ř v MF
+      DNES. Od roku 2012 se věnuju poradenstv&iacute; v oblasti vztahů s veřejnost&iacute;
       a s m&eacute;dii. Členem Strany svobodn&yacute;ch občanů jsem od roku 2013 a
       jak na celost&aacute;tn&iacute;, tak i na komun&aacute;ln&iacute; &uacute;rovni
       na n&iacute; oceňuji zdrav&yacute; rozum a snahu zachovat svobodu jednotlivce,
@@ -85,10 +85,10 @@
       c&iacute;t&iacute; bezpečně. Město, kter&eacute; je uklizen&eacute;, opraven&eacute;
       a čist&eacute;, nepřek&aacute;ž&iacute; živnostn&iacute;kům, star&aacute; se
       jen o to nejnutněj&scaron;&iacute; a nebere lidem jejich pen&iacute;ze, aby
-      je pot&eacute; utratilo za nesmysln&eacute; projekty či činnosti.</p>
+      je pot&eacute; utratilo za nesmysln&eacute; projekty či činnosti.</p>"
     quote: Nechám Vaše peněženky na pokoji.
     priorities: ''
-    photo: /samples/candidates/martin-rumler/04-Rumler-web.jpg
+    photo: "/samples/candidates/martin-rumler/04-Rumler-web.jpg"
 - Mgr. Karel Foltýn:
     _slug: karel-foltyn
     occupation: lékárník
@@ -97,7 +97,7 @@
     email: foltyn@kf.cz
     profile: ''
     priorities: ''
-    photo: /samples/candidates/karel-foltyn/05-Foltyn-web.jpg
+    photo: "/samples/candidates/karel-foltyn/05-Foltyn-web.jpg"
 - Marie Kudrnová:
     _slug: marie-kudrnova
     occupation: státní zaměstnanec
@@ -106,7 +106,7 @@
     fb_profile_url: https://www.facebook.com/marie.kudrnova.33
     profile: ''
     priorities: ''
-    photo: /samples/candidates/marie-kudrnova/06-Kudrnova-web.jpg
+    photo: "/samples/candidates/marie-kudrnova/06-Kudrnova-web.jpg"
 - Milan Černý:
     _slug: milan-cerny
     occupation: softwarový architekt
@@ -114,7 +114,7 @@
     age: 33
     profile: ''
     priorities: ''
-    photo: /samples/candidates/milan-cerny/Beran.jpg
+    photo: "/samples/candidates/milan-cerny/Beran.jpg"
 - Miloš Bém:
     _slug: milos-bem
     occupation: OSVČ
@@ -122,15 +122,15 @@
     age: 52
     profile: ''
     priorities: ''
-    photo: /samples/candidates/milos-bem/Beran.jpg
+    photo: "/samples/candidates/milos-bem/Beran.jpg"
 - Bc. Lucie Žandová:
     _slug: bc-lucie-zandova
-    occupation: účetní
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 27
     profile: ''
     priorities: ''
-    photo: /samples/candidates/bc-lucie-zandova/Beran.jpg
+    photo: "/samples/candidates/bc-lucie-zandova/Beran.jpg"
 - Ing. Josef Thál:
     _slug: ing-josef-thal
     occupation: pracovník v sociálních službách
@@ -138,7 +138,7 @@
     age: 62
     profile: ''
     priorities: ''
-    photo: /samples/candidates/ing-josef-thal/Beran.jpg
+    photo: "/samples/candidates/ing-josef-thal/Beran.jpg"
 - Miloš Bém:
     _slug: milos-bem-1
     occupation: programátor
@@ -146,7 +146,7 @@
     age: 25
     profile: ''
     priorities: ''
-    photo: /samples/candidates/milos-bem-1/Beran.jpg
+    photo: "/samples/candidates/milos-bem-1/Beran.jpg"
 - Vojtěch Žanda:
     _slug: vojtech-zanda
     occupation: revizní technik
@@ -154,15 +154,15 @@
     age: 30
     profile: ''
     priorities: ''
-    photo: /samples/candidates/vojtech-zanda/Beran.jpg
+    photo: "/samples/candidates/vojtech-zanda/Beran.jpg"
 - Jiří Přeslička:
     _slug: jiri-preslicka
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 57
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jiri-preslicka/Beran.jpg
+    photo: "/samples/candidates/jiri-preslicka/Beran.jpg"
 - Jiří Rejthárek:
     _slug: jiri-rejtharek
     occupation: student
@@ -170,7 +170,7 @@
     age: 24
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jiri-rejtharek/Beran.jpg
+    photo: "/samples/candidates/jiri-rejtharek/Beran.jpg"
 - Ing. Jiří Doležal:
     _slug: ing-jiri-dolezal
     occupation: technik
@@ -178,7 +178,7 @@
     age: 45
     profile: ''
     priorities: ''
-    photo: /samples/candidates/ing-jiri-dolezal/Beran.jpg
+    photo: "/samples/candidates/ing-jiri-dolezal/Beran.jpg"
 - Aleš Škvařil:
     _slug: ales-skvaril
     occupation: počítačový technik
@@ -186,7 +186,7 @@
     age: 46
     profile: ''
     priorities: ''
-    photo: /samples/candidates/ales-skvaril/Beran.jpg
+    photo: "/samples/candidates/ales-skvaril/Beran.jpg"
 - Lenka Reitermanová:
     _slug: lenka-reitermanova
     occupation: státní zaměstnanec
@@ -194,7 +194,7 @@
     age: 51
     profile: ''
     priorities: ''
-    photo: /samples/candidates/lenka-reitermanova/Beran.jpg
+    photo: "/samples/candidates/lenka-reitermanova/Beran.jpg"
 - Bc. Tomáš Kafka:
     _slug: bc-tomas-kafka
     occupation: softwarový návrhář
@@ -202,7 +202,7 @@
     age: 29
     profile: ''
     priorities: ''
-    photo: /samples/candidates/bc-tomas-kafka/Beran.jpg
+    photo: "/samples/candidates/bc-tomas-kafka/Beran.jpg"
 - Jana Plevová:
     _slug: jana-plevova
     occupation: OSVČ
@@ -210,7 +210,7 @@
     age: 45
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jana-plevova/Beran.jpg
+    photo: "/samples/candidates/jana-plevova/Beran.jpg"
 - Petr Chytka:
     _slug: petr-chytka
     occupation: technolog
@@ -218,7 +218,7 @@
     age: 27
     profile: ''
     priorities: ''
-    photo: /samples/candidates/petr-chytka/Beran.jpg
+    photo: "/samples/candidates/petr-chytka/Beran.jpg"
 - Jiří Přeslička:
     _slug: jiri-preslicka-1
     occupation: referent zahraničního obchodu
@@ -226,7 +226,7 @@
     age: 24
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jiri-preslicka-1/Beran.jpg
+    photo: "/samples/candidates/jiri-preslicka-1/Beran.jpg"
 - Ing. Petr Komrs:
     _slug: ing-petr-komrs
     occupation: důchodce
@@ -234,7 +234,7 @@
     age: 72
     profile: ''
     priorities: ''
-    photo: /samples/candidates/ing-petr-komrs/Beran.jpg
+    photo: "/samples/candidates/ing-petr-komrs/Beran.jpg"
 - Karel Obrdlík:
     _slug: karel-obrdlik
     occupation: oblastní vedoucí
@@ -242,7 +242,7 @@
     age: 34
     profile: ''
     priorities: ''
-    photo: /samples/candidates/karel-obrdlik/Beran.jpg
+    photo: "/samples/candidates/karel-obrdlik/Beran.jpg"
 - Stanislav Nič:
     _slug: stanislav-nic
     occupation: OSVČ
@@ -250,15 +250,15 @@
     age: 47
     profile: ''
     priorities: ''
-    photo: /samples/candidates/stanislav-nic/Beran.jpg
+    photo: "/samples/candidates/stanislav-nic/Beran.jpg"
 - Miloslav Koten:
     _slug: miloslav-koten
-    occupation: řidič kamionů
+    occupation: "řidič kamionů"
     political_party: bez politické příslušnosti
     age: 49
     profile: ''
     priorities: ''
-    photo: /samples/candidates/miloslav-koten/Beran.jpg
+    photo: "/samples/candidates/miloslav-koten/Beran.jpg"
 - Bc. Dalibor Šedivý:
     _slug: bc-dalibor-sedivy
     occupation: vedoucí pobočky
@@ -266,7 +266,7 @@
     age: 36
     profile: ''
     priorities: ''
-    photo: /samples/candidates/bc-dalibor-sedivy/Beran.jpg
+    photo: "/samples/candidates/bc-dalibor-sedivy/Beran.jpg"
 - Petr Novotný:
     _slug: petr-novotny
     occupation: student
@@ -274,7 +274,7 @@
     age: 23
     profile: ''
     priorities: ''
-    photo: /samples/candidates/petr-novotny/Beran.jpg
+    photo: "/samples/candidates/petr-novotny/Beran.jpg"
 - Jakub Karabinoš:
     _slug: jakub-karabinos
     occupation: programátor
@@ -282,7 +282,7 @@
     age: 25
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jakub-karabinos/Beran.jpg
+    photo: "/samples/candidates/jakub-karabinos/Beran.jpg"
 - Lenka Blažková:
     _slug: lenka-blazkova
     occupation: státní zaměstnanec
@@ -290,7 +290,7 @@
     age: 43
     profile: ''
     priorities: ''
-    photo: /samples/candidates/lenka-blazkova/Beran.jpg
+    photo: "/samples/candidates/lenka-blazkova/Beran.jpg"
 - Martin Nič:
     _slug: martin-nic
     occupation: student
@@ -298,7 +298,7 @@
     age: 20
     profile: ''
     priorities: ''
-    photo: /samples/candidates/martin-nic/Beran.jpg
+    photo: "/samples/candidates/martin-nic/Beran.jpg"
 - Radek Talpa:
     _slug: radek-talpa
     occupation: podnikatel
@@ -306,7 +306,7 @@
     age: 48
     profile: ''
     priorities: ''
-    photo: /samples/candidates/radek-talpa/Beran.jpg
+    photo: "/samples/candidates/radek-talpa/Beran.jpg"
 - Jiří Havel:
     _slug: jiri-havel
     occupation: počítačový technik
@@ -314,7 +314,7 @@
     age: 20
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jiri-havel/Beran.jpg
+    photo: "/samples/candidates/jiri-havel/Beran.jpg"
 - Milan Křikava:
     _slug: milan-krikava
     occupation: prodavač
@@ -322,7 +322,7 @@
     age: 38
     profile: ''
     priorities: ''
-    photo: /samples/candidates/milan-krikava/Beran.jpg
+    photo: "/samples/candidates/milan-krikava/Beran.jpg"
 - Petra Koutná:
     _slug: petra-koutna
     occupation: OSVČ
@@ -330,7 +330,7 @@
     age: 29
     profile: ''
     priorities: ''
-    photo: /samples/candidates/petra-koutna/Beran.jpg
+    photo: "/samples/candidates/petra-koutna/Beran.jpg"
 - Gabriela Talpová:
     _slug: gabriela-talpova
     occupation: inspektorka
@@ -338,7 +338,7 @@
     age: 44
     profile: ''
     priorities: ''
-    photo: /samples/candidates/gabriela-talpova/Beran.jpg
+    photo: "/samples/candidates/gabriela-talpova/Beran.jpg"
 - Jan Panáček:
     _slug: jan-panacek
     occupation: vedoucí seřizovač
@@ -346,12 +346,12 @@
     age: 39
     profile: ''
     priorities: ''
-    photo: /samples/candidates/jan-panacek/Beran.jpg
+    photo: "/samples/candidates/jan-panacek/Beran.jpg"
 - Martina Ničová:
     _slug: martina-nicova
-    occupation: žena v domácnosti
+    occupation: "žena v domácnosti"
     political_party: bez politické příslušnosti
     age: 43
     profile: ''
     priorities: ''
-    photo: /samples/candidates/martina-nicova/Beran.jpg
+    photo: "/samples/candidates/martina-nicova/Beran.jpg"

@@ -1,2 +1,5 @@
 #fb-root { display: none; }
 .fb-like-box, .fb-like-box span, .fb-like-box span iframe[style] { width: 100% !important; }
+.article-detail p {
+	width: auto;
+}

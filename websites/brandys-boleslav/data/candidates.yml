@@ -1,7 +1,7 @@
 ---
 - Karel Hütter:
     _slug: karel-hutter
-    photo: /samples/candidates/karel-hutter/foto1.jpg
+    photo: "/samples/candidates/karel-hutter/foto1.jpg"
     occupation: specialista IT
     political_party: Strana svobodných občanů
     age: 45
@@ -9,7 +9,7 @@
     priorities: ''
 - Mgr. Anna Kocsisová:
     _slug: mgr-anna-kocsisova
-    photo: /samples/candidates/mgr-anna-kocsisova/foto21.jpg
+    photo: "/samples/candidates/mgr-anna-kocsisova/foto21.jpg"
     occupation: obchodník
     political_party: bez politické příslušnosti
     age: 36
@@ -31,7 +31,7 @@
     priorities: ''
 - Lukáš Březina:
     _slug: 5-lukas-brezina
-    occupation: účetní
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 25
     profile: ''

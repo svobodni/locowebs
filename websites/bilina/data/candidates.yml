@@ -1,7 +1,7 @@
 ---
 - Ing. Milan Albrecht:
     _slug: ing-milan-albrecht
-    photo: /samples/candidates/ing-milan-albrecht/albrecht.jpg
+    photo: "/samples/candidates/ing-milan-albrecht/albrecht.jpg"
     occupation: elektrotechnik
     political_party: Strana svobodných občanů
     age: 31
@@ -21,7 +21,7 @@
     priorities: ''
 - Václav Hejda:
     _slug: vaclav-hejda
-    photo: /samples/candidates/vaclav-hejda/hejda.jpg
+    photo: "/samples/candidates/vaclav-hejda/hejda.jpg"
     occupation: vedoucí směny
     political_party: Strana svobodných občanů
     age: 40

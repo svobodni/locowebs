@@ -6,12 +6,9 @@ cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: |-
-    <ul class="spec-purple-1">
-              <li>Nezadlužená radnice</li>
-              <li>Svobodné podnikání</li>
-              <li>Méně regulací</li>
-            </ul>
+  main/duvody: "<ul class=\"spec-purple-1\">\r\n          <li>Nezadlužená radnice</li>\r\n
+    \         <li>Svobodné podnikání</li>\r\n          <li>Méně regulací</li>\r\n
+    \       </ul>"
   main/vyzva: Osobnosti, které nabízíme
 ---
 <!DOCTYPE html>
@@ -67,7 +64,7 @@ editable_elements:
         </div>
     <style>
     .navbar-photo  {
-      background: url('{{ 'hlavicka.jpg' | theme_image_url }}') right top no-repeat;
+      background: url('{{ 'nic' | theme_image_url }}') right top no-repeat;
     }
     </style>
 		<div class="navbar-photo"></div>
@@ -84,9 +81,18 @@ editable_elements:
 	{% endblock header %}
 	{% block main %}
   <div class="container text-center">
-    <div class="intro-catcher">
-    <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
-    </div> 
+    <div class="intro-catcher"></div> 
+
+  <div style="margin-bottom: 40px;">
+    <img src=http://www.zelpage.cz/news_n/stanice_sumperk_nastupiste_elektrizace.jpg height=150>
+    &nbsp;
+    <img src=http://sumpersky.rej.cz/fotky/2010/Radnice.JPG height=150>
+    &nbsp;
+    <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Po%C5%A1ta_%C5%A0umperk.JPG/800px-Po%C5%A1ta_%C5%A0umperk.JPG" height=150>
+    &nbsp;
+    <img src="http://nd04.jxs.cz/518/860/d86c33fce9_68131362_o2.jpg" height=150>
+    </div>
+    
   </div> 
 
   <div class="section-gray">
@@ -140,6 +146,11 @@ editable_elements:
   {% endfor %}
 
   </div> <!--/.news-feed -->
+    
+    <div id=rssdiv>...</div>
+      <script src="http://www.tomas-m.com/rss-export/?rss=http://www.reflex.cz/rss&filter=ANDREA%20HOLOPO&remove=ANDREA%20HOLOPOV%C3%81%3A%20&dom=rssdiv"></script>
+
+
   
   <div class="a-more text-center"><a href="/clanky">› <span>další aktuality</span></a></div>
   

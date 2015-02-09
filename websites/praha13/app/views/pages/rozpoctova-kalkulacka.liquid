@@ -1,0 +1,610 @@
+---
+title: Rozpočtová kalkulačka
+slug: rozpoctova-kalkulacka
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 3
+meta_description: Vyrovnejte rozpočet, zrušte zbytné výdaje a snižte daně!
+---
+{% extends 'parent' %}
+{% block main %}
+<style>
+sidebar.balance_budget {
+  float: left;
+  width: 250px;
+}
+sidebar.balance_budget p span.big {
+  font-size: 110%;
+}
+sidebar.balance_budget.affix {
+  position: fixed;
+  top: 20px;
+}
+sidebar.balance_budget.affix-bottom {
+  position: absolute;
+  top: auto;
+  bottom: 90px;
+}
+section.balance_budget {
+  float: right;
+  width: 750px;
+  aborder: 1px solid blue;
+}
+section.balance_budget table {
+  width: 100%;
+}
+section.balance_budget table tr td:first-child {
+  width: 100%;
+}
+section.balance_budget table tr td:nth-child(2) {
+  text-align: right;
+  padding-right: 10px;
+}
+section.balance_budget table tr td:nth-child(2) input {
+  width: 130px;
+}
+</style>
+<div class="container classic-content">
+  <h1>Rozpočtová kalkulačka</h1>
+<p>Tato kalkulačka obsahuje některé položky ze schváleného <a href="http://www.praha13.cz/14115_Rozpocet-MC-Praha-13-na-rok-2014">rozpočtu městské části Praha 13 na rok 2014</a>. Jejich uvedení zde nemusí znamenat, že je chceme kompletně seškrtat – záměrem je ukázat, kudy tečou peníze obyvatel Prahy 13 skrz městskou pokladnu a umožnit vzájemné porovnání jednotlivých výdajů. Skutečné výdaje se mohou lišit; rozpočet navíc neobsahuje čerpání Fondu rezerv a rozvoje, protože použití účelových prostředků z Fondu rezerv a rozvoje a jejich zapojení do rozpočtu MČ je řešeno rozpočtovou úpravou.</p>
+<p style="font-weight: bold; color: #00654e;">Naším cílem na radnici je snížit či úplně zrušit řadu z těchto výdajů a výměnou zrušit alespoň poplatek za svoz odpadů.</p>
+<sidebar class='balance_budget' data-offset-bottom='150' data-offset-top='260' data-spy='affix'>
+  <p>
+    <strong>Příjmy:</strong>
+    <span data-amount='327310600' id='incomes'>327 310 600 Kč</span>
+    <br>
+    <strong>Výdaje:</strong>
+    <span data-amount='315697700' id='outgoings'>315 697 700 Kč</span>
+    <br>
+  </p>
+  <p>
+    <strong>Přebytek rozpočtu:</strong>
+    <br>
+    <span class='big' data-amount='11612900' id='deficit'>
+      11 612 900 Kč
+    </span>
+  </p>
+</sidebar>
+<section class='balance_budget'>
+  <h2>Rušení daní</h2>
+  <table>
+    <tr>
+      <td title='původně 40 000 Kč'>Poplatky za znečištěné ovzduší</td>
+      <td class='right bold' nowrap>
+        <input data-previous="40000" data-type="incomes" id="rusenidani0" max="40000" min="0" name="rusenidani0" step="400" title="původně 40 000 Kč" type="number" value="40000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani0" id="box-rusenidani0" name="box-rusenidani0" type="checkbox" value="1" />
+        <label for="box-rusenidani0">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 2 500 000 Kč'>Poplatek ze psů</td>
+      <td class='right bold' nowrap>
+        <input data-previous="2500000" data-type="incomes" id="rusenidani1" max="2500000" min="0" name="rusenidani1" step="25000" title="původně 2 500 000 Kč" type="number" value="2500000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani1" id="box-rusenidani1" name="box-rusenidani1" type="checkbox" value="1" />
+        <label for="box-rusenidani1">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 50 000 Kč'>Pobytové poplatky (lázeňský a rekreační)</td>
+      <td class='right bold' nowrap>
+        <input data-previous="50000" data-type="incomes" id="rusenidani2" max="50000" min="0" name="rusenidani2" step="500" title="původně 50 000 Kč" type="number" value="50000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani2" id="box-rusenidani2" name="box-rusenidani2" type="checkbox" value="1" />
+        <label for="box-rusenidani2">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 3 600 000 Kč'>Poplatek za užívání veřejn. prostranství</td>
+      <td class='right bold' nowrap>
+        <input data-previous="3600000" data-type="incomes" id="rusenidani3" max="3600000" min="0" name="rusenidani3" step="36000" title="původně 3 600 000 Kč" type="number" value="3600000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani3" id="box-rusenidani3" name="box-rusenidani3" type="checkbox" value="1" />
+        <label for="box-rusenidani3">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 10 000 Kč'>Poplatky ze vstupného</td>
+      <td class='right bold' nowrap>
+        <input data-previous="10000" data-type="incomes" id="rusenidani4" max="10000" min="0" name="rusenidani4" step="100" title="původně 10 000 Kč" type="number" value="10000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani4" id="box-rusenidani4" name="box-rusenidani4" type="checkbox" value="1" />
+        <label for="box-rusenidani4">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 200 000 Kč'>Poplatek z ubytovací kapacity</td>
+      <td class='right bold' nowrap>
+        <input data-previous="200000" data-type="incomes" id="rusenidani5" max="200000" min="0" name="rusenidani5" step="2000" title="původně 200 000 Kč" type="number" value="200000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani5" id="box-rusenidani5" name="box-rusenidani5" type="checkbox" value="1" />
+        <label for="box-rusenidani5">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 7 420 000 Kč'>Správní poplatky</td>
+      <td class='right bold' nowrap>
+        <input data-previous="7420000" data-type="incomes" id="rusenidani6" max="7420000" min="0" name="rusenidani6" step="74200" title="původně 7 420 000 Kč" type="number" value="7420000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani6" id="box-rusenidani6" name="box-rusenidani6" type="checkbox" value="1" />
+        <label for="box-rusenidani6">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 33 310 000 Kč'>Daň z nemovitostí</td>
+      <td class='right bold' nowrap>
+        <input data-previous="33310000" data-type="incomes" id="rusenidani7" max="33310000" min="0" name="rusenidani7" step="333100" title="původně 33 310 000 Kč" type="number" value="33310000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="rusenidani7" id="box-rusenidani7" name="box-rusenidani7" type="checkbox" value="1" />
+        <label for="box-rusenidani7">úplně</label>
+      </td>
+    </tr>
+  </table>
+  <h2>Úspory na výdajové straně</h2>
+  <table>
+    <tr>
+      <td title='původně 6 212 400 Kč'>Zajištění správy a provozu sportovních a kulturních zařízení včetně veřejných WC ve správě MČ Praha 13, pronájmy pozemků, platby daní a poplatků</td>
+      <td class='right bold' nowrap>
+        <input data-previous="6212400" data-type="outgoings" id="vydaje8" max="6212400" min="0" name="vydaje8" step="62124" title="původně 6 212 400 Kč" type="number" value="6212400" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje8" id="box-vydaje8" name="box-vydaje8" type="checkbox" value="1" />
+        <label for="box-vydaje8">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 46 000 Kč'>Výdaje na provoz krizového bytu</td>
+      <td class='right bold' nowrap>
+        <input data-previous="46000" data-type="outgoings" id="vydaje9" max="46000" min="0" name="vydaje9" step="460" title="původně 46 000 Kč" type="number" value="46000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje9" id="box-vydaje9" name="box-vydaje9" type="checkbox" value="1" />
+        <label for="box-vydaje9">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 4 002 630 Kč'>Komplexní péče o veřejnou zeleň a služby spojené s ochranou a obnovou obce a krajiny, deratizace hlodavců, likvidace nepovolených skládek, dendrologické posudky dřevin a ekologická výchova</td>
+      <td class='right bold' nowrap>
+        <input data-previous="4002630" data-type="outgoings" id="vydaje10" max="4002630" min="0" name="vydaje10" step="40026" title="původně 4 002 630 Kč" type="number" value="4002630" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje10" id="box-vydaje10" name="box-vydaje10" type="checkbox" value="1" />
+        <label for="box-vydaje10">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 3 240 000 Kč'>Úhrada služeb u bytů zvláštního určení pro invalidy v objektech BD Rotavská a Petržílkova, provoz kamerového systému na území MČ Praha 13</td>
+      <td class='right bold' nowrap>
+        <input data-previous="3240000" data-type="outgoings" id="vydaje11" max="3240000" min="0" name="vydaje11" step="32400" title="původně 3 240 000 Kč" type="number" value="3240000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje11" id="box-vydaje11" name="box-vydaje11" type="checkbox" value="1" />
+        <label for="box-vydaje11">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 6 538 000 Kč'>Opravy komunikací, doprav. značení, zimní úklid a údržba, čištění kanalizací, pronájem sloupů veřejného osvětlení pro panely na měření rychlosti</td>
+      <td class='right bold' nowrap>
+        <input data-previous="6538000" data-type="outgoings" id="vydaje12" max="6538000" min="0" name="vydaje12" step="65380" title="původně 6 538 000 Kč" type="number" value="6538000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje12" id="box-vydaje12" name="box-vydaje12" type="checkbox" value="1" />
+        <label for="box-vydaje12">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 564 600 Kč'>Rezerva na doplnění a aktualizaci dopravního značení</td>
+      <td class='right bold' nowrap>
+        <input data-previous="564600" data-type="outgoings" id="vydaje13" max="564600" min="0" name="vydaje13" step="5646" title="původně 564 600 Kč" type="number" value="564600" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje13" id="box-vydaje13" name="box-vydaje13" type="checkbox" value="1" />
+        <label for="box-vydaje13">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 2 353 000 Kč'>Příspěvek organizacím na sociální služby, pečovatelská služba, sociální služby seniorům a sociální pomoc dětem a mládeži, oblast protidrogové prevence, na uspořádání Veletrhu sociálních služeb Prahy 13, příspěvky občanským sdružením, práce s národnostními menšinami, neinvestiční transfer občanskému sdružení Diakonie na základě smlouvy, úhrada služeb a fond oprav za azylový byt</td>
+      <td class='right bold' nowrap>
+        <input data-previous="2353000" data-type="outgoings" id="vydaje14" max="2353000" min="0" name="vydaje14" step="23530" title="původně 2 353 000 Kč" type="number" value="2353000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje14" id="box-vydaje14" name="box-vydaje14" type="checkbox" value="1" />
+        <label for="box-vydaje14">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 4 359 900 Kč'>Středisko sociálních služeb – neinvestiční příspěvek na provoz</td>
+      <td class='right bold' nowrap>
+        <input data-previous="4359900" data-type="outgoings" id="vydaje15" max="4359900" min="0" name="vydaje15" step="43599" title="původně 4 359 900 Kč" type="number" value="4359900" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje15" id="box-vydaje15" name="box-vydaje15" type="checkbox" value="1" />
+        <label for="box-vydaje15">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 8 800 000 Kč'>TV+STOP (na digitální vysílání a na výrobu bloku televizních pořadů, na vydávání časopisu STOP na Praze 13)</td>
+      <td class='right bold' nowrap>
+        <input data-previous="8800000" data-type="outgoings" id="vydaje16" max="8800000" min="0" name="vydaje16" step="88000" title="původně 8 800 000 Kč" type="number" value="8800000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje16" id="box-vydaje16" name="box-vydaje16" type="checkbox" value="1" />
+        <label for="box-vydaje16">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 168 900 Kč'>Pohoštění, dary v rámci zlatých (diamantových) svatebních obřadů a vítání občánků, služby zvukaře při těchto akcích</td>
+      <td class='right bold' nowrap>
+        <input data-previous="168900" data-type="outgoings" id="vydaje17" max="168900" min="0" name="vydaje17" step="1689" title="původně 168 900 Kč" type="number" value="168900" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje17" id="box-vydaje17" name="box-vydaje17" type="checkbox" value="1" />
+        <label for="box-vydaje17">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 902 000 Kč'>Úhrada servisních prací v KD Mlejn dle uzavřených smluv - výtahy, hasiči, klimatizace, vzduchotechnika, gastro, divadelní technologie, pult centrální ochrany včetně telefonních poplatků a údržba zeleně</td>
+      <td class='right bold' nowrap>
+        <input data-previous="902000" data-type="outgoings" id="vydaje18" max="902000" min="0" name="vydaje18" step="9020" title="původně 902 000 Kč" type="number" value="902000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje18" id="box-vydaje18" name="box-vydaje18" type="checkbox" value="1" />
+        <label for="box-vydaje18">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 539 900 Kč'>Výdaje na provoz SDH, vybavení hasičské zbrojnice, ochranné pomůcky, energie, materiál, pohonné hmoty, školení, dobíjecí kupony na zabezpečení objektu Třebonice, služby, zákonné pojištění vozidel, pronájem garáží, pravidelné revize, opravy a údržba vozidel, refundace platů v rámci sboru dobrovolných hasičů</td>
+      <td class='right bold' nowrap>
+        <input data-previous="539900" data-type="outgoings" id="vydaje19" max="539900" min="0" name="vydaje19" step="5399" title="původně 539 900 Kč" type="number" value="539900" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje19" id="box-vydaje19" name="box-vydaje19" type="checkbox" value="1" />
+        <label for="box-vydaje19">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 164 000 Kč'>Výdaje na zabezpečení požární ochrany úřadu (případné dokoupení a kontrola a opravy hasicích přístrojů, revize protipožárních klapek</td>
+      <td class='right bold' nowrap>
+        <input data-previous="164000" data-type="outgoings" id="vydaje21" max="164000" min="0" name="vydaje21" step="1640" title="původně 164 000 Kč" type="number" value="164000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje21" id="box-vydaje21" name="box-vydaje21" type="checkbox" value="1" />
+        <label for="box-vydaje21">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 356 000 Kč'>Opravy a udržování a další neinvestiční výdaje na provoz hřbitovů Krteň a Stodůlky, veřejné osvětlení v CP, na parkovišti Janského, a u parkovacích ramp v lokalitě Velká Ohrada</td>
+      <td class='right bold' nowrap>
+        <input data-previous="356000" data-type="outgoings" id="vydaje22" max="356000" min="0" name="vydaje22" step="3560" title="původně 356 000 Kč" type="number" value="356000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje22" id="box-vydaje22" name="box-vydaje22" type="checkbox" value="1" />
+        <label for="box-vydaje22">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 40 000 Kč'>Výdaje na sociální pohřby</td>
+      <td class='right bold' nowrap>
+        <input data-previous="40000" data-type="outgoings" id="vydaje23" max="40000" min="0" name="vydaje23" step="400" title="původně 40 000 Kč" type="number" value="40000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje23" id="box-vydaje23" name="box-vydaje23" type="checkbox" value="1" />
+        <label for="box-vydaje23">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 5 185 700 Kč'>Úroky, cestovné a jízdné, audity, služby, kolky, poštovné, pronájem bezpečnostních schránek, nákup stravenek pro zaměstnance úřadu a bankovní poplatky</td>
+      <td class='right bold' nowrap>
+        <input data-previous="5185700" data-type="outgoings" id="vydaje24" max="5185700" min="0" name="vydaje24" step="51857" title="původně 5 185 700 Kč" type="number" value="5185700" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje24" id="box-vydaje24" name="box-vydaje24" type="checkbox" value="1" />
+        <label for="box-vydaje24">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 1 121 400 Kč'>Výdaje spojené s veřejnými zakázkami, konzultační a poradenské služby v rámci své činnosti, občerstvení na zasedáních komisí, náhrady soudních řízení a poskytování záloh a jistin v právních kauzách, úhrady sankcí jiným rozpočtům</td>
+      <td class='right bold' nowrap>
+        <input data-previous="1121400" data-type="outgoings" id="vydaje25" max="1121400" min="0" name="vydaje25" step="11214" title="původně 1 121 400 Kč" type="number" value="1121400" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje25" id="box-vydaje25" name="box-vydaje25" type="checkbox" value="1" />
+        <label for="box-vydaje25">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 275 300 Kč'>Správní rozhodnutí ve věci odstranění stavby, nepovolené reklamy, znalecké posudky k odstraňování černých staveb</td>
+      <td class='right bold' nowrap>
+        <input data-previous="275300" data-type="outgoings" id="vydaje26" max="275300" min="0" name="vydaje26" step="2753" title="původně 275 300 Kč" type="number" value="275300" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje26" id="box-vydaje26" name="box-vydaje26" type="checkbox" value="1" />
+        <label for="box-vydaje26">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 13 158 300 Kč'>Provozní výdaje na radnici včetně energií, služeb, poštovného, telefonních poplatků, úklidu, ostrahy, vybavení úřadu, kancelářského materiálu, odborných publikací</td>
+      <td class='right bold' nowrap>
+        <input data-previous="13158300" data-type="outgoings" id="vydaje28" max="13158300" min="0" name="vydaje28" step="131583" title="původně 13 158 300 Kč" type="number" value="13158300" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje28" id="box-vydaje28" name="box-vydaje28" type="checkbox" value="1" />
+        <label for="box-vydaje28">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 3 903 000 Kč'>Výdaje za znalecké posudky a geometrické plány nutné k převodům pozemků, opravy a udržování, pojistné za nemovitosti MČ Praha 13 a případné spoluúčasti na pojistném plnění</td>
+      <td class='right bold' nowrap>
+        <input data-previous="3903000" data-type="outgoings" id="vydaje29" max="3903000" min="0" name="vydaje29" step="39030" title="původně 3 903 000 Kč" type="number" value="3903000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje29" id="box-vydaje29" name="box-vydaje29" type="checkbox" value="1" />
+        <label for="box-vydaje29">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 5 697 000 Kč'>Nákupy licencí SW, poplatky za úžívání SW, obnova počítačů, monitorů a tiskáren, opravy PC, materiál do tiskáren, náhradní díly, provoz internetové školské sítě, nápoje do počítačové učebny</td>
+      <td class='right bold' nowrap>
+        <input data-previous="5697000" data-type="outgoings" id="vydaje30" max="5697000" min="0" name="vydaje30" step="56970" title="původně 5 697 000 Kč" type="number" value="5697000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="vydaje30" id="box-vydaje30" name="box-vydaje30" type="checkbox" value="1" />
+        <label for="box-vydaje30">úplně</label>
+      </td>
+    </tr>
+  </table>
+  <h2>Úspory na dotacích</h2>
+  <table>
+    <tr>
+      <td title='původně 794 500 Kč'>Rekreační objekt Kozel (neinvestiční příspěvek na provoz příspěvkové organizace)</td>
+      <td class='right bold' nowrap>
+        <input data-previous="794500" data-type="outgoings" id="dotace32" max="794500" min="0" name="dotace32" step="7945" title="původně 794 500 Kč" type="number" value="794500" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="dotace32" id="box-dotace32" name="box-dotace32" type="checkbox" value="1" />
+        <label for="box-dotace32">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 247 300 Kč'>Neinvestiční příspěvek DDM</td>
+      <td class='right bold' nowrap>
+        <input data-previous="247300" data-type="outgoings" id="dotace33" max="247300" min="0" name="dotace33" step="2473" title="původně 247 300 Kč" type="number" value="247300" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="dotace33" id="box-dotace33" name="box-dotace33" type="checkbox" value="1" />
+        <label for="box-dotace33">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 791 900 Kč'>Schválené granty a akce (provozní výdaje na externí služby využívané např. pro zabezpečení koncertů, materiál a pohoštění a doplnění vlastního vybavení pro ozvučování pořádaných akcí) v rámci zájmové činnosti mládeže</td>
+      <td class='right bold' nowrap>
+        <input data-previous="791900" data-type="outgoings" id="dotace34" max="791900" min="0" name="dotace34" step="7919" title="původně 791 900 Kč" type="number" value="791900" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="dotace34" id="box-dotace34" name="box-dotace34" type="checkbox" value="1" />
+        <label for="box-dotace34">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 6 400 000 Kč'>Kulturní dům Mlejn - grant obecně prospěšné společnosti na základě smlouvy</td>
+      <td class='right bold' nowrap>
+        <input data-previous="6400000" data-type="outgoings" id="dotace35" max="6400000" min="0" name="dotace35" step="64000" title="původně 6 400 000 Kč" type="number" value="6400000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="dotace35" id="box-dotace35" name="box-dotace35" type="checkbox" value="1" />
+        <label for="box-dotace35">úplně</label>
+      </td>
+    </tr>
+  </table>
+  <h2>Úspory na investicích</h2>
+  <table>
+    <tr>
+      <td title='původně 2 000 000 Kč'>Rekonstrukce Třebonického rybníku a jeho okolí, realizace cyklotrasy v Centrálním parku</td>
+      <td class='right bold' nowrap>
+        <input data-previous="2000000" data-type="outgoings" id="investice36" max="2000000" min="0" name="investice36" step="20000" title="původně 2 000 000 Kč" type="number" value="2000000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice36" id="box-investice36" name="box-investice36" type="checkbox" value="1" />
+        <label for="box-investice36">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 12 971 500 Kč'>Úhrada splátek jistiny na základě Smluv o poskytování energetických služeb se zaručeným výsledkem za mateřské a základní školy a Dům dětí a mládeže Stodůlky</td>
+      <td class='right bold' nowrap>
+        <input data-previous="12971500" data-type="outgoings" id="investice37" max="12971500" min="0" name="investice37" step="129715" title="původně 12 971 500 Kč" type="number" value="12971500" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice37" id="box-investice37" name="box-investice37" type="checkbox" value="1" />
+        <label for="box-investice37">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 960 000 Kč'>Úhrada splátky společnosti Lidl Česká republika v.o.s. v rámci výstavby hasičské záchranné stanice</td>
+      <td class='right bold' nowrap>
+        <input data-previous="960000" data-type="outgoings" id="investice38" max="960000" min="0" name="investice38" step="9600" title="původně 960 000 Kč" type="number" value="960000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice38" id="box-investice38" name="box-investice38" type="checkbox" value="1" />
+        <label for="box-investice38">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 120 000 Kč'>CENTRA - rekonstrukce uvolněných bytů v majetku MČ Praha 13</td>
+      <td class='right bold' nowrap>
+        <input data-previous="120000" data-type="outgoings" id="investice39" max="120000" min="0" name="investice39" step="1200" title="původně 120 000 Kč" type="number" value="120000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice39" id="box-investice39" name="box-investice39" type="checkbox" value="1" />
+        <label for="box-investice39">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 2 392 000 Kč'>Výdaje na rekonstrukci objektu márnice na hřbitově Stodůlky, na statické zajištění hřbitovní zdi</td>
+      <td class='right bold' nowrap>
+        <input data-previous="2392000" data-type="outgoings" id="investice40" max="2392000" min="0" name="investice40" step="23920" title="původně 2 392 000 Kč" type="number" value="2392000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice40" id="box-investice40" name="box-investice40" type="checkbox" value="1" />
+        <label for="box-investice40">úplně</label>
+      </td>
+    </tr>
+    <tr>
+      <td title='původně 300 000 Kč'>Nákup serveru pro virtualizaci aplikačních serverů a na licence nových SW</td>
+      <td class='right bold' nowrap>
+        <input data-previous="300000" data-type="outgoings" id="investice41" max="300000" min="0" name="investice41" step="3000" title="původně 300 000 Kč" type="number" value="300000" />
+        Kč
+      </td>
+      <td nowrap='nowrap'>
+        <input data-target="investice41" id="box-investice41" name="box-investice41" type="checkbox" value="1" />
+        <label for="box-investice41">úplně</label>
+      </td>
+    </tr>
+  </table>
+</section>
+</div>
+{% endblock %}
+{% block extrajs %}
+<script type="text/javascript">
+(function() {
+  var boxhandler, format_currency, format_status, inputhandler, update_status;
+
+  format_currency = function(number) {
+    var i, num, num_len, prefix, str, _i, _ref;
+    num = number.toString();
+    num_len = num.length;
+    str = '';
+    if (num.charAt(0) === '-') {
+      prefix = (num_len - 1) % 3;
+      if (prefix === 0) {
+        prefix = 4;
+      } else {
+        prefix += 1;
+      }
+    } else {
+      prefix = num_len % 3;
+    }
+    if (prefix > 0) {
+      str += num.substr(0, prefix) + ' ';
+    }
+    for (i = _i = 0, _ref = num_len - prefix; _i < _ref; i = _i += 3) {
+      str += num.substr(i + prefix, 3);
+      if (i + 3 !== num_len - prefix) {
+        str += ' ';
+      }
+    }
+    return str;
+  };
+
+  format_status = function() {
+    var el;
+    el = $('.balance_budget #incomes');
+    el.text(format_currency(el.data('amount')) + ' Kč');
+    el = $('.balance_budget #outgoings');
+    el.text(format_currency(el.data('amount')) + ' Kč');
+    el = $('.balance_budget #deficit');
+    return el.text(format_currency(el.data('amount')) + ' Kč');
+  };
+
+  update_status = function() {
+    var el, incomes, outgoings;
+    incomes = parseInt($('.balance_budget #incomes').data('amount'), 10);
+    outgoings = parseInt($('.balance_budget #outgoings').data('amount'), 10);
+    el = $('.balance_budget #deficit');
+    el.data('amount', incomes - outgoings);
+    format_status();
+    if (el.data('amount') > 0) {
+      return el.text('+' + el.text());
+    }
+  };
+
+  inputhandler = function() {
+    var amount, delta, el, prevval;
+    if ($(this).data('type') === 'incomes') {
+      el = $('.balance_budget #incomes');
+      amount = parseInt(el.data('amount'), 10);
+    } else if ($(this).data('type') === 'outgoings') {
+      el = $('.balance_budget #outgoings');
+      amount = parseInt(el.data('amount'), 10);
+    }
+    delta = parseInt($(this).val(), 10);
+    prevval = parseInt($(this).data('previous'), 10);
+    if (!(delta >= 0)) {
+      delta = 0;
+    }
+    el.data('amount', amount - prevval + delta);
+    $(this).data('previous', delta);
+    return update_status();
+  };
+
+  boxhandler = function() {
+    var target;
+    target = $("#" + $(this).data('target'));
+    if ($(this).prop('checked')) {
+      target.prop('disabled', true);
+      target.val(0);
+    } else {
+      target.prop('disabled', false);
+      target.val(target.prop('max'));
+    }
+    return target.triggerHandler('input');
+  };
+
+  $(function() {
+    $('.balance_budget input[type="checkbox"]').each(function() {
+      return $(this).change(boxhandler);
+    });
+    return $('.balance_budget input[type="number"]').on('input', inputhandler);
+  });
+
+}).call(this);
+</script>
+{% endblock extrajs %}

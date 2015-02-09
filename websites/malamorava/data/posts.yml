@@ -1,4 +1,13 @@
 ---
+- Máme plakáty!:
+    _slug: mame-plakaty
+    posted_at: 30. 09. 2014 19:20
+    author: Maxmilián Ščambura
+    teaser: "<p>Po dlouh&eacute;m jedn&aacute;n&iacute; m&aacute;me konečně hotov&eacute;
+      a vytiskl&eacute; plak&aacute;ty! Již je můžete vidět na n&aacute;stěnk&aacute;ch
+      v na&scaron;&iacute; obci Mal&aacute; Morava!</p>"
+    featured_image: "/samples/posts/mame-plakaty/10715835_10203041844995581_997156858_n.jpg"
+    body: ''
 - Výšlap Svobodných na Kralický Sněžník:
     _slug: vyslap-svobodnych-na-kralicky-sneznik
     posted_at: 02. 09. 2014 17:00
@@ -12,7 +21,7 @@
       nejvy&scaron;&scaron;&iacute; vrchol Pardubick&eacute;ho kraje a&nbsp;zpět.
       Zv&aacute;ni jsou v&scaron;ichni př&iacute;znivci Svobodn&yacute;ch, včetně
       partnerů a&nbsp;dět&iacute;.</span></span></p>"
-    featured_image: /samples/posts/vyslap-svobodnych-na-kralicky-sneznik/sneznik.png
+    featured_image: "/samples/posts/vyslap-svobodnych-na-kralicky-sneznik/sneznik.png"
     body: "<p>Zač&aacute;tek trasy je napl&aacute;nov&aacute;n ve Stř&iacute;brnic&iacute;ch
       v&nbsp;9:00 na parkovi&scaron;ti, kde bude možn&eacute; zanechat vůz, pro ty
       kteř&iacute; budou cht&iacute;t přijet autem. Ostatn&iacute; z&aacute;jemci
@@ -34,5 +43,5 @@
       n&aacute;m chcete cokoliv sdělit, nev&aacute;hejte a po&scaron;lete sv&eacute;
       dotazy nebo připom&iacute;nky př&iacute;mo na&scaron;emu kandid&aacute;tovi,
       kter&yacute; V&aacute;m osobně odpov&iacute;.</p>"
-    featured_image: /samples/posts/vitejte/svobodni_logo_1_color-crop-531x531.png
+    featured_image: "/samples/posts/vitejte/svobodni_logo_1_color-crop-531x531.png"
     body: ''

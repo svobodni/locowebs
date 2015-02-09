@@ -1,7 +1,7 @@
 ---
 - Jakub Los:
     _slug: jakub-los
-    photo: /samples/candidates/jakub-los/1.jpg
+    photo: "/samples/candidates/jakub-los/1.jpg"
     occupation: produkční
     political_party: Svobodní
     age: 26
@@ -9,7 +9,7 @@
     priorities: ''
 - Bc. Josef Vokál:
     _slug: bc-josef-vokal
-    photo: /samples/candidates/bc-josef-vokal/2.jpg
+    photo: "/samples/candidates/bc-josef-vokal/2.jpg"
     occupation: jednatel
     political_party: Svobodní
     age: 54
@@ -17,7 +17,7 @@
     priorities: ''
 - Ing. Tomáš Krása:
     _slug: ing-tomas-krasa
-    photo: /samples/candidates/ing-tomas-krasa/3.jpg
+    photo: "/samples/candidates/ing-tomas-krasa/3.jpg"
     occupation: programátor
     political_party: Svobodní
     age: 43
@@ -25,15 +25,15 @@
     priorities: ''
 - Radek Nováček:
     _slug: radek-novacek
-    photo: /samples/candidates/radek-novacek/4.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/radek-novacek/4.jpg"
+    occupation: "živnostník"
     political_party: Svobodní
     age: 47
     profile: ''
     priorities: ''
 - Andrea Krulišová:
     _slug: andrea-krulisova
-    photo: /samples/candidates/andrea-krulisova/5.jpg
+    photo: "/samples/candidates/andrea-krulisova/5.jpg"
     occupation: komplementářka
     political_party: Svobodní
     age: 54
@@ -41,7 +41,7 @@
     priorities: ''
 - Bc. Vojtěch Urbánek:
     _slug: bc-vojtech-urbanek
-    photo: /samples/candidates/bc-vojtech-urbanek/6.jpg
+    photo: "/samples/candidates/bc-vojtech-urbanek/6.jpg"
     occupation: student
     political_party: Svobodní
     age: 24

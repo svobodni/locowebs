@@ -1,0 +1,32 @@
+---
+title: Beran
+slug: beran
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 3
+seo_title: "Časopis Beran"
+editable_elements:
+  main/casopis_beran: "<p>Časopis Beran online:</p>\r\n<p><strong><a href=\"http://web.svobodni.cz/public/media/Beran/Beran-1.pdf\"
+    target=\"_blank\">Beran 1</a></strong> - &uacute;nor 2014<br /><strong><a href=\"http://web.svobodni.cz/public/media/Beran/Beran-2.pdf\"
+    target=\"_blank\">Beran 2</a></strong> - březen 2014<br /><a href=\"http://web.svobodni.cz/public/media/Beran/Beran-3.pdf\"
+    target=\"_blank\"><strong>Beran 3</strong></a> - duben 2014<br /><a href=\"http://web.svobodni.cz/public/media/Beran/Beran-4.pdf\"
+    target=\"_blank\"><strong>Beran 4</strong></a> - květen 2014<br /><a href=\"http://web.svobodni.cz/public/media/Beran/Beran-5.pdf\"
+    target=\"_blank\"><strong>Beran 5</strong></a> - červenec 2014<br /><a href=\"http://web.svobodni.cz/public/media/Beran/Beran6.pdf\"
+    target=\"_blank\"><strong>Beran 6</strong></a> - ř&iacute;jen 2014</p>"
+---
+{% extends 'parent' %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+{% editable_text "casopis_beran", hint: "Odkazy na časopis Beran." %}
+{% endeditable_text %}
+
+</div><!-- /container -->
+
+{% endblock %}

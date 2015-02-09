@@ -1,31 +1,31 @@
 ---
 - Jan Papula:
     _slug: jan-papula
-    photo: /samples/candidates/jan-papula/_DSC4806_bila.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/jan-papula/_DSC4806_bila.jpg"
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 30
     profile: ''
     priorities: ''
 - Bc. Simona Žirovnická:
     _slug: bc-simona-zirovnicka
-    photo: /samples/candidates/bc-simona-zirovnicka/_DSC4765_bila.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/bc-simona-zirovnicka/_DSC4765_bila.jpg"
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 45
     profile: ''
     priorities: ''
 - Mgr. Petr Vašíček:
     _slug: mgr-petr-vasicek
-    photo: /samples/candidates/mgr-petr-vasicek/petr_zjemnene_vrasky_DSC9592.jpg
-    occupation: ředitel ZŠ
+    photo: "/samples/candidates/mgr-petr-vasicek/petr_zjemnene_vrasky_DSC9592.jpg"
+    occupation: "ředitel ZŠ"
     political_party: bez politické příslušnosti
     age: 50
     profile: ''
     priorities: ''
 - Ing. Ivana Samcová:
     _slug: ing-ivana-samcova
-    photo: /samples/candidates/ing-ivana-samcova/ivana_bez_raminka_DSC9595.jpg
+    photo: "/samples/candidates/ing-ivana-samcova/ivana_bez_raminka_DSC9595.jpg"
     occupation: asistentka
     political_party: bez politické příslušnosti
     age: 33
@@ -33,7 +33,7 @@
     priorities: ''
 - Doc. MUDr. Jaroslav Zvěřina CSc:
     _slug: doc-mudr-jaroslav-zverina-csc
-    photo: /samples/candidates/doc-mudr-jaroslav-zverina-csc/_DSC4761_bila.jpg
+    photo: "/samples/candidates/doc-mudr-jaroslav-zverina-csc/_DSC4761_bila.jpg"
     occupation: lékař
     political_party: bez politické příslušnosti
     age: 71
@@ -41,7 +41,7 @@
     priorities: ''
 - Ing. Jiří Nový:
     _slug: ing-jiri-novy
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 53
     profile: ''
@@ -76,7 +76,7 @@
     priorities: ''
 - Kateřina Remišová:
     _slug: katerina-remisova
-    occupation: ředitelka pobočky oděvního řetězce
+    occupation: "ředitelka pobočky oděvního řetězce"
     political_party: bez politické příslušnosti
     age: 42
     profile: ''
@@ -104,7 +104,7 @@
     priorities: ''
 - Jaroslava Rejlková:
     _slug: jaroslava-rejlkova
-    occupation: účetní
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 56
     profile: ''
@@ -137,7 +137,7 @@
     age: 23
     profile: ''
     priorities: ''
-- Žaneta Šrámková:
+- "Žaneta Šrámková":
     _slug: zaneta-sramkova
     occupation: mateřská dovolená
     political_party: bez politické příslušnosti

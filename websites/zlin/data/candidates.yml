@@ -1,16 +1,35 @@
 ---
 - Jiří Procházka:
     _slug: jiri-prochazka
-    photo: /samples/candidates/jiri-prochazka/8620.jpg
+    photo: "/samples/candidates/jiri-prochazka/8620.jpg"
     occupation: ekonom
     political_party: Bez politické příslušnosti
     age: 53
-    profile: ''
+    profile: "<p><span style=\"font-family: Arial; font-size: small;\">Narodil jsem
+      se v&nbsp;roce 1960 ve Zl&iacute;ně. Chodil jsem do plaveck&eacute; tř&iacute;dy
+      na Z&Scaron; a potom na zl&iacute;nsk&eacute; gymn&aacute;zium. Po maturitně
+      jsem nastoupil na V&Scaron; dopravn&iacute;, obor ekonomika a provoz železničn&iacute;
+      dopravy. Po vojensk&eacute; službě jsem ale v&nbsp;oboru nenastoupil. Začal
+      jsem pracovat jako ekonom ČSTV a potom na pl&aacute;novac&iacute;m odboru ONV.
+      Zde jsem poznal hrůzy pl&aacute;novan&iacute;, př&iacute;kazov&eacute;ho a direktivn&iacute;ho
+      ř&iacute;zen&iacute; makro i mikroekonomiky. To byla nejlep&scaron;&iacute;
+      průprava st&aacute;t se př&iacute;znivcem Svobodn&yacute;ch&hellip;.</span></p>\r\n<p><span
+      style=\"font-family: Arial; font-size: small;\">V&nbsp;roce 1992 jsem začal
+      samostatně podnikat jako živnostn&iacute;k (tehdy je&scaron;tě sympatick&eacute;
+      slovo, dnes parazit&hellip;) a v&nbsp;roce 1993 jsem koupil obchodn&iacute;
+      pod&iacute;l ve společnosti EMSEKO s.r.o. a později založil společnost EMSEKO
+      CZ s.r.o. Do r. 2008 jsme provozovali spalovnu nebezpečn&yacute;ch &nbsp;v&nbsp;Malenovic&iacute;ch.
+      Od r. 2002 vyr&aacute;b&iacute;me PE folie v&nbsp;z&aacute;vodě Plasty ve Kvasic&iacute;ch.
+      V&nbsp;letech 2008 až 2010 jsem byl členem představenstva Krajsk&eacute; nemocnice
+      T.Bati , a.s..</span></p>\r\n<p><span style=\"font-family: Arial; font-size:
+      small;\">Vzděl&aacute;n&iacute; pro podnik&aacute;n&iacute; jsem si doplnil
+      studiem MBA při V&Scaron;E v&nbsp;Praze. Bydl&iacute;m ve Zl&iacute;ně, vychov&aacute;v&aacute;m
+      2 malolet&eacute; děti.</span></p>"
     priorities: ''
 - David Mikulášek:
     _slug: da
     meta_keywords: David Mikulášek
-    photo: /samples/candidates/da/10638118_10202967468852442_99162587_n.jpg
+    photo: "/samples/candidates/da/10638118_10202967468852442_99162587_n.jpg"
     occupation: Podnikatel v oboru webdesignu
     political_party: Strana Svobodných Občanů
     age: 25
@@ -19,7 +38,7 @@
     priorities: ''
 - Dagmar Hořčicová:
     _slug: dagmar-horcic
-    photo: /samples/candidates/dagmar-horcic/10620860_10202967468812441_1095920929_n.jpg
+    photo: "/samples/candidates/dagmar-horcic/10620860_10202967468812441_1095920929_n.jpg"
     occupation: vedoucí prodejny
     political_party: Nestraník
     age: 45
@@ -27,9 +46,44 @@
     priorities: ''
 - Petr Kopčil:
     _slug: petr-kopcil
-    photo: /samples/candidates/petr-kopcil/petr-kopcil-2012-jadran-setlik.jpg
+    photo: "/samples/candidates/petr-kopcil/petr-kopcil-2012-jadran-setlik.jpg"
     occupation: Umělec
     political_party: Nestraník
     age: 34
     profile: ''
+    priorities: ''
+- Ing. Aleš Krejčí:
+    _slug: ing-ales-krejci
+    photo: "/samples/candidates/ing-ales-krejci/DSCN5325.JPG"
+    occupation: Technik
+    political_party: Bez politické příslušnosti
+    profile: "<p>Narodil jsem se v&nbsp;květnu 1982 v&nbsp;Prostějově, kde jsem tak&eacute;
+      vystudoval z&aacute;kladn&iacute; &scaron;kolu a tamn&iacute; Gymn&aacute;zium
+      Jiř&iacute;ho Wolkera. N&aacute;sledně jsem absolvoval studium na Technologick&eacute;
+      fakultě Univerzity Tom&aacute;&scaron;e Bati ve Zl&iacute;ně, obor inžen&yacute;rstv&iacute;
+      ochrany životn&iacute;ho prostřed&iacute;. Po ukončen&iacute; studia jsem začal
+      pracovat ve firmě zab&yacute;vaj&iacute;c&iacute; se biochemick&yacute;m a farmaceutick&yacute;m
+      v&yacute;zkumem, a to se s&iacute;dlem ve Zl&iacute;ně. D&iacute;ky t&eacute;to
+      skutečnosti jsem se trvale přestěhoval pr&aacute;vě do Zl&iacute;na. Po několika
+      letech str&aacute;ven&yacute;ch ve v&yacute;zkumu jsem přijal novou v&yacute;zvu
+      a nastoupil jsem do zdravotnictv&iacute;. Kvůli tomuto jsem započal studium
+      na Fakultě elektrotechniky a komunikačn&iacute;ch technologi&iacute; Vysok&eacute;ho
+      učen&iacute; technick&eacute;ho v&nbsp;Brně, obor biomedic&iacute;nsk&eacute;
+      a ekologick&eacute; inžen&yacute;rstv&iacute;.</p>\r\n<p>S&nbsp;př&iacute;telkyn&iacute;
+      m&aacute;m tř&iacute;let&eacute;ho syna. K m&yacute;m největ&scaron;&iacute;m
+      kon&iacute;čkům patř&iacute; předev&scaron;&iacute;m rodina, d&aacute;le dom&aacute;c&iacute;
+      mazl&iacute;čci (pes a kr&aacute;l&iacute;ček), cestov&aacute;n&iacute;, literatura
+      faktu.</p>\r\n<p>&nbsp;</p>\r\n<p><strong>Proč kandiduji za Stranu svobodn&yacute;ch
+      občanů?</strong></p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; setkala se
+      zde skupina zku&scaron;en&yacute;ch lid&iacute;, kter&yacute;m se d&aacute;
+      předev&scaron;&iacute;m věřit. S&nbsp;dostatečnou podporou voličů můžeme ze
+      Zl&iacute;na udělat je&scaron;tě lep&scaron;&iacute; m&iacute;sto pro život,
+      než je tomu doposud,</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; v&scaron;ichni
+      dobře zn&aacute;me slab&eacute; a siln&eacute; str&aacute;nky fungov&aacute;n&iacute;
+      na&scaron;eho kr&aacute;sn&eacute;ho města, kter&eacute; t&iacute;mto můžeme
+      buďto zcela změnit, anebo je jen v&iacute;ce zdokonalit,</p>\r\n<p>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      věř&iacute;m, že k&nbsp;rozkvětu města, kter&eacute; mě před několika lety vřele
+      přijalo a kter&eacute; m&aacute;m velmi r&aacute;d, mohu přispět předev&scaron;&iacute;m
+      svoj&iacute; prac&iacute;, ale rovněž i sv&yacute;mi znalostmi a zku&scaron;enostmi.
+      Za sebe mohu sl&iacute;bit, že pro toto uděl&aacute;m v&scaron;e, co budu moci.</p>"
     priorities: ''

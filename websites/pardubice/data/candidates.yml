@@ -1,12 +1,12 @@
 ---
 - MUDr. Michael Bartoš:
     _slug: mudr-michael-bartos
-    photo: /samples/candidates/mudr-michael-bartos/bartos-michael_DSC_4127.jpg
+    photo: "/samples/candidates/mudr-michael-bartos/bartos-michael_DSC_4127.jpg"
     occupation: Lékař
     political_party: Svobodní
     age: 51
     email: bartosmichael@seznam.cz
-    profile: <p><strong>MUDr. Michael Barto&scaron; (52 let)</strong> je l&iacute;drem
+    profile: "<p><strong>MUDr. Michael Barto&scaron; (52 let)</strong> je l&iacute;drem
       kandid&aacute;tky Svobodn&yacute;ch pro komun&aacute;ln&iacute; volby v Pardubic&iacute;ch
       a kandid&aacute;tem Svobodn&yacute;ch na prim&aacute;tora Pardubic.&nbsp; Je
       ženat&yacute;, m&aacute; tři děti. Pracuje jako l&eacute;kař - anesteziolog
@@ -18,17 +18,17 @@
       třiceti let se Michael Barto&scaron; zaj&iacute;mal o&nbsp;politiku, politicky
       ho nejv&iacute;ce ovlivnilo osobn&iacute; setk&aacute;n&iacute; s&nbsp;Pavlem
       Tigridem. Je členem Svobodn&yacute;ch od jejich založen&iacute; v&nbsp;roce
-      2009. Mluv&iacute; anglicky a německy.</p>
-    quote: '"Slušnost není slabost, slušnost se vyplácí"'
+      2009. Mluv&iacute; anglicky a německy.</p>"
+    quote: "\"Slušnost není slabost, slušnost se vyplácí\""
     priorities: ''
 - Ing. Zdeněk Přikryl:
     _slug: ing-zdenek-prikryl
-    photo: /samples/candidates/ing-zdenek-prikryl/prikryl-zdenek_DSC_3971---02.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/ing-zdenek-prikryl/prikryl-zdenek_DSC_3971---02.jpg"
+    occupation: "živnostník"
     political_party: Svobodní
     age: 48
     email: zdenek.prikryl@iol.cz
-    profile: <p><strong>Ing. Zdeněk Přikryl (48 let)</strong> je kandid&aacute;tem
+    profile: "<p><strong>Ing. Zdeněk Přikryl (48 let)</strong> je kandid&aacute;tem
       za Svobodn&eacute; do zastupitelstva Statut&aacute;rn&iacute;ho města Pardubice.
       Narodil se v Pardubic&iacute;ch, kde prožil vět&scaron;inu sv&eacute;ho dosavadn&iacute;ho
       života. Vystudoval Vysokou &scaron;kolu strojn&iacute; a textiln&iacute; v Liberci.
@@ -40,17 +40,17 @@
       politiku. K rozhodnut&iacute; zapojit se aktivně do politiky při&scaron;el po
       zji&scaron;těn&iacute;, že tzv. pravicov&eacute; vl&aacute;dy prosazuj&iacute;
       levicovou politiku a že o směřov&aacute;n&iacute; EU rozhoduj&iacute; socialist&eacute;.
-      Před třemi lety se stal př&iacute;znivcem Svobodn&yacute;ch, později členem.</p>
-    quote: „K triumfu zla stačí, když slušní lidé nebudou dělat nic.“ (Edmund Burke)
+      Před třemi lety se stal př&iacute;znivcem Svobodn&yacute;ch, později členem.</p>"
+    quote: "„K triumfu zla stačí, když slušní lidé nebudou dělat nic.“ (Edmund Burke)"
     priorities: ''
 - Pavel Eliáš, DiS.:
     _slug: pavel-elias-dis
-    photo: /samples/candidates/pavel-elias-dis/elias-pavel_DSC_9777---03.jpg
+    photo: "/samples/candidates/pavel-elias-dis/elias-pavel_DSC_9777---03.jpg"
     occupation: technik lékařských přístrojů
     political_party: Svobodní
     age: 39
     email: eliaspa13@gmail.com
-    profile: <p><strong>Pavel Eli&aacute;&scaron; (39 let)</strong> se narodil v&nbsp;Pardubic&iacute;ch
+    profile: "<p><strong>Pavel Eli&aacute;&scaron; (39 let)</strong> se narodil v&nbsp;Pardubic&iacute;ch
       jako jedno z&nbsp;Hus&aacute;kov&yacute;ch dět&iacute;. V&nbsp;Pardubic&iacute;ch
       žije dodnes. V&nbsp;Pardubic&iacute;ch z&iacute;skal ve&scaron;ker&aacute; sv&aacute;
       vzděl&aacute;n&iacute;. Z&aacute;kladn&iacute;, středn&iacute; elektrotechnick&eacute;
@@ -66,12 +66,12 @@
       r&aacute;no v&nbsp;pět chodil st&aacute;t frontu s&nbsp;ostatn&iacute;mi důchodci
       k&nbsp;novinov&eacute;mu st&aacute;nku na čerstv&eacute; noviny. Cestou do &scaron;koly
       na osmou bohužel tehdy ž&aacute;dn&eacute; noviny na st&aacute;nc&iacute;ch
-      již nebyly. Od t&eacute; doby mu nevad&iacute; rann&iacute; vst&aacute;v&aacute;n&iacute;.</p>
-    quote: '"Co bylo, bylo. A je to, jak to je."'
+      již nebyly. Od t&eacute; doby mu nevad&iacute; rann&iacute; vst&aacute;v&aacute;n&iacute;.</p>"
+    quote: "\"Co bylo, bylo. A je to, jak to je.\""
     priorities: ''
 - Robert Chmelař:
     _slug: robert-chmelar
-    photo: /samples/candidates/robert-chmelar/chmelar-robert_DSC_4100---04.jpg
+    photo: "/samples/candidates/robert-chmelar/chmelar-robert_DSC_4100---04.jpg"
     occupation: vedoucí technické správy OC
     political_party: Svobodní
     age: 24
@@ -101,11 +101,11 @@
     priorities: ''
 - MUDr. Kateřina Vítková:
     _slug: mudr-katerina-vitkova
-    photo: /samples/candidates/mudr-katerina-vitkova/vitkova-katerina_DSC_4016---05.jpg
+    photo: "/samples/candidates/mudr-katerina-vitkova/vitkova-katerina_DSC_4016---05.jpg"
     occupation: lékařka
     political_party: Svobodní
     age: 33
-    profile: <p><strong>MUDr. Kateřina V&iacute;tkov&aacute; (33 let)</strong> poch&aacute;z&iacute;
+    profile: "<p><strong>MUDr. Kateřina V&iacute;tkov&aacute; (33 let)</strong> poch&aacute;z&iacute;
       z Jaroměře, kde se narodila, a v Pardubic&iacute;ch žije sedm let. Vystudovala
       1. l&eacute;kařskou fakultu Univerzity Karlovy a po promoci nastoupila do Fakultn&iacute;
       nemocnice Hradec Kr&aacute;lov&eacute; jako l&eacute;kař - anesteziolog, kde
@@ -113,25 +113,25 @@
       době je na mateřsk&eacute; dovolen&eacute;. Vždy se zaj&iacute;mala o děn&iacute;
       na dom&aacute;ci sc&eacute;ně a nyn&iacute; se v&iacute;ce zaměřuje na &uacute;roveň
       komun&aacute;ln&iacute;. Stala se př&iacute;znivcem Svobodn&yacute;ch a později
-      i členkou.</p>
+      i členkou.</p>"
     priorities: ''
 - Petr Rydval:
     _slug: petr-rydval
-    photo: /samples/candidates/petr-rydval/rydval-petr_DSC_3933---06.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/petr-rydval/rydval-petr_DSC_3933---06.jpg"
+    occupation: "živnostník"
     political_party: Svobodní
     age: 45
-    profile: <p><strong>Petr Rydval (45 let)</strong> se narodil v Pardubic&iacute;ch,
+    profile: "<p><strong>Petr Rydval (45 let)</strong> se narodil v Pardubic&iacute;ch,
       kde žije. M&aacute; středo&scaron;kolsk&eacute; vzděl&aacute;n&iacute;. Je ženat&yacute;
       a m&aacute; dva syny. Od zač&aacute;tku 90. let se živil jako profesion&aacute;ln&iacute;
       sportovec. V roce 1999 si otevřel kav&aacute;rnu. Později firmu s n&aacute;pojov&yacute;mi
       automaty a je tak&eacute; spoluzakladatelem fotbalov&eacute; &scaron;količky
       v Nemo&scaron;ic&iacute;ch. Před rokem se stal př&iacute;znivcem, později členem
-      Svobodn&yacute;ch.</p>
+      Svobodn&yacute;ch.</p>"
     priorities: ''
 - MUDr. Bedřich Petráň:
     _slug: mudr-b
-    photo: /samples/candidates/mudr-b/petran-bedrich_DSC_4108---07.jpg
+    photo: "/samples/candidates/mudr-b/petran-bedrich_DSC_4108---07.jpg"
     occupation: praktický lékař
     political_party: Svobodní
     age: 68
@@ -139,7 +139,7 @@
     priorities: ''
 - Martin Kokeš:
     _slug: martin-kokes
-    photo: /samples/candidates/martin-kokes/kokes-martin_DSC_4020---08.jpg
+    photo: "/samples/candidates/martin-kokes/kokes-martin_DSC_4020---08.jpg"
     occupation: fotograf, SW vývojář
     political_party: Svobodní
     age: 39
@@ -147,7 +147,7 @@
     priorities: ''
 - Ing. Jiří Mareš, Ph.D.:
     _slug: ing-jiri-mares-ph-dot-d
-    photo: /samples/candidates/ing-jiri-mares-ph-dot-d/mares-jiri_DSC_4065---09.jpg
+    photo: "/samples/candidates/ing-jiri-mares-ph-dot-d/mares-jiri_DSC_4065---09.jpg"
     occupation: jednatel společnosti
     political_party: bez politické příslušnosti
     age: 71
@@ -155,7 +155,7 @@
     priorities: ''
 - Petr Dušek, DiS.:
     _slug: petr-dusek-dis
-    photo: /samples/candidates/petr-dusek-dis/dusek-petr_DSC_9756---10.jpg
+    photo: "/samples/candidates/petr-dusek-dis/dusek-petr_DSC_9756---10.jpg"
     occupation: programátor
     political_party: Svobodní
     age: 37
@@ -163,7 +163,7 @@
     priorities: ''
 - Martin Smejkal:
     _slug: martin-smejkal
-    photo: /samples/candidates/martin-smejkal/smejkal-martin_DSC_4043---11.jpg
+    photo: "/samples/candidates/martin-smejkal/smejkal-martin_DSC_4043---11.jpg"
     occupation: systémový technik
     political_party: Svobodní
     age: 32
@@ -171,31 +171,31 @@
     priorities: ''
 - Ing. Zdeněk Faikl:
     _slug: ing-zdenek-faikl
-    photo: /samples/candidates/ing-zdenek-faikl/faikl-zdenek_DSC_5191---12.jpg
-    occupation: ředitel podniku
+    photo: "/samples/candidates/ing-zdenek-faikl/faikl-zdenek_DSC_5191---12.jpg"
+    occupation: "ředitel podniku"
     political_party: Svobodní
     age: 54
     profile: ''
     priorities: ''
 - Miloslav Janda:
     _slug: miloslav-janda
-    photo: /samples/candidates/miloslav-janda/janda-miloslav_DSC_5226---13.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/miloslav-janda/janda-miloslav_DSC_5226---13.jpg"
+    occupation: "živnostník"
     political_party: Svobodní
     age: 39
     profile: ''
     priorities: ''
 - Ing. Tomáš Engelmajer:
     _slug: ing-tomas-engelmajer
-    photo: /samples/candidates/ing-tomas-engelmajer/engelmajer-tomas_DSC_3992---14.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/ing-tomas-engelmajer/engelmajer-tomas_DSC_3992---14.jpg"
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 34
     profile: ''
     priorities: ''
 - Lukáš Kupa:
     _slug: lukas-kupa
-    photo: /samples/candidates/lukas-kupa/kupa-lukas_DSC_3892---15.jpg
+    photo: "/samples/candidates/lukas-kupa/kupa-lukas_DSC_3892---15.jpg"
     occupation: specialista nákupu
     political_party: Svobodní
     age: 27
@@ -203,7 +203,7 @@
     priorities: ''
 - Ján Stano:
     _slug: jan-stano
-    photo: /samples/candidates/jan-stano/stano-jan_DSC_3965---16.jpg
+    photo: "/samples/candidates/jan-stano/stano-jan_DSC_3965---16.jpg"
     occupation: zaměstnanec společnosti Synpo
     political_party: Svobodní
     age: 46
@@ -211,7 +211,7 @@
     priorities: ''
 - Jaroslav Flieger:
     _slug: jaroslav-flieger
-    photo: /samples/candidates/jaroslav-flieger/flieger-jaroslav_DSC_3633---17.jpg
+    photo: "/samples/candidates/jaroslav-flieger/flieger-jaroslav_DSC_3633---17.jpg"
     occupation: programátor
     political_party: Svobodní
     age: 31
@@ -219,7 +219,7 @@
     priorities: ''
 - MUDr. Dana Petráňová:
     _slug: mudr-dana-petranova
-    photo: /samples/candidates/mudr-dana-petranova/petranova-dana_DSC_4118---18.jpg
+    photo: "/samples/candidates/mudr-dana-petranova/petranova-dana_DSC_4118---18.jpg"
     occupation: lékařka
     political_party: bez politické příslušnosti
     age: 31
@@ -227,7 +227,7 @@
     priorities: ''
 - Radek Beneš:
     _slug: radek-benes
-    photo: /samples/candidates/radek-benes/benes-radek_DSC_3921---19.jpg
+    photo: "/samples/candidates/radek-benes/benes-radek_DSC_3921---19.jpg"
     occupation: administrativní pracovník
     political_party: bez politické příslušnosti
     age: 32
@@ -235,7 +235,7 @@
     priorities: ''
 - David Konstantinov:
     _slug: david-konstantinov
-    photo: /samples/candidates/david-konstantinov/konstantinov-david_DSC_4033---20.jpg
+    photo: "/samples/candidates/david-konstantinov/konstantinov-david_DSC_4033---20.jpg"
     occupation: student VŠ
     political_party: Svobodní
     age: 26
@@ -243,7 +243,7 @@
     priorities: ''
 - Daniel Růžička, DiS.:
     _slug: daniel-ruzicka-dis
-    photo: /samples/candidates/daniel-ruzicka-dis/ruzicka-daniel_DSC_3650---21.jpg
+    photo: "/samples/candidates/daniel-ruzicka-dis/ruzicka-daniel_DSC_3650---21.jpg"
     occupation: návrhář interiérů
     political_party: bez politické příslušnosti
     age: 32
@@ -251,7 +251,7 @@
     priorities: ''
 - Ondřej Zahradník:
     _slug: ondrej-zahradn
-    photo: /samples/candidates/ondrej-zahradn/zahradnik-ondrej_DSC_3948--22.jpg
+    photo: "/samples/candidates/ondrej-zahradn/zahradnik-ondrej_DSC_3948--22.jpg"
     occupation: zaměstnanec rodinné firmy
     political_party: Svobodní
     age: 26
@@ -259,7 +259,7 @@
     priorities: ''
 - Ing. Ondřej Kvaček:
     _slug: ing-ondrej-kvacek
-    photo: /samples/candidates/ing-ondrej-kvacek/kvacek-ondrej_DSC_3644---23.jpg
+    photo: "/samples/candidates/ing-ondrej-kvacek/kvacek-ondrej_DSC_3644---23.jpg"
     occupation: projektant
     political_party: bez politické příslušnosti
     age: 26
@@ -267,7 +267,7 @@
     priorities: ''
 - Petr Svoboda:
     _slug: petr-svoboda
-    photo: /samples/candidates/petr-svoboda/svoboda-petr_DSC_3984---24.jpg
+    photo: "/samples/candidates/petr-svoboda/svoboda-petr_DSC_3984---24.jpg"
     occupation: student VŠ
     political_party: Svobodní
     age: 26
@@ -275,7 +275,7 @@
     priorities: ''
 - Robert Richter, DiS.:
     _slug: robert-richter-dis
-    photo: /samples/candidates/robert-richter-dis/richter-robert_DSC_4053---25.jpg
+    photo: "/samples/candidates/robert-richter-dis/richter-robert_DSC_4053---25.jpg"
     occupation: programátor
     political_party: Svobodní
     age: 34
@@ -283,23 +283,23 @@
     priorities: ''
 - Lucie Horáková:
     _slug: lucie-horakova
-    photo: /samples/candidates/lucie-horakova/horakova-lucie_DSC_3940---26.jpg
-    occupation: účetní
+    photo: "/samples/candidates/lucie-horakova/horakova-lucie_DSC_3940---26.jpg"
+    occupation: "účetní"
     political_party: bez politické příslušnosti
     age: 22
     profile: ''
     priorities: ''
 - Mgr. Jakub Engelmajer:
     _slug: mgr-jakub-engelmajer
-    photo: /samples/candidates/mgr-jakub-engelmajer/engelmajer-jakub_DSC_4005---27.jpg
-    occupation: živnostník, politolog
+    photo: "/samples/candidates/mgr-jakub-engelmajer/engelmajer-jakub_DSC_4005---27.jpg"
+    occupation: "živnostník, politolog"
     political_party: bez politické příslušnosti
     age: 28
     profile: ''
     priorities: ''
 - Jakub Veselý:
     _slug: jakub-vesel
-    photo: /samples/candidates/jakub-vesel/vesely-jakub_DSC_9801---28.jpg
+    photo: "/samples/candidates/jakub-vesel/vesely-jakub_DSC_9801---28.jpg"
     occupation: projektový manažer
     political_party: bez politické příslušnosti
     age: 26
@@ -307,7 +307,7 @@
     priorities: ''
 - Leoš Weszter:
     _slug: leos-weszter
-    photo: /samples/candidates/leos-weszter/weszter-leos_DSC_3909---29.jpg
+    photo: "/samples/candidates/leos-weszter/weszter-leos_DSC_3909---29.jpg"
     occupation: obchodní zástupce
     political_party: bez politické příslušnosti
     age: 47
@@ -315,7 +315,7 @@
     priorities: ''
 - Jan Pilný:
     _slug: jan-piln
-    photo: /samples/candidates/jan-piln/pilny-jan_DSC_4076---30.jpg
+    photo: "/samples/candidates/jan-piln/pilny-jan_DSC_4076---30.jpg"
     occupation: vývojář HW
     political_party: bez politické příslušnosti
     age: 34
@@ -323,7 +323,7 @@
     priorities: ''
 - Jan Přikryl:
     _slug: jan-prikryl
-    photo: /samples/candidates/jan-prikryl/prikryl-jan_DSC_5217---31.jpg
+    photo: "/samples/candidates/jan-prikryl/prikryl-jan_DSC_5217---31.jpg"
     occupation: student VŠ
     political_party: bez politické příslušnosti
     age: 22
@@ -331,7 +331,7 @@
     priorities: ''
 - Kamil Onderka:
     _slug: kamil-onderka
-    photo: /samples/candidates/kamil-onderka/onderka-kamil_DSC_9805---32.jpg
+    photo: "/samples/candidates/kamil-onderka/onderka-kamil_DSC_9805---32.jpg"
     occupation: státní zaměstnanec
     political_party: bez politické příslušnosti
     age: 38
@@ -339,15 +339,15 @@
     priorities: ''
 - Lukáš Křivka:
     _slug: lukas-krivka
-    photo: /samples/candidates/lukas-krivka/krivka-lukas_DSC_5181---33.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/lukas-krivka/krivka-lukas_DSC_5181---33.jpg"
+    occupation: "živnostník"
     political_party: Svobodní
     age: 26
     profile: ''
     priorities: ''
 - Martin Hošek:
     _slug: martin-hosek
-    photo: /samples/candidates/martin-hosek/hosek-martin---34.jpg
+    photo: "/samples/candidates/martin-hosek/hosek-martin---34.jpg"
     occupation: pracovník v personalistice
     political_party: bez politické příslušnosti
     age: 28
@@ -355,7 +355,7 @@
     priorities: ''
 - Ing. Aleš Kučera:
     _slug: ing-ales-kucera
-    photo: /samples/candidates/ing-ales-kucera/kucera-ales_DSC_5923---35.jpg
+    photo: "/samples/candidates/ing-ales-kucera/kucera-ales_DSC_5923---35.jpg"
     occupation: specialista prodeje
     political_party: bez politické příslušnosti
     age: 33
@@ -363,7 +363,7 @@
     priorities: ''
 - Monika Valentová:
     _slug: monika-valentova
-    photo: /samples/candidates/monika-valentova/valentova-monika_DSC_4094---36.jpg
+    photo: "/samples/candidates/monika-valentova/valentova-monika_DSC_4094---36.jpg"
     occupation: telefonní operátorka
     political_party: bez politické příslušnosti
     age: 24
@@ -371,7 +371,7 @@
     priorities: ''
 - Ladislav Fišer:
     _slug: ladislav-fiser
-    photo: /samples/candidates/ladislav-fiser/fiser-ladislav_DSC_4080---37.jpg
+    photo: "/samples/candidates/ladislav-fiser/fiser-ladislav_DSC_4080---37.jpg"
     occupation: dispečer železniční dopravy
     political_party: bez politické příslušnosti
     age: 26
@@ -379,7 +379,7 @@
     priorities: ''
 - Ing. Lukáš Zeman:
     _slug: ing-lukas-zeman
-    photo: /samples/candidates/ing-lukas-zeman/zeman-lukas_DSC_5205---38.jpg
+    photo: "/samples/candidates/ing-lukas-zeman/zeman-lukas_DSC_5205---38.jpg"
     occupation: majitel firmy, grafik
     political_party: bez politické příslušnosti
     age: 33
@@ -387,7 +387,7 @@
     priorities: ''
 - Vojtěch Pachol:
     _slug: vojtech-pachol
-    photo: /samples/candidates/vojtech-pachol/pachol-vojtech_DSC_9761---39.jpg
+    photo: "/samples/candidates/vojtech-pachol/pachol-vojtech_DSC_9761---39.jpg"
     occupation: programátor
     political_party: Svobodní
     age: 25

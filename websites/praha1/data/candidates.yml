@@ -1,67 +1,67 @@
 ---
 - Radim Smetka:
     _slug: radim-smetka
-    photo: /samples/candidates/radim-smetka/20130910_449_2.jpg
+    photo: "/samples/candidates/radim-smetka/20130910_449_2.jpg"
     occupation: programátor, místopředseda strany
     political_party: Strana svobodných občanů
     age: 26
     email: smetka@svobodni.cz
-    phone: '+420777848037'
+    phone: "+420777848037"
     fb_profile_url: http://facebook.com/SMtex
-    profile: <p><span>Radim Smetka (narozen r. 1988 v Praze), student ekonomie a softwarov&yacute;
-      architekt, m&iacute;stopředseda Strany svobodn&yacute;ch občanů. Studuje obor
-      n&aacute;rodn&iacute; hospod&aacute;řstv&iacute; a veřejn&aacute; spr&aacute;va
-      na Vysok&eacute; &scaron;kole ekonomick&eacute; v Praze. Od roku 2009 tři roky
-      vedl ekonomick&yacute; časopis Laissez Faire. Ve stejn&eacute; době se připojil
-      ke vzniku Strany svobodn&yacute;ch občanů a stal poradcem jej&iacute;ho předsedy.
-      &Scaron;est&yacute;m rokem navrhuje software ve firmě zab&yacute;vaj&iacute;c&iacute;
+    profile: "<p><span>Radim Smetka (narozen r. 1988 v Praze), student ekonomie a
+      softwarov&yacute; architekt, m&iacute;stopředseda Strany svobodn&yacute;ch občanů.
+      Studuje obor n&aacute;rodn&iacute; hospod&aacute;řstv&iacute; a veřejn&aacute;
+      spr&aacute;va na Vysok&eacute; &scaron;kole ekonomick&eacute; v Praze. Od roku
+      2009 tři roky vedl ekonomick&yacute; časopis Laissez Faire. Ve stejn&eacute;
+      době se připojil ke vzniku Strany svobodn&yacute;ch občanů a stal poradcem jej&iacute;ho
+      předsedy. &Scaron;est&yacute;m rokem navrhuje software ve firmě zab&yacute;vaj&iacute;c&iacute;
       se daňovou refundac&iacute;. M&aacute; r&aacute;d ekonomii, rockovou hudbu,
-      pivo a lyžov&aacute;n&iacute;.</span></p>
+      pivo a lyžov&aacute;n&iacute;.</span></p>"
     priorities: ''
 - Zdislav Růžička:
     _slug: zdislav-ruzicka
-    photo: /samples/candidates/zdislav-ruzicka/Photo1.jpg
+    photo: "/samples/candidates/zdislav-ruzicka/Photo1.jpg"
     occupation: knihkupec
     political_party: Strana svobodných občanů
     age: 64
-    profile: <p>Zdislav Růžička vystudoval SP&Scaron;S Betl&eacute;msk&aacute; Praha.
+    profile: "<p>Zdislav Růžička vystudoval SP&Scaron;S Betl&eacute;msk&aacute; Praha.
       Je mu 64 let, je rozveden&yacute; a m&aacute; jedno d&iacute;tě.&nbsp;Zab&yacute;v&aacute;
-      se historickou kartografi&iacute; (<a href="http://www.historicke-mapy.cz" target="_blank">www.historicke-mapy.cz</a>),
-      knihkupectv&iacute;m a vydavatelstv&iacute;m. M&aacute; r&aacute;d r&eacute;busy,
-      statistiku a matematiku. Sportuje přiměřeně k jeho věku in-line brusle, plav&aacute;n&iacute;
-      a proch&aacute;zky historickou Prahou, kde žije bez přeru&scaron;en&iacute;
-      cel&yacute; život. Ř&iacute;k&aacute;:&nbsp;&bdquo;Zda je člověk chytr&yacute;,
-      v&aacute;m řeknou jeho odpovědi. Zda je člověk moudr&yacute;, v&aacute;m řeknou
-      jeho ot&aacute;zky,&ldquo; proto je důležit&eacute; umět občanům naslouchat.
-      Je členem Svobodn&yacute;ch.</p>
+      se historickou kartografi&iacute; (<a href=\"http://www.historicke-mapy.cz\"
+      target=\"_blank\">www.historicke-mapy.cz</a>), knihkupectv&iacute;m a vydavatelstv&iacute;m.
+      M&aacute; r&aacute;d r&eacute;busy, statistiku a matematiku. Sportuje přiměřeně
+      k jeho věku in-line brusle, plav&aacute;n&iacute; a proch&aacute;zky historickou
+      Prahou, kde žije bez přeru&scaron;en&iacute; cel&yacute; život. Ř&iacute;k&aacute;:&nbsp;&bdquo;Zda
+      je člověk chytr&yacute;, v&aacute;m řeknou jeho odpovědi. Zda je člověk moudr&yacute;,
+      v&aacute;m řeknou jeho ot&aacute;zky,&ldquo; proto je důležit&eacute; umět občanům
+      naslouchat. Je členem Svobodn&yacute;ch.</p>"
     priorities: ''
 - Jaroslav Kohout:
     _slug: jaroslav-kohou
-    photo: /samples/candidates/jaroslav-kohou/IMG_6481.JPG
+    photo: "/samples/candidates/jaroslav-kohou/IMG_6481.JPG"
     occupation: IT consultant
     political_party: Strana svobodných občanů
     age: 33
-    profile: <p>Jaroslav Kohout je živnostn&iacute;k-konzultant, pracuj&iacute;c&iacute;
+    profile: "<p>Jaroslav Kohout je živnostn&iacute;k-konzultant, pracuj&iacute;c&iacute;
       na IT projektech ve velk&yacute;ch finančn&iacute;ch společnostech. Je mu 33
       let, je ženat&yacute; a zat&iacute;m bezdětn&yacute;. Je zast&aacute;ncem filosofie
       laissez-faire, voln&eacute;ho trhu a individu&aacute;ln&iacute; zodpovědnosti
       za vlastn&iacute; jedn&aacute;n&iacute;. Zaj&iacute;m&aacute; se o vědu, hudbu,
       filosofii a ekonomii. Je v&aacute;&scaron;niv&yacute;m amat&eacute;rsk&yacute;m
-      golfistou.</p>
+      golfistou.</p>"
     priorities: ''
 - Karel Kříž:
     _slug: karel-kriz
-    photo: /samples/candidates/karel-kriz/Karel_Kriz_Svobodni.jpg
+    photo: "/samples/candidates/karel-kriz/Karel_Kriz_Svobodni.jpg"
     occupation: student
     political_party: Strana svobodných občanů
     age: 25
-    profile: <p>Karel Kř&iacute;ž je studentem posledn&iacute;ho ročn&iacute;ku N&aacute;rodohospod&aacute;řsk&eacute;
+    profile: "<p>Karel Kř&iacute;ž je studentem posledn&iacute;ho ročn&iacute;ku N&aacute;rodohospod&aacute;řsk&eacute;
       fakulty V&Scaron;E. Je mu 25 let a je st&aacute;le svobodn&yacute;. Cel&yacute;
       život žije na Praze 1 a nen&iacute; mu lhostejn&yacute; osud nejen jeho nejbliž&scaron;&iacute;ho
       okol&iacute;, ale ani cel&eacute; země. Je zast&aacute;ncem liber&aacute;ln&iacute;ho
       směru my&scaron;len&iacute; a vět&scaron;&iacute; osobn&iacute; odpovědnosti
       jednotlivce. Z těchto důvodů se přidal v roce 2013 k Svobodn&yacute;m a hrdě
-      h&aacute;j&iacute; jejich hodnoty.</p>
+      h&aacute;j&iacute; jejich hodnoty.</p>"
     priorities: ''
 - Michal Bříza:
     _slug: michal-briza
@@ -72,12 +72,12 @@
     priorities: ''
 - Ing. Alena Miriam Štembergová:
     _slug: ing-alena-miriam-stembergova
-    photo: /samples/candidates/ing-alena-miriam-stembergova/foto_Stembergova.jpg
+    photo: "/samples/candidates/ing-alena-miriam-stembergova/foto_Stembergova.jpg"
     occupation: finanční analytik
     political_party: bez politické příslušnosti
     age: 29
-    profile: <p>Ing. Alena Miriam &Scaron;tembergov&aacute; vystudova V&Scaron;E v
-      Praze, obor Mezin&aacute;rodn&iacute; obchod a Podnik&aacute;n&iacute; a pr&aacute;vo.
+    profile: "<p>Ing. Alena Miriam &Scaron;tembergov&aacute; vystudova V&Scaron;E
+      v Praze, obor Mezin&aacute;rodn&iacute; obchod a Podnik&aacute;n&iacute; a pr&aacute;vo.
       V průběhu studia str&aacute;vila postupně t&eacute;měř rok studiem a prac&iacute;
       ve Francii a Německu. Je j&iacute; 29 let, pracuje jako finančn&iacute; analytička.
       V pr&aacute;ci vytv&aacute;ř&iacute; anal&yacute;zy v&yacute;nosů a n&aacute;kladů
@@ -87,7 +87,7 @@
       středověk&aacute; hudba a historie. Věř&iacute;, že osobn&iacute; svoboda jednotlivce
       m&aacute; t&eacute;měř stejnou hodnotu jako jeho život, neměla by b&yacute;t
       proto bezdůvodně omezov&aacute;na. Se Svobodn&yacute;mi spolupracuje od roku
-      2010.</p>
+      2010.</p>"
     priorities: ''
 - Milan Morávek:
     _slug: milan-moravek
@@ -161,7 +161,7 @@
     priorities: ''
 - Martin Liebl:
     _slug: martin-liebl
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 46
     profile: ''
@@ -196,7 +196,7 @@
     priorities: ''
 - Jiřina Poppová:
     _slug: jirina-poppova
-    occupation: úřednice
+    occupation: "úřednice"
     political_party: bez politické příslušnosti
     age: 63
     profile: ''

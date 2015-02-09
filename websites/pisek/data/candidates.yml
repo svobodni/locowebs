@@ -1,7 +1,7 @@
 ---
 - Pavel Hubka:
     _slug: pavel-hubka
-    photo: /samples/candidates/pavel-hubka/Kan0004.jpg
+    photo: "/samples/candidates/pavel-hubka/Kan0004.jpg"
     occupation: IT technik
     political_party: Strana svobodných občanů
     age: 45
@@ -59,16 +59,17 @@
       my&scaron;lenkov&yacute; směr, začal jsem hledat lidi podobně sm&yacute;&scaron;lej&iacute;c&iacute;.
       Až Strana svobodn&yacute;ch občanů zarezonovala s m&yacute;m my&scaron;len&iacute;m,&ldquo;
       </em>ř&iacute;k&aacute; Pavel Hubka. A dod&aacute;v&aacute;:<em> &bdquo;Moje
-      svoboda konč&iacute; tam, kde konč&iacute; svoboda druh&eacute;ho; svoboda přin&aacute;&scaron;ej&iacute;c&iacute;
-      odpovědnost; svoboda = spravedlnost, jsou kr&eacute;da, kter&aacute; mě spojuj&iacute;
-      se Svobodn&yacute;mi. Proto jsem se k t&eacute;to straně přidal.&ldquo; </em></p>"
+      svoboda konč&iacute; tam, kde zač&iacute;n&aacute; svoboda druh&eacute;ho; svoboda
+      přin&aacute;&scaron;ej&iacute;c&iacute; odpovědnost; svoboda = spravedlnost,
+      jsou kr&eacute;da, kter&aacute; mě spojuj&iacute; se Svobodn&yacute;mi. Proto
+      jsem se k t&eacute;to straně přidal.&ldquo; </em></p>"
     priorities: ''
 - Aleš Procházka:
     _slug: ales-prochazka
-    photo: /samples/candidates/ales-prochazka/Kan0005.jpg
+    photo: "/samples/candidates/ales-prochazka/Kan0005.jpg"
     occupation: ošetřovatel zvířat a student VŠ
     political_party: Strana svobodných občanů
-    age: 24
+    age: 25
     email: pisek@svobodni.cz
     homepage_url: http://www.alesovo.cz
     profile: "<p style=\"text-align: justify;\">Narozen 29. ledna 1990 v P&iacute;sku.
@@ -76,10 +77,10 @@
       &scaron;koly, oboru Ekologie a ochrana krajiny, jsem nastoupil na studium Pedagogick&eacute;
       fakulty, Jihočesk&eacute; univerzity v dvojoboru Společensk&eacute; vědy a Česk&yacute;
       jazyk a literatura.</p>\r\n<p style=\"text-align: justify;\">V současn&eacute;
-      době pracuji jako o&scaron;etřovatel zv&iacute;řat.</p>\r\n<p style=\"text-align:
-      justify;\">&nbsp;</p>\r\n<p style=\"margin-bottom: 0cm; text-align: justify;\"
-      align=\"JUSTIFY\"><span style=\"text-decoration: underline;\">Z&aacute;jmy a
-      kon&iacute;čky</span></p>\r\n<p style=\"text-align: justify;\">M&eacute; z&aacute;jmy
+      době, kromě studia, pracuji jako o&scaron;etřovatel zv&iacute;řat.</p>\r\n<p
+      style=\"text-align: justify;\">&nbsp;</p>\r\n<p style=\"margin-bottom: 0cm;
+      text-align: justify;\" align=\"JUSTIFY\"><span style=\"text-decoration: underline;\">Z&aacute;jmy
+      a kon&iacute;čky</span></p>\r\n<p style=\"text-align: justify;\">M&eacute; z&aacute;jmy
       se t&yacute;kaj&iacute; předev&scaron;&iacute;m česk(oslovensk)&yacute;ch dějin.&nbsp;Od
       b&aacute;jn&yacute;ch dob, přes husitstv&iacute; až po obdob&iacute; kolem prvn&iacute;
       republiky. A vlastně do současnosti. Tento z&aacute;jem spojuji se společenskou
@@ -102,11 +103,12 @@
     priorities: ''
 - Karel Kropš:
     _slug: karel-krops
-    photo: /samples/candidates/karel-krops/Kan0002.jpg
+    photo: "/samples/candidates/karel-krops/Kan0002.jpg"
     occupation: podnikatel
     political_party: Strana svobodných občanů
     age: 42
     email: pisek@svobodni.cz
+    homepage_url: http://karel.krops.cz
     profile: "<div style=\"text-align: justify;\">Narodil jsem se v roce 1972 v Su&scaron;ici.
       Bydlel jsem v Horažďovic&iacute;ch a Strakonic&iacute;ch. V současnosti s rodinou
       žiji v P&iacute;sku. Jsem ženat&yacute;, m&aacute;m manželku Andreu a dvě dosp&iacute;vaj&iacute;c&iacute;
@@ -144,7 +146,7 @@
     priorities: ''
 - Pavel Kašpar:
     _slug: pavel-kaspar
-    photo: /samples/candidates/pavel-kaspar/Kan0006.jpg
+    photo: "/samples/candidates/pavel-kaspar/Kan0006.jpg"
     occupation: jednatel
     political_party: Strana svobodných občanů
     age: 44
@@ -153,7 +155,7 @@
     priorities: ''
 - Milan Biskup:
     _slug: milan-biskup
-    photo: /samples/candidates/milan-biskup/Kan0001.jpg
+    photo: "/samples/candidates/milan-biskup/Kan0001.jpg"
     occupation: truhlář
     political_party: bez politické příslušnosti
     age: 46
@@ -162,7 +164,7 @@
     priorities: ''
 - Věra Opavová:
     _slug: vera-opavova
-    photo: /samples/candidates/vera-opavova/Kan0003.jpg
+    photo: "/samples/candidates/vera-opavova/Kan0003.jpg"
     occupation: nezaměstnaná
     political_party: bez politické příslušnosti
     age: 46
@@ -208,7 +210,7 @@
     priorities: ''
 - Ing. Marie Procházková:
     _slug: ing-marie-prochazkova
-    photo: /samples/candidates/ing-marie-prochazkova/Kan0007.jpg
+    photo: "/samples/candidates/ing-marie-prochazkova/Kan0007.jpg"
     occupation: středoškolská učitelka
     political_party: bez politické příslušnosti
     age: 52
@@ -217,16 +219,16 @@
     priorities: ''
 - Zdeněk Jelínek:
     _slug: zdenek-jelinek
-    photo: /samples/candidates/zdenek-jelinek/Kan0007.jpg
+    photo: "/samples/candidates/zdenek-jelinek/Kan0007.jpg"
     occupation: truhlář
     political_party: bez politické příslušnosti
     age: 36
     email: pisek@svobodni.cz
     profile: "<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
-    priorities: <p><br data-mce-bogus="1"></p>
+    priorities: "<p><br data-mce-bogus=\"1\"></p>"
 - Blanka Seinerová:
     _slug: blanka-seinerova
-    photo: /samples/candidates/blanka-seinerova/Kan0007.jpg
+    photo: "/samples/candidates/blanka-seinerova/Kan0007.jpg"
     occupation: zástupkyně manažera prodejny
     political_party: bez politické příslušnosti
     age: 30
@@ -235,7 +237,7 @@
     priorities: ''
 - Zdeněk Liška:
     _slug: zdenek-liska
-    photo: /samples/candidates/zdenek-liska/Kan0007.jpg
+    photo: "/samples/candidates/zdenek-liska/Kan0007.jpg"
     occupation: nástrojař
     political_party: bez politické příslušnosti
     age: 26
@@ -244,7 +246,7 @@
     priorities: ''
 - Ing. Karel Kozlík:
     _slug: ing-karel-kozlik
-    photo: /samples/candidates/ing-karel-kozlik/Kan0007.jpg
+    photo: "/samples/candidates/ing-karel-kozlik/Kan0007.jpg"
     occupation: programátor
     political_party: bez politické příslušnosti
     age: 37
@@ -253,7 +255,7 @@
     priorities: ''
 - Jan Gajdůšek:
     _slug: jan-gajdusek
-    photo: /samples/candidates/jan-gajdusek/Kan0007.jpg
+    photo: "/samples/candidates/jan-gajdusek/Kan0007.jpg"
     occupation: OSVČ
     political_party: bez politické příslušnosti
     age: 41
@@ -262,7 +264,7 @@
     priorities: ''
 - Kateřina Boháčková:
     _slug: katerina-bohackova
-    photo: /samples/candidates/katerina-bohackova/Kan0007.jpg
+    photo: "/samples/candidates/katerina-bohackova/Kan0007.jpg"
     occupation: studentka VŠ
     political_party: bez politické příslušnosti
     age: 21
@@ -271,7 +273,7 @@
     priorities: ''
 - Robert Novodvorský:
     _slug: robert-novodvorsky
-    photo: /samples/candidates/robert-novodvorsky/Kan0007.jpg
+    photo: "/samples/candidates/robert-novodvorsky/Kan0007.jpg"
     occupation: technik
     political_party: bez politické příslušnosti
     age: 43
@@ -280,7 +282,7 @@
     priorities: ''
 - Andrea Kortánová:
     _slug: andrea-kortanova
-    photo: /samples/candidates/andrea-kortanova/Kan0007.jpg
+    photo: "/samples/candidates/andrea-kortanova/Kan0007.jpg"
     occupation: na mateřské dovolené
     political_party: bez politické příslušnosti
     age: 36
@@ -289,7 +291,7 @@
     priorities: ''
 - Jana Kuželová:
     _slug: jana-kuzelova
-    photo: /samples/candidates/jana-kuzelova/Kan0007.jpg
+    photo: "/samples/candidates/jana-kuzelova/Kan0007.jpg"
     occupation: důchodce
     political_party: bez politické příslušnosti
     age: 66
@@ -298,7 +300,7 @@
     priorities: ''
 - Naděžda Dostálová:
     _slug: nadezda-dostalova
-    photo: /samples/candidates/nadezda-dostalova/Kan0007.jpg
+    photo: "/samples/candidates/nadezda-dostalova/Kan0007.jpg"
     occupation: zdravotní sestra
     political_party: bez politické příslušnosti
     age: 39
@@ -307,7 +309,7 @@
     priorities: ''
 - Milan Džugan:
     _slug: milan-dzugan
-    photo: /samples/candidates/milan-dzugan/Kan0007.jpg
+    photo: "/samples/candidates/milan-dzugan/Kan0007.jpg"
     occupation: elektrikář
     political_party: bez politické příslušnosti
     age: 22
@@ -316,7 +318,7 @@
     priorities: ''
 - Zuzana Červíčková:
     _slug: zuzana-cervickova
-    photo: /samples/candidates/zuzana-cervickova/Kan0007.jpg
+    photo: "/samples/candidates/zuzana-cervickova/Kan0007.jpg"
     occupation: na mateřské dovolené
     political_party: bez politické příslušnosti
     age: 39
@@ -325,7 +327,7 @@
     priorities: ''
 - Michal Procházka:
     _slug: michal-prochazka
-    photo: /samples/candidates/michal-prochazka/Kan0007.jpg
+    photo: "/samples/candidates/michal-prochazka/Kan0007.jpg"
     occupation: truhlář
     political_party: bez politické příslušnosti
     age: 21
@@ -334,7 +336,7 @@
     priorities: ''
 - Radka Hadáčková:
     _slug: radka-hadackova
-    photo: /samples/candidates/radka-hadackova/Kan0007.jpg
+    photo: "/samples/candidates/radka-hadackova/Kan0007.jpg"
     occupation: jednatel
     political_party: bez politické příslušnosti
     age: 44
@@ -343,7 +345,7 @@
     priorities: ''
 - Tomáš Kloboučník:
     _slug: tomas-kloboucnik
-    photo: /samples/candidates/tomas-kloboucnik/Kan0007.jpg
+    photo: "/samples/candidates/tomas-kloboucnik/Kan0007.jpg"
     occupation: quality planning engineer
     political_party: bez politické příslušnosti
     age: 24
@@ -352,7 +354,7 @@
     priorities: ''
 - Gabriela Málová:
     _slug: gabriela-malova
-    photo: /samples/candidates/gabriela-malova/Kan0007.jpg
+    photo: "/samples/candidates/gabriela-malova/Kan0007.jpg"
     occupation: učitelka anglického jazyka
     political_party: bez politické příslušnosti
     age: 42
@@ -361,7 +363,7 @@
     priorities: ''
 - Milan Bláha:
     _slug: milan-blaha
-    photo: /samples/candidates/milan-blaha/Kan0007.jpg
+    photo: "/samples/candidates/milan-blaha/Kan0007.jpg"
     occupation: jednatel
     political_party: bez politické příslušnosti
     age: 44
@@ -370,7 +372,7 @@
     priorities: ''
 - Tomáš Krejčíř:
     _slug: tomas-krejcir
-    photo: /samples/candidates/tomas-krejcir/Kan0007.jpg
+    photo: "/samples/candidates/tomas-krejcir/Kan0007.jpg"
     occupation: podlahář
     political_party: bez politické příslušnosti
     age: 35
@@ -379,7 +381,7 @@
     priorities: ''
 - Radek Měřička:
     _slug: radek-mericka
-    photo: /samples/candidates/radek-mericka/Kan0007.jpg
+    photo: "/samples/candidates/radek-mericka/Kan0007.jpg"
     occupation: hasič
     political_party: bez politické příslušnosti
     age: 22
@@ -388,10 +390,10 @@
     priorities: ''
 - Jindřich Bílý:
     _slug: jindrich-bily
-    photo: /samples/candidates/jindrich-bily/Kan0007.jpg
+    photo: "/samples/candidates/jindrich-bily/Kan0007.jpg"
     occupation: autoelektrikář
     political_party: bez politické příslušnosti
     age: 49
     email: pisek@svobodni.cz
     profile: "<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
-    priorities: <p><br data-mce-bogus="1"></p>
+    priorities: "<p><br data-mce-bogus=\"1\"></p>"

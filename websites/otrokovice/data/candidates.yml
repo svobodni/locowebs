@@ -1,7 +1,7 @@
 ---
 - Jiří Remeš:
     _slug: jiri-remes
-    photo: /samples/candidates/jiri-remes/jiri.jpg
+    photo: "/samples/candidates/jiri-remes/jiri.jpg"
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 46
@@ -52,7 +52,7 @@
       (tedy i mě)</p>\r\n<p>&nbsp;</p>"
 - Ing. Pavel Beznoska:
     _slug: pavel-beznoska
-    photo: /samples/candidates/pavel-beznoska/pavel.jpg
+    photo: "/samples/candidates/pavel-beznoska/pavel.jpg"
     occupation: Branch manager
     political_party: bez politické příslušnosti
     age: 36
@@ -62,7 +62,7 @@
     priorities: ''
 - Bc. Tomáš Lenhart:
     _slug: tomas-lenhart
-    photo: /samples/candidates/tomas-lenhart/tom.jpg
+    photo: "/samples/candidates/tomas-lenhart/tom.jpg"
     occupation: obchodní zástupce
     political_party: Strana svobodných občanů
     age: 31
@@ -105,7 +105,7 @@
     priorities: ''
 - Radek Kasálek:
     _slug: radek-kasalek
-    photo: /samples/candidates/radek-kasalek/radek.jpg
+    photo: "/samples/candidates/radek-kasalek/radek.jpg"
     occupation: pracovník pošty
     political_party: Strana svobodných občanů
     age: 35
@@ -169,7 +169,7 @@
     priorities: ''
 - 'Jiří Remeš ':
     _slug: jiri-remes-1
-    photo: /samples/candidates/jiri-remes-1/jiriml.jpg
+    photo: "/samples/candidates/jiri-remes-1/jiriml.jpg"
     occupation: dělník
     political_party: Bez politické příslušnosti
     age: 23

@@ -1,7 +1,7 @@
 ---
 - Ing. Jiří Pánek:
     _slug: ing-jiri-panek
-    photo: /samples/candidates/ing-jiri-panek/panek_resize.jpg
+    photo: "/samples/candidates/ing-jiri-panek/panek_resize.jpg"
     occupation: geodet, zastupitel Sokolova
     political_party: Strana svobodných občanů
     age: 51
@@ -48,8 +48,8 @@
     priorities: ''
 - Jiří Korel:
     _slug: jiri-korel
-    photo: /samples/candidates/jiri-korel/korel_resize.jpg
-    occupation: živnostník
+    photo: "/samples/candidates/jiri-korel/korel_resize.jpg"
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 53
     profile: "<p><span>Něco k m&eacute; osobě:</span></p>\r\n<p><span style=\"line-height:
@@ -63,19 +63,19 @@
     priorities: ''
 - Jiří Tempel:
     _slug: jiri-tempel
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Strana svobodných občanů
     age: 33
-    profile: <p>V zastupitelstvu se chci zasazovat o transparentn&iacute; hospodařen&iacute;
-      a fungov&aacute;n&iacute; města.</p>
+    profile: "<p>V zastupitelstvu se chci zasazovat o transparentn&iacute; hospodařen&iacute;
+      a fungov&aacute;n&iacute; města.</p>"
     priorities: ''
 - Václav Bauer:
     _slug: vaclav-bauer
-    photo: /samples/candidates/vaclav-bauer/foto__2_.png
+    photo: "/samples/candidates/vaclav-bauer/foto__2_.png"
     occupation: finanční analytik
     political_party: Strana svobodných občanů
     age: 29
-    profile: <p><span>B&yacute;val&yacute; učitel, dnes třet&iacute; rok ve finančn&iacute;
+    profile: "<p><span>B&yacute;val&yacute; učitel, dnes třet&iacute; rok ve finančn&iacute;
       sf&eacute;ře. &Scaron;kolitel N&aacute;rodn&iacute;ho institutu dal&scaron;&iacute;ho
       vzděl&aacute;v&aacute;n&iacute;. Velkou z&aacute;libou jsou pro něj poč&iacute;tače
       a poč&iacute;tačov&eacute; hry, d&aacute;le pak tanec, v&iacute;no a etiketa.
@@ -83,19 +83,19 @@
       lež, přetv&aacute;řku, nelogičnost, aroganci a n&aacute;sil&iacute; <span>&ndash;</span>&nbsp;tedy
       kromě toho virtu&aacute;ln&iacute;ho. Do politiky by r&aacute;d přinesl zdrav&yacute;
       selsk&yacute; rozum a jednoduchost, d&iacute;ky kter&eacute; by byla srozumiteln&aacute;
-      pro v&scaron;echny.&nbsp;</span></p>
+      pro v&scaron;echny.&nbsp;</span></p>"
     quote: Není důležité, co se ti stane, ale jak to přijmeš.
     priorities: ''
 - Radek Šupka:
     _slug: radek-supk
-    occupation: účetní
+    occupation: "účetní"
     political_party: Strana svobodných občanů
     age: 39
     profile: ''
     priorities: ''
 - Ing. Martin Pánek:
     _slug: martin-panek
-    photo: /samples/candidates/martin-panek/foto.jpg
+    photo: "/samples/candidates/martin-panek/foto.jpg"
     occupation: ekonom, šéfredaktor Laissez Faire a euroSEPTIK.cz
     political_party: Strana svobodných občanů
     age: 27
@@ -119,7 +119,7 @@
     priorities: ''
 - MUDr. Vladimíra Urbanová:
     _slug: mudr-vladimira-urbanova
-    photo: /samples/candidates/mudr-vladimira-urbanova/urbanova_resize.jpg
+    photo: "/samples/candidates/mudr-vladimira-urbanova/urbanova_resize.jpg"
     occupation: lékařka
     political_party: bez politické příslušnosti
     age: 43
@@ -127,7 +127,7 @@
     priorities: ''
 - Miloš Veinlich:
     _slug: milos-veinli
-    photo: /samples/candidates/milos-veinli/veinlich_resize.jpg
+    photo: "/samples/candidates/milos-veinli/veinlich_resize.jpg"
     occupation: podnikatel
     political_party: bez politické příslušnosti
     age: 28
@@ -135,7 +135,7 @@
     priorities: ''
 - Jiří Zubko:
     _slug: jiri-zubko
-    photo: /samples/candidates/jiri-zubko/zubko_resize.jpg
+    photo: "/samples/candidates/jiri-zubko/zubko_resize.jpg"
     occupation: sběratel, renovátor a muzejník, finanční poradce
     political_party: bez politické příslušnosti
     age: 43
@@ -213,7 +213,7 @@
     priorities: ''
 - Ing. David Tomaschko:
     _slug: ing-david-tomaschko
-    photo: /samples/candidates/ing-david-tomaschko/tomaschko_resize.jpg
+    photo: "/samples/candidates/ing-david-tomaschko/tomaschko_resize.jpg"
     occupation: technolog
     political_party: bez politické příslušnosti
     age: 39

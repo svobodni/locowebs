@@ -1,12 +1,12 @@
 ---
 - Ing. Jan Hlaváček:
     _slug: ing-jan-hlavacek
-    photo: /samples/candidates/ing-jan-hlavacek/BRN_0101-Hlavacek.jpg
+    photo: "/samples/candidates/ing-jan-hlavacek/BRN_0101-Hlavacek.jpg"
     occupation: auditor a konzultant
     political_party: Svobodní
     age: 38
-    profile: '<p style="margin: 0cm 0cm 0pt;"><span style="color: #1f497d; font-family:
-      ''Calibri'',''sans-serif''; font-size: 11pt; mso-fareast-language: EN-US;">Jsem
+    profile: "<p style=\"margin: 0cm 0cm 0pt;\"><span style=\"color: #1f497d; font-family:
+      'Calibri','sans-serif'; font-size: 11pt; mso-fareast-language: EN-US;\">Jsem
       konzultant a auditor procesů. M&yacute;m povol&aacute;n&iacute;m &ndash; a současně
       kon&iacute;čkem &ndash; je zjednodu&scaron;ovat lidem ve firm&aacute;ch pr&aacute;ci,
       odstraňovat zbytečnou byrokracii při zachov&aacute;n&iacute; nutn&eacute; dokumentace,
@@ -18,7 +18,7 @@
       Jako vystudovan&yacute; ekonom a zodpovědn&yacute; otec rodiny neuzn&aacute;v&aacute;m
       život a spotřebu na dluh, proto podporuji my&scaron;lenku vyrovnan&eacute;ho
       rozpočtu, jak u sebe doma, tak i na v&scaron;ech &uacute;rovn&iacute;ch veřejn&eacute;
-      spr&aacute;vy.</span></p>'
+      spr&aacute;vy.</span></p>"
     quote: V demokracii je politik služebníkem občana, nikoliv jeho vládcem.
     priorities: ''
 - Bc. Vlastimil Hošek:
@@ -51,7 +51,7 @@
     priorities: ''
 - David Němeček:
     _slug: david-nemecek
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Svobodní
     age: 43
     profile: ''
@@ -72,7 +72,7 @@
     priorities: ''
 - Ing. Ján Kubek:
     _slug: ing-jan-kubek
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: Svobodní
     age: 33
     profile: ''
@@ -149,7 +149,7 @@
     priorities: ''
 - František Folprecht:
     _slug: frantisek-folprecht
-    occupation: živnostník
+    occupation: "živnostník"
     political_party: bez politické příslušnosti
     age: 48
     profile: ''

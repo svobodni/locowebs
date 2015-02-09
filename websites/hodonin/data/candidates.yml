@@ -1,7 +1,7 @@
 ---
 - Ing. Petr Buráň:
     _slug: ing-petr-bura
-    photo: /samples/candidates/ing-petr-bura/buran.jpg
+    photo: "/samples/candidates/ing-petr-bura/buran.jpg"
     occupation: Pilot
     political_party: bez politické příslušnosti
     age: 27
@@ -12,7 +12,7 @@
     priorities: ''
 - Terézia Išková:
     _slug: terezia-iskov
-    photo: /samples/candidates/terezia-iskov/iskova.jpg
+    photo: "/samples/candidates/terezia-iskov/iskova.jpg"
     occupation: Právní asistentka a studentka práv
     political_party: Strana svobodných občanů
     age: 24
@@ -21,7 +21,7 @@
     priorities: ''
 - Martin Pokorný:
     _slug: martin-pokorny
-    photo: /samples/candidates/martin-pokorny/pokorny.jpg
+    photo: "/samples/candidates/martin-pokorny/pokorny.jpg"
     occupation: Konstruktér
     political_party: Strana svobodných občanů
     age: 25
@@ -29,15 +29,15 @@
     priorities: ''
 - Tomáš Srnec:
     _slug: tomas-srnec
-    photo: /samples/candidates/tomas-srnec/srnec.jpg
-    occupation: Živnostník
+    photo: "/samples/candidates/tomas-srnec/srnec.jpg"
+    occupation: "Živnostník"
     political_party: Strana svobodných občanů
     age: 25
     profile: ''
     priorities: ''
 - MUDr. et. Mgr. Erik Stibor:
     _slug: mudr-et-mgr-erik-stibor
-    photo: /samples/candidates/mudr-et-mgr-erik-stibor/Stibor.jpg
+    photo: "/samples/candidates/mudr-et-mgr-erik-stibor/Stibor.jpg"
     occupation: Lékař
     political_party: Strana svobodných občanů
     age: 35
@@ -45,7 +45,7 @@
     priorities: ''
 - Lukáš Podškubka:
     _slug: lukas-podskub
-    photo: /samples/candidates/lukas-podskub/Pod_kubka.jpg
+    photo: "/samples/candidates/lukas-podskub/Pod_kubka.jpg"
     occupation: Administrativní pracovník
     political_party: Strana svobodných občanů
     age: 32
@@ -95,7 +95,7 @@
     priorities: ''
 - Tomáš Herka:
     _slug: tomas-herka
-    occupation: Živnostník
+    occupation: "Živnostník"
     political_party: bez politické příslušnosti
     age: 26
     profile: ''
@@ -151,7 +151,7 @@
     priorities: ''
 - Ing. Ilona Šmídová:
     _slug: ing-illona-smidova
-    occupation: Účetní
+    occupation: "Účetní"
     political_party: bez politické příslušnosti
     age: 26
     profile: ''

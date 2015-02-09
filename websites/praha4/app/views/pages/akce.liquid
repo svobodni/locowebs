@@ -1,0 +1,62 @@
+---
+title: Akce
+slug: akce
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 3
+editable_elements:
+  main/akce_info: "<table border=\"0\">\r\n<tbody>\r\n<tr>\r\n<td colspan=\"5\">Moment&aacute;lně
+    pl&aacute;nujeme n&aacute;sleduj&iacute;c&iacute; akce:</td>\r\n</tr>\r\n<tr>\r\n<td
+    colspan=\"5\">&nbsp;</td>\r\n</tr>\r\n<tr><th style=\"text-align: center;\">Den</th><th
+    style=\"text-align: center;\">Akce</th><th style=\"text-align: center;\">Kde</th><th
+    style=\"text-align: center;\">Kdy</th><th style=\"text-align: center;\">Pořadatel</th></tr>\r\n<tr>\r\n<td
+    style=\"text-align: center;\">&nbsp;22.11.2014&nbsp;</td>\r\n<td>&nbsp; <strong>Velk&yacute;
+    &uacute;klid Habrovky</strong><br />&nbsp; Dobrovoln&yacute; sběr a odvoz odpadků</td>\r\n<td
+    style=\"text-align: center;\">Sraz u krčsk&eacute; sokolovny &nbsp;<br /><a href=\"http://mapy.cz/s/dKhJ\"><em>http://mapy.cz/s/dKhJ</em></a>&nbsp;</td>\r\n<td
+    style=\"text-align: center;\">&nbsp; 10:00 &nbsp;</td>\r\n<td style=\"text-align:
+    center;\">&nbsp; Svobodn&iacute; Praha 4&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+    center;\">&nbsp;05.12.2014&nbsp;</td>\r\n<td>&nbsp; <strong>Mikul&aacute;&scaron;sk&aacute;
+    Bes&iacute;dka</strong><br />&nbsp; Akce pro děti s (prav&yacute;m) Mikul&aacute;&scaron;em</td>\r\n<td
+    style=\"text-align: center;\">&nbsp;Restaurace \"U Bř&iacute;zy\", Star&yacute;
+    Spořilov&nbsp;<br /><a href=\"http://mapy.cz/s/dKmF\"><em>http://mapy.cz/s/dKmF</em></a></td>\r\n<td
+    style=\"text-align: center;\">&nbsp; 15:00 &nbsp;</td>\r\n<td style=\"text-align:
+    center;\">&nbsp; Svobodn&iacute; Praha 4&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+    center;\">&nbsp;31.03.2015&nbsp;</td>\r\n<td>&nbsp; <strong>Akce \"Daně 2015\"</strong></td>\r\n<td
+    style=\"text-align: center;\">&nbsp; Před finančn&iacute;m &uacute;řadem Prahy
+    4&nbsp;<br /><a href=\"http://mapy.cz/s/dKjx\"><em>http://mapy.cz/s/dKjx</em></a></td>\r\n<td
+    style=\"text-align: center;\">&nbsp; ???&nbsp;</td>\r\n<td style=\"text-align:
+    center;\">&nbsp;&nbsp;Svobodn&iacute;&nbsp;&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td
+    colspan=\"5\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td colspan=\"5\">&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td
+    colspan=\"5\">Proběhl&eacute; akce Svobodn&yacute;ch Praha 4:</td>\r\n</tr>\r\n<tr>\r\n<td
+    colspan=\"5\">&nbsp;</td>\r\n</tr>\r\n<tr><th style=\"text-align: center;\">Den</th><th
+    style=\"text-align: center;\">Akce</th><th style=\"text-align: center;\">Kde</th><th
+    style=\"text-align: center;\">Kdy</th><th style=\"text-align: center;\">Pořadatel</th></tr>\r\n<tr>\r\n<td
+    style=\"text-align: center;\">&nbsp;04.10.2014&nbsp;</td>\r\n<td>&nbsp; <strong>Dětsk&eacute;
+    odpoledne + koncert</strong><br />&nbsp; <a href=\"https://www.facebook.com/SvobodniPraha4/posts/1610934182467068\">Fotogalerie
+    z akce</a></td>\r\n<td style=\"text-align: center;\">&nbsp; Restaurace \"U Bř&iacute;zy\",
+    Star&yacute; Spořilov&nbsp;<br /><a href=\"http://mapy.cz/s/dKmF\"><em>http://mapy.cz/s/dKmF</em></a></td>\r\n<td
+    style=\"text-align: center;\">&nbsp; 14:00 &nbsp;</td>\r\n<td style=\"text-align:
+    center;\">&nbsp; Svobodn&iacute; Praha 4&nbsp;</td>\r\n</tr>\r\n<tr>\r\n<td style=\"text-align:
+    center;\">&nbsp;27.09.2014&nbsp;</td>\r\n<td>&nbsp; <strong>Svobodn&iacute; ukl&iacute;zej&iacute;
+    Prahu 4</strong><br />&nbsp; <a href=\"http://praha4.svobodni.cz/clanky/svobodni-uklizeli-prahu-4\">Ohl&eacute;dnut&iacute;
+    za akc&iacute;</a></td>\r\n<td style=\"text-align: center;\">&nbsp; Kunratick&yacute;
+    les / Novodvorsk&aacute;&nbsp;<br /><a href=\"http://mapy.cz/s/dKmV\"><em>http://mapy.cz/s/dKmV</em></a></td>\r\n<td
+    style=\"text-align: center;\">&nbsp; 09:30 &nbsp;</td>\r\n<td style=\"text-align:
+    center;\">&nbsp; Svobodn&iacute; Praha 4&nbsp;</td>\r\n</tr>\r\n</tbody>\r\n</table>"
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+{% editable_text "akce_info", hint: "Informace o akcích pobočky." %}
+{% endeditable_text %}
+
+</div>
+
+{% endblock %}

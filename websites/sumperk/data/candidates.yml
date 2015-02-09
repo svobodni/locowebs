@@ -1,1 +1,57 @@
---- []
+---
+- Ing. Kamila Navrátilová:
+    _slug: kamila-navratilova
+    photo: "/samples/candidates/kamila-navratilova/kamila.png"
+    occupation: podnikatelka
+    political_party: Strana svobodných občanů
+    age: 28
+    profile: ''
+    priorities: ''
+- Tomáš Matějíček:
+    _slug: tomas-matejicek
+    photo: "/samples/candidates/tomas-matejicek/Tomas.png"
+    occupation: OSVČ
+    political_party: Strana svobodných občanů
+    age: 35
+    email: tomas@slax.org
+    phone: ''
+    profile: ''
+    priorities: ''
+- Ing. Jiří Král:
+    _slug: jiri-kral
+    photo: "/samples/candidates/jiri-kral/kral.png"
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 55
+    profile: ''
+    priorities: ''
+- Mgr. Dana Králová:
+    _slug: dana-kralova
+    photo: "/samples/candidates/dana-kralova/kralova.png"
+    occupation: Zástupkyně ředitele ZŠ
+    political_party: bez politické příslušnosti
+    age: 56
+    profile: ''
+    priorities: ''
+- Ing. Jan Medlík:
+    _slug: ing-jan-medlik
+    photo: "/samples/candidates/ing-jan-medlik/JM2_pro_Kinga3.jpg"
+    occupation: Jaderný Inženýr
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- Ing. Radim Šebesta:
+    _slug: ing-radim-sebn
+    occupation: Vedoucí obchodních reprezentantů
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- Mgr. Barbora Doubravová:
+    _slug: mgr-barbora-doubravova
+    occupation: Právnička
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''

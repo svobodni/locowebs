@@ -1,7 +1,7 @@
 ---
 - Petr Kopecký:
     _slug: petr-kopecky
-    photo: /samples/candidates/petr-kopecky/PK2014_34.jpg
+    photo: "/samples/candidates/petr-kopecky/PK2014_34.jpg"
     occupation: manažer umělce a etický poradce v užitné hodnotě
     political_party: Strana svobodných občanů
     age: 44
@@ -89,7 +89,7 @@
       a svobody občanů, je v&scaron;ak nutn&eacute; z&iacute;skat podporu cel&eacute;
       kandid&aacute;tky svobodn&yacute;ch a co nejv&iacute;ce mand&aacute;tů.</strong>&nbsp;</p>\r\n<p>&nbsp;<img
       src=\"/samples/assets/svobodn__logo.png\" alt=\"\" /></p>"
-    quote: '"Můžeš mít buď výsledky, nebo výmluvy, nemůžeš mít obojí !" Arnold Schwarzenegger '
+    quote: "\"Můžeš mít buď výsledky, nebo výmluvy, nemůžeš mít obojí !\" Arnold Schwarzenegger "
     priorities: "<p>proč kandiduji?&nbsp;Když to jde ve &Scaron;v&yacute;carsku a
       Bavorsku, mus&iacute; to j&iacute;t i u n&aacute;s. R&aacute;d bych přispěl
       svoji maličkost&iacute; a sv&yacute;mi za l&eacute;ta nabyt&yacute;mi zku&scaron;enostmi
@@ -112,7 +112,7 @@
       height=\"345\" /></p>"
 - Miloš Knopp DiS.:
     _slug: milos-knopp
-    photo: /samples/candidates/milos-knopp/Knopp3-4.jpg
+    photo: "/samples/candidates/milos-knopp/Knopp3-4.jpg"
     occupation: pedagog – umělec, kytara
     political_party: Strana svobodných občanů
     age: 30
@@ -131,18 +131,18 @@
       jeho kon&iacute;čky patř&iacute; rodina, hudba, četba, cestov&aacute;n&iacute;,
       asijsk&aacute; kultura a aviatika.</p>\r\n<p>R&aacute;d se vzděl&aacute;v&aacute;
       a uč&iacute;m se nov&yacute;m věcem.</p>"
-    quote: '"Přežije-li kultura, přežije národ" Jan Mládek'
-    priorities: <p>Jsem pro čist&eacute; a klidn&eacute; Řepy, r&aacute;d bych &nbsp;tomu
-      svoji maličkost&iacute; přispěl.</p>
+    quote: "\"Přežije-li kultura, přežije národ\" Jan Mládek"
+    priorities: "<p>Jsem pro čist&eacute; a klidn&eacute; Řepy, r&aacute;d bych &nbsp;tomu
+      svoji maličkost&iacute; přispěl.</p>"
 - Pavla Rázová:
     _slug: pavla-razov
-    photo: /samples/candidates/pavla-razov/razova1.jpg
-    occupation: živnostník - vzdělávání
+    photo: "/samples/candidates/pavla-razov/razova1.jpg"
+    occupation: "živnostník - vzdělávání"
     political_party: Strana svobodných občanů
     age: 46
-    profile: <p><span>Narodila se v roce 1968 v Př&iacute;brami a od roku 1992&nbsp;</span><span
-      class="text_exposed_show">žije v pražsk&yacute;ch Řep&iacute;ch.<br /><br />V
-      letech 1983-87 studovala na př&iacute;bramsk&eacute;m gymn&aacute;ziu, obor
+    profile: "<p><span>Narodila se v roce 1968 v Př&iacute;brami a od roku 1992&nbsp;</span><span
+      class=\"text_exposed_show\">žije v pražsk&yacute;ch Řep&iacute;ch.<br /><br
+      />V letech 1983-87 studovala na př&iacute;bramsk&eacute;m gymn&aacute;ziu, obor
       pedagogika a kulturně v&yacute;chovn&aacute; činnost .<br /><br />Po mateřsk&eacute;
       dovolen&eacute; v roce 1996 zah&aacute;jila svoji pracovn&iacute; dr&aacute;hu
       jako učitelka v mateřsk&eacute; &scaron;kole v Řep&iacute;ch, v roce 2001 pře&scaron;la
@@ -158,14 +158,14 @@
       /><br />M&aacute; dvě dospěl&eacute; dcery &ndash; 20 a 23 let.<br /><br />K
       jej&iacute;m z&aacute;jmům patř&iacute; již od dětstv&iacute; literatura a divadlo,
       m&aacute; r&aacute;da hudbu i film, r&aacute;da se projde po Praze i př&iacute;rodou,
-      tam j&iacute; děl&aacute; často společnost jej&iacute; pejsek.&nbsp;<br /></span></p>
+      tam j&iacute; děl&aacute; často společnost jej&iacute; pejsek.&nbsp;<br /></span></p>"
     quote: Aby byl člověk svobodný, musí být poctivý sám k sobě a ke svým blízkým.
       Lafayette Ronald Hubbard
-    priorities: <p>&scaron;kolstv&iacute; a životn&iacute; prostřed&iacute;</p>
+    priorities: "<p>&scaron;kolstv&iacute; a životn&iacute; prostřed&iacute;</p>"
 - Ing. Miroslav Matuna:
     _slug: i
-    photo: /samples/candidates/i/m_ra_2014.jpg
-    occupation: živnostník - výroba sportovního oblečení
+    photo: "/samples/candidates/i/m_ra_2014.jpg"
+    occupation: "živnostník - výroba sportovního oblečení"
     political_party: bez politické příslušnosti
     age: 52
     profile: "<p>Ing. Miroslav Matuna se narodil v roce 1963 v Praze</p>\r\n<p>do
@@ -184,13 +184,13 @@
       koučem žen do 22 let, kter&yacute; přivezl z mistrovstv&iacute; Evropy z Bulharska
       v červenci 2014 stř&iacute;brn&eacute; medaile.</p>\r\n<p>Je pohodov&yacute;m
       parť&aacute;kem i do nepohody a nezkaz&iacute; ž&aacute;dnou legraci..</p>"
-    quote: „Když už člověk jednou je, tak má koukat aby byl. A když kouká, aby byl
+    quote: "„Když už člověk jednou je, tak má koukat aby byl. A když kouká, aby byl
       a je, tak má být to, co je a nemá být to, co není, jak tomu v mnoha případech
-      je.“ Jan Werich
-    priorities: <p>sport</p>
+      je.“ Jan Werich"
+    priorities: "<p>sport</p>"
 - Ing. Jan Vrbata Ph.D.:
     _slug: ing-jan-vrbata-ph-dot-d
-    photo: /samples/candidates/ing-jan-vrbata-ph-dot-d/Vrbata.png
+    photo: "/samples/candidates/ing-jan-vrbata-ph-dot-d/Vrbata.png"
     occupation: IT konzultant
     political_party: registrovaný sympatizant Svobodných
     age: 39
@@ -204,11 +204,11 @@
       ve v&scaron;ech jeho podob&aacute;ch.</p>\r\n<p>&nbsp;m&aacute; ročn&iacute;
       dcerku</p>\r\n<p>&nbsp;k&nbsp;jeho z&aacute;jmům patř&iacute; hlavně hudba,
       turistika, sport, četba a rodina.</p>"
-    priorities: <p>Řepy jako klidn&eacute; a bezprobl&eacute;mov&eacute; m&iacute;sto
-      pro život.</p>
+    priorities: "<p>Řepy jako klidn&eacute; a bezprobl&eacute;mov&eacute; m&iacute;sto
+      pro život.</p>"
 - Jan Loužek:
     _slug: jan-louzek
-    photo: /samples/candidates/jan-louzek/louzek_3.4.jpg
+    photo: "/samples/candidates/jan-louzek/louzek_3.4.jpg"
     occupation: elektrotechnik
     political_party: registrovaný sympatizant Svobodných
     age: 63
@@ -222,12 +222,12 @@
       a odpovědnosti jednotlivce, mal&eacute;ho st&aacute;tu a odpůrcem socialismu
       ve v&scaron;ech jeho podob&aacute;ch.</span></p>\r\n<p class=\"Standard\"><span
       lang=\"EN-US\">M&aacute; syna, 27 let.</span></p>"
-    quote: „Miluješ život? Tedy nemrhej časem, neboť to je ten materiál, z něhož se
-      dělá život.“ Benjamin Franklin
-    priorities: <p>bezpečn&aacute; a čist&aacute; ulice obklopen&aacute; zelen&iacute;</p>
+    quote: "„Miluješ život? Tedy nemrhej časem, neboť to je ten materiál, z něhož
+      se dělá život.“ Benjamin Franklin"
+    priorities: "<p>bezpečn&aacute; a čist&aacute; ulice obklopen&aacute; zelen&iacute;</p>"
 - Jiří Karásek:
     _slug: jiri-karasek
-    photo: /samples/candidates/jiri-karasek/jersey_3_4.jpg
+    photo: "/samples/candidates/jiri-karasek/jersey_3_4.jpg"
     occupation: konstruktér
     political_party: registrovaný sympatizant Svobodných
     age: 36
@@ -236,10 +236,10 @@
       voleb se Svobodn&yacute;mi &nbsp;se rozhodl j&iacute;t z toho důvodu, že Řepy
       pro něj něco znamenaj&iacute;. </span></p>\r\n<p><span>Žije zde od sv&yacute;ch
       pěti let.</span></p>"
-    priorities: <p>a doporučuji program &Scaron;ance pro Řepy - Svobodn&iacute; 2014</p>
+    priorities: "<p>a doporučuji program &Scaron;ance pro Řepy - Svobodn&iacute; 2014</p>"
 - Pavel Poláček:
     _slug: pavel-polacek
-    photo: /samples/candidates/pavel-polacek/luk3_4.jpg
+    photo: "/samples/candidates/pavel-polacek/luk3_4.jpg"
     occupation: programátor
     political_party: Strana Svobodných občanů
     age: 25
@@ -247,7 +247,7 @@
     priorities: ''
 - Bc. Adéla Weissová:
     _slug: bc-adela-weissova
-    photo: /samples/candidates/bc-adela-weissova/weiss1-3-4.jpg
+    photo: "/samples/candidates/bc-adela-weissova/weiss1-3-4.jpg"
     occupation: studentka FTVS UK
     political_party: bez politické příslušnosti
     age: 23
@@ -257,37 +257,38 @@
       Karlova - FTVS ( nyn&iacute; na magistersk&eacute;m studiu) </span></p>\r\n<p><span>Z&aacute;jmy:
       sport, zejm&eacute;na softball, ve kter&eacute;m jsem měla možnost reprezentovat
       ČR na mistrovstv&iacute;ch Evropy a světa.&nbsp;</span></p>"
-    priorities: <p>čistota, zlep&scaron;en&iacute; sportovn&iacute;ch možnost&iacute;
+    priorities: "<p>čistota, zlep&scaron;en&iacute; sportovn&iacute;ch možnost&iacute;
       v Řep&iacute;ch, vybudov&aacute;n&iacute; softballov&eacute;ho are&aacute;lu
-      a okruhu na in line bruslen&iacute;</p>
+      a okruhu na in line bruslen&iacute;</p>"
 - Petr Kalíš:
     _slug: petr-kalis
-    photo: /samples/candidates/petr-kalis/image3.jpg
+    photo: "/samples/candidates/petr-kalis/image3.jpg"
     occupation: IT konzultant
     political_party: Strana svobodných občanů
     age: 39
-    profile: <p>&nbsp;Moje pr&aacute;ce mě zaměstn&aacute;v&aacute; na 100%, zbytek
+    profile: "<p>&nbsp;Moje pr&aacute;ce mě zaměstn&aacute;v&aacute; na 100%, zbytek
       věnuji rodině, pr&aacute;vě proto chci aby Řepy byli klidn&yacute;m m&iacute;stem
       pro život kde zastupitel&eacute; a občan&eacute; společně o svoji obec pečuj&iacute;
       a zvelebuj&iacute; ji. Protože považuji program Svobodn&yacute;ch v dne&scaron;n&iacute;
       době jako jedin&yacute; re&aacute;ln&yacute; a dlouhodbě udržiteln&yacute;,
-      rozhodl jsem se pomoci k &uacute;spěchu Svobodn&yacute;ch i svoj&iacute; kandidaturou,</p>
-    quote: „Většina politické energie je věnována tomu, jak napravit důsledky špatných
-      vládních rozhodnutí.“ – Milton Friedman
-    priorities: <p>&uacute;spory obce &nbsp;v software a nov&aacute; webov&aacute;
-      prezentace obce</p>
+      rozhodl jsem se pomoci k &uacute;spěchu Svobodn&yacute;ch i svoj&iacute; kandidaturou,</p>"
+    quote: "„Většina politické energie je věnována tomu, jak napravit důsledky špatných
+      vládních rozhodnutí.“ – Milton Friedman"
+    priorities: "<p>&uacute;spory obce &nbsp;v software a nov&aacute; webov&aacute;
+      prezentace obce</p>"
 - Pavel Vitouš:
     _slug: pavel-vitous
-    photo: /samples/candidates/pavel-vitous/image2.png
+    photo: "/samples/candidates/pavel-vitous/image2.png"
     occupation: správce IT sítí
     political_party: registrovaný symatizant Svobodných
     age: 25
     profile: ''
-    quote: „Kdo v demokracii spí, probudí se v diktatuře.“ - Johann Wolfgang von Goethe
+    quote: "„Kdo v demokracii spí, probudí se v diktatuře.“ - Johann Wolfgang von
+      Goethe"
     priorities: ''
 - Petr Šach:
     _slug: petr-sach
-    photo: /samples/candidates/petr-sach/_ach_3-4.jpg
+    photo: "/samples/candidates/petr-sach/_ach_3-4.jpg"
     occupation: ekonom - podnikatel
     political_party: registrovaný sympatizant Svobodných
     age: 26
@@ -310,10 +311,10 @@
     quote: 'Když se to hýbe, zdaňte to. Když se to hýbe ještě dál, regulujte to. Když
       se to už nehýbe, dotujte to."Ronald Reagan Skvěle to totiž sedí na dnešní byrokracii
       z Bruselu a naší socialistickou vládu.  '
-    priorities: <p>ekonomie a hospodařen&iacute; obce</p>
+    priorities: "<p>ekonomie a hospodařen&iacute; obce</p>"
 - Ing. Karel Křenek:
     _slug: ing-karel-krenek
-    photo: /samples/candidates/ing-karel-krenek/k_enek.jpg
+    photo: "/samples/candidates/ing-karel-krenek/k_enek.jpg"
     occupation: obchodní zástupce
     political_party: registrovaný sympatizant Svobodných
     age: 36
@@ -329,7 +330,7 @@
     priorities: ''
 - Ivana Kladenská:
     _slug: ivana-kladenska
-    photo: /samples/candidates/ivana-kladenska/kladensk_.jpg
+    photo: "/samples/candidates/ivana-kladenska/kladensk_.jpg"
     occupation: pracovník v logistice
     political_party: registrovaný sympatizant Svobodných
     age: 32
@@ -345,11 +346,11 @@
       při posezen&iacute; s př&aacute;teli.</p>\r\n<p>&nbsp;Kandidaturu za Svobodn&eacute;
       přijala r&aacute;da, protože program Svobodn&yacute;ch - bez slibů a na z&aacute;kladě
       reality považuje dlouhodobě jako jedin&yacute; možn&yacute; pro Českou republiku.</p>\r\n<p>&nbsp;</p>"
-    priorities: <p>V komun&aacute;ln&iacute; politice bych se r&aacute;da věnovala
-      t&eacute;matům jako veřejn&aacute; doprava a životn&iacute; prostřed&iacute;.&nbsp;</p>
+    priorities: "<p>V komun&aacute;ln&iacute; politice bych se r&aacute;da věnovala
+      t&eacute;matům jako veřejn&aacute; doprava a životn&iacute; prostřed&iacute;.&nbsp;</p>"
 - Mgr. Petr Čada:
     _slug: mgr-petr-cada
-    photo: /samples/candidates/mgr-petr-cada/cada1.jpg
+    photo: "/samples/candidates/mgr-petr-cada/cada1.jpg"
     occupation: dopravní inženýr
     political_party: registrovaný sympatizant Svobodných
     age: 44
@@ -362,11 +363,12 @@
       projekty (ŽL). (Slovensko, Česko)</p>\r\n<p>1998 &ndash; 2007: Mott MacDonald,
       konzultačn&iacute; činnost &ndash; velk&eacute; infrastruktur&aacute;ln&iacute;
       projekty</p>\r\n<p>&nbsp;</p>"
-    quote: „Všechno je málo.“ (Miloš Kopecký)
-    priorities: <p>Mam dlouhodobe konzistentni nazory na dopravni problematiku a financovani.&nbsp;</p>
+    quote: "„Všechno je málo.“ (Miloš Kopecký)"
+    priorities: "<p>Mam dlouhodobe konzistentni nazory na dopravni problematiku a
+      financovani.&nbsp;</p>"
 - Ing. Karel Just:
     _slug: ing-karel-just
-    photo: /samples/candidates/ing-karel-just/image1_.jpg
+    photo: "/samples/candidates/ing-karel-just/image1_.jpg"
     occupation: podnikatel
     political_party: registrovaný sympatizant Svobodných
     age: 61
@@ -374,7 +376,7 @@
     priorities: ''
 - Jan Jirkovský:
     _slug: jan-jirkovsky
-    photo: /samples/candidates/jan-jirkovsky/foto_JanJ.jpg
+    photo: "/samples/candidates/jan-jirkovsky/foto_JanJ.jpg"
     occupation: IT konzultant
     political_party: registrovaný sympatizant Svobodných
     age: 25
@@ -389,7 +391,7 @@
     priorities: ''
 - 'Bc. Petra Matunová ':
     _slug: bc-petra-matunova
-    photo: /samples/candidates/bc-petra-matunova/matunka_3.4.jpg
+    photo: "/samples/candidates/bc-petra-matunova/matunka_3.4.jpg"
     occupation: studentka MFF UK
     political_party: bez politické příslušnosti
     age: 25
@@ -404,11 +406,10 @@
       pobyt ve &Scaron;v&eacute;dsku 2013-2014&nbsp;</span></p>\r\n<p><span style=\"line-height:
       1.5em;\">Z&aacute;jmy: sport, latinsko-americk&eacute; tance.</span></p>"
     quote: Beru vždy život s úsměvem.
-    priorities: <p>zlep&scaron;en&iacute; čistoty na ulic&iacute;ch a zvět&scaron;en&iacute;
-      zazeleněn&yacute;ch ploch nam&iacute;sto asfaltu,betonu i střech domů</p>
+    priorities: "<p>zlep&scaron;en&iacute; čistoty na ulic&iacute;ch a zvět&scaron;en&iacute;
+      zazeleněn&yacute;ch ploch nam&iacute;sto asfaltu,betonu i střech domů</p>"
 - RNDr. Milan Kalina:
     _slug: rndr-milan-kalina
-    photo: /samples/candidates/rndr-milan-kalina/Lopatka.png
     occupation: projektový manažer
     political_party: bez politické příslušnosti
     age: 49
@@ -423,12 +424,12 @@
       nebo u poč&iacute;tače</p>"
     quote: Kdo se vzdá svobody, aby získal jistotu, ztratí nakonec obojí!  Benjamin
       Franklin
-    priorities: <p>čistota, poř&aacute;dek,bezpeč&iacute; &nbsp;na ulic&iacute;ch
-      a klid v nočn&iacute;ch hodin&aacute;ch</p>
+    priorities: "<p>čistota, poř&aacute;dek,bezpeč&iacute; &nbsp;na ulic&iacute;ch
+      a klid v nočn&iacute;ch hodin&aacute;ch</p>"
 - Rudolf Knopp:
     _slug: rudolf-knopp
-    photo: /samples/candidates/rudolf-knopp/knopp_rudolf.jpg
-    occupation: ředitel stavební společnosti
+    photo: "/samples/candidates/rudolf-knopp/knopp_rudolf.jpg"
+    occupation: "ředitel stavební společnosti"
     political_party: bez politické příslušnosti
     age: 64
     profile: "<p>Od roku 1989 žiji v Řep&iacute;ch.</p>\r\n<p>&nbsp;Po vyučen&iacute;
@@ -443,15 +444,15 @@
       jsem se věnoval aktivně sportu a hudbě.</p>\r\n<p>&nbsp;Mezi moje z&aacute;liby
       patř&iacute; malov&aacute;n&iacute;, četba, vysokohorsk&aacute; turistika a
       historie.</p>"
-    quote: „Jenom svoboda a dobré státní zřízení příčinou jest blahobytu a růstu a
-      jmenovitě ta část a stránka svobody, která k tomu vede, aby každý pokud možná
+    quote: "„Jenom svoboda a dobré státní zřízení příčinou jest blahobytu a růstu
+      a jmenovitě ta část a stránka svobody, která k tomu vede, aby každý pokud možná
       jen pro sebe pracoval, a celý výnos přičinění svého sám pro sebe zachoval, neživě
-      z toho žádných zahalečů.“ – Karel Havlíček Borovský
-    priorities: <p>vy&scaron;&scaron;&iacute; bezečnost na s&iacute;dli&scaron;ti,
-      zejm&eacute;na pro seniory a děti.</p>
+      z toho žádných zahalečů.“ – Karel Havlíček Borovský"
+    priorities: "<p>vy&scaron;&scaron;&iacute; bezečnost na s&iacute;dli&scaron;ti,
+      zejm&eacute;na pro seniory a děti.</p>"
 - Zbyšek Koubský:
     _slug: zbysek-koubsky
-    photo: /samples/candidates/zbysek-koubsky/Zby_ek_Koubsk__opr.jpg
+    photo: "/samples/candidates/zbysek-koubsky/Zby_ek_Koubsk__opr.jpg"
     occupation: podnikatel
     political_party: Strana Svobodných občanů
     age: 27
@@ -459,7 +460,7 @@
     priorities: ''
 - Bc. Marek Adensam:
     _slug: bc-marek-adensam
-    photo: /samples/candidates/bc-marek-adensam/madensam.jpg
+    photo: "/samples/candidates/bc-marek-adensam/madensam.jpg"
     occupation: bankovní úředník
     political_party: bez politické příslušnosti
     age: 41
@@ -472,10 +473,10 @@
       softballov&yacute; klub, pop&iacute;j&iacute; v&iacute;no, čte a miluje večern&iacute;
       klid.</p>\r\n<p>&nbsp;</p>"
     quote: Kdo nic nezkusil, nic nedokázal
-    priorities: <p>zlep&scaron;en&iacute; bezpečnosti a životn&iacute;ho prostřed&iacute;</p>
+    priorities: "<p>zlep&scaron;en&iacute; bezpečnosti a životn&iacute;ho prostřed&iacute;</p>"
 - Petra Knoppová:
     _slug: petra-knoppova
-    photo: /samples/candidates/petra-knoppova/knopov_.jpg
+    photo: "/samples/candidates/petra-knoppova/knopov_.jpg"
     occupation: pracovník kanceláře letového provozu
     political_party: bez politické příslušnosti
     age: 21
@@ -494,6 +495,6 @@
       svobodu jednotlivců a ne od&iacute;r&aacute;n&iacute; od st&aacute;tu a proto
       kandiduji za Svobodn&eacute;... &nbsp;Svoboda = velk&aacute; zodpovědnost</span></p>"
     quote: 'když si nepřiznáš chybu, uděláš další  '
-    priorities: <p><span>prosazuji modernizaci Řep, v&iacute;c prostoru pro voln&yacute;
+    priorities: "<p><span>prosazuji modernizaci Řep, v&iacute;c prostoru pro voln&yacute;
       čas, čistotou a bezpečnou ulici a zachov&aacute;n&iacute; klidn&eacute;ho prostřed&iacute;
-      a roz&scaron;&iacute;řen&iacute; ploch zeleně.</span></p>
+      a roz&scaron;&iacute;řen&iacute; ploch zeleně.</span></p>"

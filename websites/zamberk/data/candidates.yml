@@ -1,7 +1,7 @@
 ---
 - Mgr. Richard Neugebauer:
     _slug: mgr-richard-neugebauer
-    photo: /samples/candidates/mgr-richard-neugebauer/risa.jpg
+    photo: "/samples/candidates/mgr-richard-neugebauer/risa.jpg"
     occupation: OSVČ - tenisový trenér
     political_party: Strana svobodných občanů
     age: 45
@@ -11,7 +11,7 @@
     priorities: ''
 - Pavel Huška:
     _slug: pavel-huska
-    photo: /samples/candidates/pavel-huska/huska_st..jpg
+    photo: "/samples/candidates/pavel-huska/huska_st..jpg"
     occupation: jednatel firmy DD REKLAMA s.r.o.
     political_party: bez politické příslušnosti
     age: 40
@@ -19,7 +19,7 @@
     priorities: ''
 - Ing. Oldřich Vlk:
     _slug: ing-oldrich-vlk
-    photo: /samples/candidates/ing-oldrich-vlk/vlk.jpg
+    photo: "/samples/candidates/ing-oldrich-vlk/vlk.jpg"
     occupation: OSVČ
     political_party: bez politické příslušnosti
     age: 73
@@ -27,7 +27,7 @@
     priorities: ''
 - Adéla Hrubešová:
     _slug: adela-hrubesova
-    photo: /samples/candidates/adela-hrubesova/hrubesova.jpg
+    photo: "/samples/candidates/adela-hrubesova/hrubesova.jpg"
     occupation: studentka
     political_party: bez politické příslušnosti
     age: 25
@@ -37,7 +37,7 @@
     priorities: ''
 - Martin Dostál:
     _slug: martin-dostal
-    photo: /samples/candidates/martin-dostal/dostal.jpg
+    photo: "/samples/candidates/martin-dostal/dostal.jpg"
     occupation: kuchař
     political_party: bez politické příslušnosti
     age: 30
@@ -47,7 +47,7 @@
     priorities: ''
 - Luděk Horálek:
     _slug: ludek-horalek
-    photo: /samples/candidates/ludek-horalek/horalek.jpg
+    photo: "/samples/candidates/ludek-horalek/horalek.jpg"
     occupation: obchodní zástupce
     political_party: bez politické příslušnosti
     age: 64
@@ -57,7 +57,7 @@
     priorities: ''
 - MUDr. Martin Dvořáček:
     _slug: mudr-martin-dvoracek
-    photo: /samples/candidates/mudr-martin-dvoracek/dvoracek.jpg
+    photo: "/samples/candidates/mudr-martin-dvoracek/dvoracek.jpg"
     occupation: primář
     political_party: bez politické příslušnosti
     age: 56
@@ -65,7 +65,7 @@
     priorities: ''
 - Michal Ulrych:
     _slug: michal-ulrych
-    photo: /samples/candidates/michal-ulrych/ulrych.jpg
+    photo: "/samples/candidates/michal-ulrych/ulrych.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 22
@@ -73,7 +73,7 @@
     priorities: ''
 - Jan Třináctý:
     _slug: jan-trinacty
-    photo: /samples/candidates/jan-trinacty/trinacty.jpg
+    photo: "/samples/candidates/jan-trinacty/trinacty.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 24
@@ -81,7 +81,7 @@
     priorities: ''
 - Pavel Huška:
     _slug: pavel-huska-1
-    photo: /samples/candidates/pavel-huska-1/huska.jpg
+    photo: "/samples/candidates/pavel-huska-1/huska.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 20
@@ -89,7 +89,7 @@
     priorities: ''
 - Ivan Adámek:
     _slug: ivan-adamek
-    photo: /samples/candidates/ivan-adamek/adamek.jpg
+    photo: "/samples/candidates/ivan-adamek/adamek.jpg"
     occupation: důchodce
     political_party: bez politické příslušnosti
     age: 64
@@ -98,7 +98,7 @@
     priorities: ''
 - Jaroslava Dvořáčková:
     _slug: jaroslava-dvorackova
-    photo: /samples/candidates/jaroslava-dvorackova/dvorackova.jpg
+    photo: "/samples/candidates/jaroslava-dvorackova/dvorackova.jpg"
     occupation: jednatel firmy DD REKLAMA s.r.o.
     political_party: bez politické příslušnosti
     age: 31
@@ -106,7 +106,7 @@
     priorities: ''
 - Tomáš Pásler:
     _slug: tomas-pasler
-    photo: /samples/candidates/tomas-pasler/pasler.jpg
+    photo: "/samples/candidates/tomas-pasler/pasler.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 20
@@ -116,7 +116,7 @@
     priorities: ''
 - Martin Dvořáček:
     _slug: martin-dvoracek
-    photo: /samples/candidates/martin-dvoracek/dvoracek.jpg
+    photo: "/samples/candidates/martin-dvoracek/dvoracek.jpg"
     occupation: student
     political_party: bez politické příslušnosti
     age: 20
@@ -124,7 +124,7 @@
     priorities: ''
 - Michal Poláček:
     _slug: michal-polacek
-    photo: /samples/candidates/michal-polacek/polacek.jpg
+    photo: "/samples/candidates/michal-polacek/polacek.jpg"
     occupation: klempíř specialista
     political_party: bez politické příslušnosti
     age: 24
@@ -132,7 +132,7 @@
     priorities: ''
 - Jaroslav Blažek:
     _slug: jaroslav-blazek
-    photo: /samples/candidates/jaroslav-blazek/blazek.jpg
+    photo: "/samples/candidates/jaroslav-blazek/blazek.jpg"
     occupation: zaměstnanec ŠKODA AUTO
     political_party: bez politické příslušnosti
     age: 47
@@ -140,15 +140,15 @@
     priorities: ''
 - Jan Černoch:
     _slug: jan-cernoch
-    photo: /samples/candidates/jan-cernoch/cernoch.jpg
+    photo: "/samples/candidates/jan-cernoch/cernoch.jpg"
     occupation: obsluha tepelných strojů
     political_party: bez politické příslušnosti
     age: 59
     profile: ''
     priorities: ''
-- Štěpán Chmelíček:
+- "Štěpán Chmelíček":
     _slug: stepan-chmelicek
-    photo: /samples/candidates/stepan-chmelicek/chmelicek.jpg
+    photo: "/samples/candidates/stepan-chmelicek/chmelicek.jpg"
     occupation: zaměstnanec ŠKODA AUTO
     political_party: bez politické příslušnosti
     age: 23
@@ -158,7 +158,7 @@
     priorities: ''
 - Karel Vencl:
     _slug: karel-vencl
-    photo: /samples/candidates/karel-vencl/vencl.jpg
+    photo: "/samples/candidates/karel-vencl/vencl.jpg"
     occupation: strojvůdce ČD
     political_party: bez politické příslušnosti
     age: 61
@@ -166,7 +166,7 @@
     priorities: ''
 - Petr Felgr:
     _slug: petr-felgr
-    photo: /samples/candidates/petr-felgr/felgr.jpg
+    photo: "/samples/candidates/petr-felgr/felgr.jpg"
     occupation: obsluha tepelných strojů
     political_party: bez politické příslušnosti
     age: 52
@@ -174,7 +174,7 @@
     priorities: ''
 - Ondřej Nistor:
     _slug: ondrej-nistor
-    photo: /samples/candidates/ondrej-nistor/nistor.jpg
+    photo: "/samples/candidates/ondrej-nistor/nistor.jpg"
     occupation: sociální pracovník
     political_party: bez politické příslušnosti
     age: 34

@@ -2,9 +2,9 @@
 - Volit Svobodné se vyplatí:
     _slug: volit-svobodne-se-vyplati
     posted_at: 22. 09. 2014 00:00
-    teaser: <p>Video...</p>
-    body: <p><a title="Volby do sen&aacute;tu" href="https://www.facebook.com/video.php?v=10152737583309704"
-      target="_blank">https://www.facebook.com/video.php?v=10152737583309704</a></p>
+    teaser: "<p>Video...</p>"
+    body: "<p><a title=\"Volby do sen&aacute;tu\" href=\"https://www.facebook.com/video.php?v=10152737583309704\"
+      target=\"_blank\">https://www.facebook.com/video.php?v=10152737583309704</a></p>"
 - 'KINKOR: Platbou daní si nic nekupujeme':
     _slug: kinkor-platbou-dani-si-nic-nekupujeme
     seo_title: 'KINKOR: Platbou daní si nic nekupujeme'
@@ -12,7 +12,7 @@
     meta_description: 'KINKOR: Platbou daní si nic nekupujeme'
     posted_at: 12. 09. 2014 18:54
     author: JIŘÍ KINKOR
-    teaser: '<p>Neuvěřitelnou ot&aacute;zkou: &bdquo;A co m&aacute; b&yacute;t?&ldquo;,
+    teaser: "<p>Neuvěřitelnou ot&aacute;zkou: &bdquo;A co m&aacute; b&yacute;t?&ldquo;,
       reagoval sv&eacute;ho času Tom&aacute;&scaron; Sedl&aacute;ček na zji&scaron;těn&iacute;
       Liber&aacute;ln&iacute;ho institutu, jak obrovskou č&aacute;st př&iacute;jmů
       odevzd&aacute;vaj&iacute; če&scaron;t&iacute; daňov&iacute; poplatn&iacute;ci
@@ -20,8 +20,8 @@
       svobody&ldquo;, přikl&aacute;dali velk&yacute; v&yacute;znam. Prim&aacute;rn&iacute;
       ot&aacute;zkou jsou samozřejmě v&yacute;daje a funkce st&aacute;tu, jejich financov&aacute;n&iacute;
       je pak ot&aacute;zkou odvozenou. A na to pan Schwarz z Liber&aacute;ln&iacute;ho
-      institutu spr&aacute;vně poukazuje.... <a href="http://novavesvhorach.svobodni.cz/clanky/kinkor-platbou-dani-si-nic-nekupujeme">čtěte
-      v&iacute;ce &gt;&gt;&gt;</a></p>'
+      institutu spr&aacute;vně poukazuje.... <a href=\"http://novavesvhorach.svobodni.cz/clanky/kinkor-platbou-dani-si-nic-nekupujeme\">čtěte
+      v&iacute;ce &gt;&gt;&gt;</a></p>"
     body: "<p>Neuvěřitelnou ot&aacute;zkou: &bdquo;A co m&aacute; b&yacute;t?&ldquo;,
       reagoval sv&eacute;ho času Tom&aacute;&scaron; Sedl&aacute;ček na zji&scaron;těn&iacute;
       Liber&aacute;ln&iacute;ho institutu, jak obrovskou č&aacute;st př&iacute;jmů

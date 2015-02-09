@@ -1,18 +1,18 @@
 ---
 - Josef Šídlo:
     _slug: josef-sidlo
-    photo: /samples/candidates/josef-sidlo/pepe.jpg
+    photo: "/samples/candidates/josef-sidlo/pepe.jpg"
     occupation: 'manažer '
     political_party: Strana svobodných občanů
     age: 32
-    profile: <p>Narodil se 29. ř&iacute;jna 1981 v Česk&eacute; L&iacute;pě. Vystudoval
+    profile: "<p>Narodil se 29. ř&iacute;jna 1981 v Česk&eacute; L&iacute;pě. Vystudoval
       zde gymn&aacute;zium. Od roku 2007 pracuje v nadn&aacute;rodn&iacute; společnosti
       s pobočkou v Česk&eacute; L&iacute;pě. V současn&eacute; době působ&iacute;
       na pozici Continuous improvement manager, kde se zab&yacute;v&aacute; zejm&eacute;na
       hled&aacute;n&iacute;m &uacute;spor, optimalizac&iacute; a efektivitou v&yacute;robn&iacute;ch
       procesů. Sv&eacute; znalosti a zku&scaron;enosti by r&aacute;d využil i v zastupitelstvu.
       Ve sv&eacute;m voln&eacute;m čase se věnuje hlavně sportu, je spoluzaklada<span
-      class="text_exposed_show">telem t&yacute;mu F. A. Zole, kter&yacute; na&scaron;e
+      class=\"text_exposed_show\">telem t&yacute;mu F. A. Zole, kter&yacute; na&scaron;e
       město reprezentuje ve druh&eacute; nejvy&scaron;&scaron;&iacute; soutěži. Je
       členem Strany svobodn&yacute;ch občanů, přičemž s touto stranou sd&iacute;l&iacute;
       zejm&eacute;na přesvědčen&iacute; o nepřijet&iacute; eura a o nutnosti sn&iacute;žen&iacute;
@@ -43,43 +43,197 @@
       chceme zaměřit na zlep&scaron;en&iacute; života na s&iacute;dli&scaron;t&iacute;ch,
       konkr&eacute;tně zefektivněn&iacute; um&iacute;stěn&iacute; přechodů, &uacute;držby
       chodn&iacute;ků či n&aacute;jezdů pro koč&aacute;rky a pohybově znev&yacute;hodněn&eacute;
-      občany</span></p>
+      občany</span></p>"
     priorities: ''
 - Ing. Petr Michl:
     _slug: ing-petr-michl
-    photo: /samples/candidates/ing-petr-michl/petr.jpg
+    photo: "/samples/candidates/ing-petr-michl/petr.jpg"
     occupation: ekonom
     political_party: Strana svobodných občanů
     age: 47
-    profile: '<p style="text-align: justify;"><span class="userContent"><span class="userContent">Narodil
-      se 7. 1. 1967 v P&iacute;sku. Od roku 1980 žije v Česk&eacute; L&iacute;pě.
-      Vystudoval zdej&scaron;&iacute; gymn&aacute;zium, a pot&eacute; se věnoval oboru
-      n&aacute;rodn&iacute; hospod&aacute;řstv&iacute; na N&aacute;rodohospod&aacute;řsk&eacute;
-      fakultě V&Scaron;E. Z hlediska jeho profesn&iacute;ho<span class="text_exposed_show">
-      v&yacute;voje je nejpodstatněj&scaron;&iacute; etapou pozice ekonoma ve společnosti
-      Provod&iacute;nsk&eacute; p&iacute;sky a.s. Nyn&iacute; podnik&aacute; jako
-      OSVČ v oboru &uacute;četnictv&iacute; a ekonomick&eacute;ho poradenstv&iacute;.
-      Ekonomii se věnuje i ve sv&eacute;m voln&eacute;m čase, r&aacute;d čte odbornou
-      ekonomickou literaturu, ale mezi jeho nejobl&iacute;beněj&scaron;&iacute; činnosti
-      patř&iacute; tak&eacute; sp&aacute;nek a odpočinek. Během leto&scaron;n&iacute;ho
-      roku se stal členem Strany svobodn&yacute;ch občanů, přičemž ho v programu t&eacute;to
-      strany zaujalo zejm&eacute;na pojet&iacute; voln&eacute;ho trhu, ale tak&eacute;
-      přesvědčen&iacute; o autonomii jedince v r&aacute;mci společnosti a jeho pr&aacute;vo
-      na svobodn&eacute; či nez&aacute;visl&eacute; my&scaron;len&iacute;. V Česk&eacute;
-      L&iacute;pě vn&iacute;m&aacute; jako velk&yacute; probl&eacute;m nehospod&aacute;rn&eacute;
-      nakl&aacute;d&aacute;n&iacute; s veřejn&yacute;mi prostředky, např&iacute;klad
-      podporu ekonomicky neudržiteln&yacute;ch podniků či organizac&iacute;. D&aacute;le
-      stejně neekonomick&yacute; nadbytek &uacute;ředn&iacute;ků či procesů byrokracie,
-      č&iacute;mž nejen doch&aacute;z&iacute; k přehnan&eacute; administrativn&iacute;
-      z&aacute;těži na občana, ale předev&scaron;&iacute;m zcela neefektivn&iacute;
-      finančn&iacute; z&aacute;těži veřejn&eacute; sf&eacute;ry.</span></span><br
-      /><br /></span></p>'
+    profile: "<p style=\"text-align: justify;\"><span class=\"userContent\"><span
+      class=\"userContent\">Narodil se 7. 1. 1967 v P&iacute;sku. Od roku 1980 žije
+      v Česk&eacute; L&iacute;pě. Vystudoval zdej&scaron;&iacute; gymn&aacute;zium,
+      a pot&eacute; se věnoval oboru n&aacute;rodn&iacute; hospod&aacute;řstv&iacute;
+      na N&aacute;rodohospod&aacute;řsk&eacute; fakultě V&Scaron;E. Z hlediska jeho
+      profesn&iacute;ho<span class=\"text_exposed_show\"> v&yacute;voje je nejpodstatněj&scaron;&iacute;
+      etapou pozice ekonoma ve společnosti Provod&iacute;nsk&eacute; p&iacute;sky
+      a.s. Nyn&iacute; podnik&aacute; jako OSVČ v oboru &uacute;četnictv&iacute; a
+      ekonomick&eacute;ho poradenstv&iacute;. Ekonomii se věnuje i ve sv&eacute;m
+      voln&eacute;m čase, r&aacute;d čte odbornou ekonomickou literaturu, ale mezi
+      jeho nejobl&iacute;beněj&scaron;&iacute; činnosti patř&iacute; tak&eacute; sp&aacute;nek
+      a odpočinek. Během leto&scaron;n&iacute;ho roku se stal členem Strany svobodn&yacute;ch
+      občanů, přičemž ho v programu t&eacute;to strany zaujalo zejm&eacute;na pojet&iacute;
+      voln&eacute;ho trhu, ale tak&eacute; přesvědčen&iacute; o autonomii jedince
+      v r&aacute;mci společnosti a jeho pr&aacute;vo na svobodn&eacute; či nez&aacute;visl&eacute;
+      my&scaron;len&iacute;. V Česk&eacute; L&iacute;pě vn&iacute;m&aacute; jako velk&yacute;
+      probl&eacute;m nehospod&aacute;rn&eacute; nakl&aacute;d&aacute;n&iacute; s veřejn&yacute;mi
+      prostředky, např&iacute;klad podporu ekonomicky neudržiteln&yacute;ch podniků
+      či organizac&iacute;. D&aacute;le stejně neekonomick&yacute; nadbytek &uacute;ředn&iacute;ků
+      či procesů byrokracie, č&iacute;mž nejen doch&aacute;z&iacute; k přehnan&eacute;
+      administrativn&iacute; z&aacute;těži na občana, ale předev&scaron;&iacute;m
+      zcela neefektivn&iacute; finančn&iacute; z&aacute;těži veřejn&eacute; sf&eacute;ry.</span></span><br
+      /><br /></span></p>"
     priorities: ''
 - Jiří Jelínek:
     _slug: jiri-jelinek
-    photo: /samples/candidates/jiri-jelinek/jirka.jpg
+    photo: "/samples/candidates/jiri-jelinek/jirka.jpg"
     occupation: kavárník
     political_party: bez politické příslušnosti
     age: 27
+    profile: ''
+    priorities: ''
+- "Jaroslav\tŠturman":
+    _slug: jaroslav-sturman
+    occupation: analytik informačních systémů
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- "Mgr. Vratislav\tČesenek":
+    _slug: mgr-vratislav-cesenek
+    occupation: finanční a pojišťovací poradce
+    political_party: bez politické příslušnosti
+    age: 48
+    profile: ''
+    priorities: ''
+- "Ivana\tKosťunová":
+    _slug: ivana-kostunova
+    occupation: OSVČ
+    political_party: bez politické příslušnosti
+    age: 61
+    profile: ''
+    priorities: ''
+- "Mgr. Martina\tKrejčová":
+    _slug: martina-krejcova
+    occupation: lektorka
+    political_party: bez politické příslušnosti
+    age: 28
+    profile: ''
+    priorities: ''
+- "MUDr. Jakub\tNeumayer":
+    _slug: mudr-jakub-neumayer
+    occupation: gynekolog, porodník
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- "Vladimíra\tZborníková":
+    _slug: vladimira-zbornikova
+    occupation: podnikatelka
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- "Jan\tMunzar":
+    _slug: jan-munzar
+    occupation: seřizovač
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- "Mgr. Václav\tŠkola":
+    _slug: mgr-vaclav-skola
+    occupation: koordinátor vysoce výkonných týmů
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- "Pavel\tSkládaný":
+    _slug: pavel-skladany
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 50
+    profile: ''
+    priorities: ''
+- "Kateřina\tKovářová":
+    _slug: katerina-kovarova
+    occupation: daňová poradkyně, jednatelka společnosti
+    political_party: bez politické příslušnosti
+    age: 38
+    profile: ''
+    priorities: ''
+- "Jiří\tŘehoř":
+    _slug: jiri-rehor
+    occupation: IT pracovník
+    political_party: bez politické příslušnosti
+    age: 33
+    profile: ''
+    priorities: ''
+- "Kateřina\tŠimůnková":
+    _slug: katerina-simunkova
+    occupation: dispečerka dopravy
+    political_party: bez politické příslušnosti
+    age: 27
+    profile: ''
+    priorities: ''
+- "Pavel \tStieranka":
+    _slug: pavel-stieranka
+    occupation: umělec
+    political_party: bez politické příslušnosti
+    age: 36
+    profile: ''
+    priorities: ''
+- "Pavel\tNovotný":
+    _slug: pavel-novotny
+    occupation: logistik
+    political_party: bez politické příslušnosti
+    age: 29
+    profile: ''
+    priorities: ''
+- "Lukáš\tTykva":
+    _slug: lukas-tykva
+    occupation: fotbalový rozhodčí
+    political_party: bez politické příslušnosti
+    age: 32
+    profile: ''
+    priorities: ''
+- "Adéla \tČesenková":
+    _slug: adela-cesenkova
+    occupation: studentka
+    political_party: bez politické příslušnosti
+    age: 19
+    profile: ''
+    priorities: ''
+- "Lukáš\tBabka":
+    _slug: lukas-babka
+    occupation: podnikatel
+    political_party: bez politické příslušnosti
+    age: 31
+    profile: ''
+    priorities: ''
+- "Barbora\tSoušková":
+    _slug: barbora-souskova
+    occupation: podnikatelka
+    political_party: bez politické příslušnosti
+    age: 24
+    profile: ''
+    priorities: ''
+- "Josef\tVokál":
+    _slug: josef-vokal
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- "Lukáš\tŠvasta":
+    _slug: lukas-svasta
+    occupation: konstruktér
+    political_party: bez politické příslušnosti
+    age: 30
+    profile: ''
+    priorities: ''
+- "Jan\tVotápek":
+    _slug: jan-votapek
+    occupation: projektový manažer
+    political_party: bez politické příslušnosti
+    age: 25
+    profile: ''
+    priorities: ''
+- "Marek \tMichl":
+    _slug: marek-michl
+    occupation: student
+    political_party: bez politické příslušnosti
+    age: 22
     profile: ''
     priorities: ''

@@ -1,7 +1,7 @@
 ---
 - Radek Horký:
     _slug: radek-horky
-    photo: /samples/candidates/radek-horky/1.jpg
+    photo: "/samples/candidates/radek-horky/1.jpg"
     political_party: Strana svobodných občanů
     age: 47
     email: info@bpposervis.cz
@@ -50,11 +50,16 @@
       rozumu. Věř&iacute;m, že to bude k užitku cel&eacute;mu městu.</p>"
 - Jan Polášek:
     _slug: jan-polasek
-    photo: /samples/candidates/jan-polasek/2.jpg
+    photo: "/samples/candidates/jan-polasek/2.jpg"
     political_party: Strana svobodných občanů
     age: 31
     email: janpolasek@seznam.cz
-    profile: ''
+    profile: "<p>ŽIVOTOPIS</p>\r\n<p>Narodil jsem se 27/8/1983 v Kyjově.</p>\r\n<p>Vzděl&aacute;n&iacute;:
+      Z&scaron; Komensk&eacute;ho Břeclav, Gymn&aacute;zium Břeclav, VUT v Brně -
+      Fakulta Elektrotechniky.</p>\r\n<p>Pracuji ve firmě A-Technology s.r.o. jako
+      program&aacute;tor ř&iacute;d&iacute;c&iacute;ch syst&eacute;mů pro průmyslovou
+      automatizaci.</p>\r\n<p>Jsem ženat&yacute; s manželkou Katar&iacute;nou, m&aacute;mě
+      dvě dcery.</p>\r\n<p>&nbsp;</p>"
     priorities: "<p><strong>Svobodn&eacute; parkov&aacute;n&iacute; v Břeclavi</strong></p>\r\n<p>Jedn&iacute;m
       z bodů na&scaron;eho programu pro komun&aacute;ln&iacute; volby je svobodn&eacute;
       parkov&aacute;n&iacute;. Jde n&aacute;m o to, aby bylo možn&eacute; po dobu
@@ -77,7 +82,7 @@
       teď vyh&yacute;baj&iacute;.</p>"
 - Ing. Jiří Ciprys:
     _slug: ing-dot-jiri-ciprys
-    photo: /samples/candidates/ing-dot-jiri-ciprys/3.jpg
+    photo: "/samples/candidates/ing-dot-jiri-ciprys/3.jpg"
     political_party: Strana svobodných občanů
     age: 39
     profile: ''
@@ -99,16 +104,16 @@
       podm&iacute;nek.</span></p>"
 - Ing. Ivo Štěpánek:
     _slug: ing-ivo-stepanek
-    photo: /samples/candidates/ing-ivo-stepanek/4.jpg
+    photo: "/samples/candidates/ing-ivo-stepanek/4.jpg"
     political_party: Strana svobodných občanů
     age: 51
     profile: ''
-    priorities: <p><strong>Bezpečnost občanů a n&aacute;v&scaron;těvn&iacute;ků města
+    priorities: "<p><strong>Bezpečnost občanů a n&aacute;v&scaron;těvn&iacute;ků města
       Břeclavi.</strong><br /><br /><span>Hlavn&iacute; &uacute;lohou městsk&yacute;ch
       str&aacute;žn&iacute;ků je zaji&scaron;ťovat bezpečnost občanů a n&aacute;v&scaron;těvn&iacute;ků
       města. Městsk&aacute; policie by si měla přestat hr&aacute;t na dopravn&iacute;
       policii a hl&iacute;dače parkovi&scaron;ť a nam&iacute;sto toho roz&scaron;&iacute;řit&nbsp;</span><span
-      class="text_exposed_show">pě&scaron;&iacute; hl&iacute;dky v ulic&iacute;ch,
+      class=\"text_exposed_show\">pě&scaron;&iacute; hl&iacute;dky v ulic&iacute;ch,
       a to i v nočn&iacute;ch hodin&aacute;ch, obzvl&aacute;&scaron;ť v p&aacute;tek
       a v sobotu. Str&aacute;žnici by měli b&yacute;t na oč&iacute;ch občanům, a tak&eacute;
       schopni zasahovat v rizikov&yacute;ch oblastech města.<br />Nem&eacute;ně důležit&eacute;,
@@ -116,24 +121,36 @@
       polici&iacute;. Můžete m&iacute;t str&aacute;žn&iacute;ky v ulic&iacute;ch,
       ale pokud nebudou dost&aacute;vat jasn&eacute; &uacute;koly, nebudou pracovat
       efektivně. Proto budeme kl&aacute;st důraz na ř&aacute;dnou komunikaci s městskou
-      polici&iacute; a stanovovat j&iacute; jasn&eacute; &uacute;koly a kompetence.</span></p>
+      polici&iacute; a stanovovat j&iacute; jasn&eacute; &uacute;koly a kompetence.</span></p>"
 - PHDr. Milan Blažek:
     _slug: phdr-milan-blazek
-    photo: /samples/candidates/phdr-milan-blazek/5.jpg
+    photo: "/samples/candidates/phdr-milan-blazek/5.jpg"
     political_party: bez politické příslušnosti
     age: 52
     profile: ''
-    priorities: ''
+    priorities: "<p><strong>Lidov&eacute; veto</strong></p>\r\n<p><span>Podporujeme
+      zaveden&iacute; obrann&eacute;ho mechanismu, kter&eacute;mu se ř&iacute;k&aacute;
+      LIDOV&Eacute; VETO. Zastupitel&eacute; maj&iacute; rozhodovat podle toho, co
+      si přeje vět&scaron;ina voličů. Protože v&iacute;me, že se tak často neděje
+      a politici rozhodnou jinak, než si přeje veřejnost, Podporujeme</span><span
+      class=\"text_exposed_show\">&nbsp;zaveden&iacute; obrann&eacute;ho mechanismu,
+      kter&eacute;mu se ř&iacute;k&aacute; lidov&eacute; veto.&nbsp;<br />Lidov&eacute;
+      veto slouž&iacute; pouze k zablokov&aacute;n&iacute; konkr&eacute;tn&iacute;ch
+      z&aacute;konů či nař&iacute;zen&iacute;, kter&aacute; již byla politicky schv&aacute;lena,
+      ale občan&eacute; si nepřej&iacute; aby tato ve&scaron;la v platnost. &Uacute;čelem
+      lidov&eacute;ho veta tedy nen&iacute; navrhovat z&aacute;kony, ale pouze blokovat
+      konkr&eacute;tn&iacute; kroky zastupitelů. Př&iacute;m&aacute; demokracie nen&iacute;
+      n&aacute;hrada zastupitelsk&eacute; demokracie, ale je to jej&iacute; doplněk.</span></p>"
 - Mgr. Milan Vojta:
     _slug: mgr-milan-vojta
-    photo: /samples/candidates/mgr-milan-vojta/6.jpg
+    photo: "/samples/candidates/mgr-milan-vojta/6.jpg"
     political_party: Strana svobodných občanů
     age: 56
     profile: ''
     priorities: ''
 - Vratislav Prokop:
     _slug: vratislav-prokop
-    photo: /samples/candidates/vratislav-prokop/7.jpg
+    photo: "/samples/candidates/vratislav-prokop/7.jpg"
     political_party: Strana svobodných občanů
     age: 47
     profile: ''

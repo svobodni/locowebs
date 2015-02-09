@@ -1,7 +1,7 @@
 ---
 - Mgr. Ing. Ivan Ládr:
     _slug: mgr-ing-ivan-ladr
-    photo: /samples/candidates/mgr-ing-ivan-ladr/me.jpg
+    photo: "/samples/candidates/mgr-ing-ivan-ladr/me.jpg"
     occupation: jednatel společnosti dodávající pivní sklo pivovarům, právník
     political_party: Strana svobodných občanů
     age: 47

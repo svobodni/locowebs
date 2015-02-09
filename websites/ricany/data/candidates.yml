@@ -1,7 +1,7 @@
 ---
 - Ing. Milan Vodička CSc.:
     _slug: ing-milan-vodicka-csc
-    photo: /samples/candidates/ing-milan-vodicka-csc/vodicka2.png
+    photo: "/samples/candidates/ing-milan-vodicka-csc/vodicka2.png"
     occupation: ekonom, manažer
     political_party: Strana svobodných občanů
     age: 65
@@ -9,7 +9,7 @@
     priorities: ''
 - Ing. Aleš Marek  Ph.D.:
     _slug: ing-ales-marek
-    photo: /samples/candidates/ing-ales-marek/marek2.png
+    photo: "/samples/candidates/ing-ales-marek/marek2.png"
     occupation: VŠ učitel, manažer, podnikatel
     political_party: Strana svobodných občanů
     age: 38
@@ -17,7 +17,7 @@
     priorities: ''
 - Ing. Bc. Jana Pavlasová:
     _slug: ing-bc-jana-pavlasova
-    photo: /samples/candidates/ing-bc-jana-pavlasova/pavlasova2.png
+    photo: "/samples/candidates/ing-bc-jana-pavlasova/pavlasova2.png"
     occupation: projektová manažerka
     political_party: Strana svobodných občanů
     age: 34

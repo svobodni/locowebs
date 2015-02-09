@@ -1,17 +1,17 @@
 ---
 - Bc. Tomáš Štampach:
     _slug: bc-tomas-stampach
-    photo: /samples/candidates/bc-tomas-stampach/S1_Tomas_Stampach_600.jpg
-    occupation: specialista veřejných zakázek
+    photo: "/samples/candidates/bc-tomas-stampach/S1_Tomas_Stampach_600.jpg"
+    occupation: Specialista veřejných zakázek
     political_party: Strana svobodných občanů
-    age: 29
+    age: 30
     email: tstampach@gmail.com
     phone: 776 088 872
     fb_profile_url: https://www.facebook.com/tomas.stampach
-    profile: "<p style=\"text-align: justify;\">L&iacute;dr kandid&aacute;tky Svobodn&yacute;ch
-      ve volb&aacute;ch do zastupitelstva městsk&eacute; č&aacute;sti Praha 3&nbsp;se
-      dlouhodobě zaj&iacute;m&aacute; o pražskou komun&aacute;ln&iacute; politiku.
-      Věnuje se předev&scaron;&iacute;m ot&aacute;zk&aacute;m t&yacute;kaj&iacute;c&iacute;
+    profile: "<p style=\"text-align: justify;\">&Uacute;spě&scaron;n&yacute; l&iacute;dr
+      kandid&aacute;tky Svobodn&yacute;ch ve volb&aacute;ch do zastupitelstva městsk&eacute;
+      č&aacute;sti Praha 3&nbsp;se dlouhodobě zaj&iacute;m&aacute; o pražskou komun&aacute;ln&iacute;
+      politiku. Věnuje se předev&scaron;&iacute;m ot&aacute;zk&aacute;m t&yacute;kaj&iacute;c&iacute;
       se transparentn&iacute;ho fungov&aacute;n&iacute; radnic a oblasti investic.</p>\r\n<p
       style=\"text-align: justify;\">Členem Svobodn&yacute;ch je od ledna roku 2011,
       od roku 2013 se věnuje činnosti koordin&aacute;tora krajsk&eacute;ho sdružen&iacute;
@@ -22,19 +22,28 @@
       spr&aacute;vou či stranick&yacute;mi a volebn&iacute;mi syst&eacute;my. Ve sv&eacute;m
       profesn&iacute;m životě se věnuje problematice zad&aacute;v&aacute;n&iacute;
       veřejn&yacute;ch zak&aacute;zek, v&nbsp;současn&eacute; době v&nbsp;r&aacute;mci
-      Střediska společn&yacute;ch činnost&iacute; Akademie věd ČR.</p>"
-    quote: '"Snažme se žít tak, aby naší smrti litoval i majitel pohřební služby."
-      (Mark Twain)'
+      Střediska společn&yacute;ch činnost&iacute; Akademie věd ČR.</p>\r\n<p style=\"text-align:
+      justify;\"><strong>Na ustavuj&iacute;c&iacute;m zased&aacute;n&iacute; Zastupitelstva
+      MČ Prahy 3 dne 4.11.2014 byl pan &Scaron;tampach zvolen&nbsp;</strong><span><strong>předsedou
+      V&yacute;boru finančn&iacute;ho</strong>. Tento v&yacute;bor by měl m&iacute;t
+      ve sv&eacute;m portfoliu činnost&iacute; rozpočet, investice i majetek a stane
+      se tak v&yacute;borem s největ&scaron;&iacute;m ekonomick&yacute;m rozměrem.
+      Z t&eacute;to pozice bude m&iacute;t tedy koordin&aacute;tor pobočky Svobodn&yacute;ch
+      možnost nejl&eacute;pe naplňovat na&scaron;e programov&eacute; priority, zejm&eacute;na
+      snahu o vyrovnan&yacute; rozpočet a efektivn&iacute; hospodařen&iacute; městsk&eacute;
+      č&aacute;sti.</span></p>"
+    quote: "\"Snažme se žít tak, aby naší smrti litoval i majitel pohřební služby.\"
+      (Mark Twain)"
     priorities: ''
 - Ing. Mojmír Mikuláš:
     _slug: ing-mojmir-mikulas
-    photo: /samples/candidates/ing-mojmir-mikulas/S2_Mojmir_Mikulas_600.jpg
-    occupation: stavební inženýr
+    photo: "/samples/candidates/ing-mojmir-mikulas/S2_Mojmir_Mikulas_600.jpg"
+    occupation: Stavební inženýr, podnikatel, předseda SVJ
     political_party: Strana svobodných občanů
     age: 46
-    email: mojmir.mikulas@gmail.com
-    phone: 602 78 78 78
-    fb_profile_url: https://www.facebook.com/mojmir.mikulas
+    email: mikulas@svobodni.cz
+    phone: "+420 602 78 78 78"
+    fb_profile_url: ''
     profile: "<p style=\"text-align: justify;\"><br />Mojm&iacute;r Mikul&aacute;&scaron;
       je rodil&yacute; Žižkov&aacute;k. Cel&yacute; život na Praze 3 tak&eacute; žije,
       dnes už i se svou ženou a dvěma dětmi. D&iacute;ky t&eacute;to pevn&eacute;
@@ -48,317 +57,10 @@
       věku hr&aacute;l fotbal za Viktorku Žižkov.<br /> Posledn&iacute;ch 10 let je
       jednatelem mal&eacute; firmy, kter&aacute; se věnuje podnik&aacute;n&iacute;
       v oblasti cestovn&iacute;ho ruchu a nemovitost&iacute; se zaměřen&iacute;m na
-      Rakousko.</p>\r\n<p style=\"text-align: justify;\">Před vstupem do Svobodn&yacute;ch
-      nikdy nebyl členem ž&aacute;dn&eacute; politick&eacute; strany. V leto&scaron;n&iacute;ch
-      komun&aacute;ln&iacute;ch volb&aacute;ch kandiduje jako &bdquo;dvojka Svobodn&yacute;ch&ldquo;
-      na Praze 3 a figuruje tak&eacute; na 11.m&iacute;stě kandid&aacute;tky do MHMP.
-      V zastupitelstvu je připraven věcně a slu&scaron;ně realizovat program Svobodn&aacute;
-      Praha 3.</p>"
-    quote: „Cena za apatii vůči politice je to, že vám vládnou zlí lidé“ – Platón
-    priorities: ''
-- Ing. Mgr. Tomáš Eliáš:
-    _slug: ing-mgr-tomas-elias
-    photo: /samples/candidates/ing-mgr-tomas-elias/S3_Tomas_Elias_600.jpg
-    occupation: specialista kontroly investic
-    political_party: bez politické příslušnosti
-    age: 28
-    email: tomaselias@seznam.cz
-    phone: ''
-    profile: "<p style=\"text-align: justify;\">Tom&aacute;&scaron; Eli&aacute;&scaron;
-      se po žižkovsk&yacute;ch pavlač&iacute;ch pohybuje již několik let. Při debat&aacute;ch
-      o životě na Praze 3 zjistil, že už nestač&iacute; jen kroutit hlavou nad &scaron;pinav&yacute;mi
-      ulicemi, zhor&scaron;uj&iacute;c&iacute; se dopravn&iacute; situac&iacute; či
-      stavem parkov&yacute;ch ploch. Po diskuz&iacute;ch s&nbsp;př&aacute;teli ze
-      Svobodn&yacute;ch mu při&scaron;la nab&iacute;dka kandidovat jako č&iacute;slo
-      3 na Praze 3. Po uv&aacute;žen&iacute; t&eacute;to nab&iacute;dky se rozhodl
-      vstoupit jako nestran&iacute;k do soukol&iacute; komun&aacute;ln&iacute;ch voleb.</p>\r\n<p
-      style=\"text-align: justify;\">Jako absolvent Fakulty soci&aacute;ln&iacute;ch
-      věd Karlovy univerzity v&nbsp;oboru politologie, Provozně-ekonomick&eacute;
-      fakulty Česk&eacute; zemědělsk&eacute; univerzity v&nbsp;oboru region&aacute;ln&iacute;ho
-      rozvoje a pracovn&iacute;k odboru strategick&yacute;ch investic Magistr&aacute;tu
-      hl. m. Prahy mohl přes svůj mlad&yacute; věk z&iacute;sk&aacute;vat zku&scaron;enosti
-      se spr&aacute;vou věc&iacute; veřejn&yacute;ch na obecn&iacute;, region&aacute;ln&iacute;
-      i celorepublikov&eacute; &uacute;rovni.</p>\r\n<p style=\"text-align: justify;\">Je
-      připraven rozvinout diskuzi nad ne&scaron;vary dot&yacute;kaj&iacute;c&iacute;
-      se v&scaron;ech občanů Prahy 3, od dět&iacute; po důchodce, od zaměstnanců po
-      soukrom&eacute; subjekty, od psů po sběrn&eacute; dvory, předev&scaron;&iacute;m
-      v&scaron;ak od srdce. Nechce b&yacute;t &uacute;spě&scaron;n&yacute;m reprezentantem
-      Žižkov&aacute;ků a Vinohraď&aacute;ků, chce b&yacute;t předev&scaron;&iacute;m
-      slu&scaron;n&yacute;m člověkem, kter&eacute;mu stoj&iacute; za to udělat z&nbsp;Prahy
-      3 dobrou adresu.</p>"
-    quote: „Nechtěj být člověkem, který je úspěšný, ale člověkem, který za něco stojí.“
-      Albert Einstein
-    priorities: ''
-- Ing. Jan Stoss, CSc.:
-    _slug: ing-jan-stoss-csc
-    photo: /samples/candidates/ing-jan-stoss-csc/stoss2_600.jpg
-    occupation: stavební inženýr
-    political_party: Strana svobodných občanů
-    age: 73
-    profile: "<p style=\"text-align: justify;\"><br />Je členem Svobodn&yacute;ch
-      od založen&iacute; v&nbsp;r. 2009. Profes&iacute; je stavebn&iacute; inžen&yacute;r
-      se zaměřen&iacute;m na ot&aacute;zky ochrany životn&iacute;ho prostřed&iacute;.</p>\r\n<p
-      style=\"text-align: justify;\">Ovl&aacute;d&aacute; angličtinu, němčinu a ru&scaron;tinu.<br
-      /><br />Jeho z&aacute;jem o Prahu je zaměřen na rozvoj města včetně dopravy,
-      využit&iacute; b&yacute;val&yacute;ch průmyslov&yacute;ch are&aacute;lů i ot&aacute;zek
-      kulturn&iacute;ho dědictv&iacute;.</p>"
-    priorities: ''
-- Anna Skálová, DiS.:
-    _slug: anna-skalova
-    photo: /samples/candidates/anna-skalova/S5_Anna_Skalova_600.jpg
-    occupation: designerka
-    political_party: Strana svobodných občanů
-    age: 31
-    email: skalova.anna@gmail.com
-    profile: "<div style=\"text-align: justify;\">Narodila se na Vinohradech, kde
-      st&aacute;le žije.</div>\r\n<div style=\"text-align: justify;\"><br />Vystudovala
-      gymn&aacute;zium Na Pražačce, &nbsp;d&aacute;le VO&Scaron; obalov&eacute; techniky
-      ve &Scaron;tět&iacute; a tomuto oboru se nad&aacute;le věnuje profesně jako
-      design&eacute;rka obalů a POS v Praze na Žižkově.</div>\r\n<div style=\"text-align:
-      justify;\"><br />Svobodn&eacute; vol&iacute; od jejich vzniku, ale postupem
-      času se j&iacute; zdala tato podpora svobodn&yacute;ch my&scaron;lenek nedostačuj&iacute;c&iacute;,
-      což vy&uacute;stilo ve vstup do Strany svobodn&yacute;ch občanů na zač&aacute;tku
-      roku 2014.</div>\r\n<p style=\"text-align: justify;\">&nbsp;</p>"
-    quote: ''
-    priorities: ''
-- Jan Růžička:
-    _slug: jan-ruzicka
-    photo: /samples/candidates/jan-ruzicka/S6_Hoza_R__i_ka_600.jpg
-    occupation: zeměměřič
-    political_party: Strana svobodných občanů
-    age: 55
-    email: honza@jan-ruzicka.cz
-    phone: 603 574 250
-    fb_profile_url: https://www.facebook.com/jan.ruzicka.31586
-    profile: "<p style=\"text-align: justify;\"><br />Narodil se a vyrostl na Vinohradech,
-      studoval na Vinohradech, na Žižkově a v Hrdlořez&iacute;ch (což je skoro Žižkov).</p>\r\n<p
-      style=\"text-align: justify;\">Jako geodet se &uacute;častnil v&yacute;stavby
-      metra v Praze a Taipei, posledn&iacute;ch patn&aacute;ct let jeho geoinformatick&aacute;
-      firma slouž&iacute; archeologick&yacute;m v&yacute;zkumům na &uacute;zem&iacute;
-      Česk&eacute; republiky a jej&iacute;ch satelitů.</p>\r\n<p style=\"text-align:
-      justify;\">Svobodn&iacute; jsou prvn&iacute; politick&yacute; projekt, kter&eacute;ho
-      se &uacute;častn&iacute; - to, kam spěje na&scaron;e země a Evropa mu nedalo
-      jinou možnost.</p>"
-    quote: '"Pravda vyděsí" (Ankh-Morpork Times)'
-    priorities: ''
-- Erik Vlach:
-    _slug: erik-vlach
-    photo: /samples/candidates/erik-vlach/avatar_svobodny.png
-    occupation: řidič
-    political_party: Strana svobodných občanů
-    age: 36
-    profile: ''
-    priorities: ''
-- Martin Milota:
-    _slug: martin-milota
-    photo: /samples/candidates/martin-milota/avatar_svobodny.png
-    occupation: grafik
-    political_party: Strana svobodných občanů
-    age: 28
-    profile: ''
-    priorities: ''
-- Bc. Marek Korejs:
-    _slug: bc-marek-korejs
-    photo: /samples/candidates/bc-marek-korejs/avatar_svobodny.png
-    occupation: student ekonomie
-    political_party: Strana svobodných občanů
-    age: 23
-    email: korejsmarek@email.cz
-    phone: 606 173 524
-    fb_profile_url: https://www.facebook.com/marek.korejs
-    profile: '<p style="text-align: justify;"><span>Cel&yacute; život žije na Vinohradech.
-      Vystudoval na V&Scaron;E v Praze obor n&aacute;rodn&iacute; hospod&aacute;řstv&iacute;,
-      ve studiu ekonomie pokračuje v r&aacute;mci navazuj&iacute;c&iacute;ho inžen&yacute;rsk&eacute;ho
-      studia. Ovl&aacute;d&aacute; angličtinu a &scaron;paněl&scaron;tinu. <br />V
-      r&aacute;mci komun&aacute;ln&iacute; politiky jej zaj&iacute;maj&iacute; ot&aacute;zky
-      hromadn&eacute; dopravy a veřejn&yacute;ch prostorů. Jedn&iacute;m z jeho kon&iacute;čků
-      jsou star&eacute; fotografie Vinohrad a Žižkova.</span></p>'
-    priorities: ''
-- Jan Franěk:
-    _slug: jan-franek
-    photo: /samples/candidates/jan-franek/avatar_svobodny.png
-    occupation: OSVČ
-    political_party: Strana svobodných občanů
-    age: 52
-    profile: ''
-    priorities: ''
-- Bc. Marcela Mojžíšová:
-    _slug: bc-marcela-mojzisova-dis
-    photo: /samples/candidates/bc-marcela-mojzisova-dis/avatar_svobodny.png
-    occupation: key account manager
-    political_party: Strana svobodných občanů
-    age: 32
-    profile: ''
-    priorities: ''
-- Ing. Filip Procházka:
-    _slug: ing-filip-prochazka
-    photo: /samples/candidates/ing-filip-prochazka/avatar_svobodny.png
-    occupation: jednatel
-    political_party: bez politické příslušnosti
-    age: 43
-    profile: ''
-    priorities: ''
-- Ing. Zuzana Krausová:
-    _slug: ing-zuzana-krausova
-    photo: /samples/candidates/ing-zuzana-krausova/avatar_svobodny.png
-    occupation: account manager
-    political_party: bez politické příslušnosti
-    age: 44
-    profile: ''
-    priorities: ''
-- Jakub Hejduk:
-    _slug: jakub-hejduk
-    photo: /samples/candidates/jakub-hejduk/avatar_svobodny.png
-    occupation: manažer projekční kanceláře
-    political_party: bez politické příslušnosti
-    age: 43
-    profile: ''
-    priorities: ''
-- Mgr. Pavlína Malinová:
-    _slug: mgr-pavlina-malinova
-    photo: /samples/candidates/mgr-pavlina-malinova/avatar_svobodny.png
-    occupation: učitelka ZŠ
-    political_party: bez politické příslušnosti
-    age: 46
-    profile: ''
-    priorities: ''
-- Pavel Fuksa:
-    _slug: pavel-fuksa
-    occupation: konzultant / project manager
-    age: 34
-    profile: ''
-    priorities: ''
-- Bc. Jana Horsáková:
-    _slug: bc-jana-horsakova
-    occupation: sociální pracovnice
-    political_party: bez politické příslušnosti
-    age: 36
-    profile: ''
-    priorities: ''
-- Ing. Martina Kotrčová:
-    _slug: ing-martina-kotrcova
-    occupation: daňový poradce
-    political_party: bez politické příslušnosti
-    age: 46
-    profile: ''
-    priorities: ''
-- Roman Zouza:
-    _slug: roman-zouza
-    occupation: výčepní
-    political_party: bez politické příslušnosti
-    age: 46
-    profile: ''
-    priorities: ''
-- Ing. Dana Pinkasová:
-    _slug: ing-dana-pinkasova
-    occupation: finanční konzultant
-    political_party: bez politické příslušnosti
-    age: 40
-    profile: ''
-    priorities: ''
-- Pavel Polda:
-    _slug: pavel-polda
-    occupation: obchodník na kapitálových trzích
-    political_party: bez politické příslušnosti
-    age: 38
-    profile: ''
-    priorities: ''
-- Ing. Jana Tázlerová:
-    _slug: ing-jana-tazlerova
-    occupation: ekonom
-    political_party: bez politické příslušnosti
-    age: 47
-    profile: ''
-    priorities: ''
-- Ing. Arch. Pavel Kraus:
-    _slug: ing-arch-pavel-kraus
-    occupation: architekt
-    political_party: bez politické příslušnosti
-    age: 58
-    profile: ''
-    priorities: ''
-- Martin Syrový:
-    _slug: martin-syrovy
-    occupation: podnikatel v hostinské činnosti
-    political_party: bez politické příslušnosti
-    age: 35
-    profile: ''
-    priorities: ''
-- Mgr. Jana Bártová:
-    _slug: mgr-jana-bartova
-    occupation: manažer obchodu
-    political_party: bez politické příslušnosti
-    age: 26
-    profile: ''
-    priorities: ''
-- Tomáš Marek:
-    _slug: tomas-marek
-    occupation: mediální a ekonomický poradce
-    political_party: bez politické příslušnosti
-    age: 49
-    profile: ''
-    priorities: ''
-- Helena Vlachová:
-    _slug: helena-vlachova
-    occupation: důchodkyně
-    political_party: bez politické příslušnosti
-    age: 60
-    profile: ''
-    priorities: ''
-- Roman Novák:
-    _slug: roman-novak
-    photo: /samples/candidates/roman-novak/S_28_Roman_Nov_k_600.jpg
-    occupation: výčepní
-    political_party: bez politické příslušnosti
-    age: 43
-    profile: ''
-    priorities: ''
-- Jan Mandík:
-    _slug: jan-mandik
-    occupation: student
-    political_party: bez politické příslušnosti
-    age: 18
-    profile: ''
-    priorities: ''
-- Ing. Martin Urbanec:
-    _slug: ing-martin-urbanec
-    occupation: stavební inženýr
-    political_party: bez politické příslušnosti
-    age: 50
-    profile: ''
-    priorities: ''
-- Mgr. Ondřej Horsák:
-    _slug: mgr-ondrej-horsak
-    occupation: knihovník
-    political_party: bez politické příslušnosti
-    age: 34
-    profile: ''
-    priorities: ''
-- Oldřich Štros:
-    _slug: oldrich-stross
-    occupation: student
-    political_party: Strana svobodných občanů
-    age: 18
-    profile: ''
-    priorities: ''
-- RNDr. Pavel Ložek:
-    _slug: rndr-pavel-lozek
-    occupation: podnikatel
-    political_party: bez politické příslušnosti
-    age: 67
-    profile: ''
-    priorities: ''
-- Filip Kraus:
-    _slug: filip-kraus
-    occupation: student
-    political_party: bez politické příslušnosti
-    age: 20
-    profile: ''
-    priorities: ''
-- Zdeněk Bělka:
-    _slug: zdenek-belka
-    occupation: vývojář software
-    political_party: bez politické příslušnosti
-    age: 33
-    profile: ''
+      Rakousko.</p>\r\n<p style=\"text-align: justify;\"><strong>Na ustavuj&iacute;c&iacute;m
+      zased&aacute;n&iacute; Zastupitelstva MČ Prahy 3 dne 4.11.2014 byl pan Mikul&aacute;&scaron;
+      zvolen členem V&yacute;boru kontroln&iacute;ho,&nbsp;</strong><span>takže plněn&iacute;
+      usnesen&iacute; Zastupitelstva městsk&eacute; č&aacute;sti a Rady městsk&eacute;
+      č&aacute;sti bude m&iacute;t n&aacute;&scaron; zastupitel pod kontrolou.</span></p>"
+    quote: "„Cena za apatii vůči politice je to, že vám vládnou zlí lidé“ – Platón"
     priorities: ''

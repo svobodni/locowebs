@@ -1,15 +1,5 @@
 [
 	{
-		"name":"gregor",
-		"type":"candidate",
-		"title":"Ing. Vladimír Gregor - Děčín",
-		"short_title":"Vladimír Gregor",
-		"constituency":"Děčín",
-		"voting_number":6,
-		"fb_page_name":"svobodni",
-		"region_name": "Ústecký kraj",
-		"region_url": "http://usteckykraj.svobodni.cz/"
-	},{
 		"name":"rykl",
 		"type":"candidate",
 		"title":"Ing. Aleš Rykl - Praha 1",

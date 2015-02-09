@@ -1,9 +1,0 @@
----
-name: Svobodní Přestanov
-locales: [cs]
-subdomain: prestanov
-domains: [www.prestanov.svobodni.cz, prestanov.svobodni.cz]
-seo_title: Svobodní Přestanov
-meta_keywords: some meta keywords
-meta_description: some meta description
-timezone: Prague

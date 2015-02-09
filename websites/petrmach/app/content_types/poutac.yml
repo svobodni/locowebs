@@ -1,0 +1,32 @@
+---
+name: Poutače
+description: Obrázky v hlavičce úvodní stránky
+slug: poutac
+label_field_name: nadpis
+order_by: manually
+order_direction: asc
+fields:
+- obrazek:
+    label: Obrázek
+    type: file
+    required: true
+    unique: false
+    localized: false
+- nadpis:
+    label: Nadpis
+    type: string
+    required: true
+    unique: false
+    localized: false
+- text:
+    label: Text
+    type: string
+    required: false
+    unique: false
+    localized: false
+- odkaz:
+    label: Odkaz
+    type: string
+    required: false
+    unique: false
+    localized: false

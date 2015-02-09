@@ -1,0 +1,53 @@
+---
+title: Můj tým
+slug: muj-tym
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 1
+---
+{% extends parent %}
+
+{% block main %}
+
+		<section id="kontakty" class="white-bg padding-top-bottom">
+		
+			<div class="container">
+				
+				<h1 class="section-title">Můj tým</h1>
+				<p class="section-description">Můj tým asistentů je tu pro Vás neustále k dispozici. </p>
+
+				  {% for asistent in contents.asistenti %}
+
+           		<div class="row team-member{% cycle 'position': '',' right'%}">
+                  <div class="{% cycle 'position3': 'col-sm-3 col-sm-offset-1 member-thumb scrollimation fade-right','col-sm-3 col-sm-push-8 member-thumb scrollimation fade-left'%}">
+				
+					
+					
+						<img class="img-responsive img-center" src="{{ asistent.fotka.url }}" alt="" />
+						<h4>{{ asistent.jmeno }}</h4>
+						<p class="title">{{ asistent.funkce }}</p>
+						
+					</div>
+					
+					<div class="{% cycle 'position2': 'col-sm-7 scrollimation fade-left','col-sm-7 col-sm-pull-2 scrollimation fade-right' %}">
+					
+						<div class="member-details">
+							<p>{{ asistent.citat }}</p>
+							
+							<ul class="member-socials">
+								{% unless asistent.email == blank %}<li><a href="mailto:{{ asistent.email }}"><i class="fa fa-envelope fa-fw"></i></a></li>{% endunless %}
+								{% unless asistent.twitter == blank %}<li><a href="{{ asistent.twitter }}"><i class="fa fa-twitter fa-fw"></i></a></li>{% endunless %}
+								{% unless asistent.facebook == blank %}<li><a href="{{ asistent.facebook }}"><i class="fa fa-facebook fa-fw"></i></a></li>{% endunless %}
+							</ul>
+						</div>
+					</div>
+				</div>
+              {% endfor %}
+								
+			</div>
+
+		</section>
+
+{% endblock %}

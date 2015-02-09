@@ -1,0 +1,67 @@
+---
+title: Články
+slug: clanky
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+---
+{% extends parent %}
+
+{% block main %}
+
+		<!-- ==============================================
+		NEWS
+		=============================================== -->			
+		
+		<section id="clanky" class="white-bg padding-top-bottom">
+		
+			<div class="container">
+				
+				<h1 class="section-title">Články</h1>
+				<p class="section-description">Přečtěte si mé nejnovější články a komentáře.</p>
+
+              				<div class="timeline">
+                                          {% assign minuly_mesic = 0 %}    
+
+                {% for clanek in contents.clanky %}
+                    {% assign mesic = (clanek.zverejneno | localized_date: '%B %Y' ) %}
+					{% if mesic != minuly_mesic %}
+					<div class="date-title">
+                    	<span>{{ mesic }}</span>
+                        {% assign minuly_mesic = mesic %}
+					</div>
+				    {% endif %}
+					{% cycle mesic+'3': '<div class="row">','' %}
+						<div class="col-sm-6 news-item scrollimation fade-up{% cycle mesic+'2': '',' right'%}">
+						
+							<div class="news-content">
+							
+								<div class="date">
+									<p>{{ clanek.zverejneno | localized_date: '%d' }}</p>
+									<small>{{ clanek.zverejneno | localized_date: '%a' }}</small>
+								</div>
+							
+								<h2 class="news-title">{{ clanek.nadpis }}</h2>
+																
+								<p>{{ clanek.perex }}&hellip;</p>
+								<a class="read-more" href="{% path_to clanek %}">Více</a>
+								
+							</div>
+						</div>
+                    {% cycle mesic+'4': '','</div>' %}
+                {% endfor %}
+
+
+
+				
+					
+				</div>
+				
+			</div>
+			
+		</section>		
+
+
+{% endblock %}

@@ -1,0 +1,25 @@
+---
+name: Videa
+slug: videa
+label_field_name: nazev
+order_by: zverejneno
+order_direction: desc
+fields:
+- nazev:
+    label: Název
+    type: string
+    required: true
+    unique: false
+    localized: false
+- url:
+    label: Url
+    type: string
+    required: false
+    unique: true
+    localized: false
+- zverejneno:
+    label: Zveřejněno
+    type: date
+    required: false
+    unique: false
+    localized: false

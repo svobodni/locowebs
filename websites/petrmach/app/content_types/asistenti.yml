@@ -1,0 +1,53 @@
+---
+name: Asistenti
+slug: asistenti
+label_field_name: jmeno
+order_by: manually
+order_direction: asc
+fields:
+- jmeno:
+    label: Jméno
+    type: string
+    required: true
+    unique: false
+    localized: false
+- fotka:
+    label: Fotka
+    type: file
+    required: false
+    unique: false
+    localized: false
+- funkce:
+    label: Funkce
+    type: string
+    required: false
+    unique: false
+    localized: false
+- citat:
+    label: Citát
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: none
+- email:
+    label: Email
+    type: string
+    hint: kubicek@svobodni.cz
+    required: false
+    unique: false
+    localized: false
+- twitter:
+    label: Twitter
+    type: string
+    hint: https://twitter.com/kubicek
+    required: false
+    unique: false
+    localized: false
+- facebook:
+    label: Facebook
+    type: string
+    hint: https://www.facebook.com/Kubicek.CZ
+    required: false
+    unique: false
+    localized: false

@@ -1,0 +1,115 @@
+---
+title: Šablona článku
+slug: content_type_template
+listed: true
+published: false
+cache_strategy: none
+response_type: text/html
+position: 0
+content_type: clanky
+---
+{% extends parent %}
+
+{% block main %}
+        {{ 'qubico-blog.css' | stylesheet_tag }}
+
+		<!-- ==============================================
+		HEADER
+		=============================================== -->
+		<header id="home" class="color-bg light-typo padding-top-bottom">
+			
+			<div class="container">
+			
+				<h1 class="page-title">{{ clanky.nadpis }}</h1>
+				<!--
+				<p class="page-subtitle">Travelling the world on a train. A photo trip...</p>
+				-->
+			</div><!--End container -->
+			
+		</header><!--End header -->
+		
+		<!-- ==============================================
+		SINGLE POST
+		=============================================== -->
+		<article class="post single-post">
+			
+			<div class="container scrollimation fade-up">
+				
+				<div class="row">
+				
+					<div class="col-sm-10 col-sm-offset-1">
+
+						<div class="post-media">
+<!--											
+							<div class="post-slider flexslider">
+							
+								<ul class="slides">
+									<li>
+										<img class="img-responsive" src="../assets/blog/train_rails.jpg" alt=""/>
+									</li>
+									<li>
+										<img class="img-responsive" src="../assets/blog/train_station.jpg" alt=""/>
+									</li>
+								</ul>
+								
+							</div>
+-->													
+						</div>
+
+						<div class="post-content">
+                          <p><strong>{{ clanky.perex }}</strong></p>
+                          {{ clanky.telo }}
+						</div>
+						
+						<footer class="post-footer">
+						
+							<div class="post-meta clearfix">
+								
+								<p class="post-date">{{ clanky.zverejneno | localized_date: '%d. %m. %Y' }}</p>
+								
+								<p class="post-share">
+									Sdílejte: 
+									<span class="social-media">
+										<span class="facebook"></span>
+										<span class="twitter" data-via="PetrMachMEP"></span>
+										<span class="plusone"></span>
+										<span class="pinterest"></span>
+									</span>
+								</p>
+							
+							</div>
+			
+							<nav class="posts-nav clearfix">
+								<ul>
+                                    {% if clanky.previous %}
+									<li class="prev-post">
+										<a href="{% path_to clanky.previous%}">Starší článek</a>
+										<p>{{clanky.previous.nadpis}}</p>
+									</li>
+                                    {% endif %}
+                                    {% if clanky.next %}
+									<li class="next-post">
+										<a href="{% path_to clanky.next%}">Novější článek</a>
+										<p>{{clanky.next.nadpis}}</p>
+									</li>
+                                    {% endif %}                                  
+								</ul>
+								
+                              <a class="all-posts" href="/clanky" data-toggle="tooltip" title="Back to Blog"><i class="fa fa-th-list"></i></a>
+								
+							</nav>
+							
+						</footer>
+						
+					</div>
+					
+				</div><!--End row -->
+				
+			</div><!--End container -->
+			
+			
+			
+		</article><!--End post -->
+
+ 
+{% endblock %}

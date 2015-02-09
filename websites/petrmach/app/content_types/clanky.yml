@@ -1,0 +1,34 @@
+---
+name: Články
+description: Články v blogu
+slug: clanky
+label_field_name: nadpis
+order_by: zverejneno
+order_direction: asc
+fields:
+- nadpis:
+    label: Nadpis
+    type: string
+    required: true
+    unique: false
+    localized: false
+- perex:
+    label: Perex
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- telo:
+    label: Tělo
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- zverejneno:
+    label: Zveřejněno
+    type: date
+    required: false
+    unique: false
+    localized: false

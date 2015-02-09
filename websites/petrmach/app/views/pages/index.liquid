@@ -1,0 +1,510 @@
+---
+title: Úvod
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+---
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+	<head>
+
+		<!-- ==============================================
+		Title and Meta Tags
+		=============================================== -->
+		<meta charset="utf-8">
+		<title>Petr Mach | Europoslanec a předseda Strany svobodných občanů</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+		<!-- ==============================================
+		Favicons
+		=============================================== -->
+		<link rel="shortcut icon" href="assets/favicon.ico">
+		<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="assets/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="assets/apple-touch-icon-114x114.png">
+		
+		<!-- ==============================================
+		CSS
+		=============================================== -->
+        {{ 'bootstrap.min.css' | stylesheet_tag }}
+        {{ 'font-awesome.css' | stylesheet_tag }}
+        {{ 'flexslider.css' | stylesheet_tag }}
+        {{ 'sequencejs-qubico.css' | stylesheet_tag }}
+        {{ 'colorbox.css' | stylesheet_tag }}
+        {{ 'qubico.css' | stylesheet_tag }}
+        {{ 'qubico-svobodni.css' | stylesheet_tag }}
+		
+		<!-- ==============================================
+		Fonts
+		=============================================== -->
+		<link href='http://fonts.googleapis.com/css?family=Dosis:600,700,800' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Lato:400,300,300italic,400italic,700,700italic,900' rel='stylesheet' type='text/css'>
+		
+		<!-- ==============================================
+		JS
+		=============================================== -->
+			
+		<!--[if lt IE 9]>
+			<script src="js/respond.min.js"></script>
+		<![endif]-->
+
+		{{ 'modernizr.min.js' | javascript_tag }}
+		
+	</head>
+  
+	<body data-spy="scroll" data-target="#main-nav" data-offset="400" storify-loaded="true">
+		<!-- ==============================================
+		MAIN NAV
+		=============================================== -->
+		<div id="main-nav" class="navbar navbar-fixed-top">
+			<div class="container">
+			
+				<div class="navbar-header">
+				
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#site-nav">
+						<span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+					</button>
+					
+					<!-- ======= LOGO ========-->
+                  <a class="navbar-brand scrollto" href="/#home">
+						<!--<span class="logo-small"><img src="{{ 'favicon.png' | theme_image_url }}" alt=""/></span>
+						<span class="to-top"><i class="fa fa-arrow-up"></i></span>-->
+                    Ing. Petr Mach, Ph.D.<br /><small>poslanec Evropského parlamentu</small>
+						<!-- ==== Image Logo ==== -->
+						<!--<img class="site-logo" src="assets/google-logo.png" alt="logo" />-->
+					</a>
+					
+				</div>
+				
+				<div id="site-nav" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li class="sr-only">
+                          <a href="/#home" class="scrollto">Home</a>
+						</li>
+						<li>
+                          <a href="/#profile" class="scrollto">O mně</a>
+						</li>
+						<li>
+                          <a href="/#prosazuji" class="scrollto">Prosazuji</a>
+						</li>
+                        <li>
+                          <a href="/#kalendar" class="scrollto">Kalendář</a>
+						</li>
+                        <li>
+                          <a href="/#videa" class="scrollto">Videa</a>
+						</li>
+						<li>
+                          <a href="/#fotky" class="scrollto">Fotky</a>
+						</li>
+                        <li>
+                          <a href="/clanky">Články</a>
+						</li>
+
+						<li>
+                          <a href="/#kontakty" class="scrollto">Kontakty</a>
+						</li>
+                        <li><a href="https://twitter.com/PetrMachMEP"><i class="fa fa-twitter fa-fw"></i></a></li>
+   					    <li><a href="https://www.facebook.com/petrmach.cz"><i class="fa fa-facebook fa-fw"></i></a></li>
+                        <!-- <li><a href="https://www.youtube.com/svobodni"><i class="fa fa-youtube fa-fw"></i></a></li> -->
+					</ul>
+				</div><!--End navbar-collapse -->
+				
+			</div><!--End container -->
+			
+		</div><!--End main-nav -->
+
+
+{% block main %}
+      <style>
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 700px;
+  margin-bottom: 60px;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 700px;
+  background-color: #777;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  xheight: 500px;
+  max-width: none;
+}
+        
+        </style>
+		<!-- ==============================================
+		HEADER
+		=============================================== -->
+		<header id="home" class="jumbotron">
+
+      
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+        <li data-target="#myCarousel" data-slide-to="3" class=""></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        {% for poutac in contents.poutac %}
+        <div class="item{% if forloop.first %} active{% endif %}">
+          <img src="{{poutac.obrazek.url}}" alt="First slide" width="100%">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1><a href="{{poutac.odkaz}}" style="color: white">{{poutac.nadpis}}</a></h1>
+              <p><a href="{{poutac.odkaz}}">{{poutac.text}}</a></p>
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+        ‚</div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+<!--          
+			<div id="sequence-theme">
+			
+				<div id="sequence" class="perspective multilayer">
+
+					<ul class="controls">
+						<li class="sequence-prev"><i class="fa fa-angle-left fa-fw"></i></li>
+						<li class="sequence-next"><i class="fa fa-angle-right fa-fw"></i></li>
+					</ul>
+
+					<ul class="sequence-canvas container">
+						<li>
+							<div class="message slow">
+								<h2 class="title">Welcome to Qubico</h2>
+								<p>The New Bootstrap template from Qthemes</p>
+							</div>
+							<div>
+									<img class="img-responsive" src="https://scontent-b-vie.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10437499_371288616371672_2662563946842641387_n.jpg?oh=72fab83bea2f7c57c518c85fd0737dd2&oe=54D9DDCE" alt="" width="1600"/>
+							</div>
+						</li>
+					</ul>
+
+				</div>
+				
+			</div>
+-->			
+	</header><!--End header -->
+		
+		
+		
+		<!-- ==============================================
+		SERVICES
+		=============================================== -->
+		<section id="profile" class="white-bg padding-top-bottom">
+			<div class="container">
+				<h1 class="section-title">O mně</h1>
+				<p class="section-description">Mám sen o Evropě</p>
+<p><em>Mám sen o Evropě, kde lidé spolupracují napříč státy bez bariér, v Evropě, kde každá země má svoji jedinečnou kulturu, kvůli které stojí za to cestovat. V Evropě, kde se neválčí. V Evropě bez byrokracie, která ničí rozmanitost šedou jednotou! Mám sen o Evropě, kde je na prvním místě domluva lidí místo rozhodování politiků. Moje role v Evropském parlamentu je přibližovat Evropu alespoň částečně k mému snu.</em></p>
+<p>Jsem absolventem oboru finance a oboru statistika-ekonometrie Vysoké školy ekonomické v Praze. Jsou mi blízké otázky daní, deficitu, dluhu a měnová teorie a politika. Dosud přednáším na dvou vysokých školách.</p>
+<p>Působil jsem také jako ředitel Centra pro ekonomiku a politiku a poradce prezidenta Václava Klause. Jsem autorem dvou knih Úskalí evropské integrace (2002) a Jak vystoupit z EU (2010).  V roce 2009 jsem bohužel neměl koho volit a nebyl jsem sám. Proto jsem založil Stranu svobodných občanů a byl zvolen jejím předsedou. Jsem místopředsedou skupiny v EP „Evropa svobody a přímé demokracie“.</p>
+<p>V roce 2014 jsem se díky vašim hlasům stal poslancem Evropského parlamentu a od té doby se snažím Evropu posouvat blíže k svému snu.</p>
+			</div>
+		</section>
+
+		<section id="prosazuji" class="color-bg light-typo padding-top-bottom">
+			<div class="container">
+				<h1 class="section-title">Prosazuji</h1>
+<p class="subsection-description">Osmnáct států Evropské unie udělalo velkou chybu. Zbavily se svých národních měn a zavedly společnou evropskou měnu – euro. Euro zastavilo hospodářský růst. Česká republika má povinnost euro zavést. Plyne to ze Smlouvy o přistoupení České republiky k EU.</p>
+<p class="subsection-description"><strong>Proto prosazuji, aby přijetí eura bylo pro všechny země dobrovolné.</strong> K tomu je potřeba změnit smlouvu o Evropské unii.</p>
+<p class="subsection-description">Za tímto účelem jsem vstoupil do parlamentního výboru pro ústavní záležitosti, který by se takovou změnou zabýval. V parlamentní skupině Evropa svobody a přímé demokracie, jejíž jsem členem, jsem již tento návrh prosadil. Nyní si domlouvám schůzky s poslanci ostatních stran.</p>
+<p class="subsection-description"><strong>Upozorňuji rovněž na EURONESMYLY, které se na nás valí z Evropské unie.</strong> Jedním z těch posledních byl například zákaz výkonných vysavačů. Přesvědčuji na plénu kolegy, aby proti takovým euronesmyslům vystupovali a upozorňuji na chystané zákazy a nařízení také média a veřejnost.</p>
+			</div>
+		</section>
+
+        <!-- ==============================================
+		KALENDAR
+		=============================================== -->			
+		
+		<section id="kalendar" class="white-bg padding-top-bottom">
+		
+			<div class="container">
+				
+				<h1 class="section-title">Kalendář</h1>
+				<p class="section-description">Nejbližší akce a události. </p>
+
+              				<div class="timeline">
+                                          {% assign minuly_mesic = 0 %}    
+  {% consume api from "http://data.kubicek.cz/mach/kalendar.php" %}
+
+                {% for item in api.items %}
+                    {% assign mesic = (item.start.date_time | localized_date: '%B %Y' ) %}
+                    {% if mesic == blank %}
+                        {% assign mesic = (item.start.date | localized_date: '%B %Y' ) %}
+                    {% endif %}
+					{% if mesic != minuly_mesic %}
+					<div class="date-title">
+                    	<span>{{ mesic }}</span>
+                        {% assign minuly_mesic = mesic %}
+					</div>
+				    {% endif %}
+					<div class="row">
+						<div class="col-sm-6 news-item scrollimation fade-up{% cycle mesic: '',' right'%}">
+						
+							<div class="news-content">
+							
+								<div class="date">
+									<p>{{ item.start.date_time | localized_date: '%d' }}{{ item.start.date | localized_date: '%d' }}</p>
+									<small>{{ item.start.date_time | localized_date: '%a' }}{{ item.start.date | localized_date: '%a' }}</small>
+								</div>
+							
+								<h2 class="news-title">{{ item.summary }}</h2>
+																
+								<p>{{ item.description }}&hellip;</p>
+								
+								<!--<a class="read-more" href="{{ item.html_link }}">Více</a>-->
+								
+							</div>
+						</div>
+                    </div>                
+                {% endfor %}
+  {% endconsume %}
+
+
+				
+					
+				</div>
+				
+			</div>
+			
+		</section>	
+		<!-- ==============================================
+		RESPONSIVE VIDEO
+		=============================================== -->
+		<section id="videa" class="color-bg light-typo padding-top-bottom">
+		
+			<div class="container">
+				
+				<h1 class="section-title">Můj video kanál</h1>
+				<p class="section-description">Podívejte se na moje nejnovější videa.</p>
+						
+              <h2 class="show-title"><span id="episode-title"></span></h2>
+
+				<div class="row">
+				
+					<div class="col-sm-8 ">
+					
+						<div class="macbook-frame">
+						
+							<!-- <img class="img-responsive img-center" src="{{ 'macbook.png' | theme_image_url }}" alt=""/> -->
+							
+							<div class="macbook-screen">
+								
+							</div>
+							
+						</div>
+						
+					</div>
+
+					<div class="col-sm-4">
+						<ul>
+                          {% for video in contents.videa %}
+                          <li><a href="#videa" class="play-video" data-title="{{video.nazev}}" data-url="{{video.url}}">{{video.nazev}}</a></li>
+                          {% endfor %}
+						</ul>
+					</div>
+					
+				</div><!-- End row -->
+			
+			</div><!-- End container -->
+			
+		</section>			
+
+		<!-- ==============================================
+		FOTOGALERIE
+		=============================================== -->
+		<section id="fotky" class="gray-bg padding-top">
+		
+			<div class="container">
+				
+				<h1 class="section-title">Fotogalerie</h1>
+				<p class="section-description">Výběr fotek ze zajímavých akcí.</p>
+								
+				<iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=600&width=800&size=big&setId=72157649086053087&thumbnails=0&transition=0&layoutType=fixed&sort=0' scrolling='no' frameborder='0' width='800' height='610'></iframe>
+			</div>
+			
+		</section>
+		
+		<!-- ==============================================
+		KONTAKTY
+		=============================================== -->
+		<section id="kontakty" class="gray-bg padding-top-bottom">
+			
+			<div class="container">
+			
+				<h1 class="section-title">Potřebujete kontaktovat přímo mě?</h1>
+              <p class="section-description">Pokud Vám nepomohou moji <a href="/muj-tym" class="scrollto">asistenti</a>, jsem Vám k dispozici přímo.</p>
+				
+				<div class="row">
+				
+					<div class="col-sm-4 text-center contact-item scrollimation fade-right">
+					
+						<a class="icon" href="http://goo.gl/maps/0m7WQ" target="_blank"><i class="fa fa-map-marker fa-fw"></i></a>
+						<h2>Kancelář</h2>
+						<p>Opletalova 55-57, Praha 1</p>
+                        <p>Hodiny pro veřejnost zpravidla každé úterý od 15:00 do 17:00</p>
+						
+					</div>
+				
+					<div class="col-sm-4 text-center contact-item scrollimation fade-up">
+					
+						<a class="icon" href="mailto:mail@example.com"><i class="fa fa-envelope fa-fw"></i></a>
+						<h2>Pošlete email</h2>
+						<p>kancelar@svobodni.cz</p>
+						
+					</div>
+					
+					<div class="col-sm-4 text-center contact-item scrollimation fade-left">
+					
+						<a class="icon" href="#link"><i class="fa fa-phone fa-fw"></i></a>
+						<h2>Zavolejte mi</h2>
+						<p>221 602 106</p>
+					
+					</div>
+					
+				</div>
+				
+				<h1 class="subsection-title">Napište mi rovnou teď</h1>
+				<p class="subsection-description">Spojím se s Vámi co nejdříve.</p>
+					
+				<div class="row">
+				
+				<!--=== Contact Form ===-->
+
+					<form id="contact-form" class="col-sm-6 col-sm-offset-3" action="contact.php" method="post" novalidate>
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-name">Jméno</label>
+						  <div class="controls">
+							<input id="contact-name" name="contactName" placeholder="Vaše jméno" class="form-control requiredField label_better" data-new-placeholder="Your name" type="text" data-error-empty="Please enter your name">
+							<i class="fa fa-user"></i>
+						  </div>
+						</div><!-- End name input -->
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-mail">Email</label>
+						  <div class=" controls">
+							<input id="contact-mail" name="email" placeholder="Váš email" class="form-control requiredField label_better" data-new-placeholder="Your email" type="email" data-error-empty="Please enter your email" data-error-invalid="Invalid email address">
+							<i class="fa fa-envelope"></i>
+						  </div>
+						</div><!-- End email input -->
+						
+						<div class="form-group">
+						  <label class="control-label" for="contact-message">Zpráva</label>
+							<div class="controls">
+								<textarea id="contact-message" name="comments"  placeholder="Zpráva" class="form-control requiredField label_better" data-new-placeholder="Your message" rows="6" data-error-empty="Please enter your message"></textarea>
+								<i class="fa fa-comment"></i>
+							</div>
+						</div><!-- End textarea -->
+						
+						<p><button name="submit" type="submit" class="btn btn-qubico btn-block" data-error-message="Error!" data-sending-message="Sending..." data-ok-message="Message Sent"><i class="fa fa-location-arrow"></i>Odeslat zprávu</button></p>
+						<input type="hidden" name="submitted" id="submitted" value="true" />
+						
+					</form><!-- End contact-form -->
+				
+				</div>
+				
+			</div>
+			
+		</section>
+		{% endblock main %}
+
+		<!-- ==============================================
+		FOOTER
+		=============================================== -->	
+		<footer id="main-footer" class="color-bg light-typo">
+		        <ul>
+                  <li><a href="/muj-tym">Můj tým</a></li>
+                  <li><a href="/clanky">Archiv článků</a></li>                  
+                </ul>
+				
+			<div class="container text-center">
+				<div class="row">
+                  	<div class="col-xs-4"><a href="http://www.efdgroup.eu/"><img src="{{ 'logo-efdd.png' | theme_image_url }}" height="120" /></a></div>
+                    <div class="col-xs-4"><a href="http://www.svobodni.cz/"><img src="{{ 'logo-svobodni.png' | theme_image_url }}" height="100" /></a></div>
+                    <div class="col-xs-4"><a href="http://www.europarl.europa.eu/"><img src="{{ 'logo-ep.png' | theme_image_url }}" height="120" /></a></div>
+				</div>
+				<p>&copy;2014 Petr Mach</p>
+				<em>Web spravuje <a href="mailto:kubicek@svobodni.cz">Jiří Kubíček</a>.</em>
+			
+			</div>
+			
+		</footer>
+		
+		
+		<!-- ==============================================
+		SCRIPTS
+		=============================================== -->	
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.8.2.min.js">\x3C/script>')</script>
+		
+     	{{ 'bootstrap.min.js' | javascript_tag }}
+		{{ 'jquery.easing.1.3.min.js' | javascript_tag }}
+		{{ 'jquery.scrollto.js' | javascript_tag }}
+		{{ 'jquery.flexslider.min.js' | javascript_tag }}
+		{{ 'jquery.fitvids.js' | javascript_tag }}
+		{{ 'jquery.fittext.js' | javascript_tag }}
+		{{ 'waypoints.min.js' | javascript_tag }}
+		{{ 'jquery.countTo.js' | javascript_tag }}
+		{{ 'jquery.easypiechart.js' | javascript_tag }}
+		{{ 'jquery.sequence-min.js' | javascript_tag }}
+		{{ 'jquery.colorbox-min.js' | javascript_tag }}
+		{{ 'social-likes.min.js' | javascript_tag }}
+		{{ 'contact.js' | javascript_tag }}
+		{{ 'qubico.js' | javascript_tag }}
+
+		<script src="http://jwpsrv.com/library/xJVEjmSIEeSAKQ6sC0aurw.js"></script>
+		
+		<script>
+			$(window).load(function(){
+				$('.macbook-screen').html('<iframe width="640" height="360" src="http://www.youtube.com/embed/7GnXW_yzWoE?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>');
+				$('.macbook-screen').fitVids();
+			})
+            
+            
+                $(function () {
+    $(".play-video").on("click", function (e) {
+        $("#episode-title").text($(this).data("title"));
+      	var yt = $(this).data("url").match(/youtube.com\/watch\?v=(.*)/)
+        if (yt) {
+          $('p').text();
+	      $('.macbook-screen').html('<iframe width="640" height="360" src="http://www.youtube.com/embed/'+yt[1]+'?feature=player_detailpage&amp;wmode=transparent" frameborder="0" allowfullscreen></iframe>');
+		  $('.macbook-screen').fitVids();
+        } else { 
+            window.open($(this).data("url"));
+            return false;
+        }
+    });
+});
+		</script>
+
+                            <p>
+</p>
+	</body>
+	
+</html>

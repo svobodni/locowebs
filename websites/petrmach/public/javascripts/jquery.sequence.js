@@ -25,6 +25,8 @@ Sequence also relies on the following open source scripts:
 	Available under the BSD and MIT licenses: www.modernizr.com/license/
 	*/
 
+
+
 ;(function($) {
 	var windowLoaded = false;
 	$(window).bind("load", function() {

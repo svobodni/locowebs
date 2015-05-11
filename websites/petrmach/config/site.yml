@@ -2,5 +2,5 @@
 name: Petr Mach
 locales: [cs]
 subdomain: petrmach
-domains: [petrmach.svobodni.cz]
+domains: [petrmach.cz, www.petrmach.cz, petrmach.svobodni.cz]
 timezone: UTC

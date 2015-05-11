@@ -1,10 +1,10 @@
 ---
-name: Články
-description: Články v blogu
+name: "Články"
+description: "Články v blogu"
 slug: clanky
 label_field_name: nadpis
 order_by: zverejneno
-order_direction: asc
+order_direction: desc
 fields:
 - nadpis:
     label: Nadpis
@@ -32,3 +32,17 @@ fields:
     required: false
     unique: false
     localized: false
+- zdroj:
+    label: Zdroj
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- legacy_id:
+    label: legacy_id
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html

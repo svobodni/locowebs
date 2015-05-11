@@ -1,6 +1,7 @@
 ---
-title: Články
+title: "Články"
 slug: clanky
+is_layout: false
 listed: true
 published: true
 cache_strategy: none
@@ -22,19 +23,28 @@ position: 0
 				<h1 class="section-title">Články</h1>
 				<p class="section-description">Přečtěte si mé nejnovější články a komentáře.</p>
 
+              {% paginate contents.clanky  by 20 | sort: 'zverejneno' %}
               				<div class="timeline">
                                           {% assign minuly_mesic = 0 %}    
 
-                {% for clanek in contents.clanky %}
+  {% for clanek in paginate.collection %}
                     {% assign mesic = (clanek.zverejneno | localized_date: '%B %Y' ) %}
-					{% if mesic != minuly_mesic %}
-					<div class="date-title">
-                    	<span>{{ mesic }}</span>
-                        {% assign minuly_mesic = mesic %}
-					</div>
-				    {% endif %}
-					{% cycle mesic+'3': '<div class="row">','' %}
-						<div class="col-sm-6 news-item scrollimation fade-up{% cycle mesic+'2': '',' right'%}">
+                    {% if mesic != minuly_mesic %}
+                        {% if position == 'right' %}
+                              </div>
+                        {% endif %}
+   					    <div class="date-title">
+                   		    <span>{{ mesic }}</span>
+                       	    {% assign minuly_mesic = mesic %}
+                            {% assign position = 'left' %}
+                        </div>
+			    	{% endif %}
+
+                    {% if position == 'left' %}
+                    	  <div class="row">
+                    {% endif %}
+                          
+						<div class="col-sm-6 news-item scrollimation fade-up {{ position }}">
 						
 							<div class="news-content">
 							
@@ -50,14 +60,19 @@ position: 0
 								
 							</div>
 						</div>
-                    {% cycle mesic+'4': '','</div>' %}
+                          
+					{% if position == 'right' %}
+                            </div>
+                     	{% assign position = 'left' %}
+                    {% else %}
+                        {% assign position = 'right' %}
+                    {% endif %}
+
                 {% endfor %}
-
-
-
-				
 					
 				</div>
+{% include 'pagination' with paginate %}
+                              {% endpaginate %}
 				
 			</div>
 			

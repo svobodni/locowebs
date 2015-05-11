@@ -2,7 +2,7 @@
 - Výsledky komunálních voleb 2014 v Chebu:
     _slug: vysledky-komunalnich-voleb-v-chebu-2014
     posted_at: 12. 10. 2014 00:00
-    teaser: "<p><span style=\"font-size: medium;\"><strong>M&aacute;me opět dva mand&aacute;ty!</strong></span></p>"
+    teaser: '<p><span style="font-size: medium;"><strong>M&aacute;me opět dva mand&aacute;ty!</strong></span></p>'
     body: |-
       <p>&nbsp;</p>
       <p><span style="font-family: %value; font-size: large;"><strong>Pořad&iacute; stran podle z&iacute;skan&yacute;ch mand&aacute;tů a&nbsp;přepočten&eacute;ho procenta platn&yacute;ch&nbsp;hlasů:<br /></strong></span></p>
@@ -412,10 +412,10 @@
     _slug: nebojte-se-volit-mensi-strany
     posted_at: 08. 10. 2014 00:00
     author: Stanislav Pimek
-    teaser: "<p><span style=\"font-size: medium;\">Chcete m&iacute;t na radnici koalici
-      ANO a ČSSD s tichou podporou komunistů?</span></p>"
-    body: "<p><a title=\"Stanislav Pimek\" href=\"http://www.cheb.svobodni.cz/kandidati/ing-stanislav-pimek\"
-      target=\"_blank\"><img src=\"/samples/assets/PimekShd2mini.png\" alt=\"\" /></a><br
+    teaser: '<p><span style="font-size: medium;">Chcete m&iacute;t na radnici koalici
+      ANO a ČSSD s tichou podporou komunistů?</span></p>'
+    body: <p><a title="Stanislav Pimek" href="http://www.cheb.svobodni.cz/kandidati/ing-stanislav-pimek"
+      target="_blank"><img src="/samples/assets/PimekShd2mini.png" alt="" /></a><br
       />Chcete m&iacute;t na chebsk&eacute; radnici vl&aacute;du rychlokva&scaron;n&eacute;ho&nbsp;
       a mocichtiv&eacute;ho hnut&iacute; ANO, a zaveden&eacute; ČSSD, kter&aacute;
       už m&aacute; sv&eacute; lidi v&scaron;ude kde potřebuje, a&nbsp;velkoryse přes
@@ -435,11 +435,11 @@
       z Radnice a pracovat pro občany.<br />Pokud budou men&scaron;&iacute; strany
       m&eacute;ně &uacute;spě&scaron;n&eacute;, poř&aacute;d je&scaron;tě mohou vytvořit
       dostatečně silnou opozici, kter&aacute; bude vl&aacute;dnouc&iacute;m velk&yacute;m
-      stran&aacute;m znesnadňovat jejich \"městsk&eacute; podnik&aacute;n&iacute;\".<br
+      stran&aacute;m znesnadňovat jejich "městsk&eacute; podnik&aacute;n&iacute;".<br
       />Nepůjdete-li k volb&aacute;m a vyhraje ANO a ČSSD s velk&yacute;m&nbsp;n&aacute;skokem,
       pak se v&aacute;s nikdo na nic už pt&aacute;t nebude a oni si to na&nbsp;městě
-      \"prostě zař&iacute;d&iacute;\"&nbsp; a \"zamakaj&iacute;\" tak, jak&nbsp;JIM,
-      a ne V&Aacute;M, to bude&nbsp;vyhovovat...</p>"
+      "prostě zař&iacute;d&iacute;"&nbsp; a "zamakaj&iacute;" tak, jak&nbsp;JIM, a
+      ne V&Aacute;M, to bude&nbsp;vyhovovat...</p>
 - Nezdá se vám, že sebechvála v posledních Radničních listech tak trochu smrdí?:
     _slug: nezda-se-vam-ze-sebechvala-v-poslednich-radnicnich-listech-tak-trochu-smrdi
     posted_at: 05. 10. 2014 00:00
@@ -480,8 +480,8 @@
 - Anketa s lídry ke komunálním volbám v Chebském deníku:
     _slug: anketa-s-lidry-ke-komunalnim-volbam-v-chebskem-deniku
     posted_at: 03. 10. 2014 00:00
-    teaser: "<p><span style=\"font-size: large;\">( Za Svobodn&eacute; odpov&iacute;d&aacute;
-      V&aacute;clav Jakl )</span></p>"
+    teaser: '<p><span style="font-size: large;">( Za Svobodn&eacute; odpov&iacute;d&aacute;
+      V&aacute;clav Jakl )</span></p>'
     body: |-
       <div>
       <p>&nbsp;</p>
@@ -500,14 +500,14 @@
 - Volební vizitka s Václavem Jaklem pro Český rozhlas:
     _slug: volebni-vizitka-s-vaclavem-jaklem-pro-cesky-rozhlas
     posted_at: 29. 09. 2014 00:00
-    teaser: "<p style=\"margin: 0cm 0cm 10pt;\"><span style=\"font-size: medium;\"><strong><em><span
-      style=\"font-family: Calibri;\">1) Teď m&aacute;te přesně jednu minutu na představen&iacute;
-      sv&eacute;ho programu&hellip;<br /></span><span style=\"font-family: Calibri;\">2)
+    teaser: '<p style="margin: 0cm 0cm 10pt;"><span style="font-size: medium;"><strong><em><span
+      style="font-family: Calibri;">1) Teď m&aacute;te přesně jednu minutu na představen&iacute;
+      sv&eacute;ho programu&hellip;<br /></span><span style="font-family: Calibri;">2)
       Co je podle V&aacute;s největ&scaron;&iacute;m probl&eacute;mem sen&aacute;tn&iacute;ho
-      obvodu, ve kter&eacute;m kandidujete?<br /></span><span style=\"font-family:
-      Calibri;\">3) Jak byste z pozice sen&aacute;tora/sen&aacute;torky chtěl/a pomoci
-      tento probl&eacute;m ře&scaron;it?<br /></span></em></strong><em><span style=\"font-family:
-      Calibri;\">a dal&scaron;&iacute; ot&aacute;zky...<br /></span></em></span></p>"
+      obvodu, ve kter&eacute;m kandidujete?<br /></span><span style="font-family:
+      Calibri;">3) Jak byste z pozice sen&aacute;tora/sen&aacute;torky chtěl/a pomoci
+      tento probl&eacute;m ře&scaron;it?<br /></span></em></strong><em><span style="font-family:
+      Calibri;">a dal&scaron;&iacute; ot&aacute;zky...<br /></span></em></span></p>'
     body: |-
       <p><strong><span style="font-family: Calibri; font-size: medium;">1) Teď m&aacute;te přesně jednu minutu na představen&iacute; programu sv&eacute; strany</span></strong></p>
       <p><span style="font-family: Calibri; font-size: medium;">Strana svobodn&yacute;ch občanů je jedinou stranou u n&aacute;s, kter&aacute; h&aacute;j&iacute; n&aacute;zor, že občan v&iacute; nejl&iacute;p, jak naložit se sv&yacute;mi penězi, jak naložit se sv&yacute;m životem.<br /></span><span style="font-family: Calibri; font-size: medium;"> Pro Svobodn&eacute; je nejvy&scaron;&scaron;&iacute; hodnotou - svoboda. Od toho se odv&iacute;j&iacute; politick&yacute; program Svobodn&yacute;ch.<br /> Hlavn&iacute;mi body programu do leto&scaron;n&iacute;ch sen&aacute;tn&iacute;ch voleb jsou:<br /> &Scaron;t&iacute;hl&yacute; st&aacute;t = bohat&yacute; občan</span><span style="font-size: medium;"><span style="font-family: Calibri;">&nbsp; <br /></span></span><span style="font-family: Calibri; font-size: medium;"> Evropsk&aacute; Unie m&aacute; alternativu<br /> Omez&iacute;me pravomoci politiků<br /> Stop uz&aacute;koněn&yacute;m loupež&iacute;m<br /> Politici zvolen&iacute; za Svobodn&eacute; budou v Sen&aacute;tu bojovat proti v&scaron;em nesmysln&yacute;m nař&iacute;zen&iacute;m, z&aacute;kazům, regulac&iacute;m, proti přebujel&eacute; byrokracii. <br /> V&scaron;echny z&aacute;kazy, kter&yacute;mi chtěj&iacute; politici občany vychov&aacute;vat, vedou postupně ke ztr&aacute;tě svobody.<br /> Proto jsem si na svůj volebn&iacute; sen&aacute;tn&iacute; let&aacute;k vybral heslo: &bdquo;Nechci parlament jako fabriku na z&aacute;kazy&ldquo;.<br /><br /></span></p>
@@ -524,12 +524,12 @@
 - Mají občané právo se bránit?:
     _slug: maji-obcane-pravo-se-branit
     posted_at: 22. 09. 2014 00:00
-    teaser: "<p><strong>Pozor - předn&aacute;&scaron;ka z technick&yacute;ch důvodů
+    teaser: <p><strong>Pozor - předn&aacute;&scaron;ka z technick&yacute;ch důvodů
       odložena, proběhne až v druh&eacute; polovině ř&iacute;jna.</strong><br /><strong>Děkujeme
       za pochopen&iacute;.</strong><br /><br />Předn&aacute;&scaron;ka a beseda na
-      t&eacute;ma \"Střeln&eacute; zbraně - maj&iacute; občan&eacute; pr&aacute;vo
-      se br&aacute;nit?\"<br />Čtvrtek 2.10.2014 od 17h<br />Hotel Hvězda, n&aacute;měst&iacute;
-      Kr&aacute;le Jiř&iacute;ho z Poděbrad, Cheb</p>"
+      t&eacute;ma "Střeln&eacute; zbraně - maj&iacute; občan&eacute; pr&aacute;vo
+      se br&aacute;nit?"<br />Čtvrtek 2.10.2014 od 17h<br />Hotel Hvězda, n&aacute;měst&iacute;
+      Kr&aacute;le Jiř&iacute;ho z Poděbrad, Cheb</p>
     body: |-
       <p><img src="/samples/assets/Zbran_.png" alt="" /></p>
       <p><strong>Ofici&aacute;ln&iacute; postoj Svobodn&yacute;ch:</strong><br />Ž&aacute;dn&yacute; org&aacute;n Svobodn&yacute;ch k ot&aacute;zce držen&iacute; zbran&iacute; dosud nepřijal ž&aacute;dn&eacute; stanovisko. Někteř&iacute; členov&eacute; diskutuj&iacute; slovenskou &uacute;pravu či principy zn&aacute;m&eacute; jako &bdquo;Castle doctrine&ldquo;. Obecně se v&scaron;ak Svobodn&iacute; ř&iacute;d&iacute; konzervativn&iacute; z&aacute;sadou neopravovat to, co funguje (minim&aacute;lně tedy, dokud je co napravovat jinde). V př&iacute;padě držen&iacute; zbran&iacute; je třeba m&iacute;t zejm&eacute;na na zřeteli to, že pravidla ovlivn&iacute; předev&scaron;&iacute;m ty, kdož pravidla dodržuj&iacute;. V př&iacute;padě držitelů zbran&iacute; tedy zejm&eacute;na př&iacute;padn&eacute; oběti, kter&eacute; si pořizuj&iacute; zbraně ke sv&eacute; obraně. Ti, kteř&iacute; se ne&scaron;t&iacute;t&iacute; loupit či vraždit, se nebudou &scaron;t&iacute;tit ani opatřit si zbraň neleg&aacute;ln&iacute; cestou. Proto by pravidla měla maxim&aacute;lně naplňovat smysl bezpečnosti držen&iacute; zbraně (aby si&nbsp;držitel uvědomoval, co z držen&iacute; zbraně plyne), ale neměla by sloužit ke znepř&iacute;jemněn&iacute; cesty k poř&iacute;zen&iacute; zbraně tomu, kdo se chce br&aacute;nit. V tomto smyslu je současn&yacute; stav poměrně funkčn&iacute;.<br /><br />Umožňujeme a podporujeme diskusi na toto t&eacute;ma. Zde jsou např&iacute;klad n&aacute;zory někter&yacute;ch členů Svobodn&yacute;ch&nbsp;z roku&nbsp;2009:<br />http://gunlex.cz/domu/32-clanky/volby/555-kandidati-podporujici-pravo-na-zbran-strana-svobodnych-obcanu</p>

@@ -3,15 +3,15 @@
     _slug: praha-1
     volebni_cislo: 2
     jmeno: Radim Smetka
-    fotka: /samples/lidri_kandidatek/praha-1/smetka.png
+    fotka: "/samples/lidri_kandidatek/praha-1/smetka.png"
     homepage_url: http://praha1.svobodni.cz
-    program: <p><span>Uděl&aacute;me z Prahy 1 m&iacute;sto, kde chceme ž&iacute;t.
+    program: "<p><span>Uděl&aacute;me z Prahy 1 m&iacute;sto, kde chceme ž&iacute;t.
       Autem až ke sv&eacute;mu domu - zabr&aacute;n&iacute;me vzniku n&iacute;zkoemisn&iacute;ch
       z&oacute;n a snižov&aacute;n&iacute; počtu parkovac&iacute;ch m&iacute;st. V&iacute;ce
       str&aacute;žn&iacute;ků do ulic, m&eacute;ně na pap&iacute;rov&aacute;n&iacute;
       - hluk nevyře&scaron;&iacute; zav&iacute;r&aacute;n&iacute; restaurac&iacute;
       po večern&iacute;čku, ale př&iacute;tomnost str&aacute;žn&iacute;ků v ulic&iacute;ch.
-      Vyrovnan&yacute; rozpočet a transparentn&iacute; rozhodov&aacute;n&iacute;!</span></p>
+      Vyrovnan&yacute; rozpočet a transparentn&iacute; rozhodov&aacute;n&iacute;!</span></p>"
     hranice: 324.828,191.171 325.309,190.465 327.826,190.782 327.309,192.733 327.295,192.792
       327.253,192.986 327.228,193.101 327.214,193.144 327.202,193.219 326.729,193.298
       326.719,193.3 326.503,193.336 326.524,193.453 326.759,194.739 326.844,195.198
@@ -79,8 +79,8 @@
     _slug: praha-2
     volebni_cislo: 2
     jmeno: RNDr. Jiří Payne
-    fotka: /samples/lidri_kandidatek/praha-2/payne.png
-    program: <p><span>Na&scaron;e &scaron;kolstv&iacute; se dlouhodobě pot&yacute;k&aacute;
+    fotka: "/samples/lidri_kandidatek/praha-2/payne.png"
+    program: "<p><span>Na&scaron;e &scaron;kolstv&iacute; se dlouhodobě pot&yacute;k&aacute;
       s nedostatkem dět&iacute;, což se negativně dot&yacute;k&aacute; mezd pedagogů
       a v důsledku i kvality v&yacute;uky. Cestu z t&eacute;to zd&aacute;nlivě slep&eacute;
       uličky vid&iacute;me v zaj&iacute;mavěj&scaron;&iacute; nab&iacute;dce jednotliv&yacute;ch
@@ -89,7 +89,7 @@
       s počty ž&aacute;ků nemaj&iacute;, jak lze vidět třeba na př&iacute;kladu Z&Scaron;
       Lond&yacute;nsk&aacute;. Svobodn&iacute; jsou připraveni vytvořit podm&iacute;nky,
       kter&eacute; pomohou, z&aacute;kladn&iacute;m &scaron;kol&aacute;m Prahy 2 realizovat
-      projekt specializace a zatraktivněn&iacute; v&yacute;uky.</span></p>
+      projekt specializace a zatraktivněn&iacute; v&yacute;uky.</span></p>"
     hranice: 369.197,220.387 369.228,220.41 369.254,220.429 369.413,220.541 369.454,220.569
       369.612,220.681 369.64,220.7 370.566,221.35              371.021,221.684 372.17,222.521
       372.462,222.735 373.069,223.331 373.534,223.786 374.605,224.836 374.746,224.969              374.815,225.04
@@ -174,15 +174,15 @@
     _slug: praha-3
     volebni_cislo: 4
     jmeno: Bc. Tomáš Štampach
-    fotka: /samples/lidri_kandidatek/praha-3/stampach.png
+    fotka: "/samples/lidri_kandidatek/praha-3/stampach.png"
     homepage_url: http://praha3.svobodni.cz
-    program: <p><span>&Scaron;pinav&eacute; ulice, pouličn&iacute; kriminalita a zadlužen&aacute;
-      radnice. Tyto probl&eacute;my neře&scaron;&iacute; jen Praha 3, ale Svobodn&iacute;
-      se pr&aacute;vě zde chtěj&iacute; postavit těmto probl&eacute;mům, chtěj&iacute;
-      sv&yacute;m občanům zajistit čistou, bezpečnou čtvrť a efektivn&iacute; hospodařen&iacute;
-      radnice, proto vstupuj&iacute; do leto&scaron;n&iacute;ch komun&aacute;ln&iacute;ch
-      voleb s heslem - Svobodn&aacute; Praha 3 - čist&aacute;, bezpečn&aacute; a bez
-      dluhů.</span></p>
+    program: "<p><span>&Scaron;pinav&eacute; ulice, pouličn&iacute; kriminalita a
+      zadlužen&aacute; radnice. Tyto probl&eacute;my neře&scaron;&iacute; jen Praha
+      3, ale Svobodn&iacute; se pr&aacute;vě zde chtěj&iacute; postavit těmto probl&eacute;mům,
+      chtěj&iacute; sv&yacute;m občanům zajistit čistou, bezpečnou čtvrť a efektivn&iacute;
+      hospodařen&iacute; radnice, proto vstupuj&iacute; do leto&scaron;n&iacute;ch
+      komun&aacute;ln&iacute;ch voleb s heslem - Svobodn&aacute; Praha 3 - čist&aacute;,
+      bezpečn&aacute; a bez dluhů.</span></p>"
     hranice: 443.838,200.528 444.007,201.449 444.106,201.932 444.149,202.143 444.194,202.356
       444.228,202.468 444.403,203.091              444.577,203.703 445.45,203.478
       445.426,203.264 446.577,203.14 446.583,203.187 447.933,202.84 449.822,202.358
@@ -280,7 +280,7 @@
     obvod: 2
     volebni_cislo: 1
     jmeno: Tomáš Vochozka
-    fotka: /samples/lidri_kandidatek/praha-4-2/vochozka.png
+    fotka: "/samples/lidri_kandidatek/praha-4-2/vochozka.png"
     homepage_url: http://praha4.svobodni.cz
     program: "<p><span>Praha 4 je největ&scaron;&iacute; městsk&aacute; č&aacute;st
       hospodař&iacute;c&iacute; s rozpočtem přes miliardu korun ročně. To z n&iacute;
@@ -394,9 +394,9 @@
     _slug: praha-5
     volebni_cislo: 11
     jmeno: Ondřej Gál
-    fotka: /samples/lidri_kandidatek/praha-5/gal.png
+    fotka: "/samples/lidri_kandidatek/praha-5/gal.png"
     homepage_url: ''
-    program: <p><span>Svobodn&iacute; pro Prahu 5 &ndash; Strana svobodn&yacute;ch
+    program: "<p><span>Svobodn&iacute; pro Prahu 5 &ndash; Strana svobodn&yacute;ch
       občanů se uch&aacute;z&iacute; o va&scaron;&iacute; podporu ve volb&aacute;ch
       do zastupitelstva městsk&eacute; č&aacute;sti Praha 5 a nab&iacute;z&iacute;,
       že se sv&yacute;m působen&iacute;m zasad&iacute; o zv&yacute;&scaron;en&iacute;
@@ -406,7 +406,7 @@
       sezn&aacute;mit na www.svobodnipraha5.cz nebo facebookov&eacute;m profilu Svobodn&iacute;
       Praha 5, nebo osobně na m&iacute;stech st&aacute;nků v době volebn&iacute; kampaně
       . Tě&scaron;&iacute;me se na setk&aacute;n&iacute; s v&aacute;mi a věř&iacute;me,
-      že va&scaron;&iacute; volbou bude č.11 .</span></p>
+      že va&scaron;&iacute; volbou bude č.11 .</span></p>"
     hranice: 228.521,224.393 228.685,223.884 228.779,223.893 230.253,224.016 230.431,224.031
       231.408,224.114 232.183,224.18              232.367,224.196 232.462,224.213
       232.793,224.238 234.043,224.335 235.11,224.272 236.229,224.206 236.241,224.205              237.062,224.095
@@ -635,16 +635,16 @@
     _slug: praha-6
     volebni_cislo: 5
     jmeno: Mgr. Ondřej Pecák
-    fotka: /samples/lidri_kandidatek/praha-6/pecak.png
+    fotka: "/samples/lidri_kandidatek/praha-6/pecak.png"
     homepage_url: http://praha6.svobodni.cz
-    program: <p><span>Pobočka Svobodn&yacute;ch pro Prahu 6 vznikla v dubnu 2014 a
-      je složena z lid&iacute;, kteř&iacute; se rozhodli nab&iacute;dnout č&aacute;st
+    program: "<p><span>Pobočka Svobodn&yacute;ch pro Prahu 6 vznikla v dubnu 2014
+      a je složena z lid&iacute;, kteř&iacute; se rozhodli nab&iacute;dnout č&aacute;st
       sv&yacute;ch životů Pražanům ze &Scaron;estky pro zastoupen&iacute; při ř&aacute;dn&eacute;
       spr&aacute;vě na&scaron;&iacute; společn&eacute; věci - obce, protože i na &Scaron;estce
       zmizela jak&aacute;koliv nab&iacute;dka pravicov&yacute;ch stran a my&scaron;lenek.
       Nab&iacute;z&iacute;me jedin&iacute; univerz&aacute;ln&iacute; program založen&yacute;
       na zdrav&eacute;m rozumu a &uacute;stupu od z&aacute;kazů a od obtěžov&aacute;n&iacute;
-      zbytnou byrokraci&iacute;.</span></p>
+      zbytnou byrokraci&iacute;.</span></p>"
     hranice: 311.229,71.41 312.127,71.978 312.25,72.112 312.286,72.151 312.411,72.203
       313.925,72.832 311.611,75.313 310.636,77.917              310.7,79.951 312.045,83.12
       313.925,85.564 316.8,88.556 319.512,91.25 321.199,92.997 322.521,95.204 322.778,98.121              322.175,100.926
@@ -1066,9 +1066,9 @@
     _slug: praha-7
     volebni_cislo: 13
     jmeno: Ing. Jiří Kubíček
-    fotka: /samples/lidri_kandidatek/praha-7/kubicek.png
+    fotka: "/samples/lidri_kandidatek/praha-7/kubicek.png"
     homepage_url: http://praha7.svobodni.cz
-    program: <p><span>L&iacute;drem Svobodn&yacute;ch v Praze 7 je Ing.Jiř&iacute;
+    program: "<p><span>L&iacute;drem Svobodn&yacute;ch v Praze 7 je Ing.Jiř&iacute;
       Kub&iacute;ček, kter&yacute; je, d&aacute; se ř&iacute;ci, m&iacute;stn&iacute;m
       patriotem. Nejenže se zde narodil a žije zde cel&yacute; svůj život, ale zaj&iacute;m&aacute;
       se tak&eacute; o historii Hole&scaron;ovic a Buben a aktivně sleduje i současn&eacute;
@@ -1077,7 +1077,7 @@
       n&aacute;jmu, či ot&aacute;zku opravy &Scaron;lechtovky, kter&aacute; by se
       dala opravit v původn&iacute; velikosti a očistit od staticky naru&scaron;en&yacute;ch
       dodatečn&yacute;ch př&iacute;staveb. Hlavn&iacute;m &uacute;kolem Svobodn&yacute;ch
-      je v&scaron;ak zprůhledněn&iacute; radnice a jej&iacute;ho hospodařen&iacute;.</span></p>
+      je v&scaron;ak zprůhledněn&iacute; radnice a jej&iacute;ho hospodařen&iacute;.</span></p>"
     hranice: 324.669,142.397 324.732,140.414 328.267,142.024 331.899,142.166 335.321,142.178
       340.005,141.424 344.291,141.349              347.657,142.293 350.835,144.141
       353.489,146.26 355.831,147.98 359.667,149.862 361.925,150.546 362.626,150.758
@@ -1149,16 +1149,16 @@
     _slug: praha-8
     volebni_cislo: 11
     jmeno: Jakub Los
-    fotka: /samples/lidri_kandidatek/praha-8/los.png
+    fotka: "/samples/lidri_kandidatek/praha-8/los.png"
     homepage_url: http://praha8.svobodni.cz
-    program: <p><span>Magistr&aacute;tn&iacute; pl&aacute;n roz&scaron;&iacute;řen&iacute;
+    program: "<p><span>Magistr&aacute;tn&iacute; pl&aacute;n roz&scaron;&iacute;řen&iacute;
       parkovac&iacute;ch z&oacute;n naděl&aacute; v&iacute;c &scaron;kody než užitku,
       protože zhor&scaron;&iacute; možnost parkov&aacute;n&iacute; t&eacute;měř v&scaron;em
       občanům. Praha 8 je jedn&iacute;m z m&aacute;la ostrůvků voln&eacute;ho parkov&aacute;n&iacute;
       v modr&eacute;m moři parkovac&iacute;ch z&oacute;n a Svobodn&iacute; se domn&iacute;vaj&iacute;,
       že ře&scaron;en&iacute; dopravn&iacute; a parkovac&iacute; situace v městsk&eacute;
       č&aacute;sti by mělo b&yacute;t z&aacute;ležitost&iacute; obyvatel a zastupitelstva
-      t&eacute;to č&aacute;sti tzn. Prahy 8 a nikoliv magistr&aacute;tu.</span></p>
+      t&eacute;to č&aacute;sti tzn. Prahy 8 a nikoliv magistr&aacute;tu.</span></p>"
     hranice: 389.861,46.565 390.628,46.508 391.206,46.51 391.546,46.578 391.638,46.565
       391.769,46.635 391.903,46.927 391.995,47.312                  392.005,47.356
       392.077,47.654 392.142,47.804 392.151,47.828 392.069,47.887 391.233,47.626 390.72,48.093
@@ -1462,7 +1462,7 @@
     obvod: 1
     volebni_cislo: 1
     jmeno: Bc. Bedřich Laube
-    fotka: /samples/lidri_kandidatek/praha-9-1/laube.png
+    fotka: "/samples/lidri_kandidatek/praha-9-1/laube.png"
     homepage_url: http://praha9.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651e-230e-f744-b7463f2077d9"><span>Svobodn&iacute;
       chtěj&iacute;, aby byli občan&eacute; Prahy 9 vždy s předstihem informov&aacute;ni
@@ -1551,9 +1551,9 @@
     _slug: praha-10
     volebni_cislo: 2
     jmeno: Ing. Roman Malach
-    fotka: /samples/lidri_kandidatek/praha-10/malach.png
+    fotka: "/samples/lidri_kandidatek/praha-10/malach.png"
     homepage_url: http://praha10.svobodni.cz
-    program: <p><span>Praha 10 je bohat&aacute; čtvrť a Svobodn&iacute; se zasad&iacute;
+    program: "<p><span>Praha 10 je bohat&aacute; čtvrť a Svobodn&iacute; se zasad&iacute;
       o to, aby bohat&aacute; zůstala i nad&aacute;le. Na radnici chceme skončit s
       jak&yacute;mkoliv pl&yacute;tv&aacute;n&iacute;m prostředky na&scaron;ich občanů,
       protože to jejich pen&iacute;ze se zde leckdy doslova vyhazuj&iacute; oknem.
@@ -1561,7 +1561,7 @@
       transparentnost radnice a informov&aacute;n&iacute; občanů v maxim&aacute;ln&iacute;m
       rozsahu a předstihu. Praha 10 by měla b&yacute;t př&aacute;telsk&aacute; pro
       v&scaron;echny sv&eacute; obyvatele, ne jen pro vybran&eacute; z&aacute;jmov&eacute;
-      skupiny.</span></p>
+      skupiny.</span></p>"
     hranice: 483.276,227.875 483.364,227.71 483.651,227.813 484.327,228.163 484.593,228.201
       485.267,228.288 487.056,229.034              487.262,229.083 488.018,229.282
       488.33,229.356 489.729,229.728 490.651,230.014 492.047,230.399 494.331,231.005              495.806,231.474
@@ -1870,9 +1870,9 @@
     _slug: praha-11
     volebni_cislo: 7
     jmeno: Bc. Petr Miškovský
-    fotka: /samples/lidri_kandidatek/praha-11/miskovsky.png
+    fotka: "/samples/lidri_kandidatek/praha-11/miskovsky.png"
     homepage_url: http://praha11.svobodni.cz
-    program: <p><span>Svobodu, kterou m&aacute; na&scaron;e strana v n&aacute;zvu
+    program: "<p><span>Svobodu, kterou m&aacute; na&scaron;e strana v n&aacute;zvu
       bychom chtěli věnovat na&scaron;im voličům, na&scaron;im občanům. Radnice nem&aacute;
       zbytečně zasahovat do života a podnik&aacute;n&iacute; sv&yacute;ch občanů.
       Jedny &scaron;ikanovat různ&yacute;mi z&aacute;kazy a regulacemi a jin&eacute;
@@ -1880,7 +1880,7 @@
       nemovitostech či jinou dotac&iacute;. Obec nem&aacute; podnikat, ale starat
       o př&iacute;jemn&eacute; prostřed&iacute;, bezpečnost a čistotu. Svobodn&iacute;
       si nepřej&iacute; v Praze 11 podnikatelsk&eacute; projekty radnice a jej&iacute;
-      zasahov&aacute;n&iacute; do konkurenčn&iacute;ho prostřed&iacute;.</span></p>
+      zasahov&aacute;n&iacute; do konkurenčn&iacute;ho prostřed&iacute;.</span></p>"
     hranice: 438,343.681 438.073,343.681 438.749,343.695 438.858,343.71 439.204,343.756
       439.938,343.852 440.1,343.885 440.541,343.974              440.727,344.011 441.073,344.05
       441.266,344.071 441.682,344.146 441.774,344.085 441.936,343.979 442.172,343.825              442.328,344.165
@@ -2056,14 +2056,14 @@
     _slug: praha-12
     volebni_cislo: 8
     jmeno: Bc. Tomáš Brotánek, MBA
-    fotka: /samples/lidri_kandidatek/praha-12/brotanek.png
+    fotka: "/samples/lidri_kandidatek/praha-12/brotanek.png"
     homepage_url: http://praha12.svobodni.cz
-    program: <p>Hled&aacute;me pravicov&eacute; voliče! Tady na Praze 12 žijeme svobodnou
+    program: "<p>Hled&aacute;me pravicov&eacute; voliče! Tady na Praze 12 žijeme svobodnou
       dopravou v praxi - chyb&iacute; n&aacute;m tady napojen&iacute; na Pražsk&yacute;
       okruh, což využije každ&yacute; pražsk&yacute; řidič. Sb&iacute;r&aacute;me
       podpisy na petici pro napojen&iacute; Komořan na Pražsk&yacute; okruh. &nbsp;V
       na&scaron;&iacute; městsk&eacute; č&aacute;sti chyb&iacute; parkovac&iacute;
-      m&iacute;sta a na to si tak&eacute; posv&iacute;t&iacute;me!</p>
+      m&iacute;sta a na to si tak&eacute; posv&iacute;t&iacute;me!</p>"
     hranice: 351.507,390.227 351.541,390.115 351.574,390.175 351.691,390.379 351.666,390.409
       351.95,390.627 352.03,390.688              352.317,390.908 352.378,390.954 352.604,391.129
       352.928,391.377 352.985,391.42 353.122,391.522 353.282,391.646              353.476,391.812
@@ -2328,16 +2328,16 @@
     _slug: praha-24
     volebni_cislo: 1
     jmeno: Bc. Igor Bogdanov
-    fotka: /samples/lidri_kandidatek/praha-24/bogdanov.png
+    fotka: "/samples/lidri_kandidatek/praha-24/bogdanov.png"
     homepage_url: http://praha13.svobodni.cz
-    program: <p><span>Potřebuje Praha 13 kamerov&yacute; syst&eacute;m na sledov&aacute;n&iacute;
+    program: "<p><span>Potřebuje Praha 13 kamerov&yacute; syst&eacute;m na sledov&aacute;n&iacute;
       obyvatel za v&iacute;ce jak sto milionů korun? Potřebuje snad rekreačn&iacute;
       středisko Kozel kdesi v hor&aacute;ch? Nepotřebuje! Potřebuje vyrovnan&yacute;
       rozpočet a otevřen&eacute; veřejn&eacute; zak&aacute;zky na skutečně nutn&eacute;
       projekty a to je to, co zde chtěj&iacute; prosazovat Svobodn&iacute;. Nechat
       maximum peněz občanům zru&scaron;en&iacute;m poplatků ze psů, či za odvoz odpadu
       nebo sn&iacute;žen&iacute;m daně z nemovitosti a zabr&aacute;nit pl&yacute;tv&aacute;n&iacute;
-      na radnici.</span></p>
+      na radnici.</span></p>"
     hranice: 164.774,250.22 165.519,250.207 165.546,250.291 165.569,250.358 165.635,250.55
       165.659,250.621 165.672,250.645              165.706,250.709 165.716,250.728
       165.798,250.876 165.843,250.952 165.86,250.979 166.005,251.221 166.098,251.487              166.225,251.852
@@ -2573,9 +2573,9 @@
     _slug: praha-14
     volebni_cislo: 6
     jmeno: Bc. Pavel Pešan
-    fotka: /samples/lidri_kandidatek/praha-14/pesan.png
+    fotka: "/samples/lidri_kandidatek/praha-14/pesan.png"
     homepage_url: ''
-    program: <p><span>25 let od Sametov&eacute; revoluce, je ostuda, kolik bytů je
+    program: "<p><span>25 let od Sametov&eacute; revoluce, je ostuda, kolik bytů je
       st&aacute;le ve vlastnictv&iacute; obce. Tyto byty by měly b&yacute;t co nejrychleji
       zprivatizov&aacute;ny. Pro vět&scaron;&iacute; bezpečnost v problematik&yacute;ch
       č&aacute;stech Prahy 14 prosazuj&iacute; Svobodn&iacute; v&iacute;ce str&aacute;žn&iacute;ků
@@ -2585,7 +2585,7 @@
       chtěli podpořit na &uacute;zem&iacute; Prahy 14 poř&aacute;d&aacute;n&iacute;
       farm&aacute;řsk&yacute;ch trhů založen&yacute;ch na principu skutečn&eacute;
       konkurence v&yacute;robků a plodin, nikoliv direktivně ř&iacute;zen&eacute;ho
-      předražen&eacute;ho &ldquo;trhu&rdquo;.</span></p>
+      předražen&eacute;ho &ldquo;trhu&rdquo;.</span></p>"
     hranice: 582.312,153.309 582.931,151.189 585.527,152.034 586.097,152.185 586.697,152.348
       587.604,152.656 587.932,152.768              588.636,152.987 588.652,152.992
       588.778,153.03 589.366,153.208 590.655,153.619 591.206,153.829 590.907,154.78
@@ -2784,14 +2784,14 @@
     _slug: praha-17
     volebni_cislo: 4
     jmeno: Petr Kopecký
-    fotka: /samples/lidri_kandidatek/praha-17/kopecky.png
+    fotka: "/samples/lidri_kandidatek/praha-17/kopecky.png"
     homepage_url: http://repy.svobodni.cz
-    program: <p><span>L&iacute;drem řepsk&eacute; kandid&aacute;tky Svobodn&yacute;ch
+    program: "<p><span>L&iacute;drem řepsk&eacute; kandid&aacute;tky Svobodn&yacute;ch
       a kandid&aacute;tem na starostu je v komun&aacute;ln&iacute; politice velmi
       zku&scaron;en&yacute; Petr Kopeck&yacute;. Již před 25 lety se politicky angažoval
       při organizaci manifestace 17.11.1989 a nyn&iacute; d&aacute;v&aacute; sv&eacute;
       zku&scaron;enosti a znalosti prostřednictv&iacute;m Svobodn&yacute;ch k dispozici
-      ve prospěch Řep a rodn&eacute; Prahy.</span></p>
+      ve prospěch Řep a rodn&eacute; Prahy.</span></p>"
     hranice: 119.663,210.343 119.847,210.335 120.327,211.286 120.389,211.252 120.485,211.198
       120.519,211.197 120.565,211.195              120.603,211.193 120.871,211.183
       121.477,211.157 122.28,211.105 122.974,210.949 124.026,211.588 124.663,212.441              124.691,212.469
@@ -2895,16 +2895,16 @@
     _slug: praha-18
     volebni_cislo: 1
     jmeno: Ing. Martin Halama
-    fotka: /samples/lidri_kandidatek/praha-18/halama.png
+    fotka: "/samples/lidri_kandidatek/praha-18/halama.png"
     homepage_url: http://letnany.svobodni.cz
-    program: <p><span>I v Letňanech se l&iacute;drovi Svobodn&yacute;ch panu Halamovi,
+    program: "<p><span>I v Letňanech se l&iacute;drovi Svobodn&yacute;ch panu Halamovi,
       kter&yacute; je zde rod&aacute;kem a m&aacute; k Letňanům vztah člověka, kter&yacute;
       zde prožil kus života, podařilo sestavit kvalitn&iacute; a zaj&iacute;mav&yacute;
       t&yacute;m, jemuž z&aacute;lež&iacute; na tom, kam se bude život v městsk&eacute;
       č&aacute;sti ub&iacute;rat. Nejen před volbami, n&yacute;brž po cel&eacute;
       volebn&iacute; obdob&iacute;, m&aacute; b&yacute;t život v MČ spravedliv&yacute;m
       odrazem vůle odpovědn&yacute;ch a svobodn&yacute;ch voličů. Proto podpořte Svobodn&eacute;
-      sv&yacute;m hlasem!</span></p>
+      sv&yacute;m hlasem!</span></p>"
     hranice: "514.621,73.066 515.87,69.779 517.969,70.567 518.539,70.781 519.109,70.996
       519.402,71.106 519.421,71.114 519.791,71.253  \t\t\t519.797,71.255 519.805,71.259
       519.845,71.273 520.688,71.592 521.497,71.897 521.707,71.977 521.794,72.01 521.889,72.045
@@ -3005,16 +3005,16 @@
     _slug: praha-21
     volebni_cislo: 1
     jmeno: Ing. Jakub Voneš
-    fotka: /samples/lidri_kandidatek/praha-21/vones.png
+    fotka: "/samples/lidri_kandidatek/praha-21/vones.png"
     homepage_url: http://praha21.svobodni.cz
-    program: <p><span>Jedn&iacute;m z probl&eacute;mů, kter&yacute; tr&aacute;p&iacute;
+    program: "<p><span>Jedn&iacute;m z probl&eacute;mů, kter&yacute; tr&aacute;p&iacute;
       &Uacute;jezd nad Lesy je dokončen&iacute; kanalizace, což ruku v ruce s opravou
       silnic i chodn&iacute;ků Svobodn&iacute; plně podporuj&iacute;, protože i to
       je souč&aacute;st&iacute; bezpečn&eacute;ho a př&iacute;jemn&eacute;ho prostřed&iacute;,
       ve kter&eacute;m si jistě v&scaron;ichni přejeme ž&iacute;t. Jinou ot&aacute;zkou
       je ale průhledn&eacute; a otevřen&eacute; zad&aacute;v&aacute;n&iacute; a financov&aacute;n&iacute;
       těchto zak&aacute;zek radnic&iacute; tak, aby měli v&scaron;ichni obyvatel&eacute;
-      kontrolu, jak jsou jejich prostředky utr&aacute;ceny.</span></p>
+      kontrolu, jak jsou jejich prostředky utr&aacute;ceny.</span></p>"
     hranice: 804.418,253.911 805,254.286 805.725,254.675 806.732,255.137 807.362,255.316
       808.286,255.66 809.299,256.081 810.039,257.087              810.326,257.58 810.475,257.858
       810.852,258.349 811.1,258.601 811.215,258.77 811.269,258.849 811.335,258.947
@@ -3115,7 +3115,7 @@
     _slug: praha-bechovice
     volebni_cislo: 3
     jmeno: Eduard Veleba
-    fotka: /samples/lidri_kandidatek/praha-bechovice/veleba.png
+    fotka: "/samples/lidri_kandidatek/praha-bechovice/veleba.png"
     program: "<ul>\r\n<li><span data-sheets-value=\"[null,2,&quot;Zru\\u0161\\u00edme
       poplatek za psy.\\nV p\\u0159\\u00edpad\\u011b realizace projektu silni\\u010dn\\u00edho
       obchvatu \\&quot;Severn\\u00ed okruh\\&quot; v k.\\u00fa. B\\u011bchovice budeme
@@ -3268,8 +3268,8 @@
     _slug: praha-satalice
     volebni_cislo: 1
     jmeno: Ing. Radek Zmátlo
-    fotka: /samples/lidri_kandidatek/praha-satalice/zmatlo.png
-    program: <p><span>Sv&yacute;m voličům chceme naslouchat a podporovat je v jejich
+    fotka: "/samples/lidri_kandidatek/praha-satalice/zmatlo.png"
+    program: "<p><span>Sv&yacute;m voličům chceme naslouchat a podporovat je v jejich
       demokratick&yacute;ch a svobodn&yacute;ch n&aacute;zorech, a to při respektov&aacute;n&iacute;
       v&scaron;ech platn&yacute;ch z&aacute;konů a pr&aacute;vn&iacute;ch předpisů.
       Podporujeme zdrav&eacute; podnikatelsk&eacute; prostřed&iacute;, av&scaron;ak
@@ -3278,7 +3278,7 @@
       bydlen&iacute; v okol&iacute;. Nejde n&aacute;m o politick&yacute; ani osobn&iacute;
       prospěch, chceme přispět k rozkvětu městsk&eacute; č&aacute;sti a usilovat o
       to, aby Satalice zůstaly pro sv&eacute; obyvatele př&iacute;jemn&yacute;m m&iacute;stem
-      k bydlen&iacute;.&nbsp;</span></p>
+      k bydlen&iacute;.&nbsp;</span></p>"
     hranice: 622.28,121.425 622.41,120.917 623.278,123.443 623.676,124.677 623.787,125.303
       624.083,125.489 624.225,125.533              626.426,126.771 629.555,128.622
       629.796,128.768 629.884,128.821 630.084,128.946 631.067,129.53 631.608,129.712              633.017,130.033
@@ -3366,15 +3366,15 @@
     _slug: praha-dolni-chabry
     volebni_cislo: 1
     jmeno: Alice Hejdová
-    fotka: /samples/lidri_kandidatek/praha-dolni-chabry/hejdova.png
-    program: <p><span>Hlavn&iacute;m c&iacute;lem Svobodn&yacute;ch v Doln&iacute;ch
+    fotka: "/samples/lidri_kandidatek/praha-dolni-chabry/hejdova.png"
+    program: "<p><span>Hlavn&iacute;m c&iacute;lem Svobodn&yacute;ch v Doln&iacute;ch
       Chabrech je hospodařit s vyrovnan&yacute;m rozpočtem a obec nezadlužovat. Přesto
       v&iacute;me, jak důležit&eacute; je vyře&scaron;it probl&eacute;m s dostavbou
       &scaron;koly a nav&yacute;&scaron;en&iacute;m jej&iacute; nedostačuj&iacute;c&iacute;
       kapacity a chtěli bychom, aby se tato situace vyře&scaron;ila co nejdř&iacute;ve.
       Tak&eacute; informovanost obyvatel Doln&iacute;ch Chaber a jejich komunikaci
       s radnic&iacute; chtěj&iacute; Svobodn&iacute; zlep&scaron;it a je nejjednodu&scaron;&scaron;&iacute;
-      využ&iacute;t k tomu m&iacute;stn&iacute;ho zpravodaje.</span></p>
+      využ&iacute;t k tomu m&iacute;stn&iacute;ho zpravodaje.</span></p>"
     hranice: 393.636,27.449 393.669,27.458 393.923,29.07 393.959,29.406 393.974,29.543
       394.217,31.818 394.272,31.801 395.792,31.95              395.899,31.961 398.811,32.248
       402.241,32.586 404.127,32.772 404.133,32.772 405.004,32.858 406.268,32.982 406.371,32.993              408.747,33.227
@@ -3456,7 +3456,7 @@
     obvod: 1
     volebni_cislo: 3
     jmeno: Damir Špoljarič
-    fotka: /samples/lidri_kandidatek/praha-4-1/spoljaric.png
+    fotka: "/samples/lidri_kandidatek/praha-4-1/spoljaric.png"
     homepage_url: http://praha4.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651b-46c4-bbec-a586b8162b14"><span>Praha
       4 je největ&scaron;&iacute; městskou č&aacute;st&iacute;. Žije tu na 130 tis&iacute;c
@@ -3581,7 +3581,7 @@
     obvod: 3
     volebni_cislo: 8
     jmeno: Bc. Alois Sečkár
-    fotka: /samples/lidri_kandidatek/praha-4-3/seckar.png
+    fotka: "/samples/lidri_kandidatek/praha-4-3/seckar.png"
     homepage_url: http://praha4.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651b-46c4-bbec-a586b8162b14"><span>Praha
       4 je největ&scaron;&iacute; městskou č&aacute;st&iacute;. Žije tu na 130 tis&iacute;c
@@ -3735,7 +3735,7 @@
     obvod: 4
     volebni_cislo: 1
     jmeno: Ing. Jan Skalický
-    fotka: /samples/lidri_kandidatek/praha-4-4/skalicky.png
+    fotka: "/samples/lidri_kandidatek/praha-4-4/skalicky.png"
     homepage_url: http://praha4.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651b-46c4-bbec-a586b8162b14"><span>Praha
       4 je největ&scaron;&iacute; městskou č&aacute;st&iacute;. Žije tu na 130 tis&iacute;c
@@ -3936,7 +3936,7 @@
     obvod: 5
     volebni_cislo: 7
     jmeno: Ing. Jaroslav Marsa, MBA
-    fotka: /samples/lidri_kandidatek/praha-4-5/marsa.png
+    fotka: "/samples/lidri_kandidatek/praha-4-5/marsa.png"
     homepage_url: http://praha4.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651b-46c4-bbec-a586b8162b14"><span>Praha
       4 je největ&scaron;&iacute; městskou č&aacute;st&iacute;. Žije tu na 130 tis&iacute;c
@@ -4122,7 +4122,7 @@
     obvod: 3
     volebni_cislo: 2
     jmeno: Zuzana Haberlová
-    fotka: /samples/lidri_kandidatek/praha-9-3/haberlova.png
+    fotka: "/samples/lidri_kandidatek/praha-9-3/haberlova.png"
     homepage_url: http://praha9.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651e-230e-f744-b7463f2077d9"><span>Svobodn&iacute;
       chtěj&iacute;, aby byli občan&eacute; Prahy 9 vždy s předstihem informov&aacute;ni
@@ -4218,7 +4218,7 @@
     obvod: 2
     volebni_cislo: 8
     jmeno: Ing. Petr Černý
-    fotka: /samples/lidri_kandidatek/praha-9-2/cerny.png
+    fotka: "/samples/lidri_kandidatek/praha-9-2/cerny.png"
     homepage_url: http://praha9.svobodni.cz
     program: <p><span id="docs-internal-guid-8c24d471-651e-230e-f744-b7463f2077d9"><span>Svobodn&iacute;
       chtěj&iacute;, aby byli občan&eacute; Prahy 9 vždy s předstihem informov&aacute;ni

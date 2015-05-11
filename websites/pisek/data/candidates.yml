@@ -98,8 +98,9 @@
       justify;\">Od roku 2010 aktivně spolupracuji se Stranou svobodn&yacute;ch občanů.
       Již v r. 2010 jsem za Svobodn&eacute; kandidoval do zastupitelstva města P&iacute;sku,
       co by kandid&aacute;t bez politick&eacute; př&iacute;slu&scaron;nosti. Takt&eacute;ž
-      v r. 2012 do zastupitelstva Jihočesk&eacute;ho kraje. <br />Od roku 2013 jsem
-      pr&aacute;voplatn&yacute;m členem t&eacute;to strany.</p>"
+      v r. 2012 do zastupitelstva Jihočesk&eacute;ho kraje. <br />Do Strany svobodn&yacute;ch
+      občanů jsem vstoupil v roce 2013. V březnu 2015 jsem byl zvolen m&iacute;stopředsedou
+      Jihočesk&eacute;ho krajsk&eacute;ho sdružen&iacute;.</p>"
     priorities: ''
 - Karel Kropš:
     _slug: karel-krops
@@ -225,7 +226,7 @@
     age: 36
     email: pisek@svobodni.cz
     profile: "<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
-    priorities: "<p><br data-mce-bogus=\"1\"></p>"
+    priorities: <p><br data-mce-bogus="1"></p>
 - Blanka Seinerová:
     _slug: blanka-seinerova
     photo: "/samples/candidates/blanka-seinerova/Kan0007.jpg"
@@ -396,4 +397,4 @@
     age: 49
     email: pisek@svobodni.cz
     profile: "<p>&nbsp;</p>\r\n<p>&nbsp;</p>"
-    priorities: "<p><br data-mce-bogus=\"1\"></p>"
+    priorities: <p><br data-mce-bogus="1"></p>

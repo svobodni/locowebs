@@ -1,0 +1,43 @@
+---
+title: Newsletter
+slug: newsletter
+is_layout: false
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 4
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+
+<h2>Předchozí čísla</h2>
+  
+<ul>
+  <li>
+    <strong>03/2015</strong> ze dne 27. 04. 2015 
+    [<a href="http://us10.campaign-archive2.com/?u=37b7fd1605ae9ef481e692870&id=c6f37f276f" title="03/2015">PŘEČÍST</a>]
+  </li>
+  <li>
+    <strong>02/2015</strong> ze dne 02. 04. 2015 
+    [<a href="http://us10.campaign-archive2.com/?u=37b7fd1605ae9ef481e692870&id=b8da7c1aad" title="02/2015">PŘEČÍST</a>]
+  </li>
+  <li>
+    <strong>01/2015</strong> ze dne 18. 03. 2015 
+    [<a href="http://us10.campaign-archive1.com/?u=37b7fd1605ae9ef481e692870&id=f10d43cc58" title="01/2015">PŘEČÍST</a>]
+  </li>
+</ul>
+
+<h2>Přihlášení k odběru</h2>
+  
+<iframe src="http://eepurl.com/bdrj9T" width="650" height="800">
+</iframe>
+
+</div>
+
+{% endblock %}

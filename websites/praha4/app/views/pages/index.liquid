@@ -1,16 +1,17 @@
 ---
 title: Svobodní Praha 4
+is_layout: false
 listed: false
 published: true
 cache_strategy: none
 response_type: text/html
 position: 0
 editable_elements:
-  main/duvody: "<p style=\"text-align: justify;\">Př&iacute;&scaron;t&iacute; volby
+  main/duvody: '<p style="text-align: justify;">Př&iacute;&scaron;t&iacute; volby
     budou až za čtyři roky. Mezit&iacute;m budou Svobodn&iacute; Praha 4 sledovat
     děn&iacute; a reagovat na aktu&aacute;ln&iacute; probl&eacute;my městsk&eacute;
     č&aacute;sti. Zde naleznete archivn&iacute; program pro komun&aacute;ln&iacute;
-    volby v roce 2014:</p>"
+    volby v roce 2014:</p>'
   main/vyzva: "<p>Na&scaron;i l&iacute;dři volebn&iacute;ch obvodů v roce 2014:</p>"
 ---
 <!DOCTYPE html>
@@ -87,6 +88,8 @@ editable_elements:
     <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
     </div> 
   </div> 
+        
+  {% if 0 == 1 %}
 
   <div class="section-gray">
   <div class="container">
@@ -123,6 +126,8 @@ editable_elements:
 
     </div> <!-- /container -->
     </div> <!-- /section-gray -->
+        
+    {% endif %}    
   
   <div class="section-white">
   <div class="container">

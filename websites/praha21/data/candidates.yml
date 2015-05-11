@@ -5,7 +5,7 @@
     photo: "/samples/candidates/mudr-jaroslav-jenicek-csc/svobjarda.jpg"
     occupation: lékař, zastupitel
     political_party: Strana svobodných občanů
-    age: 49
+    age: 50
     homepage_url: ''
     profile: |-
       <p><span style="font-family: andale mono,times; font-size: medium;">Narodil jsem se 10. 4. 1965.</span></p>
@@ -22,7 +22,7 @@
     photo: "/samples/candidates/ing-jakub-vones/svobkuba.jpg"
     occupation: ekonom, člen kontrolního výboru
     political_party: Strana svobodných občanů
-    age: 26
+    age: 27
     email: jakub@vones.cz
     homepage_url: ''
     fb_profile_url: http://www.facebook.com/jakub.vones
@@ -41,7 +41,7 @@
     photo: "/samples/candidates/mgr-martin-kosut/svobmartin.jpg"
     occupation: podnikatel, člen finančního výboru
     political_party: Strana svobodných občanů
-    age: 43
+    age: 44
     email: martin@kosut.org
     phone: 606 650 644
     homepage_url: ''
@@ -50,6 +50,12 @@
       <p><span style="line-height: 150%; font-family: andale mono,times; font-size: medium;">Po &uacute;spě&scaron;n&eacute;m absolvov&aacute;n&iacute; Matematicko-fyzik&aacute;ln&iacute; fakulty Univerzity Karlovy v&nbsp;Praze v&nbsp;roce 1993 jsme v&nbsp;roce 1996 s&nbsp;manželkou koupili star&scaron;&iacute; domek v&nbsp;Kalsk&eacute; ulici v&nbsp;&Uacute;jezdě a přestěhovali jsme se zde.</span></p>
       <p><span style="font-family: andale mono,times; font-size: medium;"><span style="line-height: 150%;">Jsem členem </span><a style="font-size: 12pt; line-height: 150%;" href="http://web.svobodni.cz/">Svobodn&yacute;ch</a><span style="line-height: 150%;"> od jejich založen&iacute; v&nbsp;roce 2009 a m&iacute;stopředsedou občansk&eacute;ho sdružen&iacute; </span><a style="font-size: 12pt; line-height: 150%;" href="http://www.reformy.cz">www.reformy.cz</a><span style="line-height: 150%;"> od roku 2010.</span></span></p>
       <p><span style="line-height: 150%; font-family: andale mono,times; font-size: medium;">Ve voln&eacute;m čase studuji katolickou teologii na Katolick&eacute; teologick&eacute; fakultě Univerzity Karlovy v&nbsp;Praze.</span></p>
+    priorities: ''
+- Bc. Iva Drahozalová:
+    _slug: bc-iva-drahozalova
+    photo: "/samples/candidates/bc-iva-drahozalova/svobivka.jpg"
+    political_party: Strana svobodných občanů
+    profile: ''
     priorities: ''
 - Tomáš Stoklasa:
     _slug: tomas-stoklasa

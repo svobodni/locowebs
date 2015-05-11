@@ -1,13 +1,12 @@
 ---
-- T:
+- Zasedání zastupitelstva:
     _slug: test
-    _visible: false
-    posted_at: 28. 02. 2015 00:08
-    author: ''
+    posted_at: 09. 02. 2015 16:35
+    author: Autor
     tags:
     - ''
-    teaser: ''
-    body: ''
+    teaser: "<p>prvn&iacute; č&aacute;st</p>"
+    body: "<p>druh&aacute; č&aacute;st</p>"
 - Svobodní chtějí cyklostezku:
     _slug: svobodni-chteji-cyklostezku
     seo_title: Svobodní chtějí cyklostezku
@@ -15,8 +14,8 @@
     meta_description: Svobodní chtějí cyklostezku
     posted_at: 07. 02. 2015 00:00
     author: Josef
-    teaser: "<p><span style=\"font-size: 12px; font-weight: normal; line-height: 1.5em;\">Radě
-      obce jsme předložili podmět &nbsp;k vybudov&aacute;n&iacute; &nbsp;cyklostezky.</span></p>"
+    teaser: '<p><span style="font-size: 12px; font-weight: normal; line-height: 1.5em;">Radě
+      obce jsme předložili podmět &nbsp;k vybudov&aacute;n&iacute; &nbsp;cyklostezky.</span></p>'
     featured_image: "/samples/posts/svobodni-chteji-cyklostezku/IMG_1786.JPG"
     body: "<h2 align=\"center\">Důvodov&aacute; zpr&aacute;va</h2>\r\n<h1><strong>Potřebujeme
       tuto investici ?</strong></h1>\r\n<p>&Uacute;čelem projektu cyklostezky Hodon&iacute;n

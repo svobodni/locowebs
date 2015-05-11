@@ -1,0 +1,25 @@
+---
+- Bc. Tomáš Štampach:
+    _slug: tomas-stampach
+    nazev_zastupitelstva: Praha 3
+    fotka: "/samples/zastupitele/tomas-stampach/stampach.png"
+- Ing. Mojmír Mikuláš:
+    _slug: tomas-elias
+    nazev_zastupitelstva: Praha 3
+    fotka: "/samples/zastupitele/tomas-elias/mikulas.png"
+- Zuzana Haberlová:
+    _slug: zuzana-haberlova
+    nazev_zastupitelstva: Praha 9
+    fotka: "/samples/zastupitele/zuzana-haberlova/lidr3_sm.jpg"
+- Ing. Martin Halama:
+    _slug: martin-halama
+    nazev_zastupitelstva: Praha 18 - Letňany
+    fotka: "/samples/zastupitele/martin-halama/01_halama.jpg"
+- MUDr. Jaroslav Jeníček, CSc.:
+    _slug: jaroslav-jenicek
+    nazev_zastupitelstva: Praha 21 - Újezd nad Lesy
+    fotka: "/samples/zastupitele/jaroslav-jenicek/jenicek.png"
+- Radovan Koutský:
+    _slug: radovan-koutsky
+    nazev_zastupitelstva: Praha 22 - Uhříněves
+    fotka: "/samples/zastupitele/radovan-koutsky/koutsky_m.jpg"

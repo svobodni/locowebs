@@ -1,0 +1,47 @@
+---
+title: Zastupitelé
+slug: zastupitele
+is_layout: false
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 9
+editable_elements:
+  main/nadpis: "„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“"
+---
+{% extends parent %}
+
+{% block main %}
+<div class="container classic-content">
+<h1>{{ page.title }}</h1>
+
+<p class="sub-cite text-center">{% editable_text "nadpis", hint: "Úvodní informace." %}„Děkujeme za Vaše hlasy. Jdeme do toho naplno.“{% endeditable_text %}</p>
+</div> <!--/.container -->
+
+<div class="container classic-content">	
+<div class="cand-grid">
+
+{% for candidate in contents.zastupitele %}
+{% cycle 'row_start': '<div class="row">', '', '' %}
+	<div class="col-md-4">
+		<a href="#">
+		<strong>{{ candidate.jmeno_a_prijmeni }}</strong>
+		<span>{{ candidate.nazev_zastupitelstva }}</span>
+		{% if candidate.fotka.url == blank%}
+        <img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/avatar.png" width="290">
+        {% else %}
+		<img src="{{ candidate.fotka.url }}" alt="{% if forloop.index == 1%}Lídr kandidátky{% else %}Kandidát č. {{forloop.index}}{% endif %}" width="290">
+		{% endif %}
+		</a>
+	</div>
+{% if forloop.last %}
+</div> <!--/.row - last -->
+{% else %}
+{% cycle 'row_end': '', '', '</div> <!--/.row -->' %}
+{% endif %}
+{% endfor %}
+</div> <!--/.cand-grid -->
+
+</div> <!--/container -->
+{% endblock %}

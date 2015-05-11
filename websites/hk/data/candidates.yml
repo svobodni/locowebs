@@ -189,8 +189,8 @@
     occupation: finanční poradce
     political_party: bez politické příslušnosti
     age: 29
-    profile: "<p><br data-mce-bogus=\"1\"></p>"
-    priorities: "<p><br data-mce-bogus=\"1\"></p>"
+    profile: <p><br data-mce-bogus="1"></p>
+    priorities: <p><br data-mce-bogus="1"></p>
 - 'Roman Tobišek, MBA ':
     _slug: roman-tobisek
     photo: "/samples/candidates/roman-tobisek/09.jpg"

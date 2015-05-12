@@ -79,14 +79,14 @@
     occupation_short: Učitelka na střední škole
     political_party: bez politické příslušnosti
     email: zkusbachova@gmail.com
-    profile: "<p>Osm&yacute;m rokem uč&iacute;m na <a href=\"http://www.panska.cz/\"
-      target=\"_blank\">středn&iacute; průmyslov&eacute; &scaron;kole v Praze</a>.
-      Dlouhodobě se věnuji pr&aacute;ci s dětmi a ml&aacute;dež&iacute;, předev&scaron;&iacute;m
-      v turistick&eacute;m odd&iacute;le <a href=\"http://www.tulaci.cz/\">Tul&aacute;ci</a>
-      a vod&aacute;ck&eacute;m klubu <a href=\"http://neptun.tulaci.cz/\">Neptun Řevnice</a>,
+    profile: <p>Osm&yacute;m rokem uč&iacute;m na <a href="http://www.panska.cz/"
+      target="_blank">středn&iacute; průmyslov&eacute; &scaron;kole v Praze</a>. Dlouhodobě
+      se věnuji pr&aacute;ci s dětmi a ml&aacute;dež&iacute;, předev&scaron;&iacute;m
+      v turistick&eacute;m odd&iacute;le <a href="http://www.tulaci.cz/">Tul&aacute;ci</a>
+      a vod&aacute;ck&eacute;m klubu <a href="http://neptun.tulaci.cz/">Neptun Řevnice</a>,
       za kter&yacute; tak&eacute; aktivně z&aacute;vod&iacute;m ve vod&aacute;ck&eacute;m
       v&iacute;ceboji. V Řevnic&iacute;ch žiji od narozen&iacute; a nerada bych na
-      tom něco měnila.</p>"
+      tom něco měnila.</p>
     priorities: ''
 - DiS. Jan Hartmann:
     _slug: jan-hartmann
@@ -172,11 +172,11 @@
     photo: "/samples/candidates/ludmila-chroustova/chroustova.jpg"
     occupation: Učitelka
     political_party: bez politické příslušnosti
-    profile: "<p>V&nbsp;na&scaron;em kr&aacute;sn&eacute;m městě žiji od narozen&iacute;.
+    profile: <p>V&nbsp;na&scaron;em kr&aacute;sn&eacute;m městě žiji od narozen&iacute;.
       Na zdej&scaron;&iacute; &scaron;kole uč&iacute;m od r. 1996. V&nbsp;t&eacute;
-      době jsem založila dětsk&yacute; folklorn&iacute; soubor <a href=\"http://www.klicek-soubor.cz/\"
-      target=\"_blank\">Kl&iacute;ček</a>. Zaj&iacute;m&aacute; mne historie Řevnic
-      a l&iacute;b&iacute; se mi kr&aacute;sn&aacute; př&iacute;roda v&nbsp;okol&iacute;.&nbsp;</p>"
+      době jsem založila dětsk&yacute; folklorn&iacute; soubor <a href="http://www.klicek-soubor.cz/"
+      target="_blank">Kl&iacute;ček</a>. Zaj&iacute;m&aacute; mne historie Řevnic
+      a l&iacute;b&iacute; se mi kr&aacute;sn&aacute; př&iacute;roda v&nbsp;okol&iacute;.&nbsp;</p>
     priorities: "<p>Z&aacute;lež&iacute; mi na stabilitě na&scaron;&iacute; &scaron;koly
       a r&aacute;da přispěji ke vz&aacute;jemn&eacute; komunikaci.</p>"
 - Ing. Berenika Sitenská:

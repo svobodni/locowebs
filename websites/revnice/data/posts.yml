@@ -305,4 +305,4 @@
       obc&iacute; v&nbsp;roce 2014 kandidovat ve 190 obc&iacute;ch a městech a ve
       12 sen&aacute;tn&iacute;ch obvodech. Mezi městy nebudou chybět ani Řevnice.</p>"
     featured_image: "/samples/posts/svobodni-jdou-do-voleb-i-v-revnicich/do_voleb_small.jpg"
-    body: "<p><img src=\"/samples/assets/do_voleb.jpg\" alt=\"\" /></p>"
+    body: <p><img src="/samples/assets/do_voleb.jpg" alt="" /></p>

@@ -33,7 +33,7 @@
       euroskepticismus: alternativa pro Evropu,&nbsp;</span><span>kter&aacute; se
       uskutečn&iacute; v p&aacute;tek 14. 11. 2014 od 17 hod.&nbsp;</span><span>v
       kongresov&eacute;m centru U H&aacute;jků, Na Poř&iacute;č&iacute; 42, Praha.</span></p>"
-    body: "<p><span>Vystoup&iacute; europoslanci Petr Mach z Česk&eacute; republiky
+    body: <p><span>Vystoup&iacute; europoslanci Petr Mach z Česk&eacute; republiky
       (Svobodn&iacute;/EFDD), David Coburn ze Skotska (UKIP/EFDD), Marcus Pretzell
       z Německa (AfD/ECR), Richard Sul&iacute;k ze Slovenska (SaS/ECR) a Peter Lundgren
       ze &Scaron;v&eacute;dska (&Scaron;v&eacute;d&scaron;t&iacute; demokrat&eacute;
@@ -41,10 +41,10 @@
       10&ndash;15minutov&eacute; př&iacute;spěvky, pot&eacute; bude n&aacute;sledovat
       diskuse. Tlumočen&iacute; je zaji&scaron;těno.</span><br /><span>Vstup je zdarma.
       Souč&aacute;st&iacute; konference je drobn&eacute; občerstven&iacute;.</span><br
-      /><br /><span>Facebookov&aacute; ud&aacute;lost zde:</span><br /><a href=\"https://www.facebook.com/events/1517174041855143/1517371025168778/\"
-      target=\"_blank\">https://www.facebook.com/events/1517174041855143/1517371025168778/</a><br
+      /><br /><span>Facebookov&aacute; ud&aacute;lost zde:</span><br /><a href="https://www.facebook.com/events/1517174041855143/1517371025168778/"
+      target="_blank">https://www.facebook.com/events/1517174041855143/1517371025168778/</a><br
       /><br /><span>Akce je určena pro &scaron;irokou veřejnost. Srdečně V&aacute;s
-      zveme.</span></p>"
+      zveme.</span></p>
 - Jak se zapojit a pomoci:
     _slug: jak-se-zapojit-a-pomoci
     posted_at: 31. 10. 2014 00:00
@@ -280,7 +280,7 @@
       Roman Malach a tak pokud by někdo z V&aacute;s měl čas a chuť si ho poslechnout
       a n&aacute;s tak např&iacute;klad podpodpořit, tak se můžete přidat k t&eacute;to
       ud&aacute;losti. https://m.facebook.com/events/1516228888618685?refid=18&amp;ref=bookmark&amp;notif_t=group_activity&amp;_ft_</p>"
-    body: "<p><br data-mce-bogus=\"1\"></p>"
+    body: <p><br data-mce-bogus="1"></p>
 - Svobodní na Praze 10 29.9.2014:
     _slug: svobodni
     posted_at: 28. 09. 2014 01:00
@@ -301,7 +301,7 @@
     author: Vilém Jáchym
     tags:
     - Doplňovací volby do Senátu na Praze 10
-    teaser: "<p><span class=\"userContent\" data-ft=\"{&quot;tn&quot;:&quot;K&quot;}\">Doplňovac&iacute;
+    teaser: '<p><span class="userContent" data-ft="{&quot;tn&quot;:&quot;K&quot;}">Doplňovac&iacute;
       volby do Sen&aacute;tu na Praze 10 skončily a tak V&aacute;m můžeme teď s radost&iacute;
       ozn&aacute;mit, že n&aacute;&scaron; kandid&aacute;t RNDr. Jiř&iacute; Payne
       v nich z&iacute;skal 7,39% hlasů. Bohužel n&aacute;&scaron; volebn&iacute; v&yacute;sledek
@@ -310,8 +310,8 @@
       T&iacute;m to V&aacute;m chceme poděkovat za Va&scaron;i volebn&iacute; &uacute;čast
       a za podporu Svobodn&yacute;ch ve volb&aacute;ch, kter&eacute; si velice v&aacute;ž&iacute;me.
       Přesněj&scaron;&iacute; v&yacute;sledek hlasov&aacute;n&iacute; ukazuje n&aacute;sleduj&iacute;c&iacute;
-      odkaz: <a href=\"http://volby.cz/pls/senat/se2111?xjazyk=CZ&amp;xdatum=20140919&amp;xobvod=22\"
-      rel=\"nofollow nofollow\" target=\"_blank\"><span>http://volby.cz/pls/senat/</span><span>se2111?xjazyk=CZ&amp;xdatum=2014091</span>9&amp;xobvod=22</a></span></p>"
+      odkaz: <a href="http://volby.cz/pls/senat/se2111?xjazyk=CZ&amp;xdatum=20140919&amp;xobvod=22"
+      rel="nofollow nofollow" target="_blank"><span>http://volby.cz/pls/senat/</span><span>se2111?xjazyk=CZ&amp;xdatum=2014091</span>9&amp;xobvod=22</a></span></p>'
     body: ''
 - Referendum na Praze 10:
     _slug: referendum-na-praze-1
@@ -374,19 +374,19 @@
     author: Vilém Jáchym
     tags:
     - Předvolební debata lídrů na Praze 10
-    teaser: "<p>Kdo by chtěl vidět včerejší záznam předvolební debaty ve Vršovickém
+    teaser: <p>Kdo by chtěl vidět včerejší záznam předvolební debaty ve Vršovickém
       divadle Mana, i s naším lídrem Svobodných na Praze 10 Romanem Malachem, tak
       si ho muže pustit na tom to odkaze a seznámit se tak s jeho odpověďmi na položené
       otázky. https://m.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-S3pxMvE8Ow&amp;h=pAQEfACW8&amp;enc=AZPL56c87ZbTtqE4xEFK9fMZ2sWTV8Kt2QftSwnVu19l4s1-4tusqCv51JVbfDdTHWycQrfGbMr3yZyCoqfQW9Xl&amp;s=1<br
-      data-mce-bogus=\"1\"></p>"
-    body: "<p><br data-mce-bogus=\"1\"></p>"
+      data-mce-bogus="1"></p>
+    body: <p><br data-mce-bogus="1"></p>
 - Vršovice na konci volebního období:
     _slug: vrsovice-na-konci-volebniho-obdobi
     posted_at: 28. 08. 2014 23:30
     author: Bc. Radek Strnad
-    teaser: "<p><span>Současn&aacute; velk&aacute; koalice na radnici Prahy 10 m&aacute;
+    teaser: '<p><span>Současn&aacute; velk&aacute; koalice na radnici Prahy 10 m&aacute;
       za sebou vskutku megalomansk&eacute; počiny. Jak by řekl dosluhuj&iacute;c&iacute;
-      starosta Zoufal&iacute;k (NEZ, ex ODS): \"opět jsme tvořili dějiny\". Přestřihl
+      starosta Zoufal&iacute;k (NEZ, ex ODS): "opět jsme tvořili dějiny". Přestřihl
       si p&aacute;sku u rekonstrukce Vr&scaron;ovick&eacute;ho z&aacute;mečku na domov
       pro seniory (jedno lůžko za cirka 4.5 mil. korun) a na jaře zvedl ruku pro směnu
       pozemku vedle stadionu Bohemians 1905 za samotn&yacute; stadion a doplatek 49
@@ -396,8 +396,8 @@
       s kapacitou 350 vozidel je v současnosti pozastavena Magistr&aacute;tem hl.
       m. Prahy. Tomu se nel&iacute;b&iacute; mimo jin&eacute; vysok&aacute; odhadn&iacute;
       cena stadionu radnici a porovn&aacute;v&aacute; ho se Žižkovem. On je vůbec
-      ten Žižkov obecně levněj&scaron;&iacute; -&nbsp;</span><a href=\"http://strnadradek.blog.idnes.cz/c/415405/Cyklogenerel-na-Praze-10-za-zavrenymi-dvermi.html\">cyklogenerely</a><span>,
-      stadiony...&nbsp;</span></p>"
+      ten Žižkov obecně levněj&scaron;&iacute; -&nbsp;</span><a href="http://strnadradek.blog.idnes.cz/c/415405/Cyklogenerel-na-Praze-10-za-zavrenymi-dvermi.html">cyklogenerely</a><span>,
+      stadiony...&nbsp;</span></p>'
     body: "<p>Osobně vid&iacute;m mnohem vět&scaron;&iacute; probl&eacute;m, krom
       samotn&eacute; operace se kterou nesouhlas&iacute;m, ve vlastnick&eacute; struktuře
       Bohemians Real a.s. - vlastn&iacute;kem stadionu. Původně anonymn&iacute; akcie
@@ -506,7 +506,7 @@
       konečně třet&iacute; referendum v term&iacute;nu komun&aacute;ln&iacute;ch voleb
       (10.-11.2014) se m&aacute; t&yacute;kat n&aacute;zoru občanů např. na pokračov&aacute;n&iacute;
       privatizace bytů, vybudov&aacute;n&iacute; parkovac&iacute;ch domů atd.&nbsp;</span></p>"
-    body: "<p><span class=\"text_exposed_show\">&nbsp;Jistě je pěkn&eacute;, že radnice
+    body: '<p><span class="text_exposed_show">&nbsp;Jistě je pěkn&eacute;, že radnice
       m&aacute; z&aacute;jem o n&aacute;zory občanů. Svobodn&iacute; v&scaron;ak razantně
       nesouhlas&iacute; s t&iacute;m, jak&yacute;m způsobem byla referenda vyps&aacute;na.
       Pro to, aby bylo referendum z&aacute;vazn&eacute; mus&iacute; dorazit minim&aacute;lně
@@ -554,37 +554,37 @@
       ODS, ČSSD, ANO, KSČM, Zelen&iacute; a nez&aacute;visl&iacute; okolo současn&eacute;ho
       starosty B. Zoufal&iacute;ka) s referendy a podle toho dejte svůj hlas ve volb&aacute;ch.
       Ing. Roman Malach, l&iacute;dr kandid&aacute;tky Svobodn&yacute;ch v komun&aacute;ln&iacute;ch
-      volb&aacute;ch na Praze 10.</span></p>"
+      volb&aacute;ch na Praze 10.</span></p>'
 - Naše požadavky na průhlednou radnici.:
     _slug: nase-pozadavky-na-pruhlednou-radnici
     posted_at: 26. 08. 2014 23:19
     author: Vilém Jáchym
-    teaser: "<p>Jak&eacute; jsou na&scaron;e požadavky na průhlednou radnici se můžete
-      doč&iacute;st v n&aacute;sleduj&iacute;c&iacute;m odkaze:&nbsp;<a href=\"http://www.pruhlednaradnice.cz/pozadavky.php\">www.pruhlednaradnice.cz/pozadavky.php</a>
-      .</p>"
+    teaser: <p>Jak&eacute; jsou na&scaron;e požadavky na průhlednou radnici se můžete
+      doč&iacute;st v n&aacute;sleduj&iacute;c&iacute;m odkaze:&nbsp;<a href="http://www.pruhlednaradnice.cz/pozadavky.php">www.pruhlednaradnice.cz/pozadavky.php</a>
+      .</p>
     body: ''
 - Cyklogenerel na Praze 10 za zavřenými dveřmi:
     _slug: cyklogenerel-na-praze-10-za-zavrenymi-dvermi
     posted_at: 26. 08. 2014 22:30
     author: Bc. Radek Strnad
-    teaser: "<p><span>Sotva na Praze 10 dozn&iacute;v&aacute; kauza Key Investment
+    teaser: <p><span>Sotva na Praze 10 dozn&iacute;v&aacute; kauza Key Investment
       a netransparentě se připravuje v&yacute;stavba radnice za 1 miliardu korun,
       dob&iacute;h&aacute; ne&uacute;prosně současn&eacute;mu zastupitelstvu mand&aacute;t.
       Komise &uacute;zemn&iacute;ho rozvoje jako jeden ze sv&yacute;ch posledn&iacute;ch
       velk&yacute;ch odkazů připravila aktualizaci tzv. Cyklogenerelu. Jedn&aacute;
       se o z&aacute;vazn&yacute; dokument, kter&yacute; na několik dal&scaron;&iacute;ch
       let bude značnou měrou ovlivňovat podobu komunikac&iacute; městsk&eacute; č&aacute;sti
-      Prahy 10.&nbsp;</span><a href=\"http://www.praha10.cz/LinkClick.aspx?fileticket=sfa46C3To24%3D&amp;tabid=2454\">Dvě
+      Prahy 10.&nbsp;</span><a href="http://www.praha10.cz/LinkClick.aspx?fileticket=sfa46C3To24%3D&amp;tabid=2454">Dvě
       zak&aacute;zky za 544 500 Kč</a><span>, aktualizaci projektov&eacute; dokumentace
       a vypracov&aacute;n&iacute; samotn&eacute;ho cyklogenerelu, vyhr&aacute;l Ing.
       architekt Tom&aacute;&scaron; Cach, autor cyklogenerelu na Praze 3, mimochodem
       proveden&eacute;ho zhruba o polovinu levněji, než na des&iacute;tce. Proti předchoz&iacute;mu
       dokumentu vystupovalo několik občansk&yacute;ch sdružen&iacute; v čele s OSBIDEm.</span><a
-      href=\"http://www.osbid.cz/tag/cyklogenerel-p3/\">Sdružen&iacute; poukazovalo</a><span>&nbsp;zejm&eacute;na
+      href="http://www.osbid.cz/tag/cyklogenerel-p3/">Sdružen&iacute; poukazovalo</a><span>&nbsp;zejm&eacute;na
       na drastick&eacute; dopady dokumentu pro majoritu společnosti, ale i na nesrovnalosti
       ve v&yacute;běru zak&aacute;zky. Z představen&iacute; textov&eacute; č&aacute;sti
-      existuje videoz&aacute;znam a lze vidět, že zejm&eacute;na&nbsp;</span><a href=\"https://www.youtube.com/watch?v=kKAClDMJnyw\"
-      target=\"_blank\">diskuse byla poměrně emotivn&iacute;</a><span>.</span></p>"
+      existuje videoz&aacute;znam a lze vidět, že zejm&eacute;na&nbsp;</span><a href="https://www.youtube.com/watch?v=kKAClDMJnyw"
+      target="_blank">diskuse byla poměrně emotivn&iacute;</a><span>.</span></p>
     body: "<p dir=\"ltr\">O p&aacute;r měs&iacute;ců později začalo to sam&eacute;
       prob&iacute;hat na Praze 10. M&iacute;stostarostka za Stranu zelen&yacute;ch
       Mgr. Ivana Cabrnochov&aacute; s ostatn&iacute;mi &uacute;ředn&iacute;ky Odboru

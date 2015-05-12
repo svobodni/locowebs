@@ -7,24 +7,24 @@
     age: 37
     email: roman.malach@post.cz
     phone: '724338784'
-    profile: "<p><span>Dobr&yacute; den. Jmenuji se Roman Malach a je mi 37 let. Vystudoval
-      jsem ekomomiku a management na Mendel</span><span class=\"text_exposed_show\">ově
+    profile: <p><span>Dobr&yacute; den. Jmenuji se Roman Malach a je mi 37 let. Vystudoval
+      jsem ekomomiku a management na Mendel</span><span class="text_exposed_show">ově
       univerzitě. Před ned&aacute;vnem jsem si roz&scaron;&iacute;řil vzděl&aacute;n&iacute;
       a stal se soudn&iacute;m znalcem v oboru oceňov&aacute;n&iacute; podniků.&nbsp;<br
       />Impulsem pro vstup ke Svobodn&yacute;m pro mě bylo neust&aacute;le omezov&aacute;n&iacute;
       svobody jednotlivce dal&scaron;&iacute;mi a dal&scaron;&iacute;mi př&iacute;kazy,
       z&aacute;kazy, z&aacute;kony, atd. Jako ekonomovi se mi samozřejmě nel&iacute;b&iacute;
       st&aacute;le vět&scaron;&iacute; přerozdělov&aacute;n&iacute; a vytahov&aacute;n&iacute;
-      peněz z kapsy občana konateli \"vět&scaron;&iacute;ho dobra\".&nbsp;<br />To
-      je i t&eacute;ma, kter&eacute;mu bych se chtěl věnovat na radnici Prahy 10.
-      Zabr&aacute;nit pl&yacute;tv&aacute;n&iacute; penězi, realizaci nesmysln&yacute;ch
-      projektů a kontrolou ekonomiky těch smyslupln&yacute;ch. D&aacute;le se budu
-      zasazovat o co největ&scaron;&iacute; transparentnost radničn&iacute; politiky.
-      Doby, kdy radnice rozhodovala za zavřen&yacute;mi dveřmi bez informov&aacute;n&iacute;
+      peněz z kapsy občana konateli "vět&scaron;&iacute;ho dobra".&nbsp;<br />To je
+      i t&eacute;ma, kter&eacute;mu bych se chtěl věnovat na radnici Prahy 10. Zabr&aacute;nit
+      pl&yacute;tv&aacute;n&iacute; penězi, realizaci nesmysln&yacute;ch projektů
+      a kontrolou ekonomiky těch smyslupln&yacute;ch. D&aacute;le se budu zasazovat
+      o co největ&scaron;&iacute; transparentnost radničn&iacute; politiky. Doby,
+      kdy radnice rozhodovala za zavřen&yacute;mi dveřmi bez informov&aacute;n&iacute;
       občanů mus&iacute; skončit. Vzhledem k t&eacute;měř 15 let&eacute; zku&scaron;enosti
       ze soukrom&eacute;ho sektoru, jejiž č&aacute;st se t&yacute;k&aacute; i procesů
       okolo veřejn&yacute;ch zak&aacute;zek, věř&iacute;m, že jsem schopen sv&eacute;
-      sliby naplnit.</span></p>"
+      sliby naplnit.</span></p>
     priorities: ''
 - Bc. Radek Strnad:
     _slug: bc-radek-strnad
@@ -32,11 +32,11 @@
     occupation: OSVČ
     political_party: Strana svobodných občanů
     age: 29
-    profile: "<p><span>Dobr&yacute; den. Jmenuji se Radek Strnad a je mi 28 let. Vystudoval
+    profile: <p><span>Dobr&yacute; den. Jmenuji se Radek Strnad a je mi 28 let. Vystudoval
       jsem Matematicko-fyzik&aacute;ln&iacute; fakultu Univerzity Karlovy, obor informatika.
       Během studi&iacute; jsem začal podnikat a vyv&iacute;jet software na zak&aacute;zku.
       Postupem času jsem na pr&aacute;ci přestal stačit s&aacute;m, a proto jsem sv&eacute;
-      aktivity tra</span><span class=\"text_exposed_show\">nsformoval v s.r.o. D&iacute;ky
+      aktivity tra</span><span class="text_exposed_show">nsformoval v s.r.o. D&iacute;ky
       sv&eacute; pr&aacute;ci tr&aacute;vim dostatek času v zahranič&iacute;, odkud
       se snaž&iacute;m čerpat podněty k ře&scaron;en&iacute; probl&eacute;mů.<br />M&yacute;m
       t&eacute;matem je problematika dopravy v pohybu i v klidu. Nepřeji si, aby městsk&aacute;
@@ -55,21 +55,20 @@
       zak&aacute;zky na Praze 10 st&aacute;ly dvojn&aacute;sobek i v&iacute;ce než
       v okoln&iacute;ch čtvrt&iacute;ch. Pokud by radn&iacute; sv&yacute;m občanům
       opravdu naslouchali, nemuseli by pak p&aacute;r t&yacute;dnů před volbami rozes&iacute;lat
-      korespondenčn&iacute; l&iacute;stky a žadat je o n&aacute;měty na referendum.</span></p>"
+      korespondenčn&iacute; l&iacute;stky a žadat je o n&aacute;měty na referendum.</span></p>
     priorities: ''
 - Vilém Jáchym:
     _slug: vilem-jachym
-    photo: "/samples/candidates/vilem-jachym/20140811_302.JPG"
     occupation: "Živnostník"
     political_party: Strana svobodných občanů
     age: 25
-    email: v.jachym@email.cz
-    profile: "<p><span>Dobr&yacute; den, jmenuji se Vil&eacute;m J&aacute;chym a je
+    email: ''
+    profile: <p><span>Dobr&yacute; den, jmenuji se Vil&eacute;m J&aacute;chym a je
       mi 25 let. Vystudoval jsem Středn&iacute; průmyslovou &scaron;kolu Na Třebe&scaron;&iacute;ně,
       obor Technick&aacute; zař&iacute;zen&iacute; budov. Po ukončen&iacute; studia
       jsem se dva roky věnoval projekci vyt&aacute;pěn&iacute; a rozpočtům staveb.
       Postupem času jsem se pustil i do podnik&aacute;n&iacute;. M&aacute;m tak vět&scaron;&iacute;
-      ekonomickou svo</span><span class=\"text_exposed_show\">bodu a jsem s&aacute;m
+      ekonomickou svo</span><span class="text_exposed_show">bodu a jsem s&aacute;m
       sobě p&aacute;nem.&nbsp;<br />Začal jsem se tak&eacute; zaj&iacute;mat o politiku
       a rozhodl se aktivně zas&aacute;hnout do veřejn&eacute;ho děn&iacute;. Př&aacute;l
       bych si, aby každ&yacute; člověk měl vět&scaron;&iacute; vliv na svůj osobn&iacute;
@@ -80,7 +79,7 @@
       aby na nich vyděl&aacute;vali občan&eacute;, nikoliv &uacute;zk&yacute; okruh
       podnikatelů. Nem&aacute;m r&aacute;d zbytečn&aacute; omezen&iacute; nebo př&iacute;kazy,
       a tak i v zastupitelstvu Prahy 10 budu bojovat za co největ&scaron;&iacute;
-      individu&aacute;ln&iacute; svobodu každ&eacute;ho člověka.</span></p>"
+      individu&aacute;ln&iacute; svobodu každ&eacute;ho člověka.</span></p>
     quote: "„Svoboda není prostředkem k vyšším politickým cílům. Svoboda je nejvyšší
       politický cíl.“ – Můj oblíbený citát od Lorda Actona."
     priorities: ''

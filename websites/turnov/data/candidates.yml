@@ -76,7 +76,7 @@
       v&yacute;&scaron;e poplatků na m&iacute;stn&iacute; &uacute;rovni. Budu se snažit
       o konstruktivn&iacute; př&iacute;stup k jednotliv&yacute;m problematik&aacute;m
       města.</span></p>"
-    quote: "\"Poctivá práce a slušnost se vyplácí.\""
+    quote: '"Poctivá práce a slušnost se vyplácí."'
     priorities: "<p>Jako zcela neakceptovateln&eacute; vn&iacute;m&aacute;m fungov&aacute;n&iacute;
       Městsk&eacute; policie v Turnově. Přenesu-li se přes osobn&iacute; nesouhlas
       s existenc&iacute;, tak vid&iacute;m z&aacute;sadn&iacute; nutnost změn v n&aacute;plni
@@ -172,32 +172,32 @@
       style=\"color: #333333;\">&nbsp;</span><span style=\"color: #333333;\">opravdu
       pravicov&yacute;m programem.&nbsp;Proto, když jsem byl jej&iacute;mi členy osloven,
       jsem nev&aacute;hal je podpořit svou &uacute;čast&iacute; na kandid&aacute;tce.</span></span></p>"
-    priorities: "<p><span><span style=\"color: #333333;\">Pravicov&eacute; z&aacute;sady
+    priorities: '<p><span><span style="color: #333333;">Pravicov&eacute; z&aacute;sady
       a principy v životě i ve fungov&aacute;n&iacute; městsk&eacute; samospr&aacute;vy.
       Město se m&aacute; starat předev&scaron;&iacute;m o to, co mu z</span><span
-      style=\"color: #333333;\">&nbsp;</span><span style=\"color: #333333;\">podstaty
+      style="color: #333333;">&nbsp;</span><span style="color: #333333;">podstaty
       patř&iacute;, to jsou městsk&eacute; silnice a chodn&iacute;ky, veřejn&aacute;
       prostranstv&iacute;, infarastruktura a budovy pouze nezbytn&eacute; pro chod
       města. Pro občany m&aacute; vytv&aacute;řet př&iacute;zniv&eacute; podm&iacute;nky
       pro život ve městě. Ostatn&iacute; aktivity, jako je sport, kultura a podobně,
-      by se měly v</span><span style=\"color: #333333;\">&nbsp;</span><span style=\"color:
-      #333333;\">co největ&scaron;&iacute; m&iacute;ře ponechat spolkům a sdružen&iacute;m
-      občanů, tedy v</span><span style=\"color: #333333;\">&nbsp;</span><span style=\"color:
-      #333333;\">jejich režii a na jejich riziko i pro jejich sl&aacute;vu. Na co
-      by se mělo město hlavně zaměřit? Tak to je poř&aacute;d je&scaron;tě stav někter&yacute;ch
-      ulic a chodn&iacute;ků hlavně v</span><span style=\"color: #333333;\">&nbsp;</span><span
-      style=\"color: #333333;\">okrajov&yacute;ch č&aacute;stech města, parkov&aacute;n&iacute;
+      by se měly v</span><span style="color: #333333;">&nbsp;</span><span style="color:
+      #333333;">co největ&scaron;&iacute; m&iacute;ře ponechat spolkům a sdružen&iacute;m
+      občanů, tedy v</span><span style="color: #333333;">&nbsp;</span><span style="color:
+      #333333;">jejich režii a na jejich riziko i pro jejich sl&aacute;vu. Na co by
+      se mělo město hlavně zaměřit? Tak to je poř&aacute;d je&scaron;tě stav někter&yacute;ch
+      ulic a chodn&iacute;ků hlavně v</span><span style="color: #333333;">&nbsp;</span><span
+      style="color: #333333;">okrajov&yacute;ch č&aacute;stech města, parkov&aacute;n&iacute;
       a doprava ve městě, informovanost občanů na městsk&eacute;m webu a vůbec efektivněj&scaron;&iacute;
       využ&iacute;v&aacute;n&iacute; modern&iacute; techniky a komunikačn&iacute;ch
-      prostředků. Veden&iacute; města v</span><span style=\"color: #333333;\">&nbsp;</span><span
-      style=\"color: #333333;\">jeho novodob&eacute; historii na&scaron;těst&iacute;
+      prostředků. Veden&iacute; města v</span><span style="color: #333333;">&nbsp;</span><span
+      style="color: #333333;">jeho novodob&eacute; historii na&scaron;těst&iacute;
       vět&scaron;inou prosazovalo sp&iacute;&scaron;e pravicov&eacute; principy, a
       dbalo na relativně vyrovnan&yacute; rozpočet, proto Turnov nebojuje s</span><span
-      style=\"color: #333333;\">&nbsp;</span><span style=\"color: #333333;\">předlužen&iacute;m
-      jako někter&eacute; jin&eacute; obce. V</span><span style=\"color: #333333;\">&nbsp;</span><span
-      style=\"color: #333333;\">tom je potřeba pokračovat a db&aacute;t na vyrovnan&yacute;
+      style="color: #333333;">&nbsp;</span><span style="color: #333333;">předlužen&iacute;m
+      jako někter&eacute; jin&eacute; obce. V</span><span style="color: #333333;">&nbsp;</span><span
+      style="color: #333333;">tom je potřeba pokračovat a db&aacute;t na vyrovnan&yacute;
       nebo i přebytkov&yacute; rozpočet a tak&eacute; se snažit ru&scaron;it neefektivn&iacute;
-      poplatky a daně, př&iacute;padně je alespoň snižovat.</span></span></p>"
+      poplatky a daně, př&iacute;padně je alespoň snižovat.</span></span></p>'
 - Lukáš Špetlík:
     _slug: lukas-spetlik
     photo: "/samples/candidates/lukas-spetlik/Luk___petl_k.jpg"
@@ -252,12 +252,12 @@
       generace měly sv&eacute; město bez dluhů a měly pro život v&nbsp;něm opraven&eacute;
       silnice, čist&eacute; ulice, kvalitn&iacute; &scaron;koly, otevřen&eacute; a
       vstř&iacute;cn&eacute; město.&nbsp;</span></p>"
-    priorities: "<p><span style=\"line-height: 1.5em;\">Nerad vid&iacute;m město zadlužen&eacute;.
+    priorities: '<p><span style="line-height: 1.5em;">Nerad vid&iacute;m město zadlužen&eacute;.
       Proto nemohu souhlasit se ž&aacute;dn&yacute;m projektem, kter&yacute; ne&uacute;měrně
       d&aacute;le zadlužuje na&scaron;e město. Jelikož poch&aacute;z&iacute;m z Ma&scaron;ova,
       v&iacute;m, jak tam chyb&iacute; autobusov&eacute; spojen&iacute;. Nyněj&scaron;&iacute;
       linka do Ma&scaron;ova nelogicky moment&aacute;lně konč&iacute; cca 500 metrů
-      dř&iacute;ve.</span></p>"
+      dř&iacute;ve.</span></p>'
 - Bc. David Šimůnek:
     _slug: bc-david-simunek
     photo: "/samples/candidates/bc-david-simunek/beran.png"

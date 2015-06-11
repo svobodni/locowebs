@@ -187,6 +187,14 @@
 		"region_name": "Liberecký kraj",
 		"region_url": "http://www.svobodni.cz/kraje/liberecky/"
 	},{
+		"name":"brno-sever",
+		"title":"Svobodní Brno-sever",
+		"short_title":"Brno-sever",
+		"branch_id":216,
+		"fb_page_name":"svobodnisever",
+		"region_name": "Jihomoravský kraj",
+		"region_url": "http://jmk.svobodni.cz"
+	},{
 		"name":"hodonin",
 		"title":"Svobodní Hodonín",
 		"short_title":"Hodonín",

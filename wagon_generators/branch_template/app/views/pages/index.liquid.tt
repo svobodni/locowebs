@@ -71,14 +71,14 @@ editable_elements:
     }
     </style>
 		<div class="navbar-photo"></div>
-	
+
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="/">Úvod</a></li>
-            {% nav 'site', no_wrapper: true, active_class: "active" %}            
+            {% nav 'site', no_wrapper: true, active_class: "active" %}
           </ul>
         </div> <!--/.nav-collapse -->
-		
+
       </div> <!--/.navbar-header -->
     </div> <!--/.container -->
 	{% endblock header %}
@@ -86,43 +86,13 @@ editable_elements:
   <div class="container text-center">
     <div class="intro-catcher">
     <a href="#"><img src="{{ 'poutac.png' | theme_image_url }}" class="img-responsive" alt="Poutač"></a>
-    </div> 
-  </div> 
-
-  <div class="section-gray">
-  <div class="container">
-        <div class="row">
-      <div class="col-md-6">
-        <h5>Proč volit Svobodné?</h5>
-        {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
-        <ul class="spec-purple-1">
-          <li>Nezadlužená radnice</li>
-          <li>Svobodné podnikání</li>
-          <li>Méně regulací</li>
-        </ul>
-        {% endeditable_text %}
-        <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
-      </div>
-      <div class="col-md-6 cand-top-4">
-        <h5>{% editable_text "vyzva", hint: "Krátká výzva voličům", format: "raw" %}Osobnosti, které nabízíme{% endeditable_text%}</h5>
-        <div class="row">
-        <a href="/kandidati/{{ contents.candidates.first._slug }}" title="Více o lídrovi"><img alt="{{ contents.candidates.first.name }}" src="{{ contents.candidates.first.photo_url | resize: '99x131#' }}" width="99" height="131"></a>
-        {% for candidate in contents.candidates limit:3 offset:1 %}
-        {% assign person = candidate %}        
-        <a href="/kandidati/{{ candidate._slug }}" title="Více o kandidátu č. {{ i }} {% cycle 2, 3, 4 %}"><img alt="{{ candidate.name }}" src="{{ candidate.photo_url | resize: '75x100#' }}" width="75" height="100"></a>
-        {% endfor %}
-        </div>
-        <div class="a-more text-center"><a href="/kandidati">› <span>všichni kandidáti</span></a></div>
-      </div>
     </div>
+  </div>
 
-    </div> <!-- /container -->
-    </div> <!-- /section-gray -->
-  
   <div class="section-white">
   <div class="container">
   <h3 class="text-center h-spec-purple"><a href="/clanky" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
-  
+
   <div class="news-feed">
   {% for post in contents.posts limit:2 %}
   <div class="media">
@@ -140,12 +110,12 @@ editable_elements:
   {% endfor %}
 
   </div> <!--/.news-feed -->
-  
+
   <div class="a-more text-center"><a href="/clanky">› <span>další aktuality</span></a></div>
-  
+
   </div> <!-- /container -->
     </div> <!-- /section-white -->
-  
+
   <div class="section-gray">
   <div class="container">
   <div class="row">

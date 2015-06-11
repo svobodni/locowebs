@@ -171,6 +171,14 @@
 		"region_name": "Liberecký kraj",
 		"region_url": "http://www.svobodni.cz/kraje/liberecky/"
 	},{
+		"name":"semily",
+		"title":"Svobodní Semily",
+		"short_title":"Semily",
+		"branch_id":232,
+		"fb_page_name":"svobodni.jablonec",
+		"region_name": "Liberecký kraj",
+		"region_url": "http://www.svobodni.cz/kraje/liberecky/"
+	},{
 		"name":"ceskalipa",
 		"title":"Svobodní Česká Lípa",
 		"short_title":"Česká Lípa",

@@ -248,13 +248,6 @@
 		"region_name": "Středočeský kraj",
 		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
 	},{
-		"name":"mutenice",
-		"title":"Svobodní Mutěnice",
-		"short_title":"Mutěnice",
-		"fb_page_name":"mutenice.svobodni",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
-	},{
 		"name":"habartov",
 		"title":"Svobodní Habartov",
 		"short_title":"Habartov",
@@ -395,40 +388,12 @@
 		"region_name": "Zlínský kraj",
 		"region_url": "http://zlinskykraj.svobodni.cz"
 	},{
-		"name":"brno",
-		"title":"Svobodní Brno",
-		"short_title":"Brno",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz/"
-	},{
-		"name":"stred",
-		"title":"Svobodní Brno - Střed",
-		"short_title":"Brno - Střed",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz/"
-	},{
-		"name":"lisen",
-		"title":"Svobodní Brno - Líšeň",
-		"short_title":"Brno - Líšeň",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz/"
-	},{
 		"name":"tyniste",
 		"title":"Svobodní Týniště",
 		"short_title":"Týniště",
 		"fb_page_name":"hk.svobodni.cz",
 		"region_name": "Královéhradecký kraj",
 		"region_url": "http://hk.svobodni.cz/"
-	},{
-		"name":"kohoutovice",
-		"title":"Svobodní Kohoutovice",
-		"short_title":"Kohoutovice",
-		"fb_page_name":"SvobodniKohout",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
 	},{
 		"name":"kubicek",
 		"type":"candidate",
@@ -453,20 +418,6 @@
 		"region_url": "http://www.svobodni.cz",
 		"region_url": "http://olomouckykraj.svobodni.cz/"
 	},{
-		"name":"brno-slatina",
-		"title":"Svobodní Brno-Slatina",
-		"short_title":"Brno-Slatina",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
-	},{
-		"name":"brno-bystrc",
-		"title":"Svobodní Brno-Bystrc",
-		"short_title":"Brno-Bystrc",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
-	},{
 		"name":"praha2",
 		"title":"Svobodní Praha 2",
 		"short_title":"Praha 2",
@@ -482,20 +433,6 @@
 		"fb_page_name":"svobodni.praha",
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
-	},{
-		"name":"breclav",
-		"title":"Svobodní Břeclav",
-		"short_title":"Břeclav",
-		"fb_page_name":"svobodni.breclav",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
-	},{
-		"name":"moravsky-krumlov",
-		"title":"Svobodní Moravský Krumlov",
-		"short_title":"Moravský Krumlov",
-		"fb_page_name":"svobodni.brno",
-		"region_name": "Jihomoravský kraj",
-		"region_url": "http://jmk.svobodni.cz"
 	},{
 		"name":"horice",
 		"title":"Svobodní Hořice",

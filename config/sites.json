@@ -129,8 +129,8 @@
 		"name":"letnany",
 		"title":"Svobodní Praha 18 - Letňany",
 		"short_title":"Praha 18 - Letňany",
-		"branch_id":105,
-		"fb_page_name":"pages/Svobodn%C3%AD-Řepy/456105811152520",
+		"branch_id":176,
+		"fb_page_name":"svobodnivletnanech",
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
@@ -202,6 +202,14 @@
 		"fb_page_name":"svobodni.hodoninsko",
 		"region_name": "Jihomoravský kraj",
 		"region_url": "http://jmk.svobodni.cz"
+	},{
+		"name":"jh",
+		"title":"Svobodní Jindřichohradecko",
+		"short_title":"Jindřichohradecko",
+		"branch_id":244,
+		"fb_page_name":"svobodninajihu",
+		"region_name": "Jihočeský kraj",
+		"region_url": "http://jihocesi.svobodni.cz"
 	},{
 		"name":"vimperk",
 		"title":"Svobodní Vimperk",

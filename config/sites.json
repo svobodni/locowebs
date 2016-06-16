@@ -289,6 +289,14 @@
 		"region_name": "Středočeský kraj",
 		"region_url": "http://www.svobodni.cz/kraje/stredocesky/"
 	},{
+		"name":"kolin",
+		"title":"Svobodní Kolín",
+		"short_title":"Kolín",
+		"branch_id":111,
+		"fb_page_name":"SvobodniStredniCechy",
+		"region_name": "Středočeský kraj",
+		"region_url": "https://web.svobodni.cz/lide/krajska-predsednictva/stredocesky-kraj"
+	},{
 		"name":"cheb",
 		"title":"Svobodní Cheb",
 		"short_title":"Cheb",

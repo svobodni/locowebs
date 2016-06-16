@@ -1,0 +1,179 @@
+---
+title: Petr Zavadil
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+---
+<!DOCTYPE html>
+<html lang="cs">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} - {{ site.name }}
+      | {% if page.seo_title %}{{ page.seo_title }}{% else %}{{ site.seo_title }}{% endif %}</title>
+
+	<meta name="description" content="{% if page.meta_description %}{{ page.meta_description }}{% else %}{{ site.meta_description }}{% endif %}">
+    <meta name="keywords" content="{{ site.meta_keywords }} {{ page.meta_keywords }}">
+
+    <!-- Bootstrap -->
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.min.css" rel="stylesheet">
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.zakladni.css" rel="stylesheet">
+    <link href="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/stylesheets/bootstrap.kandidat.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    {% inline_editor %}
+    <style>
+    body {
+      background: url('{{ 'kandidat-bg.jpg' | theme_image_url }}') left top no-repeat;
+    }
+    </style>
+  </head>
+  <body>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+	var js, fjs = d.getElementsByTagName(s)[0];
+	if (d.getElementById(id)) return;
+	js = d.createElement(s); js.id = id;
+	js.src = "//connect.facebook.net/cs_CZ/sdk.js#xfbml=1&version=v2.0";
+	fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+  </script>
+    <div class="navbar navbar-default navbar-static-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">
+          <span class="navbar-name"><strong>Petr Zavadil</strong></a>
+
+          <span class="navbar-number"></span>
+
+          <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong>Mělník</strong>{% endeditable_text %}</span></div>
+          <a class="navbar-sublogo" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo-small.png" alt="Svobodní"></a>
+        </div>
+
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="/">Úvod</a></li>
+            {% nav 'site', no_wrapper: true, active_class: "active" %}
+          </ul>
+        </div> <!--/.nav-collapse -->
+
+      </div> <!--/.navbar-header -->
+    </div> <!--/.container -->
+	{% block main %}
+  <div class="container">
+      <div class="jumbotron text-center">
+        <h2>„{% editable_text "motto_1", hint: "Motto - první řádek.", format: "raw" %}Svoboda a méně korupce pro&nbsp;Karlovarský kraj{% endeditable_text %}“</h2>
+        <p class="lead">&ndash; {% editable_text "motto_2", hint: "Motto - druhý řádek.", format: "raw" %}bojuji za svobodnější a krásnější Karlovarsko, pojďme do toho spolu!{% endeditable_text %}</p>
+      </div>
+  </div>
+
+  <div class="section-gray">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h5>Co pro Vás zařídím</h5>
+        {% editable_text "duvody", hint: "Seznam důvodů (optimálně 3) proč volit" %}
+        <ul class="spec-purple-1">
+          <li>Oddlužení Českého Krumlova</li>
+          <li>Omezení pravomocí politiků</li>
+          <li>Nechám Vám Vaše peníze</li>
+        </ul>
+        {% endeditable_text %}
+        <div class="a-more text-center"><a href="/program">› <span>celý volební program</span></a></div>
+      </div>
+      <div class="col-md-6">
+      <h5>Kdo je Petr Zavadil</h5>
+        {% editable_text "o-kandidatovi", hint: "Seznam základních informací (optimálně 3) o kandidátovi" %}
+        <ul class="spec-green-1">
+          <li>Ředitel nemocnice Hodonín</li>
+          <li>Má ženu a dvě dospělé děti</li>
+          <li>Je členem Svobodných</li>
+        </ul>
+        {% endeditable_text %}
+        <div class="a-more text-center"><a href="/kdo-jsem">› <span>více o tom, kdo jsem</span></a></div>
+      </div>
+    </div>
+
+  </div> <!-- /.container -->
+  </div> <!-- /.section-gray -->
+
+  <div class="section-white">
+  <div class="container">
+  <h3 class="text-center h-spec-purple"><a href="/clanky" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
+
+  <div class="news-feed">
+  {% for post in contents.posts limit:2 %}
+  <div class="media">
+  {% if post.featured_image.url %}
+    <a class="pull-left" href="/clanky/{{ post._slug }}">
+    <img class="media-object" src="{{ post.featured_image.url | resize: '230x170#' }}" alt="{{ post.title | escape }}">
+    </a>
+  {% endif %}
+    <div class="media-body">
+    <h4 class="media-heading"><a href="/clanky/{{ post._slug }}">{{ post.title | escape }}</a></h4>
+    <div>{{ post.teaser }}…</div>
+    <span class="date">{{ post.posted_at | date: "%d. %m. %Y"  }}</span>
+    </div>
+  </div> <!--/.media -->
+  {% endfor %}
+
+  </div> <!--/.news-feed -->
+
+  <div class="a-more text-center"><a href="/clanky">› <span>další aktuality</span></a></div>
+
+  </div> <!-- /container -->
+    </div> <!-- /section-white -->
+
+  <div class="section-gray">
+  <div class="container">
+      <div class="fb-like-box" data-href="https://www.facebook.com/PetrZavadilSenat2016" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+  </div> <!-- /container -->
+  </div> <!-- /section-gray -->
+
+	{% endblock main %}
+
+	<div class="footer">
+	<div class="container">
+	<div class="row">
+		<div class="col-md-3"><p>Petr Zavadil</p> &copy; 2016</div>
+		<div class="col-md-3">
+			<h5>Více Svobodných</h5>
+			<ul>
+            <li><a href="https://web.svobodni.cz/lide/krajska-predsednictva/stredocesky-kraj">Stedoesk kraj</a></li>
+            <li><a href="http://www.svobodni.cz">Svobodni.cz</a></li>
+            <li><a href="http://eshop.svobodni.cz">Eshop.svobodni.cz</a></li>
+          </ul>
+		</div>
+		<div class="col-md-3">
+			<h5>Spojte se se Svobodnými</h5>
+			<ul>
+            <li><a href="http://facebook.com/svobodni">Facebook Svobodných</a></li>
+            <li><a href="http://twitter.com/svobodni">Twitter Svobodných</a></li>
+            <li><a href="https://plus.google.com/u/0/+svobodn%C3%AD">Google+ Svobodných</a></li>
+          </ul>
+		  </div>
+	</div>
+	<div class="created-by text-right">Vytvořilo <a href="http://visio-creative.com">Visio</a></div>
+	</div> <!-- /container -->
+	</div> <!-- /footer -->
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="//svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/javascripts/bootstrap.min.js"></script>
+  </body>
+</html>

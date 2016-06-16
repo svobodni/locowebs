@@ -10,6 +10,15 @@
 		"region_name": "Praha",
 		"region_url": "http://praha.svobodni.cz"
 	},{
+		"name":"zavadil",
+		"type":"candidate",
+		"title":"Petr Zavadil - Mělník",
+		"short_title":"Petr Zavadil",
+		"constituency":"Mělník",
+		"fb_page_name":"PetrZavadilSenat2016",
+		"region_name": "Středočeský kraj",
+		"region_url": "https://web.svobodni.cz/lide/krajska-predsednictva/stredocesky-kraj"
+	},{
 		"name":"pecka",
 		"type":"candidate",
 		"title":"František Pecka - Praha 9",

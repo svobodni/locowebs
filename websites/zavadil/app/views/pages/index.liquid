@@ -1,5 +1,5 @@
 ---
-title: Petr Zavadil
+title: Petr Zavadil - Mělník
 listed: false
 published: true
 cache_strategy: none
@@ -32,8 +32,8 @@ position: 0
     {% inline_editor %}
     <style>
     body {
-      background: url('{{ 'kandidat-bg.jpg' | theme_image_url }}') left top no-repeat;
-    }
+      background: url('{{ 'kandidat-bg.jpg' | theme_image_url }}') left top no-repeat;  
+    }   
     </style>
   </head>
   <body>
@@ -57,20 +57,18 @@ position: 0
           </button>
           <a class="navbar-brand" href="/">
           <span class="navbar-name"><strong>Petr Zavadil</strong></a>
-
-          <span class="navbar-number"></span>
-
-          <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong>Mělník</strong>{% endeditable_text %}</span></div>
+          
+          <div class="navbar-subtitle"><span>{% editable_text "hlavicka_1", hint: "Hlavička - první řádek.", fixed: true %}kandidát do Senátu{% endeditable_text %}</span> <span>{% editable_text "hlavicka_2", hint: "Hlavička - druhý řádek.", fixed: true %}za senátní obvod <strong>Mělník</strong>{% endeditable_text %}</span></div> 
           <a class="navbar-sublogo" href="index-pobocka.html"><img src="https://svobodni-cms.s3.amazonaws.com/sites/53ebea2e9762b4620b0003bf/theme/images/global/svobodni-logo-small.png" alt="Svobodní"></a>
         </div>
-
+	
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
             <li><a href="/">Úvod</a></li>
-            {% nav 'site', no_wrapper: true, active_class: "active" %}
+            {% nav 'site', no_wrapper: true, active_class: "active" %}            
           </ul>
         </div> <!--/.nav-collapse -->
-
+		
       </div> <!--/.navbar-header -->
     </div> <!--/.container -->
 	{% block main %}
@@ -110,11 +108,11 @@ position: 0
 
   </div> <!-- /.container -->
   </div> <!-- /.section-gray -->
-
+  
   <div class="section-white">
   <div class="container">
   <h3 class="text-center h-spec-purple"><a href="/clanky" title="Zobrazit všechny aktuality">Aktuálně</a></h3>
-
+  
   <div class="news-feed">
   {% for post in contents.posts limit:2 %}
   <div class="media">
@@ -132,12 +130,12 @@ position: 0
   {% endfor %}
 
   </div> <!--/.news-feed -->
-
+  
   <div class="a-more text-center"><a href="/clanky">› <span>další aktuality</span></a></div>
-
+  
   </div> <!-- /container -->
     </div> <!-- /section-white -->
-
+  
   <div class="section-gray">
   <div class="container">
       <div class="fb-like-box" data-href="https://www.facebook.com/PetrZavadilSenat2016" data-width="300" data-height="305" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
@@ -149,11 +147,11 @@ position: 0
 	<div class="footer">
 	<div class="container">
 	<div class="row">
-		<div class="col-md-3"><p>Petr Zavadil</p> &copy; 2016</div>
+		<div class="col-md-3"><p>Petr Zavadil - Mělník</p> &copy; 2014</div>
 		<div class="col-md-3">
 			<h5>Více Svobodných</h5>
 			<ul>
-            <li><a href="https://web.svobodni.cz/lide/krajska-predsednictva/stredocesky-kraj">Stedoesk kraj</a></li>
+            <li><a href="https://web.svobodni.cz/lide/krajska-predsednictva/stredocesky-kraj">Středočeský kraj</a></li>
             <li><a href="http://www.svobodni.cz">Svobodni.cz</a></li>
             <li><a href="http://eshop.svobodni.cz">Eshop.svobodni.cz</a></li>
           </ul>

@@ -5,7 +5,7 @@ listed: true
 published: true
 cache_strategy: none
 response_type: text/html
-position: 20
+position: 4
 editable_elements:
   main/clenove_predsednictva: "<div class=\"col-md-8\">\r\n<p>&nbsp;</p>\r\n<hr />\r\n<p>Kontakt:&nbsp;Jiř&iacute;
     Kub&iacute;ček, Kamenick&aacute; 26, 170 00 Praha 7<br /> č. &uacute;čtu:&nbsp;<a
@@ -16,10 +16,13 @@ editable_elements:
 
 {% block main %}
 
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
 
 {% consume data from "https://registr.svobodni.cz/regions/3.json" %}
 <div class="col-md-8">
-  
+
 <h2>Předseda</h2>
 {% assign person = data.region.presidium.president %}
 {% include 'person' with person %}
@@ -33,8 +36,9 @@ editable_elements:
 {% endconsume %}
 
 {% editable_text "clenove_predsednictva", hint: "Členové předsednictva." %}
-<p>Kontakt:&nbsp;Jiří Kubíček, Kamenická 26, 170 00 Praha 7<br>
-č. účtu:&nbsp;<a href="https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2700382803" style="line-height: 1.6em;">2700382803/2010</a></p>
+<p>
+č. účtu:&nbsp;<a href="https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2300382820" style="line-height: 1.6em;">2700382803/2010</a></p>
 {% endeditable_text %}
+</div>
 </div>
 {% endblock %}

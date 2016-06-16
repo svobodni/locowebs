@@ -1,0 +1,26 @@
+---
+name: Zastupitelé
+description: Svobodní zastupitelé
+slug: zastupitele
+label_field_name: jmeno_a_prijmeni
+order_by: created_at
+order_direction: asc
+fields:
+- nazev_zastupitelstva:
+    label: Název zastupitelstva
+    type: string
+    required: true
+    unique: false
+    localized: false
+- jmeno_a_prijmeni:
+    label: Jméno a příjmení
+    type: string
+    required: true
+    unique: false
+    localized: false
+- fotka:
+    label: Fotka
+    type: file
+    required: true
+    unique: false
+    localized: false

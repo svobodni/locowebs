@@ -1,24 +1,24 @@
 body {
-	background: url('../images/test/kandidat-bg.jpg') left top no-repeat;	
+	background: url('../images/test/kandidat-bg.jpg') left top no-repeat;
 }
 
 @media all and (max-width: 1350px) and (min-width: 1200px) {
   .container, .navbar {
-    margin-right: 0 !important; 
+    margin-right: 0 !important;
   }
 }
 
 @media all and (max-width: 1200px) {
   body {
-    background: none; 
+    background: none;
   }
   .container, .navbar {
-    margin: 0 auto !important; 
+    margin: 0 auto !important;
   }
 }
 
 .navbar {
-	border: none;	
+	border: none;
 	width: auto;
 	max-width: 1015px;
 	margin: 0 auto;
@@ -27,7 +27,7 @@ body {
 
 .navbar-header{
 	width: 100%;
-	background: #00654E;	
+	background: #009681;	
 	display: block;
 	padding: 22px 20px 0 20px;
 	height: 125px;
@@ -36,7 +36,7 @@ body {
 
 @media all and (max-width: 992px) {
   .navbar-header  {
-	height: auto; 
+	height: auto;
 	width: 100%;
   }
 }
@@ -61,20 +61,20 @@ body {
 }
 
 .navbar-number  {
-	left: -30px; bottom: -29px;	
+	left: -30px; bottom: -29px;
 	padding-top: 11px;
 }
 
 @media all and (max-width: 768px) {
   .navbar-number  {
-	left: -8px; 
+	left: -8px;
   }
 }
 
 .navbar-header .navbar-subtitle {
 	color: white !important; font-size: 16px; text-decoration: none;
 	display: block; width: 320px; float: left;
-	line-height: 1.15;	
+	line-height: 1.15;
 	position: relative; top: 5px;
 }
 
@@ -101,7 +101,7 @@ body {
 
 @media all and (max-width: 992px) {
 	.navbar-header .navbar-subtitle span {
-	display: inline;	
+	display: inline;
 	width: auto;
 	}
 }
@@ -117,14 +117,14 @@ body {
 	background: white;
 	padding: 0 15px; margin: 0 50px;
 	border: 1px solid #D9D9D9;
-	display: block;	
+	display: block;
 	/*position: relative; top: -27px;*/ margin-top: -27px; position: relative; z-index: 92;
 }
 
 @media all and (max-width: 1090px) {
   .navbar-collapse .navbar-nav {
-    float: left; 
-	position: relative;	
+    float: left;
+	position: relative;
 	margin: 0 0 0 20px;
   }
 }
@@ -132,13 +132,13 @@ body {
 @media all and (max-width: 768px) {
   .navbar-collapse .navbar-nav {
     top: -2px; left: 20px;
-	border: none; border-bottom: 1px solid #00654E;
+	border: none; border-bottom: 1px solid #009681;
 	display: block; width: 90%;
   }
 }
 
 .navbar-collapse .navbar-nav li a, .navbar-collapse .navbar-nav li a:hover {
-	font-family: adelle-bold; color: #6C247B; font-size: 17px; text-decoration: none; padding: 15px 17px 18px 25px;	
+	font-family: adelle-bold; color: #6C247B; font-size: 17px; text-decoration: none; padding: 15px 17px 18px 25px;
 	background: url('../images/global/cand-navbar-nav-a-bg.png') left 18px no-repeat !important;
 }
 
@@ -159,18 +159,18 @@ body {
 
 
 .jumbotron h2 {
-	font-family: adelle-bold-italic; color: #6C247B; font-size: 58px; 	
+	font-family: adelle-bold-italic; color: #6C247B; font-size: 58px;
 	line-height: 1.15;
 	margin-top: 0px;
 }
 
 .jumbotron p {
-	font-size: 20px; 
+	font-size: 20px;
 	margin: 20px 0 0 0;
 }
 
 .classic-content {
-	padding-left: 72px;	
+	padding-left: 72px;
 }
 
 h1 {
@@ -179,7 +179,7 @@ h1 {
 
 @media all and (max-width: 1510px) and (min-width: 1200px) {
 	.classic-content {
-	padding-left: 150px;	
+	padding-left: 150px;
 	}
 }
 

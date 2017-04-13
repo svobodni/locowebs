@@ -79,7 +79,7 @@ body {
 }
 
 a {
-	color: #00654E;
+	color: #009681;
 	text-decoration: underline;
 }
 
@@ -152,7 +152,7 @@ a:hover {
 }
 
 .spec-green-1 {
-	color: #00654E;
+	color: #009681;
 }
 
 .spec-purple-1 li, .spec-green-1 li {
@@ -243,7 +243,7 @@ h1 {
 }
 
 h2 {
-	font-size: 26px; font-family: roboto-bold; color: #00654E;
+	font-size: 26px; font-family: roboto-bold; color: #009681;
 }
 
 h3 {
@@ -280,7 +280,7 @@ h3 {
 }
 
 .btn-default {
-	background: #00654E;
+	background: #009681;
 	color: white !important; 
 	border: none;
 	text-decoration: none;
@@ -384,11 +384,11 @@ a:hover .img-thumbnail {
 }
 
 .footer a {color: #777777;}
-.footer a:hover {color: #00654E;}
+.footer a:hover {color: #009681;}
 
 .footer h5 {
 	font-size: 17px;
-	color: #00654E;
+	color: #009681;
 	margin-bottom: 6px;
 }
 

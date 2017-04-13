@@ -5,7 +5,7 @@
 
 @media all and (max-width: 768px) {
   .navbar-header {
-	background: #00654E;
+	background: #009681;
   }
 }
 
@@ -13,7 +13,7 @@
 	display: block;
 	height: 130px; min-width: 600px;
 	position: relative; left: -107px; z-index: 90;
-	background: #00654E !important;
+	background: #009681 !important;
 	color: white !important; font-size: 28px; font-family: adelle-bold;
 	padding-left: 30px; padding-top: 13px;
 	text-decoration: none;
@@ -97,7 +97,7 @@
 }
 
 .navbar-collapse .navbar-nav li a:hover {
-	color: #00654E !important;
+	color: #009681 !important;
 }
 
 .intro-catcher {
@@ -168,7 +168,7 @@
 }
 
 .cand-grid .no-link strong {
-	color: #00654E;
+	color: #009681;
 }
 
 .cand-grid a:hover strong {

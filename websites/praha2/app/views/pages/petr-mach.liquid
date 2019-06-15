@@ -1,0 +1,26 @@
+---
+title: Petr Mach
+slug: petr-mach
+listed: false
+published: false
+cache_strategy: none
+response_type: text/html
+position: 10
+---
+{% extends 'parent' %}
+
+{% block main %}
+
+{% consume feed from "http://data.kubicek.cz/cs.xml" %}
+<h1>Feed: {{feed.rss.channel.title}}</h1>
+
+<ul>
+{% for item in feed.rss.channel.item %}
+  <li><a href="{{ item.link }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+
+{% endconsume %}
+
+
+{% endblock %}

@@ -1,0 +1,27 @@
+---
+title: Akce
+slug: akce
+listed: true
+published: true
+cache_strategy: none
+response_type: text/html
+position: 0
+---
+{% extends parent %}
+
+{% block main %}
+
+<div class="container classic-content">
+
+<h1>{{ page.title }}</h1>
+{% consume events from "http://svobodni-praha-events.herokuapp.com/" %}
+<dl>
+  {% for event in events %}
+  <dt><small>{{ event.start_time | localized_date: "%d. %m. %Y %H:%M"  }}{% if event.end_time %} - {{ event.end_time | localized_date: "%d. %m. %Y %H:%M" }} {%endif%}</small></dt>
+  <dl>{{ event.location }}: <a href="https://www.facebook.com/events/{{ event.id }}">{{ event.name }}</a></dl>
+  {% endfor %}
+</dl>
+{% endconsume %}
+</div>
+{% endblock %}
+

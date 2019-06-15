@@ -1,0 +1,63 @@
+---
+name: Lídři
+description: Lídři kandidátek do městských části
+slug: lidri_kandidatek
+label_field_name: nazev
+order_by: created_at
+order_direction: asc
+fields:
+- nazev:
+    label: název
+    type: string
+    required: true
+    unique: false
+    localized: false
+- obvod:
+    label: obvod
+    type: integer
+    required: false
+    unique: false
+    localized: false
+- volebni_cislo:
+    label: volební číslo
+    type: integer
+    required: false
+    unique: false
+    localized: false
+- jmeno:
+    label: jméno
+    type: string
+    required: false
+    unique: false
+    localized: false
+- fotka:
+    label: fotka
+    type: file
+    required: false
+    unique: false
+    localized: false
+- homepage_url:
+    label: homepage_url
+    type: string
+    required: false
+    unique: false
+    localized: false
+- fb_page_url:
+    label: fb_page_url
+    type: string
+    required: false
+    unique: false
+    localized: false
+- program:
+    label: program
+    type: text
+    required: false
+    unique: false
+    localized: false
+    text_formatting: html
+- hranice:
+    label: hranice
+    type: string
+    required: true
+    unique: false
+    localized: false

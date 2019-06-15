@@ -1,14 +1,34 @@
 ---
 title: Kontakty
 slug: kontakty
-is_layout: false
 listed: true
 published: true
 cache_strategy: none
 response_type: text/html
 position: 7
 editable_elements:
-  main/kontakt: "\r\n"
+  main/kontakt: "<p style=\"text-align: justify;\">M&iacute;stn&iacute; pobočka <a
+    href=\"http://www.svobodni.cz\">Strany svobodn&yacute;ch občanů</a> Praha 4 funguje
+    v r&aacute;mci stranick&eacute; organizace pod KrP Praha od prosince 2013 pod
+    veden&iacute;m koordin&aacute;tora <strong>Aloise Sečk&aacute;ra</strong>. Pravidelně
+    každ&eacute; prvn&iacute; ponděl&iacute; v měs&iacute;ci se sch&aacute;z&iacute;me
+    ve spořilovsk&eacute; restauraci \"<a href=\"http://www.balounovarestauraceubrizy.eu/\"
+    target=\"_blank\"><strong>U Bř&iacute;zy</strong></a>\". Z&uacute;častili jsme
+    se komun&aacute;ln&iacute;ch voleb 2014 a se ziskem <strong>5,18%</strong> jsme
+    nedos&aacute;hli na ž&aacute;dn&yacute; mand&aacute;t (!) kvůli <a href=\"http://praha4.svobodni.cz/clanky/nerozdelena-praha-4\">volebn&iacute;m
+    obvodům</a>.&nbsp; Zde naleznete n&aacute;&scaron; archivovan&yacute; <a href=\"http://praha4.svobodni.cz/program\">
+    program</a> a <a href=\"http://praha4.svobodni.cz/kandidati\">kandid&aacute;ty</a>.</p>\r\n<p
+    style=\"text-align: justify;\">----------------------------------</p>\r\n<p style=\"text-align:
+    justify;\">Svou podporu pobočce můžete vyj&aacute;dřit př&iacute;spěvkem na transparentn&iacute;
+    &uacute;čet KrP Praha&nbsp;&ndash; <a href=\"https://www.fio.cz/scgi-bin/hermes/dz-transparent.cgi?ID_ucet=2700382803\">2700382803/2010</a>,
+    s uveden&iacute;m \"Praha 4\" v pozn&aacute;mce pro př&iacute;jemce. Pobočka nem&aacute;
+    vlastn&iacute; &uacute;četnictv&iacute;, ale toto je cesta poskytnout finance
+    na jej&iacute; provoz. <strong>Členy a př&iacute;znivce Svobodn&yacute;ch pros&iacute;me
+    o připojen&iacute; va&scaron;ho variabiln&iacute;ho symbolu pro snaz&scaron;&iacute;
+    identifikaci. </strong>U d&aacute;rců mimo stranu mus&iacute;me ze z&aacute;kona
+    evidovat datum narozen&iacute; a bydli&scaron;tě, proto se v př&iacute;padě z&aacute;jmu
+    o zasl&aacute;n&iacute; finančn&iacute; podpory pros&iacute;m napřed spojte s
+    koordin&aacute;torem.</p>"
 ---
 {% extends parent %}
 
@@ -18,14 +38,39 @@ editable_elements:
 
 <h1>{{ page.title }}</h1>
 
-{% editable_text "kontakt", hint: "Kontaktní údaje." %}
-{% endeditable_text %}
-
-
 {% consume data from "https://registr.svobodni.cz/branches/101.json" %}
 <h2>Koordinátor pobočky {{ data.branch.name }}</h2>
 {% assign person = data.branch.coordinator %}
-{% include 'person' with person %}
+
+  <h3>{{ person.name }}</h3>
+  
+  <div class="pull-left">
+	<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}">
+  </div>
+  <div class="media-body">
+		<dl class="dl-horizontal">
+			{% if person.email != '' %}
+			<dt><i title="E-mail" class="glyphicon glyphicon-envelope"></i></dt>
+			<dd><a href="mailto:{{ person.email }}">{{ person.email }}</a></dd>
+			{% endif %}
+			{% if person.phone != '' %}
+			<dt><i title="Telefon" class="glyphicon glyphicon-earphone"></i></dt>
+			<dd>{{ person.phone }}</dd>
+			{% endif %}
+			{% if person.homepage_url != '' %}
+			<dt><i title="Web" class="glyphicon glyphicon-globe"></i></dt>
+			<dd><a href="{{ person.homepage_url }}">{{ person.homepage_url }}</a></dd>
+			{% endif %}
+			{% if person.fb_profile_url != '' %}
+          	<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
+			<dd><a href="{{ person.fb_profile_url }}">profil</a></dd>
+			{% endif %}
+			{% if person.fb_page_url != '' %}
+			<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
+			<dd><a href="{{ person.fb_page_url }}">stránka</a></dd>
+			{% endif %}
+         </dl>
+	</div>
 
 {% if data.branch.recruiter.name %}
 {% if data.branch.coordinator.name != data.branch.recruiter.name %}
@@ -35,6 +80,11 @@ editable_elements:
 {% endif %}
 {% endif %}
 {% endconsume %}
+  
+<p style="padding-top: 20px;">
+{% editable_text "kontakt", hint: "Kontaktní údaje." %}
+{% endeditable_text %}
+</p>
 
 
 </div>

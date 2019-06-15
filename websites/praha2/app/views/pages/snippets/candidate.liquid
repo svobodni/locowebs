@@ -1,0 +1,49 @@
+---
+title: Candidate
+slug: candidate
+listed: false
+published: true
+cache_strategy: none
+response_type: text/html
+position: 100
+---
+<div class="media">
+	<h3>{{ position }}. {{ person.name }}</h3>
+	<a class="pull-left" href="#">
+      {% if person.photo_url != blank %}
+		<img alt="{{ person.name }}" class="media-object thumbnail" src="{{ person.photo_url }}">
+      {% endif %}
+	</a>
+	<div class="media-body">
+		<dl class="dl-horizontal">
+			{% if person.age != blank %}
+			<dt>Věk</dt>
+			<dd>{{ person.age }}</dd>
+			{% endif %}
+			{% if person.occupation != blank %}
+			<dt>Povolání</dt>
+			<dd>{{ person.occupation }}</dd>
+			{% endif %}
+			{% if person.email != blank %}
+			<dt><i title="E-mail" class="glyphicon glyphicon-envelope"></i></dt>
+			<dd><a href="mailto:{{ person.email }}">{{ person.email }}</a></dd>
+			{% endif %}
+			{% if person.phone != blank %}
+			<dt><i title="Telefon" class="glyphicon glyphicon-earphone"></i></dt>
+			<dd>{{ person.phone }}</dd>
+			{% endif %}
+			{% if person.homepage_url != blank %}
+			<dt><i title="Web" class="glyphicon glyphicon-globe"></i></dt>
+			<dd><a href="{{ person.homepage_url }}">{{ person.homepage_url }}</a></dd>
+			{% endif %}
+			{% if person.fb_profile_url != blank %}
+			<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
+			<dd><a href="{{ person.fb_profile_url }}">profil</a></dd>
+			{% endif %}
+			{% if person.fb_page_url != blank %}
+			<dt><i title="Facebook" class="fa fa-facebook"></i></dt>
+			<dd><a href="{{ person.fb_page_url }}">stránka</a></dd>
+			{% endif %}
+         </dl>
+	</div>
+</div>

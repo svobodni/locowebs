@@ -18,7 +18,7 @@ position: 5
 {% consume data from "https://registr.svobodni.cz/regions/10.json" %}
 <table class="table table-striped">
 <thead>
-  <tr><th>Název pobočky</th><th>Koordinátor</th><th>Telefon</th><th>Noví členové</th><th>Telefon</th></tr>
+  <tr><th>Název pobočky</th><th>Koordinátor</th><th>Telefon</th></tr>
 </thead>
 <tbody>
 
@@ -27,8 +27,6 @@ position: 5
         <td>{{ branch.name }}</td>
         <td><a href="mailto:{{ branch.coordinator.email }}">{{ branch.coordinator.name }}</a></td>
         <td>{{ branch.coordinator.phone }}</td>
-        <td><a href="mailto:{{ branch.recruiter.email }}">{{ branch.recruiter.name }}</a></td>
-        <td>{{ branch.recruiter.phone }}</td>
       </tr>
       {% endfor %}
 
